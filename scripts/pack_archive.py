@@ -55,6 +55,14 @@ Contents
   assets/     images/, sounds/, web_images/ and css/, at their original paths.
   browsable/  The same pages with links rewritten to relative paths, so the site can be
               opened from disk with no web server. Start at browsable/index.html.
+              Verified to load with the network disconnected: no page in it makes an
+              outbound request. jQuery and jQuery UI, which the pages loaded from Google's
+              CDN, are vendored under browsable/vendor/; the analytics tag was removed
+              rather than vendored, because an archive should not phone home when opened.
+              Three absolute birdweb.org URLs are left on purpose: an XML namespace
+              identifier, the og:url metadata recording where the page came from, and the
+              search form's POST target, which was a server endpoint and cannot be
+              archived. None of them load anything.
   manifest.jsonl
               One JSON record per URL fetched: the URL, the local path, a SHA-256 of the
               bytes, the Content-Type, the HTTP status, and when it was fetched.
@@ -65,6 +73,8 @@ Inventory
 
 Notes for whoever reads this next
 ---------------------------------
+* The home page carries a "Birding Site of the Week" panel, so it is a snapshot of
+  whichever site was featured on the crawl date, not a stable index.
 * The pages are encoded iso-8859-1 (they declare it, and they mean it), authored in
   Windows-1252. Smart quotes and em dashes appear as C1 control bytes when decoded
   strictly as latin-1.

@@ -422,6 +422,24 @@ def now_iso() -> str:
 
 BROWSABLE = ARCHIVE / "browsable"
 
+# The home page's "Birding Site of the Week" links a site without its ecoregion id --
+# /birdweb/site/fort_simcoe_state_park rather than .../6 -- and the server resolves it.
+# The page itself is archived under whichever id it was crawled with, so the bare form has
+# to be mapped onto that file or the offline copy keeps a link to a server that will die.
+BARE_SITE_RE = re.compile(r"^/birdweb/site/([^/]+)/?$", re.I)
+
+
+def resolve_bare_site(path: str) -> Path | None:
+    """Map /birdweb/site/<slug> (no ecoregion id) onto the archived page for that slug."""
+    match = BARE_SITE_RE.match(path)
+    if not match:
+        return None
+    directory = PAGES_DIR / "site" / match.group(1)
+    if not directory.is_dir():
+        return None
+    pages = sorted(directory.glob("*.html"))
+    return pages[0] if pages else None
+
 # The pages load jQuery and jQuery UI from Google's CDN. They are third-party and MIT
 # licensed, but without them the archived pages lose their tab widgets and image filmstrip,
 # so a faithful offline copy has to carry them. Analytics is deliberately NOT vendored:
@@ -486,6 +504,10 @@ def rewrite() -> None:
             normalized = canonical(absolute)
             if not normalized:
                 return match.group(0)
+            bare = resolve_bare_site(urlsplit(normalized).path)
+            if bare is not None:
+                dest_rel = Path("pages") / bare.relative_to(PAGES_DIR)
+                return f'{attr}={quote}{os.path.relpath(dest_rel, here_dir)}{quote}'
             kind = url_kind(normalized)
             if not kind:
                 return match.group(0)
@@ -510,7 +532,12 @@ def rewrite() -> None:
         # has already turned every real link relative, so whatever matches here is JS.
         def inline_to_relative(match: re.Match[str]) -> str:
             normalized = canonical(match.group(0).replace("\\/", "/"))
-            if not normalized or not url_kind(normalized):
+            if not normalized:
+                return match.group(0)
+            bare = resolve_bare_site(urlsplit(normalized).path)
+            if bare is not None:
+                return os.path.relpath(Path("pages") / bare.relative_to(PAGES_DIR), here_dir)
+            if not url_kind(normalized):
                 return match.group(0)
             dest = local_path(normalized)
             kind = url_kind(normalized)
