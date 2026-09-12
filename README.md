@@ -46,6 +46,9 @@ the source is hit exactly once.
 | `pixi run taxonomy` | Attach the eBird taxonomy layer to each species. |
 | `pixi run images` | Convert archived photos and maps to WebP under `src/assets/`. |
 | `pixi run geocode` | Propose coordinates for the birding sites (candidates, not answers). |
+| `pixi run test` | Vitest over `src/lib/`. |
+| `pixi run test-py` | pytest over the pipeline scripts. |
+| `pixi run test-all` | Both suites. |
 
 ### The archive
 
@@ -58,9 +61,40 @@ explaining what it is and how it is laid out, readable without any of this tooli
 
 ## Editing content
 
-`pixi run editor` starts a local app at http://localhost:5173 that reads and writes the
-YAML in `src/content/` directly. Commit the changes and push; GitHub Actions builds and
-deploys. There is no CMS and no database — the files in git are the content.
+`pixi run editor` starts a local app at http://127.0.0.1:5173 that reads and writes the
+YAML in `src/content/` directly. There is no CMS and no database — the files in git are
+the content.
+
+It has a species editor (including a click-and-drag grid for the abundance matrix), a site
+editor with a map for placing pins, a photo caption/credit editor, and a publishing panel.
+Publishing is two separate buttons on purpose: **Save to this computer** commits locally
+and is reversible; **Save and publish** also pushes, which is visible to the world and
+triggers a deploy.
+
+Its YAML writer is byte-identical to the Python one, so changing one abundance cell
+produces a one-line diff. That is load-bearing and covered by tests — if the two writers
+ever drift, the first edit to a species reformats the whole file and buries the real
+change.
+
+### Confirming the birding-site pins
+
+The legacy pages carry no coordinates, so all 69 are net-new data.
+
+- **41** have a geocoder proposal that needs checking.
+- **28** found no candidate worth proposing and need a pin dropped by hand.
+- **0** are confirmed, so the map on `/sites/` is currently empty by design.
+
+Open a site in the editor, look at where the pin sits, and press **Confirm this pin**.
+Only confirmed pins are ever plotted — `src/lib/sites.ts` tests for `confirmed`
+explicitly rather than excluding known-bad values, so a source string invented later
+cannot leak onto the map by being unlisted.
+
+The geocoder is deliberately conservative. Its first version took Nominatim's top hit and
+proposed an apartment building for Samish Flats, a fire station for Green Lake and a notice
+board for Naches Peak Loop — each a plausible-looking row in a table that a reviewer could
+wave through. Candidates are now scored on what OpenStreetMap says the thing *is*, and
+anything that does not clear the bar is reported as no match, because a blank asks you to
+do the work while a wrong pin invites you to accept it.
 
 ## Layout
 
@@ -70,6 +104,7 @@ src/
 ├── content/                species/ sites/ ecoregions/ families/ orders/  (YAML)
 ├── config/                 ecoregions, abundance codes, taxonomy overrides
 ├── lib/                    pure functions (Vitest-covered)
+├── data/                   vendored Washington outline for the locator map
 ├── components/             presentation, incl. kiosk/ for the storefront display
 └── pages/                  routes
 scripts/                    the mirror/extract/verify pipeline (Python, Typer)
@@ -92,7 +127,10 @@ present Nov–Feb must read as one range, not two) are tested without a browser.
 
 `/` search-first landing · `/birds/` · `/birds/<slug>/` · `/families/<slug>/` ·
 `/orders/<slug>/` · `/sites/` · `/sites/<slug>/` · `/ecoregions/` · `/ecoregions/<slug>/` ·
-`/whats-around/` · `/kiosk/` · `/credits/` · `/about/`
+`/whats-around/` · `/kiosk/` · `/species-of-concern/` · `/credits/` · `/about/`
+
+Ported from the legacy site as content: `/resources/` · `/abundance-codes/` ·
+`/what-is-an-ecoregion/` · `/about-birding-sites/` · `/audio-sources/`
 
 `/whats-around/` inverts the abundance data — pick a region and a month, get what is there.
 `/kiosk/` is the storefront touchscreen: big type, one-tap search, QR hand-off to a phone,
@@ -102,6 +140,19 @@ idle reset.
 
 Push to `main`. The workflow type-checks, runs the tests, builds, and deploys to GitHub
 Pages. This is a Sapling repository — use `sl`, and never push to `main` without asking.
+
+## What still needs a person
+
+1. **Confirm the 69 site pins** (see above). This is the largest remaining piece of
+   content work and the only thing blocking the map.
+2. **Review `src/config/taxonomy-overrides.yaml`.** Twenty species needed a judgement about
+   which daughter species occurs in Washington — Barn Owl, Herring Gull, Whimbrel and
+   friends, all post-2005 splits where the old binomial stayed with the Old World bird.
+   Each entry records the reasoning; the BCS Science Committee owns the call.
+3. **Publish the archive.** `dist-archive/birdweb-archive-*.tar.gz` and its `SHA256SUMS`
+   need to reach the BCS Google Drive. It is the only complete copy of the original site.
+4. **Push to GitHub and turn on Pages.** The repository has no remote yet, so nothing is
+   deployed. `.github/workflows/deploy.yml` is ready and runs the full gate first.
 
 ## Open items
 
