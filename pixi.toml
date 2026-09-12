@@ -40,6 +40,10 @@ description = "Pack archive/ into a dated .tar.gz + SHA256SUMS for the BCS Googl
 # --- Content pipeline (Phases 2-4) ------------------------------------------
 # All offline: these read archive/ and write src/content/ and src/assets/.
 
+[tasks.audit-live]
+cmd = "python scripts/audit_against_live.py"
+description = "Diff extracted species records against the live legacy site, field by field"
+
 [tasks.extract]
 cmd = "python scripts/extract_birdweb.py"
 description = "Parse archive/ into src/content/ YAML (offline)"

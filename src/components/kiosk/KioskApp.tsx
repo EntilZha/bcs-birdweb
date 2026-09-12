@@ -117,7 +117,11 @@ export default function KioskApp({ species, base, buildOrigin, initialMonth }: P
 
   return (
     <div className="flex h-dvh flex-col bg-cream">
-      <header className="bg-brand text-white px-6 py-4 flex items-center gap-5 shrink-0">
+      {/* flex-wrap and a min-width on the search box: this header is sized for a 1920px
+          wall panel, and on anything narrow the logo, title, search and reset button have
+          nowhere to go. Wrapping is not a layout anyone will see in the shop, but it beats
+          pushing the search box off the screen if someone opens /kiosk/ on a phone. */}
+      <header className="bg-brand text-white px-6 py-4 flex flex-wrap items-center gap-5 shrink-0">
         <img
           src={`${base}bcs-logo-white.png`}
           alt="Birds Connect Seattle"
@@ -132,7 +136,7 @@ export default function KioskApp({ species, base, buildOrigin, initialMonth }: P
 
         {/* Search lives in the header, not on a separate screen: from any state it is one
             tap away, which is the whole point of this display. */}
-        <div className="flex-1 max-w-3xl ml-auto">
+        <div className="flex-1 min-w-60 max-w-3xl sm:ml-auto">
           <input
             ref={inputRef}
             type="search"

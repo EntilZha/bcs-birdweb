@@ -587,6 +587,7 @@ def extract_ecoregion(path: Path, archived: str) -> tuple[dict, list[str]]:
     slug = path.stem
     heading = tree.css_first("article.content h1")
     name = collapse(heading.text()).replace(" Ecoregion and Birding Sites", "") if heading else ""
+    warnings: list[str] = []
 
     sections: dict[str, str] = {}
     for head in tree.css("h2.details"):
@@ -600,6 +601,14 @@ def extract_ecoregion(path: Path, archived: str) -> tuple[dict, list[str]]:
                 node = node.next
                 continue
             if node.tag in ("p", "div", "ul", "ol"):
+                # Skip the species checklist: a 266-row species-by-month table that
+                # flattens into ~20,000 characters of run-together text ("...R=Rare;
+                # I=IrregularBirdJanFebMar..."). It is the same abundance data already held
+                # per species, transposed, and /whats-around/ presents that view properly.
+                if _has_big_table(node):
+                    warnings.append(f"skipped a {len(node.css('tr'))}-row table in {label}")
+                    node = node.next
+                    continue
                 text = clean_text(node.html or "")
                 if text:
                     chunks.append(text)
@@ -615,7 +624,20 @@ def extract_ecoregion(path: Path, archived: str) -> tuple[dict, list[str]]:
         "map": asset_name(map_img.attributes.get("src")) if map_img else None,
         "source": {"url": f"https://birdweb.org/birdweb/ecoregion/{slug}", "archived": archived},
     }
-    return record, ([] if name else ["missing ecoregion name"])
+    if not name:
+        warnings.append("missing ecoregion name")
+    return record, warnings
+
+
+def _has_big_table(node: Node) -> bool:
+    """True if this node is, or wraps, a data table rather than prose.
+
+    Five rows is the cut: the legacy pages use small tables for layout, and anything
+    larger is tabular data that must not be poured into a paragraph.
+    """
+    if node.tag == "table":
+        return len(node.css("tr")) > 5
+    return any(len(t.css("tr")) > 5 for t in node.css("table"))
 
 
 def extract_taxon_groups(archived: str) -> tuple[list[dict], list[dict]]:

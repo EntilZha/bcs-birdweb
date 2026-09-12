@@ -33,7 +33,7 @@ const rows = ECOREGIONS.map((eco) => ({
     </p>
   </div>
 
-  <ul class="mt-7 grid gap-4 sm:grid-cols-2 lg:grid-cols-3 p-0 list-none">
+  <ul class="mt-7 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 p-0 list-none">
     {rows.map((row) => (
       <li>
         <a href={`${base}ecoregions/${row.slug}/`} class="block h-full rounded-2xl bg-white ring-1 ring-black/5 p-5 shadow-sm transition hover:shadow-md active:scale-[0.99]">

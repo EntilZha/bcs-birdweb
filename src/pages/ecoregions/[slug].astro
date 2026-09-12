@@ -46,7 +46,7 @@ const label = (key: string) => key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.
     <a href={`${base}ecoregions/`} class="hover:text-brand hover:underline">Ecoregions</a>
   </nav>
 
-  <div class="grid gap-6 lg:grid-cols-[minmax(0,1.4fr)_minmax(0,1fr)] lg:items-start">
+  <div class="grid grid-cols-1 gap-6 lg:grid-cols-[minmax(0,1.4fr)_minmax(0,1fr)] lg:items-start">
     <div>
       <h1 class="text-3xl sm:text-4xl font-bold text-brand">{data.name}</h1>
       <p class="mt-1 text-ink">
@@ -72,7 +72,7 @@ const label = (key: string) => key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.
   {sites.length > 0 && (
     <section class="mt-10">
       <h2 class="text-xl font-bold text-brand mb-4">Birding sites</h2>
-      <ul class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3 p-0 list-none">
+      <ul class="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3 p-0 list-none">
         {sites.map((site) => (
           <li>
             <a href={`${base}sites/${site.id}/`} class="flex items-center gap-3 h-full rounded-xl bg-white ring-1 ring-black/5 px-4 py-3 shadow-sm transition hover:shadow-md active:scale-[0.99] min-h-11">
@@ -84,6 +84,19 @@ const label = (key: string) => key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.
       </ul>
     </section>
   )}
+
+  <section class="mt-10">
+    <a
+      href={`${base}whats-around/?region=${entry.id}`}
+      class="block rounded-2xl bg-pop p-5 text-brand shadow-sm transition hover:brightness-95 active:scale-[0.99]"
+    >
+      <h2 class="text-lg font-bold">What's around in the {data.name}?</h2>
+      <p class="mt-1 text-sm text-brand/75">
+        All {speciesCount} species recorded here, month by month, ranked by how likely you
+        are to find them.
+      </p>
+    </a>
+  </section>
 
   {common.length > 0 && (
     <section class="mt-10">
