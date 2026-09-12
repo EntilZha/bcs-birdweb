@@ -85,10 +85,10 @@ abundance:
   blue_mountains: ['', '', '', '', U, U, U, U, '', '', '', '']
   columbia_plateau: ['', '', '', '', F, C, C, C, R, '', '', '']
 taxonomy:
-  ebird_code: easkin
-  current_common_name: Eastern Kingbird
-  current_scientific_name: Tyrannus tyrannus
-  clements_sort: 17472
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

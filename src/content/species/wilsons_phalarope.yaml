@@ -52,10 +52,10 @@ abundance:
   blue_mountains: ['', '', '', '', R, '', '', R, '', '', '', '']
   columbia_plateau: ['', '', '', R, C, C, C, C, U, '', '', '']
 taxonomy:
-  ebird_code: wilpha
-  current_common_name: Wilson's Phalarope
-  current_scientific_name: Phalaropus tricolor
-  clements_sort: 6119
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

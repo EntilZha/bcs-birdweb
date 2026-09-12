@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', R, R, R, '', '', '', '', '']
 taxonomy:
-  ebird_code: leafly
-  current_common_name: Least Flycatcher
-  current_scientific_name: Empidonax minimus
-  clements_sort: 16963
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

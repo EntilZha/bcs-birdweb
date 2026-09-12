@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', U, U, U, U, '', '', '']
   columbia_plateau: ['', '', '', '', U, F, F, F, U, '', '', '']
 taxonomy:
-  ebird_code: grycat
-  current_common_name: Gray Catbird
-  current_scientific_name: Dumetella carolinensis
-  clements_sort: 28000
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

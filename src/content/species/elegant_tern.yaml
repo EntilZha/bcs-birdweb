@@ -53,10 +53,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: eleter1
-  current_common_name: Elegant Tern
-  current_scientific_name: Thalasseus elegans
-  clements_sort: 6780
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

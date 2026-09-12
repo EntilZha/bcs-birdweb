@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [U, F, F, F, R, '', '', R, F, F, U, U]
 taxonomy:
-  ebird_code: gwfgoo
-  current_common_name: Greater White-fronted Goose
-  current_scientific_name: Anser albifrons
-  clements_sort: 287
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

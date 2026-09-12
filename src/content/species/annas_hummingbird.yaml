@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: annhum
-  current_common_name: Anna's Hummingbird
-  current_scientific_name: Calypte anna
-  clements_sort: 4814
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

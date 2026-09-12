@@ -34,10 +34,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: whrsan
-  current_common_name: White-rumped Sandpiper
-  current_scientific_name: Calidris fuscicollis
-  clements_sort: 6221
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

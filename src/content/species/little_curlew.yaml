@@ -34,10 +34,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: litcur
-  current_common_name: Little Curlew
-  current_scientific_name: Numenius minutus
-  clements_sort: 6019
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

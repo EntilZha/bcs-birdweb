@@ -67,10 +67,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: harduc
-  current_common_name: Harlequin Duck
-  current_scientific_name: Histrionicus histrionicus
-  clements_sort: 727
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

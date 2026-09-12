@@ -67,10 +67,10 @@ abundance:
   blue_mountains: ['', '', '', '', U, F, F, F, U, '', '', '']
   columbia_plateau: ['', '', '', '', U, F, F, F, F, '', '', '']
 taxonomy:
-  ebird_code: wilfly
-  current_common_name: Willow Flycatcher
-  current_scientific_name: Empidonax traillii
-  clements_sort: 16952
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

@@ -2,6 +2,7 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import { api, assetUrl, type Collection, type IndexRecord } from "./api";
 import { useAutosave, type SaveState } from "./useAutosave";
 import AbundanceEditor from "./components/AbundanceEditor";
+import MapPicker from "./components/MapPicker";
 
 const ECOREGIONS = [
   { slug: "oceanic", name: "Oceanic" },
@@ -291,45 +292,99 @@ function RecordEditor({ collection, slug }: { collection: Collection; slug: stri
       {collection === "sites" && (
         <section>
           <h2 className="text-sm font-semibold uppercase tracking-wide text-black/50 mb-2">
-            Location
-          </h2>
-          <div className="rounded-xl bg-white ring-1 ring-black/5 p-4 grid gap-3 sm:grid-cols-3">
-            <Field label="Latitude">
-              <input
-                type="number"
-                step="0.0001"
-                value={record.lat ?? ""}
-                onChange={(e) =>
-                  set({ lat: e.target.value === "" ? null : Number(e.target.value) })
-                }
-                className="w-full rounded-lg border border-black/15 px-3 py-2 focus:border-brand focus:outline-none"
-              />
-            </Field>
-            <Field label="Longitude">
-              <input
-                type="number"
-                step="0.0001"
-                value={record.lon ?? ""}
-                onChange={(e) =>
-                  set({ lon: e.target.value === "" ? null : Number(e.target.value) })
-                }
-                className="w-full rounded-lg border border-black/15 px-3 py-2 focus:border-brand focus:outline-none"
-              />
-            </Field>
-            <Field label="County">
-              <input
-                type="text"
-                value={record.county ?? ""}
-                onChange={(e) => set({ county: e.target.value || null })}
-                className="w-full rounded-lg border border-black/15 px-3 py-2 focus:border-brand focus:outline-none"
-              />
-            </Field>
+              Location
+            </h2>
+          <div className="rounded-xl bg-white ring-1 ring-black/5 p-4 space-y-4">
+            <MapPicker
+              lat={record.lat ?? null}
+              lon={record.lon ?? null}
+              name={record.name ?? slug}
+              confirmed={record.geocode_source === "confirmed"}
+              onChange={(lat, lon) =>
+                // Moving the pin invalidates any previous confirmation: the coordinate a
+                // person signed off on is not the one now in the file.
+                set({ lat, lon, geocode_source: "placed-by-hand" })
+              }
+            />
+
+            <div className="grid gap-3 sm:grid-cols-3">
+              <Field label="Latitude">
+                <input
+                  type="number"
+                  step="0.00001"
+                  value={record.lat ?? ""}
+                  onChange={(e) =>
+                    set({
+                      lat: e.target.value === "" ? null : Number(e.target.value),
+                      geocode_source: e.target.value === "" ? null : "placed-by-hand",
+                    })
+                  }
+                  className="w-full rounded-lg border border-black/15 px-3 py-2 focus:border-brand focus:outline-none"
+                />
+              </Field>
+              <Field label="Longitude">
+                <input
+                  type="number"
+                  step="0.00001"
+                  value={record.lon ?? ""}
+                  onChange={(e) =>
+                    set({
+                      lon: e.target.value === "" ? null : Number(e.target.value),
+                      geocode_source: e.target.value === "" ? null : "placed-by-hand",
+                    })
+                  }
+                  className="w-full rounded-lg border border-black/15 px-3 py-2 focus:border-brand focus:outline-none"
+                />
+              </Field>
+              <Field label="County">
+                <input
+                  type="text"
+                  value={record.county ?? ""}
+                  onChange={(e) => set({ county: e.target.value || null })}
+                  className="w-full rounded-lg border border-black/15 px-3 py-2 focus:border-brand focus:outline-none"
+                />
+              </Field>
+            </div>
+
+            <div className="flex flex-wrap items-center gap-3">
+              {record.geocode_source === "confirmed" ? (
+                <>
+                  <span className="rounded-full bg-brand text-white px-3 py-1.5 text-xs font-semibold">
+                    Confirmed
+                  </span>
+                  <button
+                    type="button"
+                    onClick={() => set({ geocode_source: "placed-by-hand" })}
+                    className="text-xs text-black/50 hover:text-brand underline"
+                  >
+                    Un-confirm
+                  </button>
+                </>
+              ) : (
+                <>
+                  <button
+                    type="button"
+                    disabled={record.lat == null || record.lon == null}
+                    onClick={() => set({ geocode_source: "confirmed" })}
+                    className="rounded-full bg-pop text-brand px-4 py-2 text-sm font-semibold transition hover:brightness-95 active:scale-95 disabled:opacity-40 disabled:cursor-not-allowed"
+                  >
+                    Confirm this pin
+                  </button>
+                  <span className="text-xs text-amber-700">
+                    {record.lat == null
+                      ? "No coordinate yet — click the map to place one."
+                      : record.geocode_source === "nominatim-unconfirmed"
+                        ? "Proposed automatically. Check it before confirming."
+                        : "Placed by hand, not yet confirmed."}
+                  </span>
+                </>
+              )}
+            </div>
+            <p className="text-xs text-black/45">
+              Only confirmed pins reach the site — <code>pixi run verify</code> fails while
+              any unconfirmed coordinate is present.
+            </p>
           </div>
-          <p className="mt-2 text-xs text-black/45">
-            Confirm every pin against a map before it ships. A wrong coordinate sends
-            someone to the wrong place — set <code>geocode_source</code> away from
-            <code> nominatim-unconfirmed</code> only once you have checked it.
-          </p>
         </section>
       )}
 

@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', '', R, R, R, R, '', '', '', '']
   columbia_plateau: ['', '', R, F, F, F, F, F, F, U, '', '']
 taxonomy:
-  ebird_code: sora
-  current_common_name: Sora
-  current_scientific_name: Porzana carolina
-  clements_sort: 5455
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

@@ -165,6 +165,15 @@ const taxonGroup = {
   source: provenance.nullable().default(null),
 };
 
+/** The legacy site's standing pages, ported as content rather than hardcoded markup. */
+export const pageSchema = z.object({
+  slug: z.string(),
+  title: z.string(),
+  /** Markdown-ish prose: paragraphs, `## headings`, `*em*`, `[links](url)`. */
+  body: z.string(),
+  source: provenance,
+});
+
 export const familySchema = z.object({
   ...taxonGroup,
   order: z.string().nullable().default(null),

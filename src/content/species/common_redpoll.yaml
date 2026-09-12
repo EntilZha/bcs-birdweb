@@ -47,13 +47,13 @@ abundance:
   blue_mountains: [I, I, '', '', '', '', '', '', '', '', I, I]
   columbia_plateau: [I, I, I, '', '', '', '', '', '', '', I, I]
 taxonomy:
-  ebird_code: redpol1
-  current_common_name: Redpoll
-  current_scientific_name: Acanthis flammea
-  clements_sort: 32483.0
-  historic_common_name: Common Redpoll
-  display_historic: true
-  note: Published on BirdWeb as Common Redpoll. Common, Hoary and Lesser Redpolls were merged into a single species, Redpoll, in 2024. This account describes the form that occurs regularly in Washington.
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
+  historic_common_name: null
+  display_historic: false
+  note: null
 source:
   url: https://birdweb.org/birdweb/bird/common_redpoll
   archived: '2026-09-12'

@@ -73,10 +73,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [R, R, R, '', '', '', '', '', '', R, R, R]
 taxonomy:
-  ebird_code: lotduc
-  current_common_name: Long-tailed Duck
-  current_scientific_name: Clangula hyemalis
-  clements_sort: 741
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

@@ -55,10 +55,10 @@ abundance:
   blue_mountains: [R, R, R, '', '', '', '', '', '', '', R, R]
   columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
 taxonomy:
-  ebird_code: bargol
-  current_common_name: Barrow's Goldeneye
-  current_scientific_name: Bucephala islandica
-  clements_sort: 748
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

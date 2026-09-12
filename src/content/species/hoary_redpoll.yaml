@@ -45,13 +45,13 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: redpol1
-  current_common_name: Redpoll
-  current_scientific_name: Acanthis flammea
-  clements_sort: 32483.0
-  historic_common_name: Hoary Redpoll
-  display_historic: true
-  note: Published on BirdWeb as Hoary Redpoll. Common, Hoary and Lesser Redpolls were merged into a single species, Redpoll, in 2024. This account describes the pale northern birds formerly treated as Hoary.
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
+  historic_common_name: null
+  display_historic: false
+  note: null
 source:
   url: https://birdweb.org/birdweb/bird/hoary_redpoll
   archived: '2026-09-12'

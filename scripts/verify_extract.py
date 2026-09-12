@@ -209,9 +209,17 @@ def check_sites(records: dict[str, dict], report: Report) -> None:
         sections = record.get("sections") or {}
         if not sections.get("site") and not sections.get("birds"):
             report.error(f"{where}: no site or birds prose")
-        # Geocoding is net-new and human-confirmed; unconfirmed pins must never ship.
-        if record.get("geocode_source") == "nominatim-unconfirmed":
-            report.error(f"{where}: unconfirmed geocode must not reach the site")
+        # Geocoding is net-new and human-confirmed. The invariant is positive, not a
+        # blocklist: a coordinate ships only if someone pressed Confirm in the editor.
+        # Listing bad values instead would let any new source string through by default.
+        has_pin = record.get("lat") is not None or record.get("lon") is not None
+        if has_pin and record.get("geocode_source") != "confirmed":
+            report.error(
+                f"{where}: coordinate is {record.get('geocode_source') or 'unsourced'}, "
+                "not confirmed — confirm it in the editor or clear it"
+            )
+        if has_pin and (record.get("lat") is None or record.get("lon") is None):
+            report.error(f"{where}: has only one of lat/lon")
 
 
 def check_assets(

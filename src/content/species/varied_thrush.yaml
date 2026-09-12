@@ -49,10 +49,10 @@ abundance:
   blue_mountains: [R, R, R, U, U, U, U, U, U, U, R, R]
   columbia_plateau: [U, U, U, U, U, '', '', '', R, U, U, U]
 taxonomy:
-  ebird_code: varthr
-  current_common_name: Varied Thrush
-  current_scientific_name: Ixoreus naevius
-  clements_sort: 28249
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

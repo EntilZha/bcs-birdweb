@@ -73,10 +73,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', R, R, R, '', '', '', '']
   columbia_plateau: [F, F, F, F, C, C, C, F, F, F, F, F]
 taxonomy:
-  ebird_code: yehbla
-  current_common_name: Yellow-headed Blackbird
-  current_scientific_name: Xanthocephalus xanthocephalus
-  clements_sort: 33563
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

@@ -61,10 +61,10 @@ abundance:
   blue_mountains: [R, R, '', '', '', '', '', '', '', R, R, R]
   columbia_plateau: [U, U, U, R, '', '', '', '', R, U, U, U]
 taxonomy:
-  ebird_code: merlin
-  current_common_name: Merlin
-  current_scientific_name: Falco columbarius
-  clements_sort: 12062
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

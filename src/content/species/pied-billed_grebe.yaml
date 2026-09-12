@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', U, U, U, U, U, U, R, R, '', '']
   columbia_plateau: [F, F, C, C, C, C, C, C, C, C, C, F]
 taxonomy:
-  ebird_code: pibgre
-  current_common_name: Pied-billed Grebe
-  current_scientific_name: Podilymbus podiceps
-  clements_sort: 6855
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

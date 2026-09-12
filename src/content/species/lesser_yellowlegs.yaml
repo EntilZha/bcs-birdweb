@@ -43,10 +43,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', R, U, R, F, C, C, R, '', '']
 taxonomy:
-  ebird_code: lesyel
-  current_common_name: Lesser Yellowlegs
-  current_scientific_name: Tringa flavipes
-  clements_sort: 6145
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

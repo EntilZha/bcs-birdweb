@@ -67,10 +67,10 @@ abundance:
   blue_mountains: ['', '', '', '', U, U, U, R, '', '', '', '']
   columbia_plateau: ['', '', '', U, C, C, C, U, R, '', '', '']
 taxonomy:
-  ebird_code: bulori
-  current_common_name: Bullock's Oriole
-  current_scientific_name: Icterus bullockii
-  clements_sort: 33736
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

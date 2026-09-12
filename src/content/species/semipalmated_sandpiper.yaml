@@ -47,10 +47,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', U, U, R, '', '', '']
 taxonomy:
-  ebird_code: semsan
-  current_common_name: Semipalmated Sandpiper
-  current_scientific_name: Calidris pusilla
-  clements_sort: 6232
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

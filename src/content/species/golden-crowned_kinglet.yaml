@@ -43,10 +43,10 @@ abundance:
   blue_mountains: [U, U, F, F, F, F, F, F, F, F, U, U]
   columbia_plateau: [U, U, F, C, U, '', '', '', F, F, U, U]
 taxonomy:
-  ebird_code: gockin
-  current_common_name: Golden-crowned Kinglet
-  current_scientific_name: Regulus satrapa
-  clements_sort: 26848
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

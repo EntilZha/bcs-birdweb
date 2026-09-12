@@ -49,13 +49,13 @@ abundance:
   blue_mountains: ['', '', '', R, U, F, F, F, F, '', '', '']
   columbia_plateau: ['', '', '', F, C, C, C, C, C, '', '', '']
 taxonomy:
-  ebird_code: houwre
-  current_common_name: Northern House Wren
-  current_scientific_name: Troglodytes aedon
-  clements_sort: 27191.0
-  historic_common_name: House Wren
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
+  historic_common_name: null
   display_historic: false
-  note: Published on BirdWeb as House Wren. The species was split into Northern and Southern House Wrens; Washington's bird is the Northern.
+  note: null
 source:
   url: https://birdweb.org/birdweb/bird/house_wren
   archived: '2026-09-12'

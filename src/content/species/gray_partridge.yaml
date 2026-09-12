@@ -43,10 +43,10 @@ abundance:
   blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
   columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
 taxonomy:
-  ebird_code: grypar
-  current_common_name: Gray Partridge
-  current_scientific_name: Perdix perdix
-  clements_sort: 1450
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

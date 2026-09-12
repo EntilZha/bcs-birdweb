@@ -49,13 +49,13 @@ abundance:
   blue_mountains: [R, R, R, R, R, R, R, R, R, R, R, R]
   columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
 taxonomy:
-  ebird_code: brnowl
-  current_common_name: American Barn Owl
-  current_scientific_name: Tyto furcata
-  clements_sort: 8633.0
-  historic_common_name: Barn Owl
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
+  historic_common_name: null
   display_historic: false
-  note: Published on BirdWeb as Barn Owl (Tyto alba). The Barn Owl was later split; the New World bird, including Washington's, is now American Barn Owl, while Tyto alba refers to the Western Barn Owl of Europe and Africa.
+  note: null
 source:
   url: https://birdweb.org/birdweb/bird/barn_owl
   archived: '2026-09-12'

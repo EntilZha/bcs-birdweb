@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', U, F, R, '', '']
 taxonomy:
-  ebird_code: comter
-  current_common_name: Common Tern
-  current_scientific_name: Sterna hirundo
-  clements_sort: 6748
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

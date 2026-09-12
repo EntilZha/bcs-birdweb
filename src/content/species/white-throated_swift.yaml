@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', R, U, U, U, U, U, '', '', '', '']
   columbia_plateau: ['', '', R, F, C, C, F, U, R, '', '', '']
 taxonomy:
-  ebird_code: whtswi
-  current_common_name: White-throated Swift
-  current_scientific_name: Aeronautes saxatalis
-  clements_sort: 4158
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

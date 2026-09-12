@@ -67,10 +67,10 @@ abundance:
   blue_mountains: ['', '', '', R, R, '', '', '', R, R, '', '']
   columbia_plateau: [C, C, C, C, U, U, U, U, F, C, C, C]
 taxonomy:
-  ebird_code: norpin
-  current_common_name: Northern Pintail
-  current_scientific_name: Anas acuta
-  clements_sort: 594
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

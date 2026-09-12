@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', U, U, R, '', '', R, U, '', '', '']
   columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
 taxonomy:
-  ebird_code: y00475
-  current_common_name: American Coot
-  current_scientific_name: Fulica americana
-  clements_sort: 5500
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', R, R, R, R, R, R, R, R, '', '']
   columbia_plateau: [R, R, R, R, R, R, R, R, U, U, R, R]
 taxonomy:
-  ebird_code: perfal
-  current_common_name: Peregrine Falcon
-  current_scientific_name: Falco peregrinus
-  clements_sort: 12114
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', R, U, U, U, U, U, R, R, '', '']
   columbia_plateau: [R, R, R, U, F, F, F, F, U, U, R, R]
 taxonomy:
-  ebird_code: virrai
-  current_common_name: Virginia Rail
-  current_scientific_name: Rallus limicola
-  clements_sort: 5297
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

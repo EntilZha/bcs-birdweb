@@ -49,10 +49,10 @@ abundance:
   blue_mountains: [R, R, R, R, R, R, R, R, R, R, R, R]
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: mouqua
-  current_common_name: Mountain Quail
-  current_scientific_name: Oreortyx pictus
-  clements_sort: 1013
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

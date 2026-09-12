@@ -67,10 +67,10 @@ abundance:
   blue_mountains: ['', '', '', U, U, R, '', U, R, '', '', '']
   columbia_plateau: [C, C, C, C, C, F, F, F, C, C, C, C]
 taxonomy:
-  ebird_code: norsho
-  current_common_name: Northern Shoveler
-  current_scientific_name: Spatula clypeata
-  clements_sort: 501
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

@@ -52,10 +52,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: ycnher
-  current_common_name: Yellow-crowned Night Heron
-  current_scientific_name: Nyctanassa violacea
-  clements_sort: 7591
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

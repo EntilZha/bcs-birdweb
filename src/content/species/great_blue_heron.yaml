@@ -67,10 +67,10 @@ abundance:
   blue_mountains: ['', R, F, F, F, F, F, F, F, U, R, R]
   columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
 taxonomy:
-  ebird_code: grbher3
-  current_common_name: Great Blue Heron
-  current_scientific_name: Ardea herodias
-  clements_sort: 7753
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

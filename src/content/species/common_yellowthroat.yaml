@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', R, '', '', '']
   columbia_plateau: ['', '', '', F, F, F, F, F, F, '', '', '']
 taxonomy:
-  ebird_code: comyel
-  current_common_name: Common Yellowthroat
-  current_scientific_name: Geothlypis trichas
-  clements_sort: 34028
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

@@ -61,10 +61,10 @@ abundance:
   blue_mountains: [U, U, U, C, C, C, C, C, C, C, C, U]
   columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
 taxonomy:
-  ebird_code: norfli
-  current_common_name: Northern Flicker
-  current_scientific_name: Colaptes auratus
-  clements_sort: 11900
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

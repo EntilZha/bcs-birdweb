@@ -43,10 +43,10 @@ abundance:
   blue_mountains: ['', '', '', '', U, '', '', '', U, R, '', '']
   columbia_plateau: ['', '', R, F, U, '', '', '', F, F, U, R]
 taxonomy:
-  ebird_code: amepip
-  current_common_name: American Pipit
-  current_scientific_name: Anthus rubescens
-  clements_sort: 31883
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

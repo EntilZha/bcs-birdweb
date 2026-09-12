@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [R, R, R, '', '', '', '', '', '', '', R, R]
 taxonomy:
-  ebird_code: gyrfal
-  current_common_name: Gyrfalcon
-  current_scientific_name: Falco rusticolus
-  clements_sort: 12113
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

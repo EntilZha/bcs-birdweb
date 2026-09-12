@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', R, R, R, R, '', '', '', '']
 taxonomy:
-  ebird_code: blkswi
-  current_common_name: Black Swift
-  current_scientific_name: Cypseloides niger
-  clements_sort: 3826
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

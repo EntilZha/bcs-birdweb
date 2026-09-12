@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', R, F, F, F, F, F, F, U, '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: wilsap
-  current_common_name: Williamson's Sapsucker
-  current_scientific_name: Sphyrapicus thyroideus
-  clements_sort: 11123
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

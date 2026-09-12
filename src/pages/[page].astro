@@ -1,0 +1,29 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+import Prose from "../components/Prose.astro";
+
+// The legacy site's standing pages, ported as content. species-of-concern has its own
+// route because it also renders the species grid; the rest are prose only.
+export async function getStaticPaths() {
+  const pages = await getCollection("pages");
+  return pages
+    .filter((entry) => entry.id !== "species-of-concern")
+    .map((entry) => ({ params: { page: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+---
+
+<Layout title={`${entry.data.title} — BirdWeb`} description={entry.data.body.slice(0, 180)}>
+  <h1 class="text-3xl font-bold text-brand">{entry.data.title}</h1>
+  <div class="mt-4 max-w-3xl">
+    <Prose text={entry.data.body} />
+  </div>
+  <p class="mt-10 text-xs text-black/45">
+    &copy; Birds Connect Seattle. Archived from
+    <a href={entry.data.source.url} target="_blank" rel="noopener"
+      class="underline decoration-sage underline-offset-2 hover:text-brand">the original BirdWeb</a>
+    on {entry.data.source.archived}.
+  </p>
+</Layout>

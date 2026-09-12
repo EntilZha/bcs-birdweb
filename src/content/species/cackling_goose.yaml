@@ -101,10 +101,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [F, F, F, U, '', '', '', '', '', U, F, F]
 taxonomy:
-  ebird_code: cacgoo1
-  current_common_name: Cackling Goose
-  current_scientific_name: Branta hutchinsii
-  clements_sort: 331
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

@@ -55,10 +55,10 @@ abundance:
   blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: pilwoo
-  current_common_name: Pileated Woodpecker
-  current_scientific_name: Dryocopus pileatus
-  clements_sort: 11762
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

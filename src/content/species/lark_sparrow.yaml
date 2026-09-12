@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', U, U, '', '', '']
   columbia_plateau: ['', '', '', '', F, F, F, U, R, '', '', '']
 taxonomy:
-  ebird_code: larspa
-  current_common_name: Lark Sparrow
-  current_scientific_name: Chondestes grammacus
-  clements_sort: 33029
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

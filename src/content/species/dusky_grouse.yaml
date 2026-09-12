@@ -53,10 +53,10 @@ abundance:
   blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: dusgro
-  current_common_name: Dusky Grouse
-  current_scientific_name: Dendragapus obscurus
-  clements_sort: 1315
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

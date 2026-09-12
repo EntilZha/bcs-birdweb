@@ -49,13 +49,13 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: whimbr3
-  current_common_name: Hudsonian Whimbrel
-  current_scientific_name: Numenius hudsonicus
-  clements_sort: 6011.0
-  historic_common_name: Whimbrel
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
+  historic_common_name: null
   display_historic: false
-  note: Published on BirdWeb as Whimbrel (Numenius phaeopus). The Whimbrel was split; Washington's regular migrant is the Hudsonian Whimbrel, while Numenius phaeopus is now the Eurasian Whimbrel, a rare visitor here.
+  note: null
 source:
   url: https://birdweb.org/birdweb/bird/whimbrel
   archived: '2026-09-12'

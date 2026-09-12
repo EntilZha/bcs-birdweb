@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', R, F, F, F, F, R, '', '', '']
   columbia_plateau: ['', '', '', U, U, R, R, R, '', '', '', '']
 taxonomy:
-  ebird_code: calhum
-  current_common_name: Calliope Hummingbird
-  current_scientific_name: Selasphorus calliope
-  clements_sort: 4823
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

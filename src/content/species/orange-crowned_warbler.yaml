@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', R, F, F, F, F, F, '', '', '']
   columbia_plateau: [R, R, R, U, F, '', '', C, C, U, R, R]
 taxonomy:
-  ebird_code: orcwar
-  current_common_name: Orange-crowned Warbler
-  current_scientific_name: Leiothlypis celata
-  clements_sort: 33973
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

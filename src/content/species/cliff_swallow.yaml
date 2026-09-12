@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', '', R, U, U, U, R, '', '', '']
   columbia_plateau: ['', '', U, C, C, C, C, F, R, '', '', '']
 taxonomy:
-  ebird_code: cliswa
-  current_common_name: Cliff Swallow
-  current_scientific_name: Petrochelidon pyrrhonota
-  clements_sort: 24281
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

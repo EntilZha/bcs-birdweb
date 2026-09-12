@@ -67,10 +67,10 @@ abundance:
   blue_mountains: [F, F, F, F, F, C, C, C, C, C, C, C]
   columbia_plateau: [C, C, C, C, F, '', '', '', C, C, C, C]
 taxonomy:
-  ebird_code: daejun
-  current_common_name: Dark-eyed Junco
-  current_scientific_name: Junco hyemalis
-  clements_sort: 33124
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

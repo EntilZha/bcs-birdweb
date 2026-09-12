@@ -61,13 +61,13 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [F, F, F, R, R, '', '', R, R, F, F, F]
 taxonomy:
-  ebird_code: amhgul1
-  current_common_name: American Herring Gull
-  current_scientific_name: Larus smithsonianus
-  clements_sort: 6539.0
-  historic_common_name: Herring Gull
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
+  historic_common_name: null
   display_historic: false
-  note: Published on BirdWeb as Herring Gull (Larus argentatus). The Herring Gull complex was split; Washington's breeding and wintering birds are American Herring Gull, while Larus argentatus is now the European Herring Gull.
+  note: null
 source:
   url: https://birdweb.org/birdweb/bird/herring_gull
   archived: '2026-09-12'

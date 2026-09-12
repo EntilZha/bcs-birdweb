@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', R, R, '']
 taxonomy:
-  ebird_code: sursco
-  current_common_name: Surf Scoter
-  current_scientific_name: Melanitta perspicillata
-  clements_sort: 728
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

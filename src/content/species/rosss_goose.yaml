@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', R, R, R, '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: rosgoo
-  current_common_name: Ross's Goose
-  current_scientific_name: Anser rossii
-  clements_sort: 272
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

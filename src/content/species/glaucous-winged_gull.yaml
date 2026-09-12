@@ -67,10 +67,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [U, U, U, R, R, R, R, R, U, U, U, U]
 taxonomy:
-  ebird_code: glwgul
-  current_common_name: Glaucous-winged Gull
-  current_scientific_name: Larus glaucescens
-  clements_sort: 6596
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

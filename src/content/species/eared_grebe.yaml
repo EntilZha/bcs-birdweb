@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [F, F, C, C, C, C, C, C, C, C, F, F]
 taxonomy:
-  ebird_code: eargre
-  current_common_name: Eared Grebe
-  current_scientific_name: Podiceps nigricollis
-  clements_sort: 6876
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

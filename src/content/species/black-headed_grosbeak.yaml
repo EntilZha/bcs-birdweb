@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', '', F, F, F, F, F, '', '', '']
   columbia_plateau: ['', '', '', R, C, C, C, C, R, '', '', '']
 taxonomy:
-  ebird_code: bkhgro
-  current_common_name: Black-headed Grosbeak
-  current_scientific_name: Pheucticus melanocephalus
-  clements_sort: 34559
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

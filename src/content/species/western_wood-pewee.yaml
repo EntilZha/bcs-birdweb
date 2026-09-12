@@ -43,10 +43,10 @@ abundance:
   blue_mountains: ['', '', '', '', F, C, C, C, C, '', '', '']
   columbia_plateau: ['', '', '', '', C, C, C, C, C, '', '', '']
 taxonomy:
-  ebird_code: wewpew
-  current_common_name: Western Wood-Pewee
-  current_scientific_name: Contopus sordidulus
-  clements_sort: 16912
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

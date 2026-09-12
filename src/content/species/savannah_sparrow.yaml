@@ -43,10 +43,10 @@ abundance:
   blue_mountains: ['', '', '', R, F, F, F, F, F, '', '', '']
   columbia_plateau: [R, R, F, C, C, C, C, C, C, U, R, R]
 taxonomy:
-  ebird_code: savspa
-  current_common_name: Savannah Sparrow
-  current_scientific_name: Passerculus sandwichensis
-  clements_sort: 33244
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

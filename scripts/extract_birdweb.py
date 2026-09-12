@@ -659,6 +659,93 @@ def extract_taxon_groups(archived: str) -> tuple[list[dict], list[dict]]:
 
 
 # ----------------------------------------------------------------------------------------
+# Static pages
+# ----------------------------------------------------------------------------------------
+
+# The legacy site's standing pages. These carry real BCS-authored prose -- how to read the
+# abundance codes, what an ecoregion is, where the recordings came from -- that the rebuild
+# would otherwise lose. Mapped to friendlier slugs than the originals.
+STATIC_PAGES = {
+    "specialconcern": "species-of-concern",
+    "resources": "resources",
+    "aboutbirdingsites": "about-birding-sites",
+    "ecoregiondefinition": "what-is-an-ecoregion",
+    "audiosource": "audio-sources",
+    "abundancecode/bird_detail": "abundance-codes",
+}
+
+
+def extract_static_pages(archived: str) -> list[tuple[dict, list[str]]]:
+    """Pull the standing pages into a `pages` collection."""
+    out: list[tuple[dict, list[str]]] = []
+    for legacy, slug in STATIC_PAGES.items():
+        page = PAGES / f"{legacy}.html"
+        if not page.exists():
+            out.append(({"slug": slug}, [f"missing archived page {legacy}"]))
+            continue
+        tree = parse(page.read_bytes())
+        content = tree.css_first("article.content")
+        if content is None:
+            out.append(({"slug": slug}, [f"{legacy}: no article.content"]))
+            continue
+
+        heading = content.css_first("h1")
+        title = collapse(heading.text()) if heading else slug.replace("-", " ").title()
+        if heading is not None:
+            heading.decompose()
+
+        # Keep sub-headings as Markdown so the page structure survives into the site.
+        #
+        # Walked with traverse() rather than css("h2, p, ul"): selectolax's selector lists
+        # return matches grouped by selector, not in document order, which silently
+        # reorders a page into "every heading, then every paragraph". And a direct-children
+        # walk misses `resources`, whose whole body sits inside one wrapper div.
+        BLOCK_TAGS = {"h2", "h3", "p", "ul", "ol"}
+
+        def inside_block(node) -> bool:
+            """True if a block tag already encloses this one.
+
+            Checked by walking parents rather than by remembering visited nodes: selectolax
+            creates node wrappers on the fly, so CPython reuses their id()s and an
+            id-keyed "consumed" set silently discards unrelated later nodes.
+            """
+            parent = node.parent
+            while parent is not None and parent is not content:
+                if parent.tag in BLOCK_TAGS:
+                    return True
+                parent = parent.parent
+            return False
+
+        blocks: list[str] = []
+        for node in content.traverse(include_text=False):
+            if node.tag not in BLOCK_TAGS or inside_block(node):
+                continue
+            if node.tag in ("h2", "h3"):
+                label = collapse(node.text())
+                if label:
+                    blocks.append(("## " if node.tag == "h2" else "### ") + label)
+                continue
+            if node.tag == "p" and "top" in (node.attributes.get("class") or ""):
+                continue  # the "back to top" links
+            text = clean_text(node.html or "")
+            if text:
+                blocks.append(text)
+
+        body = "\n\n".join(dict.fromkeys(b for b in blocks if b))
+        record = {
+            "slug": slug,
+            "title": title,
+            "body": body,
+            "source": {
+                "url": f"https://birdweb.org/birdweb/{legacy}",
+                "archived": archived,
+            },
+        }
+        out.append((record, [] if body else [f"{legacy}: no prose extracted"]))
+    return out
+
+
+# ----------------------------------------------------------------------------------------
 # Driver
 # ----------------------------------------------------------------------------------------
 
@@ -715,6 +802,13 @@ def run(
     counts["ecoregions"] = len(eco_pages)
 
     if not wanted:
+        for record, warnings in extract_static_pages(archived):
+            if record.get("body"):
+                write_yaml(CONTENT / "pages" / f"{record['slug']}.yaml", record)
+            if warnings:
+                all_warnings[f"pages/{record['slug']}"] = warnings
+        counts["pages"] = len(STATIC_PAGES)
+
         families, orders = extract_taxon_groups(archived)
         for record in families:
             write_yaml(CONTENT / "families" / f"{record['slug']}.yaml", record)

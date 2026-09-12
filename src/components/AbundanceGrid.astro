@@ -109,7 +109,7 @@ const legend: AbundanceCode[] = ["C", "F", "U", "R", "I", ""];
         </details>
       )}
 
-      <ul class="flex flex-wrap gap-x-3 gap-y-1.5 text-[0.6875rem] text-black/60">
+      <ul class="flex flex-wrap items-center gap-x-3 gap-y-1.5 text-[0.6875rem] text-black/60">
         {legend.map((code) => (
           <li class="flex items-center gap-1.5">
             <span
@@ -125,6 +125,13 @@ const legend: AbundanceCode[] = ["C", "F", "U", "R", "I", ""];
             {ABUNDANCE[code].label}
           </li>
         ))}
+        <li>
+          <a
+            href={`${import.meta.env.BASE_URL}abundance-codes/`}
+            class="underline decoration-sage underline-offset-2 hover:text-brand"
+            >How to read this</a
+          >
+        </li>
       </ul>
 
       {present.length > 0 && (

@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', '', R, R, R, R, R, R, '', '', '']
   columbia_plateau: ['', '', U, F, F, F, U, U, R, '', '', '']
 taxonomy:
-  ebird_code: nrwswa
-  current_common_name: Northern Rough-winged Swallow
-  current_scientific_name: Stelgidopteryx serripennis
-  clements_sort: 24106
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

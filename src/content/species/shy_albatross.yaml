@@ -41,13 +41,13 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: whcalb1
-  current_common_name: White-capped Albatross
-  current_scientific_name: Thalassarche cauta
-  clements_sort: 7000.0
-  historic_common_name: Shy Albatross
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
+  historic_common_name: null
   display_historic: false
-  note: Published on BirdWeb as Shy Albatross (Thalassarche cauta), which is now called White-capped Albatross. Records in the Shy/White-capped complex are difficult to assign at sea, and Washington's few reports should be read with that caution.
+  note: null
 source:
   url: https://birdweb.org/birdweb/bird/shy_albatross
   archived: '2026-09-12'

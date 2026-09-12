@@ -67,10 +67,10 @@ abundance:
   blue_mountains: ['', '', '', '', U, '', '', U, R, '', '', '']
   columbia_plateau: ['', '', '', F, C, C, C, F, U, '', '', '']
 taxonomy:
-  ebird_code: buwtea
-  current_common_name: Blue-winged Teal
-  current_scientific_name: Spatula discors
-  clements_sort: 485
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

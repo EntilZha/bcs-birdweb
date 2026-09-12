@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', '', U, U, U, U, U, U, U, U, '']
   columbia_plateau: [F, F, C, C, C, C, C, C, C, C, F, F]
 taxonomy:
-  ebird_code: wesmea
-  current_common_name: Western Meadowlark
-  current_scientific_name: Sturnella neglecta
-  clements_sort: 33565
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

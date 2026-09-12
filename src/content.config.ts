@@ -4,6 +4,7 @@ import {
   ecoregionSchema,
   familySchema,
   orderSchema,
+  pageSchema,
   siteSchema,
   speciesSchema,
 } from "./content.schemas";
@@ -32,6 +33,10 @@ export const collections = {
   families: defineCollection({
     loader: glob({ pattern: "**/*.yaml", base: "./src/content/families" }),
     schema: familySchema,
+  }),
+  pages: defineCollection({
+    loader: glob({ pattern: "**/*.yaml", base: "./src/content/pages" }),
+    schema: pageSchema,
   }),
   orders: defineCollection({
     loader: glob({ pattern: "**/*.yaml", base: "./src/content/orders" }),

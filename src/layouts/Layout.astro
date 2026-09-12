@@ -106,7 +106,11 @@ const isActive = (match: string) => path.endsWith(match) || path.includes(`${mat
           &copy; Birds Connect Seattle. Species accounts, maps and abundance data by BCS
           volunteers since 1999.
         </p>
-        <div class="flex gap-4">
+        <div class="flex flex-wrap gap-x-4 gap-y-1">
+          <a href={`${base}species-of-concern/`} class="hover:text-pop transition-colors"
+            >Species of Concern</a
+          >
+          <a href={`${base}resources/`} class="hover:text-pop transition-colors">Resources</a>
           <a href={`${base}credits/`} class="hover:text-pop transition-colors">Credits</a>
           <a href={`${base}about/`} class="hover:text-pop transition-colors">About</a>
           <a

@@ -67,10 +67,10 @@ abundance:
   blue_mountains: ['', '', R, R, '', '', '', '', '', R, R, '']
   columbia_plateau: [U, F, F, R, '', '', '', '', '', F, F, U]
 taxonomy:
-  ebird_code: tunswa
-  current_common_name: Tundra Swan
-  current_scientific_name: Cygnus columbianus
-  clements_sort: 384
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

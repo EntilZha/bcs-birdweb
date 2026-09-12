@@ -43,10 +43,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', R, F, F, '', F, C, F, U, R, '']
 taxonomy:
-  ebird_code: leasan
-  current_common_name: Least Sandpiper
-  current_scientific_name: Calidris minutilla
-  clements_sort: 6226
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

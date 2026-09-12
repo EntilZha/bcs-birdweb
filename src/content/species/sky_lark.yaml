@@ -47,13 +47,13 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: skylar
-  current_common_name: Eurasian Skylark
-  current_scientific_name: Alauda arvensis
-  clements_sort: 22615.0
-  historic_common_name: Sky Lark
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
+  historic_common_name: null
   display_historic: false
-  note: Published on BirdWeb as Sky Lark, now called Eurasian Skylark. Washington's population, in the San Juan Islands, descends from birds introduced to Vancouver Island.
+  note: null
 source:
   url: https://birdweb.org/birdweb/bird/sky_lark
   archived: '2026-09-12'

@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', R, R, R, R, R, '', '', '', '']
   columbia_plateau: [F, C, C, C, C, C, C, C, C, C, F, F]
 taxonomy:
-  ebird_code: killde
-  current_common_name: Killdeer
-  current_scientific_name: Charadrius vociferus
-  clements_sort: 5827
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

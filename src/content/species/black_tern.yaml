@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', U, U, U, U, '', '', '', '']
 taxonomy:
-  ebird_code: blkter
-  current_common_name: Black Tern
-  current_scientific_name: Chlidonias niger
-  clements_sort: 6725
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

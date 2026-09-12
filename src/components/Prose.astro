@@ -35,12 +35,30 @@ function renderInline(value: string): string {
   return out;
 }
 
-const paragraphs = text
+// The ported static pages carry `## headings`; species accounts never do, so this costs
+// nothing there and keeps those pages' structure instead of flattening it to paragraphs.
+const blocks = text
   .split(/\n{2,}/)
   .map((p) => p.trim())
-  .filter(Boolean);
+  .filter(Boolean)
+  .map((block) => {
+    const heading = /^(#{2,3})\s+(.*)$/.exec(block);
+    return heading
+      ? { kind: `h${heading[1].length}` as "h2" | "h3", text: heading[2] }
+      : { kind: "p" as const, text: block };
+  });
 ---
 
 <div class:list={["space-y-3 text-[0.9375rem] leading-relaxed text-black/85", className]}>
-  {paragraphs.map((paragraph) => <p set:html={renderInline(paragraph)} />)}
+  {
+    blocks.map((block) =>
+      block.kind === "h2" ? (
+        <h2 class="text-xl font-bold text-brand pt-3" set:html={renderInline(block.text)} />
+      ) : block.kind === "h3" ? (
+        <h3 class="text-base font-bold text-brand pt-2" set:html={renderInline(block.text)} />
+      ) : (
+        <p set:html={renderInline(block.text)} />
+      ),
+    )
+  }
 </div>

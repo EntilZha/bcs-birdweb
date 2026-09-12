@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', U, U, U, U, U, R, '', '', '', '']
 taxonomy:
-  ebird_code: lobcur
-  current_common_name: Long-billed Curlew
-  current_scientific_name: Numenius americanus
-  clements_sort: 6021
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

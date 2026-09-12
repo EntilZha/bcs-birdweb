@@ -79,13 +79,13 @@ abundance:
   blue_mountains: ['', '', '', '', U, F, F, F, U, '', '', '']
   columbia_plateau: ['', '', '', R, F, C, C, F, F, '', '', '']
 taxonomy:
-  ebird_code: yelwar1
-  current_common_name: Northern Yellow Warbler
-  current_scientific_name: Setophaga aestiva
-  clements_sort: 34087.0
-  historic_common_name: Yellow Warbler
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
+  historic_common_name: null
   display_historic: false
-  note: Published on BirdWeb as Yellow Warbler (Dendroica petechia). The genus Dendroica was merged into Setophaga, and the Yellow Warbler was later split; Washington's breeding bird is the Northern Yellow Warbler.
+  note: null
 source:
   url: https://birdweb.org/birdweb/bird/yellow_warbler
   archived: '2026-09-12'

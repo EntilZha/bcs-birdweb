@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', R, '', '', '']
   columbia_plateau: ['', '', R, F, F, F, F, F, U, '', '', '']
 taxonomy:
-  ebird_code: swahaw
-  current_common_name: Swainson's Hawk
-  current_scientific_name: Buteo swainsoni
-  clements_sort: 8504
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

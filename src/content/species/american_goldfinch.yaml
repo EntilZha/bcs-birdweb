@@ -61,10 +61,10 @@ abundance:
   blue_mountains: [R, R, R, U, U, U, U, U, U, U, R, R]
   columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
 taxonomy:
-  ebird_code: amegfi
-  current_common_name: American Goldfinch
-  current_scientific_name: Spinus tristis
-  clements_sort: 32617
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

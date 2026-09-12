@@ -67,10 +67,10 @@ abundance:
   blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
   columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
 taxonomy:
-  ebird_code: houfin
-  current_common_name: House Finch
-  current_scientific_name: Haemorhous mexicanus
-  clements_sort: 32310
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

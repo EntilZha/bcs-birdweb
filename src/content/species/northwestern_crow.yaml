@@ -47,13 +47,13 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: amecro
-  current_common_name: American Crow
-  current_scientific_name: Corvus brachyrhynchos
-  clements_sort: 21557.0
-  historic_common_name: Northwestern Crow
-  display_historic: true
-  note: Published on BirdWeb as Northwestern Crow. Genetic work showed the coastal Northwestern Crow to be part of a continuum with American Crow, and the two were merged in 2020. This account describes the coastal birds of the Puget Sound region.
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
+  historic_common_name: null
+  display_historic: false
+  note: null
 source:
   url: https://birdweb.org/birdweb/bird/northwestern_crow
   archived: '2026-09-12'

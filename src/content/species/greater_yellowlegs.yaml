@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', R, R, '', '', '']
   columbia_plateau: [R, U, F, C, C, R, F, F, C, F, R, R]
 taxonomy:
-  ebird_code: greyel
-  current_common_name: Greater Yellowlegs
-  current_scientific_name: Tringa melanoleuca
-  clements_sort: 6154
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

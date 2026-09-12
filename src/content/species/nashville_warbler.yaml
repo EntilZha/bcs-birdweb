@@ -43,10 +43,10 @@ abundance:
   blue_mountains: ['', '', '', R, U, U, U, U, R, '', '', '']
   columbia_plateau: ['', '', '', U, U, R, R, U, U, '', '', '']
 taxonomy:
-  ebird_code: naswar
-  current_common_name: Nashville Warbler
-  current_scientific_name: Leiothlypis ruficapilla
-  clements_sort: 33981
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

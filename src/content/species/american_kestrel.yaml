@@ -55,10 +55,10 @@ abundance:
   blue_mountains: [U, U, F, F, F, F, F, F, F, F, U, U]
   columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
 taxonomy:
-  ebird_code: amekes
-  current_common_name: American Kestrel
-  current_scientific_name: Falco sparverius
-  clements_sort: 12028
+  ebird_code: null
+  current_common_name: null
+  current_scientific_name: null
+  clements_sort: null
   historic_common_name: null
   display_historic: false
   note: null

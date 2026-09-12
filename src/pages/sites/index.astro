@@ -21,6 +21,14 @@ const geocoded = sites.filter((s) => s.data.lat != null).length;
   <p class="mt-1 text-black/65">
     {sites.length} places to go birding across Washington, grouped by ecoregion.
   </p>
+  <p class="mt-2 flex flex-wrap gap-x-4 text-sm">
+    <a href={`${base}about-birding-sites/`} class="text-brand font-semibold hover:underline"
+      >About these sites &rarr;</a
+    >
+    <a href={`${base}resources/`} class="text-brand font-semibold hover:underline"
+      >Birding resources &rarr;</a
+    >
+  </p>
 
   {geocoded === 0 && (
     <p class="mt-4 rounded-xl bg-pop/30 px-4 py-3 text-sm text-brand/85">
