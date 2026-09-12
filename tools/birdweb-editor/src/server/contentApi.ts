@@ -291,9 +291,58 @@ export function contentApi({ repoRoot }: Options): Plugin {
                 .split("\n")
                 .filter((line) => line.trim() && !line.includes(".backup."))
                 .map((line) => line.trim());
-              return json(200, { vcs: "sapling", changed });
+              let remote: string | null = null;
+              try {
+                const paths = await exec("sl", ["paths"], { cwd: repoRoot });
+                remote = paths.stdout.trim() || null;
+              } catch {
+                remote = null;
+              }
+              return json(200, { vcs: "sapling", changed, remote });
             } catch {
-              return json(200, { vcs: null, changed: [] });
+              return json(200, { vcs: null, changed: [], remote: null });
+            }
+          }
+
+          /**
+           * POST /api/publish — commit the content changes, and optionally push.
+           *
+           * The point of the editor is that nobody at BCS should need a terminal to fix a
+           * typo in a species account. Committing and pushing are kept as two separate,
+           * explicitly-chosen steps rather than one "Publish" that does both: a commit is
+           * local and reversible, a push is visible to the world and triggers a deploy,
+           * and those deserve different amounts of thought.
+           *
+           * Only fixed sl subcommands are ever run, and the message travels as an argv
+           * element rather than through a shell, so nothing typed into the box can become
+           * a command.
+           */
+          if (pathname === "/api/publish" && req.method === "POST") {
+            const body = await readBody();
+            const message = String(body.message || "").trim();
+            const push = Boolean(body.push);
+            if (!message) return json(400, { error: "a commit message is required" });
+            if (message.length > 500) return json(400, { error: "message too long" });
+
+            const steps: Array<{ step: string; output: string }> = [];
+            try {
+              const add = await exec("sl", ["add", "src/content"], { cwd: repoRoot });
+              steps.push({ step: "sl add src/content", output: add.stdout.trim() });
+
+              const commit = await exec("sl", ["commit", "-m", message], { cwd: repoRoot });
+              steps.push({ step: "sl commit", output: commit.stdout.trim() || "committed" });
+
+              if (push) {
+                const pushed = await exec("sl", ["push"], { cwd: repoRoot });
+                steps.push({ step: "sl push", output: pushed.stdout.trim() || "pushed" });
+              }
+              return json(200, { ok: true, pushed: push, steps });
+            } catch (error) {
+              const err = error as { stdout?: string; stderr?: string; message?: string };
+              return json(500, {
+                error: (err.stderr || err.stdout || err.message || String(error)).trim(),
+                steps,
+              });
             }
           }
 

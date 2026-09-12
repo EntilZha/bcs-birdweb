@@ -80,7 +80,7 @@ export default function App() {
           ))}
         </nav>
         <span className="ml-auto text-xs text-sage">
-          Editing files in <code>src/content/</code> — commit with <code>sl</code> to publish
+          Editing files in <code>src/content/</code> — changes save as you type
         </span>
       </header>
 
@@ -137,37 +137,126 @@ export default function App() {
 
 function Welcome({ collection, count }: { collection: Collection; count: number }) {
   const [changed, setChanged] = useState<string[]>([]);
-  useEffect(() => {
-    api.status().then((s) => setChanged(s.changed)).catch(() => setChanged([]));
-  }, [collection]);
+  const [remote, setRemote] = useState<string | null>(null);
+  const [message, setMessage] = useState("");
+  const [busy, setBusy] = useState(false);
+  const [result, setResult] = useState<string | null>(null);
+  const [failed, setFailed] = useState(false);
+
+  const refresh = useCallback(() => {
+    api
+      .status()
+      .then((s) => {
+        setChanged(s.changed);
+        setRemote(s.remote);
+      })
+      .catch(() => setChanged([]));
+  }, []);
+
+  useEffect(refresh, [refresh, collection]);
+
+  async function publish(push: boolean) {
+    setBusy(true);
+    setResult(null);
+    setFailed(false);
+    try {
+      const response = await api.publish(message.trim(), push);
+      if (response.error) {
+        setFailed(true);
+        setResult(response.error);
+      } else {
+        setResult(
+          push
+            ? "Published. The site rebuilds automatically — give it a few minutes."
+            : "Saved to this computer. Nothing is live yet.",
+        );
+        setMessage("");
+        refresh();
+      }
+    } catch (error) {
+      setFailed(true);
+      setResult(String(error));
+    } finally {
+      setBusy(false);
+    }
+  }
 
   return (
     <div className="p-8 max-w-2xl">
       <h1 className="text-2xl font-bold text-brand">Pick a record to edit</h1>
       <p className="mt-2 text-black/70">
         {count} {collection} in <code>src/content/{collection}/</code>. Changes save as you
-        type, straight into the YAML files.
+        type, straight into the files.
       </p>
+
       <div className="mt-6 rounded-xl bg-white ring-1 ring-black/5 p-4">
         <h2 className="font-semibold text-brand">Publishing</h2>
-        <p className="mt-1 text-sm text-black/70">
-          Edits here only change files on this machine. To put them on the live site, commit
-          and push:
-        </p>
-        <pre className="mt-2 rounded-lg bg-black/[0.04] p-3 text-xs overflow-x-auto"><code>sl add src/content
-sl commit -m "Update species accounts"
-sl push</code></pre>
-        {changed.length > 0 && (
+
+        {changed.length === 0 ? (
+          <p className="mt-1 text-sm text-black/60">
+            Nothing has changed since the last time you published.
+          </p>
+        ) : (
           <>
-            <p className="mt-3 text-sm font-semibold text-black/70">
-              {changed.length} uncommitted change{changed.length === 1 ? "" : "s"}:
+            <p className="mt-1 text-sm text-black/70">
+              {changed.length} file{changed.length === 1 ? "" : "s"} changed on this computer.
+              Describe what you changed, so the next person can see why.
             </p>
-            <ul className="mt-1 text-xs text-black/60 font-mono space-y-0.5 max-h-40 overflow-y-auto">
+            <ul className="mt-2 max-h-32 overflow-y-auto text-xs text-black/55 font-mono space-y-0.5">
               {changed.map((line) => (
                 <li key={line}>{line}</li>
               ))}
             </ul>
+
+            <input
+              type="text"
+              value={message}
+              onChange={(e) => setMessage(e.target.value)}
+              placeholder="e.g. Fixed the Marymoor Park directions"
+              className="mt-3 w-full rounded-lg border border-black/15 px-3 py-2 text-sm focus:border-brand focus:outline-none"
+            />
+
+            {/* Two steps, not one. A commit is local and reversible; a push is visible to
+                the world and kicks off a deploy. Collapsing them into a single button
+                makes the second one accidental. */}
+            <div className="mt-3 flex flex-wrap items-center gap-3">
+              <button
+                type="button"
+                disabled={busy || !message.trim()}
+                onClick={() => publish(false)}
+                className="rounded-full bg-black/5 text-brand px-4 py-2 text-sm font-semibold transition hover:bg-black/10 active:scale-95 disabled:opacity-40 disabled:cursor-not-allowed"
+              >
+                Save to this computer
+              </button>
+              <button
+                type="button"
+                disabled={busy || !message.trim() || !remote}
+                onClick={() => publish(true)}
+                title={remote ? undefined : "No remote is set up for this repository yet."}
+                className="rounded-full bg-pop text-brand px-4 py-2 text-sm font-semibold transition hover:brightness-95 active:scale-95 disabled:opacity-40 disabled:cursor-not-allowed"
+              >
+                Save and publish to the website
+              </button>
+              {busy && <span className="text-xs text-black/50">Working…</span>}
+            </div>
+
+            {!remote && (
+              <p className="mt-2 text-xs text-amber-700">
+                This copy is not connected to GitHub yet, so it can only save locally.
+              </p>
+            )}
           </>
+        )}
+
+        {result && (
+          <p
+            className={[
+              "mt-3 rounded-lg px-3 py-2 text-sm",
+              failed ? "bg-red-50 text-red-800 ring-1 ring-red-200" : "bg-pop/30 text-brand",
+            ].join(" ")}
+          >
+            {result}
+          </p>
         )}
       </div>
     </div>

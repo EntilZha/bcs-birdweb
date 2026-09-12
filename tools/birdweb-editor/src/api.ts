@@ -40,7 +40,20 @@ export const api = {
       body: JSON.stringify({ data }),
     }),
 
-  status: () => json<{ vcs: string | null; changed: string[] }>("/api/status"),
+  status: () =>
+    json<{ vcs: string | null; changed: string[]; remote: string | null }>("/api/status"),
+
+  publish: (message: string, push: boolean) =>
+    json<{
+      ok?: boolean;
+      pushed?: boolean;
+      error?: string;
+      steps?: Array<{ step: string; output: string }>;
+    }>("/api/publish", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ message, push }),
+    }),
 
   backups: () => json<{ backups: string[] }>("/api/backups").then((r) => r.backups),
 
