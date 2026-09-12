@@ -29,7 +29,7 @@ const legend: AbundanceCode[] = ["C", "F", "U", "R", "I", ""];
 
 {
   !recorded ? (
-    <p class="text-sm text-black/60 italic">
+    <p class="text-sm text-ink-muted italic">
       No month-by-month abundance data was recorded for {speciesName}. The rarity accounts
       were written separately from the main species accounts and carry no abundance table.
     </p>
@@ -43,11 +43,11 @@ const legend: AbundanceCode[] = ["C", "F", "U", "R", "I", ""];
           </caption>
           <thead>
             <tr>
-              <th class="text-left font-semibold text-black/60 pr-2 pb-1 w-40">Ecoregion</th>
+              <th class="text-left font-semibold text-ink-muted pr-2 pb-1 w-40">Ecoregion</th>
               {MONTHS.map((month, i) => (
                 <th
                   scope="col"
-                  class="pb-1 font-semibold text-black/50 text-[0.6875rem] text-center"
+                  class="pb-1 font-semibold text-ink-muted text-[0.6875rem] text-center"
                 >
                   <abbr title={MONTHS_LONG[i]} class="no-underline">
                     {month[0]}
@@ -63,7 +63,7 @@ const legend: AbundanceCode[] = ["C", "F", "U", "R", "I", ""];
                 <tr>
                   <th
                     scope="row"
-                    class="text-left font-medium text-black/80 pr-2 py-0.5 align-middle"
+                    class="text-left font-medium text-ink pr-2 py-0.5 align-middle"
                   >
                     <a
                       href={`${import.meta.env.BASE_URL}ecoregions/${slug}/`}
@@ -99,17 +99,17 @@ const legend: AbundanceCode[] = ["C", "F", "U", "R", "I", ""];
 
       {hidden.length > 0 && (
         <details class="text-xs">
-          <summary class="cursor-pointer text-black/55 hover:text-brand select-none">
+          <summary class="cursor-pointer text-ink-muted hover:text-brand select-none">
             Show {hidden.length} ecoregion{hidden.length === 1 ? "" : "s"} where {speciesName} is
             not recorded
           </summary>
-          <p class="mt-2 text-black/60">
+          <p class="mt-2 text-ink-muted">
             {hidden.map((s) => ECOREGION_NAME[s]).join(", ")}
           </p>
         </details>
       )}
 
-      <ul class="flex flex-wrap items-center gap-x-3 gap-y-1.5 text-[0.6875rem] text-black/60">
+      <ul class="flex flex-wrap items-center gap-x-3 gap-y-1.5 text-[0.6875rem] text-ink-muted">
         {legend.map((code) => (
           <li class="flex items-center gap-1.5">
             <span
@@ -138,8 +138,8 @@ const legend: AbundanceCode[] = ["C", "F", "U", "R", "I", ""];
         <dl class="grid gap-x-4 gap-y-1 text-xs sm:grid-cols-2">
           {present.map((slug) => (
             <div class="flex gap-2">
-              <dt class="text-black/55 shrink-0">{ECOREGION_NAME[slug]}:</dt>
-              <dd class="font-medium text-black/80">{seasonSummary(abundance, slug)}</dd>
+              <dt class="text-ink-muted shrink-0">{ECOREGION_NAME[slug]}:</dt>
+              <dd class="font-medium text-ink">{seasonSummary(abundance, slug)}</dd>
             </div>
           ))}
         </dl>

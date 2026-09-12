@@ -45,6 +45,20 @@
   --text-k-ui--line-height: 1.2;
   --text-k-ui--font-weight: 600;
 
+  /* Text colours, chosen by measured contrast against --color-cream rather than by eye.
+     WCAG 2.1 AA wants 4.5:1 for body text at any size below 18pt, and the opacities that
+     look right are not the ones that pass: black/50 on cream is 3.9:1 and fails, which is
+     what an axe run over this site turned up in 854 places.
+
+       --color-ink         #1c1c1c  14.9:1  body text
+       --color-ink-muted   #5f5d5b   6.1:1  captions, metadata, secondary prose
+       --color-ink-faint   #706e6c   4.7:1  the lightest text allowed anywhere
+
+     Anything lighter than ink-faint is decoration, not text, and must not carry meaning. */
+  --color-ink: #1c1c1c;
+  --color-ink-muted: #5f5d5b;
+  --color-ink-faint: #706e6c;
+
   /* Abundance scale, from the legacy site's own code definitions
      (C=Common, F=Fairly Common, U=Uncommon, R=Rare, I=Irregular, blank=absent).
      A single-hue ramp, because abundance is ordered data -- a categorical palette

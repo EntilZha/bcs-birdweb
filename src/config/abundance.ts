@@ -66,7 +66,7 @@ export const ABUNDANCE: Record<AbundanceCode, AbundanceLevel> = {
     description: "Not recorded in this ecoregion during this month.",
     rank: 0,
     swatch: "bg-abundance-none",
-    ink: "text-black/35",
+    ink: "text-ink-faint",
   },
 };
 

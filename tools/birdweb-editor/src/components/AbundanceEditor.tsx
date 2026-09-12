@@ -26,7 +26,7 @@ const SWATCH: Record<Code, string> = {
   U: "bg-abundance-u text-brand",
   R: "bg-abundance-r text-brand",
   I: "bg-abundance-i text-brand",
-  "": "bg-abundance-none text-black/35",
+  "": "bg-abundance-none text-ink-faint",
 };
 
 const MONTHS = ["J", "F", "M", "A", "M", "J", "J", "A", "S", "O", "N", "D"];
@@ -65,7 +65,7 @@ export default function AbundanceEditor({ ecoregions, value, onChange }: Props) 
       className="select-none"
     >
       <div className="flex flex-wrap items-center gap-2 mb-3">
-        <span className="text-xs font-semibold uppercase tracking-wide text-black/50">
+        <span className="text-xs font-semibold uppercase tracking-wide text-ink-muted">
           Paint with
         </span>
         {CODES.map((code) => (
@@ -93,7 +93,7 @@ export default function AbundanceEditor({ ecoregions, value, onChange }: Props) 
               {MONTHS.map((m, i) => (
                 <th
                   key={i}
-                  className="w-8 pb-1 font-semibold text-black/50"
+                  className="w-8 pb-1 font-semibold text-ink-muted"
                   title={MONTH_NAMES[i]}
                 >
                   {m}
@@ -107,7 +107,7 @@ export default function AbundanceEditor({ ecoregions, value, onChange }: Props) 
               const row = value[eco.slug] ?? Array(12).fill("");
               return (
                 <tr key={eco.slug}>
-                  <th className="text-left font-medium text-black/75 pr-2 py-0.5">
+                  <th className="text-left font-medium text-ink pr-2 py-0.5">
                     {eco.name}
                   </th>
                   {row.map((code, month) => (
@@ -134,14 +134,14 @@ export default function AbundanceEditor({ ecoregions, value, onChange }: Props) 
                     <button
                       type="button"
                       onClick={() => fillRow(eco.slug, brush)}
-                      className="rounded px-2 py-1 text-[0.6875rem] text-black/50 hover:bg-black/5 hover:text-brand"
+                      className="rounded px-2 py-1 text-[0.6875rem] text-ink-muted hover:bg-black/5 hover:text-brand"
                     >
                       fill row
                     </button>
                     <button
                       type="button"
                       onClick={() => fillRow(eco.slug, "")}
-                      className="rounded px-2 py-1 text-[0.6875rem] text-black/50 hover:bg-black/5 hover:text-brand"
+                      className="rounded px-2 py-1 text-[0.6875rem] text-ink-muted hover:bg-black/5 hover:text-brand"
                     >
                       clear
                     </button>
@@ -152,7 +152,7 @@ export default function AbundanceEditor({ ecoregions, value, onChange }: Props) 
           </tbody>
         </table>
       </div>
-      <p className="mt-2 text-xs text-black/45">
+      <p className="mt-2 text-xs text-ink-faint">
         Click a cell to set it, or drag across a row to paint a season.
       </p>
     </div>

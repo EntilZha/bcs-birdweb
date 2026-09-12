@@ -40,6 +40,14 @@ const isActive = (match: string) => path.endsWith(match) || path.includes(`${mat
     <title>{title}</title>
   </head>
   <body class="min-h-screen flex flex-col antialiased">
+    <!-- First thing in the tab order. The home page focuses its search box on load, so
+         without this a keyboard user starts in the middle of the page with the header and
+         nav only reachable by tabbing backwards. -->
+    <a
+      href="#maincontent"
+      class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:m-2 focus:rounded-lg focus:bg-pop focus:px-4 focus:py-2 focus:text-sm focus:font-semibold focus:text-brand"
+      >Skip to content</a
+    >
     <header class="bg-brand text-white shadow-md sticky top-0 z-30">
       <div class="mx-auto max-w-6xl px-4 py-3 flex items-center justify-between gap-4">
         <a href={base} class="flex items-center gap-3 shrink-0">
@@ -88,7 +96,7 @@ const isActive = (match: string) => path.endsWith(match) || path.includes(`${mat
       </nav>
     </header>
 
-    <main class="flex-1 w-full">
+    <main id="maincontent" class="flex-1 w-full">
       {
         narrow ? (
           <div class="mx-auto max-w-6xl px-4 py-6 sm:py-8">

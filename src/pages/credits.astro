@@ -26,7 +26,7 @@ const totalPhotos = credited.reduce((sum, [, v]) => sum + v.count, 0);
 
 <Layout title="Credits — BirdWeb" description="The volunteers, authors, photographers and scientists who built BirdWeb.">
   <h1 class="text-3xl font-bold text-brand">Credits</h1>
-  <div class="mt-3 max-w-3xl space-y-3 text-[0.9375rem] leading-relaxed text-black/80">
+  <div class="mt-3 max-w-3xl space-y-3 text-[0.9375rem] leading-relaxed text-ink">
     <p>
       BirdWeb is the work of a team of Birds Connect Seattle volunteers. The Science
       Committee has guided it since its conception in 1999. Phase I (begun July 2000,
@@ -61,39 +61,39 @@ const totalPhotos = credited.reduce((sum, [, v]) => sum + v.count, 0);
     <h2 class="text-xl font-bold text-brand">Authors and production</h2>
     <div class="mt-3 grid gap-5 sm:grid-cols-2 lg:grid-cols-3 text-sm">
       <div>
-        <h3 class="font-semibold text-black/80">Species accounts</h3>
-        <p class="text-black/65 mt-1">Emily Sprong (order, family and species accounts), Hal Opperman (rarities), Jennifer Brookshier, Marti Louther, Brenda Senturia</p>
+        <h3 class="font-semibold text-ink">Species accounts</h3>
+        <p class="text-ink mt-1">Emily Sprong (order, family and species accounts), Hal Opperman (rarities), Jennifer Brookshier, Marti Louther, Brenda Senturia</p>
       </div>
       <div>
-        <h3 class="font-semibold text-black/80">Production management, Phase I</h3>
-        <p class="text-black/65 mt-1">Hal Opperman (chair), Tom Aversa, Ellen Blackstone, Kelly Cassidy, Brenda Senturia, Ron Simons, Emily Sprong</p>
+        <h3 class="font-semibold text-ink">Production management, Phase I</h3>
+        <p class="text-ink mt-1">Hal Opperman (chair), Tom Aversa, Ellen Blackstone, Kelly Cassidy, Brenda Senturia, Ron Simons, Emily Sprong</p>
       </div>
       <div>
-        <h3 class="font-semibold text-black/80">Production management, Phase II</h3>
-        <p class="text-black/65 mt-1">Helle Bielefeldt-Ohmann (chair), Tom Aversa, Ellen Blackstone, Hal Opperman, Dennis Paulson, Adam Sedgley, Brenda Senturia, Ron Simons, Margot Stiles</p>
+        <h3 class="font-semibold text-ink">Production management, Phase II</h3>
+        <p class="text-ink mt-1">Helle Bielefeldt-Ohmann (chair), Tom Aversa, Ellen Blackstone, Hal Opperman, Dennis Paulson, Adam Sedgley, Brenda Senturia, Ron Simons, Margot Stiles</p>
       </div>
       <div>
-        <h3 class="font-semibold text-black/80">Staff project leads</h3>
-        <p class="text-black/65 mt-1">Emily Sprong (Phase I); Adam Sedgley and Margot Stiles (Phase II)</p>
+        <h3 class="font-semibold text-ink">Staff project leads</h3>
+        <p class="text-ink mt-1">Emily Sprong (Phase I); Adam Sedgley and Margot Stiles (Phase II)</p>
       </div>
       <div>
-        <h3 class="font-semibold text-black/80">Web developers, Phase I</h3>
-        <p class="text-black/65 mt-1">Chihiro Nishihara (designer), Adam Ahringer, Kelly Crimmins, Steve Garvin, Deni Mensing, Andrea Sparling, Shang-fan Tu</p>
+        <h3 class="font-semibold text-ink">Web developers, Phase I</h3>
+        <p class="text-ink mt-1">Chihiro Nishihara (designer), Adam Ahringer, Kelly Crimmins, Steve Garvin, Deni Mensing, Andrea Sparling, Shang-fan Tu</p>
       </div>
       <div>
-        <h3 class="font-semibold text-black/80">Web developers, Phase II</h3>
-        <p class="text-black/65 mt-1">Alan Humphrey (tech lead), Josh Freedman (tech lead), Praveen Chettypally, Liang Cui, Kristin Marshall, Madhuritha Reddy, Rochelle Ribeiro, Dean Simpson, Vanarasi Swamy, Sri Veena Syam</p>
+        <h3 class="font-semibold text-ink">Web developers, Phase II</h3>
+        <p class="text-ink mt-1">Alan Humphrey (tech lead), Josh Freedman (tech lead), Praveen Chettypally, Liang Cui, Kristin Marshall, Madhuritha Reddy, Rochelle Ribeiro, Dean Simpson, Vanarasi Swamy, Sri Veena Syam</p>
       </div>
       <div>
-        <h3 class="font-semibold text-black/80">Graphic design</h3>
-        <p class="text-black/65 mt-1">Adam Sedgley</p>
+        <h3 class="font-semibold text-ink">Graphic design</h3>
+        <p class="text-ink mt-1">Adam Sedgley</p>
       </div>
     </div>
   </section>
 
   <section class="mt-9">
     <h2 class="text-xl font-bold text-brand">Photographers</h2>
-    <p class="mt-1 text-sm text-black/60">
+    <p class="mt-1 text-sm text-ink-muted">
       {credited.length} photographers contributed the {totalPhotos} images on this site. Every
       photograph remains the property of its photographer.
     </p>
@@ -104,10 +104,10 @@ const totalPhotos = credited.reduce((sum, [, v]) => sum + v.count, 0);
             {info.url ? (
               <a href={info.url} target="_blank" rel="noopener" class="text-brand hover:underline">{name}</a>
             ) : (
-              <span class="text-black/80">{name}</span>
+              <span class="text-ink">{name}</span>
             )}
           </span>
-          <span class="text-xs text-black/40 tabular-nums shrink-0">{info.count}</span>
+          <span class="text-xs text-ink-faint tabular-nums shrink-0">{info.count}</span>
         </li>
       ))}
     </ul>

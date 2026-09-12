@@ -55,7 +55,11 @@ export default function SearchBox({
   }, [active]);
 
   useEffect(() => {
-    if (autofocus && !kiosk) inputRef.current?.focus();
+    if (!autofocus || kiosk) return;
+    // Coarse pointer means a touch device, where focusing on load raises the on-screen
+    // keyboard over the page before the visitor has asked to search for anything.
+    const touch = window.matchMedia?.("(pointer: coarse)").matches;
+    if (!touch) inputRef.current?.focus();
   }, [autofocus, kiosk]);
 
   function go(entry: SearchEntry) {
@@ -113,7 +117,7 @@ export default function SearchBox({
           ].join(" ")}
         >
           {results.length === 0 && (
-            <li className={kiosk ? "px-6 py-5 text-k-meta text-black/55" : "px-4 py-3 text-sm text-black/55"}>
+            <li className={kiosk ? "px-6 py-5 text-k-meta text-ink-muted" : "px-4 py-3 text-sm text-ink-muted"}>
               Nothing matched “{query.trim()}”.
             </li>
           )}
@@ -139,7 +143,7 @@ export default function SearchBox({
                 </span>
                 <span
                   className={[
-                    "block text-black/55",
+                    "block text-ink-muted",
                     kiosk ? "text-base" : "text-xs",
                   ].join(" ")}
                 >

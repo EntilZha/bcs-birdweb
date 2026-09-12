@@ -20,7 +20,7 @@ const rows = ECOREGIONS.map((eco) => ({
 
 <Layout title="Ecoregions — BirdWeb" description="Washington's ten ecoregions, from the open Pacific to the Columbia Plateau, and the birds that live in each.">
   <h1 class="text-3xl font-bold text-brand">Ecoregions</h1>
-  <div class="mt-2 max-w-3xl text-[0.9375rem] leading-relaxed text-black/80">
+  <div class="mt-2 max-w-3xl text-[0.9375rem] leading-relaxed text-ink">
     <p>
       Washington's birdlife is shaped by landscape. BirdWeb divides the state into ten
       ecoregions, running roughly west to east from the open Pacific to the Columbia
@@ -38,7 +38,7 @@ const rows = ECOREGIONS.map((eco) => ({
       <li>
         <a href={`${base}ecoregions/${row.slug}/`} class="block h-full rounded-2xl bg-white ring-1 ring-black/5 p-5 shadow-sm transition hover:shadow-md active:scale-[0.99]">
           <h2 class="font-bold text-lg text-brand">{row.name}</h2>
-          <p class="mt-1 text-xs text-black/55">
+          <p class="mt-1 text-xs text-ink-muted">
             {row.speciesCount} species · {row.siteCount} birding site{row.siteCount === 1 ? "" : "s"}
           </p>
         </a>

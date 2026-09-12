@@ -34,7 +34,7 @@ for (const entry of species) {
 
 <Layout title={`All birds — BirdWeb`} description={`All ${species.length} bird species on the Washington state checklist, with photographs, accounts and abundance data.`}>
   <h1 class="text-3xl font-bold text-brand">Birds of Washington</h1>
-  <p class="mt-1 text-black/65">
+  <p class="mt-1 text-ink">
     {species.length} species in {groups.length} families, in taxonomic order.
   </p>
 
@@ -43,7 +43,7 @@ for (const entry of species) {
   </div>
 
   <nav class="mt-7 rounded-2xl bg-white ring-1 ring-black/5 p-4">
-    <h2 class="text-xs font-semibold uppercase tracking-wide text-black/50 mb-2">Jump to family</h2>
+    <h2 class="text-xs font-semibold uppercase tracking-wide text-ink-muted mb-2">Jump to family</h2>
     <ul class="flex flex-wrap gap-1.5 p-0 list-none">
       {groups.map((group) => (
         <li>
@@ -59,10 +59,10 @@ for (const entry of species) {
     <section id={group.slug} class="mt-10 scroll-mt-32">
       <div class="flex flex-wrap items-baseline gap-x-3 gap-y-1 mb-4">
         <h2 class="text-xl font-bold text-brand">{group.common ?? group.name}</h2>
-        <a href={`${base}families/${group.slug}/`} class="text-sm italic text-black/55 hover:text-brand hover:underline">
+        <a href={`${base}families/${group.slug}/`} class="text-sm italic text-ink-muted hover:text-brand hover:underline">
           {group.name}
         </a>
-        <span class="text-xs text-black/45">{group.members.length} species</span>
+        <span class="text-xs text-ink-faint">{group.members.length} species</span>
       </div>
       <ul class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4 p-0 list-none">
         {group.members.map((entry) => <SpeciesCard entry={entry} />)}

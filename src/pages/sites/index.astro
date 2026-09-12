@@ -19,7 +19,7 @@ const geocoded = sites.filter((s) => s.data.lat != null).length;
 
 <Layout title="Birding sites — BirdWeb" description={`${sites.length} places to go birding in Washington, with habitat notes, the birds to expect, and directions.`}>
   <h1 class="text-3xl font-bold text-brand">Birding sites</h1>
-  <p class="mt-1 text-black/65">
+  <p class="mt-1 text-ink">
     {sites.length} places to go birding across Washington, grouped by ecoregion.
   </p>
   <p class="mt-2 flex flex-wrap gap-x-4 text-sm">
@@ -41,7 +41,7 @@ const geocoded = sites.filter((s) => s.data.lat != null).length;
         <h2 class="text-xl font-bold text-brand">
           <a href={`${base}ecoregions/${group.slug}/`} class="hover:underline">{group.name}</a>
         </h2>
-        <span class="text-xs text-black/45">{group.members.length} sites</span>
+        <span class="text-xs text-ink-faint">{group.members.length} sites</span>
       </div>
       <ul class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3 p-0 list-none">
         {group.members.map((site) => (
@@ -49,7 +49,7 @@ const geocoded = sites.filter((s) => s.data.lat != null).length;
             <a href={`${base}sites/${site.id}/`} class="block h-full rounded-xl bg-white ring-1 ring-black/5 px-4 py-3 shadow-sm transition hover:shadow-md active:scale-[0.99] min-h-11 flex flex-col justify-center">
               <span class="font-semibold text-brand">{site.data.name}</span>
               {site.data.ecoregions.length > 1 && (
-                <span class="block text-xs text-black/50 mt-0.5">
+                <span class="block text-xs text-ink-muted mt-0.5">
                   Also in {site.data.ecoregions.filter((e) => e !== group.slug).map((e) => ECOREGION_NAME[e]).join(", ")}
                 </span>
               )}

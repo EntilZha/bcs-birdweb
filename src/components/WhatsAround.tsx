@@ -68,7 +68,7 @@ export default function WhatsAround({ species, base, initialMonth, initialEcoreg
       <div className="rounded-2xl bg-white ring-1 ring-black/5 p-4 sm:p-5 shadow-sm space-y-4">
         <div className="grid gap-4 sm:grid-cols-2">
           <label className="block">
-            <span className="block text-xs font-semibold uppercase tracking-wide text-black/50 mb-1.5">
+            <span className="block text-xs font-semibold uppercase tracking-wide text-ink-muted mb-1.5">
               Where
             </span>
             <select
@@ -85,7 +85,7 @@ export default function WhatsAround({ species, base, initialMonth, initialEcoreg
           </label>
 
           <label className="block">
-            <span className="block text-xs font-semibold uppercase tracking-wide text-black/50 mb-1.5">
+            <span className="block text-xs font-semibold uppercase tracking-wide text-ink-muted mb-1.5">
               When
             </span>
             <select
@@ -103,7 +103,7 @@ export default function WhatsAround({ species, base, initialMonth, initialEcoreg
         </div>
 
         <div>
-          <span className="block text-xs font-semibold uppercase tracking-wide text-black/50 mb-1.5">
+          <span className="block text-xs font-semibold uppercase tracking-wide text-ink-muted mb-1.5">
             How likely
           </span>
           {/* One scrolling row rather than a wrapping grid: a second row moves every time
@@ -124,7 +124,7 @@ export default function WhatsAround({ species, base, initialMonth, initialEcoreg
                     "shrink-0 rounded-full px-3.5 py-2 text-xs font-semibold transition active:scale-95 min-h-11 whitespace-nowrap",
                     minRank === rank
                       ? "bg-pop text-brand"
-                      : "bg-black/5 text-black/70 hover:bg-black/10",
+                      : "bg-black/5 text-ink hover:bg-black/10",
                   ].join(" ")}
                 >
                   {label}
@@ -139,12 +139,12 @@ export default function WhatsAround({ species, base, initialMonth, initialEcoreg
         <h2 className="text-xl font-bold text-brand">
           {results.length} species
         </h2>
-        <p className="text-sm text-black/60">
+        <p className="text-sm text-ink-muted">
           in the {ECOREGIONS[regionIndex]?.name} in {MONTHS_LONG[month]}
         </p>
       </div>
 
-      <ul className="mt-2 flex flex-wrap gap-x-3 gap-y-1 text-xs text-black/60 p-0 list-none">
+      <ul className="mt-2 flex flex-wrap gap-x-3 gap-y-1 text-xs text-ink-muted p-0 list-none">
         {RANKS.filter((code) => counts.get(code)).map((code) => (
           <li key={code} className="flex items-center gap-1.5">
             <span
@@ -163,7 +163,7 @@ export default function WhatsAround({ species, base, initialMonth, initialEcoreg
       </ul>
 
       {results.length === 0 ? (
-        <p className="mt-8 text-black/60">
+        <p className="mt-8 text-ink-muted">
           Nothing is recorded at that level in the {ECOREGIONS[regionIndex]?.name} in{" "}
           {MONTHS_LONG[month]}. Try a lower likelihood, or a different month.
         </p>
@@ -184,7 +184,7 @@ export default function WhatsAround({ species, base, initialMonth, initialEcoreg
                       className="w-full aspect-square object-cover bg-black/5"
                     />
                   ) : (
-                    <div className="w-full aspect-square bg-black/5 flex items-center justify-center text-xs text-black/35">
+                    <div className="w-full aspect-square bg-black/5 flex items-center justify-center text-xs text-ink-faint">
                       No photo
                     </div>
                   )}
@@ -204,7 +204,7 @@ export default function WhatsAround({ species, base, initialMonth, initialEcoreg
                   <p className="text-sm font-semibold text-brand leading-snug group-hover:underline">
                     {s.name}
                   </p>
-                  <p className="text-xs italic text-black/50 leading-snug">{s.latin}</p>
+                  <p className="text-xs italic text-ink-muted leading-snug">{s.latin}</p>
                 </div>
               </a>
             </li>

@@ -146,7 +146,7 @@ export default function KioskApp({ species, base, buildOrigin, initialMonth }: P
             autoComplete="off"
             autoCorrect="off"
             spellCheck={false}
-            className="w-full rounded-2xl bg-white/95 px-6 text-k-ui min-h-touch text-brand placeholder:text-black/40 focus:outline-none focus:ring-4 focus:ring-pop"
+            className="w-full rounded-2xl bg-white/95 px-6 text-k-ui min-h-touch text-brand placeholder:text-ink-faint focus:outline-none focus:ring-4 focus:ring-pop"
           />
         </div>
 
@@ -190,7 +190,7 @@ export default function KioskApp({ species, base, buildOrigin, initialMonth }: P
                 : `Common around Seattle in ${MONTHS_LONG[initialMonth]}`}
             </h1>
             {results.length === 0 ? (
-              <p className="text-k-title text-black/55">
+              <p className="text-k-title text-ink-muted">
                 Nothing matched “{query.trim()}”.
               </p>
             ) : (
@@ -216,7 +216,7 @@ export default function KioskApp({ species, base, buildOrigin, initialMonth }: P
                         <p className="text-k-meta font-semibold text-brand leading-snug">
                           {s.name}
                         </p>
-                        <p className="text-base italic text-black/50 leading-snug">{s.latin}</p>
+                        <p className="text-base italic text-ink-muted leading-snug">{s.latin}</p>
                       </div>
                     </button>
                   </li>
@@ -265,12 +265,12 @@ function SpeciesDetail({
       )}
       <div>
         <h1 className="text-k-hero text-brand">{species.name}</h1>
-        <p className="text-k-title italic text-black/55 mt-1">{species.latin}</p>
+        <p className="text-k-title italic text-ink-muted mt-1">{species.latin}</p>
         {species.status && (
-          <p className="text-k-title text-black/85 mt-4">{species.status}</p>
+          <p className="text-k-title text-ink mt-4">{species.status}</p>
         )}
         {species.blurb && (
-          <p className="text-k-meta leading-relaxed text-black/80 mt-4">{species.blurb}</p>
+          <p className="text-k-meta leading-relaxed text-ink mt-4">{species.blurb}</p>
         )}
 
         {present.length > 0 && (
@@ -301,7 +301,7 @@ function SpeciesDetail({
           <QRCodeSVG value={url} size={120} level="M" fgColor="#0a3c23" bgColor="#ffffff" />
           <div>
             <p className="text-k-ui font-semibold text-brand">Take it with you</p>
-            <p className="text-k-meta text-black/60 mt-1">
+            <p className="text-k-meta text-ink-muted mt-1">
               Scan for the full account — photos, sounds and where to find it all year.
             </p>
           </div>

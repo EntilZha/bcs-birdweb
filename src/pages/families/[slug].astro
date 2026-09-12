@@ -24,7 +24,7 @@ const base = import.meta.env.BASE_URL;
 ---
 
 <Layout title={`${entry.data.name} — BirdWeb`} description={entry.data.description.slice(0, 180)}>
-  <nav class="text-xs text-black/55 mb-4">
+  <nav class="text-xs text-ink-muted mb-4">
     <a href={`${base}birds/`} class="hover:text-brand hover:underline">Birds</a>
     {entry.data.order && (
       <>
@@ -35,7 +35,7 @@ const base = import.meta.env.BASE_URL;
   </nav>
 
   <h1 class="text-3xl font-bold text-brand">{entry.data.common_name ?? entry.data.name}</h1>
-  <p class="text-lg italic text-black/60">{entry.data.name}</p>
+  <p class="text-lg italic text-ink-muted">{entry.data.name}</p>
 
   {entry.data.description && (
     <div class="mt-4 max-w-3xl rounded-2xl bg-white ring-1 ring-black/5 p-5">

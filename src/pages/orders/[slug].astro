@@ -34,12 +34,12 @@ const base = import.meta.env.BASE_URL;
 ---
 
 <Layout title={`${entry.data.name} — BirdWeb`} description={entry.data.description.slice(0, 180)}>
-  <nav class="text-xs text-black/55 mb-4">
+  <nav class="text-xs text-ink-muted mb-4">
     <a href={`${base}birds/`} class="hover:text-brand hover:underline">Birds</a>
   </nav>
 
   <h1 class="text-3xl font-bold text-brand">{entry.data.name}</h1>
-  <p class="text-black/65 mt-1">
+  <p class="text-ink mt-1">
     {total} species in Washington, in {families.length} famil{families.length === 1 ? "y" : "ies"}.
   </p>
 
@@ -54,8 +54,8 @@ const base = import.meta.env.BASE_URL;
       <li>
         <a href={`${base}families/${family.slug}/`} class="block h-full rounded-2xl bg-white ring-1 ring-black/5 p-5 shadow-sm transition hover:shadow-md active:scale-[0.99]">
           <h2 class="font-bold text-brand">{family.data.common_name ?? family.data.name}</h2>
-          <p class="text-sm italic text-black/55">{family.data.name}</p>
-          <p class="mt-2 text-xs text-black/50">{family.count} species</p>
+          <p class="text-sm italic text-ink-muted">{family.data.name}</p>
+          <p class="mt-2 text-xs text-ink-muted">{family.count} species</p>
         </a>
       </li>
     ))}

@@ -12,17 +12,19 @@ const base = import.meta.env.BASE_URL;
 <html lang="en" class="h-dvh overflow-hidden">
   <head>
     <meta charset="UTF-8" />
-    <!-- Zoom locked, and only here. A shared wall screen that a visitor has pinch-zoomed
-         and walked away from is broken until staff notice; the public pages that phones
-         actually land on keep normal zoom. -->
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
-    />
+    <!-- Zoom stays enabled, including here.
+         The original reasoning was that a visitor who pinch-zooms a shared wall screen and
+         walks away leaves it broken until staff notice. But this display is *for* visitors,
+         some of whom need to zoom to read it at all, and disabling that is a WCAG 2.1
+         failure (1.4.4) rather than a tidiness preference. The idle reset already solves
+         the real problem: the screen returns to its own view on its own. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" type="image/png" href={`${base}bcs-favicon.png`} />
     <title>{title}</title>
   </head>
   <body class="kiosk h-dvh overflow-hidden flex flex-col antialiased">
+    <!-- No skip link here: the kiosk is a single screen whose first control is the search
+         box, so there is nothing to skip past. -->
     <slot />
   </body>
 </html>

@@ -117,7 +117,7 @@ export default function MapPicker({ lat, lon, name, confirmed, onChange }: Props
         ref={holder}
         className="h-80 w-full rounded-xl ring-1 ring-black/10 overflow-hidden"
       />
-      <p className="mt-1.5 text-xs text-black/50">
+      <p className="mt-1.5 text-xs text-ink-muted">
         Click the map to place the pin, or drag it. Zoom in far enough to see that it is on
         the right lake, headland or trailhead before confirming.
       </p>

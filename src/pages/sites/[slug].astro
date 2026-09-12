@@ -26,7 +26,7 @@ const sections = SECTIONS.filter(([key]) => data.sections[key]);
 ---
 
 <Layout title={`${data.name} — BirdWeb`} description={`Birding at ${data.name}: habitat, the birds to expect, and directions. From Birds Connect Seattle's guide to the birds of Washington.`}>
-  <nav class="text-xs text-black/55 mb-4">
+  <nav class="text-xs text-ink-muted mb-4">
     <a href={`${base}sites/`} class="hover:text-brand hover:underline">Birding Sites</a>
   </nav>
 
@@ -40,13 +40,13 @@ const sections = SECTIONS.filter(([key]) => data.sections[key]);
           </a>
         ))}
       </p>
-      {data.number && <p class="mt-2 text-xs text-black/45">Site {data.number} on the BirdWeb ecoregion map</p>}
+      {data.number && <p class="mt-2 text-xs text-ink-faint">Site {data.number} on the BirdWeb ecoregion map</p>}
     </div>
     {hero && (
       <figure class="overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-black/5">
         <Image src={hero} alt={data.photos[0].caption || data.name} widths={[400, 800]} sizes="(min-width: 1024px) 36rem, 100vw" class="w-full object-cover" loading="eager" />
         {data.photos[0].credit.name && (
-          <figcaption class="px-4 py-2 text-xs text-black/55">&copy; {data.photos[0].credit.name}</figcaption>
+          <figcaption class="px-4 py-2 text-xs text-ink-muted">&copy; {data.photos[0].credit.name}</figcaption>
         )}
       </figure>
     )}
@@ -61,7 +61,7 @@ const sections = SECTIONS.filter(([key]) => data.sections[key]);
     ))}
   </div>
 
-  <p class="mt-10 text-xs text-black/45">
+  <p class="mt-10 text-xs text-ink-faint">
     Site account &copy; Birds Connect Seattle. Archived from
     <a href={data.source.url} target="_blank" rel="noopener" class="underline decoration-sage underline-offset-2 hover:text-brand">the original BirdWeb</a>
     on {data.source.archived}.

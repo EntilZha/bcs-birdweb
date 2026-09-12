@@ -17,7 +17,7 @@ const concern = (await getCollection("species"))
   description={`${concern.length} Washington bird species carry a federal, state or conservation-organization designation of concern.`}
 >
   <h1 class="text-3xl font-bold text-brand">{page?.data.title ?? "Species of Special Concern"}</h1>
-  <p class="mt-1 text-black/65">
+  <p class="mt-1 text-ink">
     {concern.length} of Washington's birds carry a designation of concern.
   </p>
 
@@ -32,7 +32,7 @@ const concern = (await getCollection("species"))
     {concern.map((entry) => <SpeciesCard entry={entry} />)}
   </ul>
 
-  <p class="mt-8 text-xs text-black/45">
+  <p class="mt-8 text-xs text-ink-faint">
     Designations as recorded by the BCS Science Committee when these accounts were written.
     Conservation listings change; check the
     <a href="https://wdfw.wa.gov/species-habitats/at-risk" target="_blank" rel="noopener"

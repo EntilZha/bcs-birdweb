@@ -37,7 +37,7 @@ const name = displayName(data);
           loading="lazy"
         />
       ) : (
-        <div class="w-full aspect-square bg-black/5 flex items-center justify-center text-xs text-black/35">
+        <div class="w-full aspect-square bg-black/5 flex items-center justify-center text-xs text-ink-faint">
           No photo
         </div>
       )
@@ -51,7 +51,7 @@ const name = displayName(data);
       >
         {name}
       </p>
-      <p class:list={["italic text-black/50 leading-snug", kiosk ? "text-base" : "text-xs"]}>
+      <p class:list={["italic text-ink-muted leading-snug", kiosk ? "text-base" : "text-xs"]}>
         {scientificName(data)}
       </p>
     </div>

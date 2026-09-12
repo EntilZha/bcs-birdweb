@@ -42,14 +42,14 @@ const label = (key: string) => key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.
 ---
 
 <Layout title={`${data.name} ecoregion — BirdWeb`} description={`The ${data.name} ecoregion of Washington: its landscape, its birds, and ${sites.length} birding sites.`}>
-  <nav class="text-xs text-black/55 mb-4">
+  <nav class="text-xs text-ink-muted mb-4">
     <a href={`${base}ecoregions/`} class="hover:text-brand hover:underline">Ecoregions</a>
   </nav>
 
   <div class="grid gap-6 lg:grid-cols-[minmax(0,1.4fr)_minmax(0,1fr)] lg:items-start">
     <div>
       <h1 class="text-3xl sm:text-4xl font-bold text-brand">{data.name}</h1>
-      <p class="mt-1 text-black/65">
+      <p class="mt-1 text-ink">
         {speciesCount} species recorded · {sites.length} birding site{sites.length === 1 ? "" : "s"}
       </p>
       <div class="mt-5 space-y-6 max-w-2xl">
@@ -64,7 +64,7 @@ const label = (key: string) => key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.
     {map && (
       <figure class="rounded-2xl bg-white shadow-sm ring-1 ring-black/5 p-3">
         <Image src={map} alt={`Map of the ${data.name} ecoregion`} widths={[300, 600]} sizes="(min-width: 1024px) 24rem, 90vw" class="w-full rounded-lg" loading="lazy" />
-        <figcaption class="mt-2 text-xs text-black/55">Birding sites in the {data.name}</figcaption>
+        <figcaption class="mt-2 text-xs text-ink-muted">Birding sites in the {data.name}</figcaption>
       </figure>
     )}
   </div>
@@ -76,7 +76,7 @@ const label = (key: string) => key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.
         {sites.map((site) => (
           <li>
             <a href={`${base}sites/${site.id}/`} class="flex items-center gap-3 h-full rounded-xl bg-white ring-1 ring-black/5 px-4 py-3 shadow-sm transition hover:shadow-md active:scale-[0.99] min-h-11">
-              {site.data.number && <span class="text-xs font-semibold text-black/35 tabular-nums">{site.data.number}</span>}
+              {site.data.number && <span class="text-xs font-semibold text-ink-faint tabular-nums">{site.data.number}</span>}
               <span class="font-semibold text-brand">{site.data.name}</span>
             </a>
           </li>
@@ -88,7 +88,7 @@ const label = (key: string) => key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.
   {common.length > 0 && (
     <section class="mt-10">
       <h2 class="text-xl font-bold text-brand mb-1">Common birds here</h2>
-      <p class="text-sm text-black/60 mb-3">
+      <p class="text-sm text-ink-muted mb-3">
         {common.length} species reach “{ABUNDANCE.C.label}” in the {data.name} at some point in the year.
       </p>
       <ul class="flex flex-wrap gap-2 p-0 list-none">

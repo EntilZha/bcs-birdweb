@@ -107,10 +107,10 @@ export default function App() {
                   ].join(" ")}
                 >
                   <span className="block text-sm font-medium text-brand">{record.name}</span>
-                  <span className="block text-xs text-black/50 italic">
+                  <span className="block text-xs text-ink-muted italic">
                     {record.scientific ?? record.family ?? record.slug}
                   </span>
-                  <span className="mt-0.5 flex gap-1.5 text-[0.625rem] text-black/40">
+                  <span className="mt-0.5 flex gap-1.5 text-[0.625rem] text-ink-faint">
                     {record.photoCount > 0 && <span>{record.photoCount} photos</span>}
                     {collection === "species" && !record.hasAbundance && (
                       <span className="text-amber-700">no abundance</span>
@@ -184,7 +184,7 @@ function Welcome({ collection, count }: { collection: Collection; count: number 
   return (
     <div className="p-8 max-w-2xl">
       <h1 className="text-2xl font-bold text-brand">Pick a record to edit</h1>
-      <p className="mt-2 text-black/70">
+      <p className="mt-2 text-ink">
         {count} {collection} in <code>src/content/{collection}/</code>. Changes save as you
         type, straight into the files.
       </p>
@@ -193,16 +193,16 @@ function Welcome({ collection, count }: { collection: Collection; count: number 
         <h2 className="font-semibold text-brand">Publishing</h2>
 
         {changed.length === 0 ? (
-          <p className="mt-1 text-sm text-black/60">
+          <p className="mt-1 text-sm text-ink-muted">
             Nothing has changed since the last time you published.
           </p>
         ) : (
           <>
-            <p className="mt-1 text-sm text-black/70">
+            <p className="mt-1 text-sm text-ink">
               {changed.length} file{changed.length === 1 ? "" : "s"} changed on this computer.
               Describe what you changed, so the next person can see why.
             </p>
-            <ul className="mt-2 max-h-32 overflow-y-auto text-xs text-black/55 font-mono space-y-0.5">
+            <ul className="mt-2 max-h-32 overflow-y-auto text-xs text-ink-muted font-mono space-y-0.5">
               {changed.map((line) => (
                 <li key={line}>{line}</li>
               ))}
@@ -237,7 +237,7 @@ function Welcome({ collection, count }: { collection: Collection; count: number 
               >
                 Save and publish to the website
               </button>
-              {busy && <span className="text-xs text-black/50">Working…</span>}
+              {busy && <span className="text-xs text-ink-muted">Working…</span>}
             </div>
 
             {!remote && (
@@ -265,7 +265,7 @@ function Welcome({ collection, count }: { collection: Collection; count: number 
 
 function StatusPill({ state }: { state: SaveState }) {
   const map: Record<SaveState, [string, string]> = {
-    clean: ["All changes saved", "text-black/45"],
+    clean: ["All changes saved", "text-ink-faint"],
     dirty: ["Unsaved changes…", "text-amber-700"],
     saving: ["Saving…", "text-amber-700"],
     saved: ["All changes saved", "text-green-700"],
@@ -289,7 +289,7 @@ function RecordEditor({ collection, slug }: { collection: Collection; slug: stri
 
   const { state, issues } = useAutosave(record ?? {}, save, { enabled: record !== null });
 
-  if (!record) return <div className="p-8 text-black/50">Loading…</div>;
+  if (!record) return <div className="p-8 text-ink-muted">Loading…</div>;
 
   const set = (patch: Record<string, any>) => setRecord({ ...record, ...patch });
   const setSection = (key: string, text: string) =>
@@ -303,7 +303,7 @@ function RecordEditor({ collection, slug }: { collection: Collection; slug: stri
       <div className="flex items-baseline justify-between gap-4 sticky top-0 bg-cream/95 backdrop-blur py-2 -mt-2 z-10">
         <div>
           <h1 className="text-2xl font-bold text-brand">{title}</h1>
-          <p className="text-xs text-black/45 font-mono">
+          <p className="text-xs text-ink-faint font-mono">
             src/content/{collection}/{slug}.yaml
           </p>
         </div>
@@ -329,7 +329,7 @@ function RecordEditor({ collection, slug }: { collection: Collection; slug: stri
             placeholder="e.g. Common resident."
             className="w-full rounded-lg border border-black/15 px-3 py-2 focus:border-brand focus:outline-none"
           />
-          <label className="mt-2 flex items-center gap-2 text-sm text-black/70">
+          <label className="mt-2 flex items-center gap-2 text-sm text-ink">
             <input
               type="checkbox"
               checked={Boolean(record.species_of_concern)}
@@ -342,7 +342,7 @@ function RecordEditor({ collection, slug }: { collection: Collection; slug: stri
       )}
 
       <section>
-        <h2 className="text-sm font-semibold uppercase tracking-wide text-black/50 mb-2">
+        <h2 className="text-sm font-semibold uppercase tracking-wide text-ink-muted mb-2">
           Account
         </h2>
         <div className="space-y-4">
@@ -357,7 +357,7 @@ function RecordEditor({ collection, slug }: { collection: Collection; slug: stri
             </Field>
           ))}
         </div>
-        <p className="mt-2 text-xs text-black/45">
+        <p className="mt-2 text-xs text-ink-faint">
           Blank lines separate paragraphs. <code>*italics*</code> and{" "}
           <code>[links](https://…)</code> work.
         </p>
@@ -365,7 +365,7 @@ function RecordEditor({ collection, slug }: { collection: Collection; slug: stri
 
       {collection === "species" && record.abundance && (
         <section>
-          <h2 className="text-sm font-semibold uppercase tracking-wide text-black/50 mb-2">
+          <h2 className="text-sm font-semibold uppercase tracking-wide text-ink-muted mb-2">
             Abundance
           </h2>
           <div className="rounded-xl bg-white ring-1 ring-black/5 p-4">
@@ -380,7 +380,7 @@ function RecordEditor({ collection, slug }: { collection: Collection; slug: stri
 
       {collection === "sites" && (
         <section>
-          <h2 className="text-sm font-semibold uppercase tracking-wide text-black/50 mb-2">
+          <h2 className="text-sm font-semibold uppercase tracking-wide text-ink-muted mb-2">
               Location
             </h2>
           <div className="rounded-xl bg-white ring-1 ring-black/5 p-4 space-y-4">
@@ -444,7 +444,7 @@ function RecordEditor({ collection, slug }: { collection: Collection; slug: stri
                   <button
                     type="button"
                     onClick={() => set({ geocode_source: "placed-by-hand" })}
-                    className="text-xs text-black/50 hover:text-brand underline"
+                    className="text-xs text-ink-muted hover:text-brand underline"
                   >
                     Un-confirm
                   </button>
@@ -469,7 +469,7 @@ function RecordEditor({ collection, slug }: { collection: Collection; slug: stri
                 </>
               )}
             </div>
-            <p className="text-xs text-black/45">
+            <p className="text-xs text-ink-faint">
               Only confirmed pins reach the site — <code>pixi run verify</code> fails while
               any unconfirmed coordinate is present.
             </p>
@@ -479,7 +479,7 @@ function RecordEditor({ collection, slug }: { collection: Collection; slug: stri
 
       {Array.isArray(record.photos) && record.photos.length > 0 && (
         <section>
-          <h2 className="text-sm font-semibold uppercase tracking-wide text-black/50 mb-2">
+          <h2 className="text-sm font-semibold uppercase tracking-wide text-ink-muted mb-2">
             Photographs
           </h2>
           <ul className="grid gap-3 sm:grid-cols-2 p-0 list-none">
@@ -516,7 +516,7 @@ function RecordEditor({ collection, slug }: { collection: Collection; slug: stri
                     placeholder="Photographer"
                     className="w-full rounded border border-black/15 px-2 py-1 text-xs focus:border-brand focus:outline-none"
                   />
-                  <label className="flex items-center gap-1.5 text-xs text-black/60">
+                  <label className="flex items-center gap-1.5 text-xs text-ink-muted">
                     <input
                       type="radio"
                       name={`hero-${slug}`}
@@ -546,7 +546,7 @@ function RecordEditor({ collection, slug }: { collection: Collection; slug: stri
 function Field({ label, children }: { label: string; children: React.ReactNode }) {
   return (
     <label className="block">
-      <span className="block text-xs font-semibold text-black/60 mb-1">{label}</span>
+      <span className="block text-xs font-semibold text-ink-muted mb-1">{label}</span>
       {children}
     </label>
   );
