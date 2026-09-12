@@ -67,10 +67,10 @@ abundance:
   blue_mountains: ['', '', '', U, U, '', '', '', U, U, U, '']
   columbia_plateau: [C, C, C, F, U, R, R, U, U, C, C, C]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: amewig
+  current_common_name: American Wigeon
+  current_scientific_name: Mareca americana
+  clements_sort: 517
   historic_common_name: null
   display_historic: false
   note: null

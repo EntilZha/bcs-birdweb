@@ -43,10 +43,10 @@ abundance:
   blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
   columbia_plateau: [U, U, R, R, R, R, R, R, U, U, U, U]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: nopowl
+  current_common_name: Northern Pygmy-Owl
+  current_scientific_name: Glaucidium gnoma
+  clements_sort: 9011
   historic_common_name: null
   display_historic: false
   note: null

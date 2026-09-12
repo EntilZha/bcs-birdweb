@@ -47,10 +47,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: litgul
+  current_common_name: Little Gull
+  current_scientific_name: Hydrocoloeus minutus
+  clements_sort: 6447
   historic_common_name: null
   display_historic: false
   note: null

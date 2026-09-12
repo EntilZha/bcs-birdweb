@@ -23,10 +23,10 @@ photos:
     name: Mike Hamilton
     url: http://home1.gte.net/mikeham
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 46.31647
+lon: -120.2475
+county: Yakima
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/toppenish_creek_toppenish_national_wildlife_refuge/10
   archived: '2026-09-12'

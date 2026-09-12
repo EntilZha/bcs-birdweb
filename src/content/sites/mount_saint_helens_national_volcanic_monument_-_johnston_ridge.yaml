@@ -14,10 +14,10 @@ photos:
     name: Hal Opperman
     url: null
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 46.27668
+lon: -122.21506
+county: Skamania
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/mount_saint_helens_national_volcanic_monument_-_johnston_ridge/5
   archived: '2026-09-12'

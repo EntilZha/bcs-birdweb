@@ -52,10 +52,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: redwin
+  current_common_name: Redwing
+  current_scientific_name: Turdus iliacus
+  clements_sort: 28497
   historic_common_name: null
   display_historic: false
   note: null

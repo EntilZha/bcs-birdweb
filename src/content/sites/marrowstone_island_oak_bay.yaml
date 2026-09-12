@@ -19,10 +19,10 @@ photos:
     name: Adam Sedgley
     url: null
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 48.05594
+lon: -122.68745
+county: Jefferson
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/marrowstone_island_oak_bay/3
   archived: '2026-09-12'

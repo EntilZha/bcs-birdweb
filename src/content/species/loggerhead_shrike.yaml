@@ -59,10 +59,10 @@ abundance:
   blue_mountains: ['', '', '', '', R, R, R, R, R, '', '', '']
   columbia_plateau: [R, R, U, U, U, U, U, U, U, R, R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: logshr
+  current_common_name: Loggerhead Shrike
+  current_scientific_name: Lanius ludovicianus
+  clements_sort: 21091
   historic_common_name: null
   display_historic: false
   note: null

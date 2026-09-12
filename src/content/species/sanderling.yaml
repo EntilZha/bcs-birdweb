@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', R, U, R, '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: sander
+  current_common_name: Sanderling
+  current_scientific_name: Calidris alba
+  clements_sort: 6189
   historic_common_name: null
   display_historic: false
   note: null

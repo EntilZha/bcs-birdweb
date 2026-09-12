@@ -49,10 +49,10 @@ abundance:
   blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
   columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: loeowl
+  current_common_name: Long-eared Owl
+  current_scientific_name: Asio otus
+  clements_sort: 9253
   historic_common_name: null
   display_historic: false
   note: null

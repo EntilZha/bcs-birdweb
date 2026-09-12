@@ -21,10 +21,10 @@ photos:
     name: Gail Barker
     url: http://www.friendsofgreenlake.org/
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 47.68015
+lon: -122.32409
+county: King
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/seattle_-_green_lake/3
   archived: '2026-09-12'

@@ -85,10 +85,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: balori
+  current_common_name: Baltimore Oriole
+  current_scientific_name: Icterus galbula
+  clements_sort: 33770
   historic_common_name: null
   display_historic: false
   note: null

@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', R, '', '', '', '']
   columbia_plateau: ['', '', R, C, C, C, C, F, U, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: bknsti
+  current_common_name: Black-necked Stilt
+  current_scientific_name: Himantopus mexicanus
+  clements_sort: 5770
   historic_common_name: null
   display_historic: false
   note: null

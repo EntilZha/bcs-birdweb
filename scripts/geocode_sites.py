@@ -109,12 +109,16 @@ def score(site_name: str, result: dict) -> tuple[float, str]:
         points += 0.25
         why.append(f"{cls}/{typ} (unlikely)")
 
-    # Does the matched place actually carry the site's distinctive words?
+    # Does the matched place actually carry the site's distinctive words? A credible
+    # feature type says "this is the kind of place you go birding"; only the name says
+    # "this is THE place". Without this gate, a nature reserve in Idaho scores 3.0 on type
+    # alone and gets proposed for Samish Flats.
     want, got = tokens(site_name), tokens(display)
-    if want:
-        overlap = len(want & got) / len(want)
-        points += 2.0 * overlap
-        why.append(f"name {overlap:.0%}")
+    overlap = len(want & got) / len(want) if want else 1.0
+    if want and overlap == 0:
+        return 0.0, f"rejected: {cls}/{typ} but nothing in the name matches"
+    points += 2.0 * overlap
+    why.append(f"name {overlap:.0%}")
 
     # Nominatim's own confidence, where it gives one.
     try:

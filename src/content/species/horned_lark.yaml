@@ -55,10 +55,10 @@ abundance:
   blue_mountains: [U, U, U, R, R, '', '', '', '', R, U, U]
   columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: horlar
+  current_common_name: Horned Lark
+  current_scientific_name: Eremophila alpestris
+  clements_sort: 22710
   historic_common_name: null
   display_historic: false
   note: null

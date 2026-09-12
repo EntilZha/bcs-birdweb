@@ -40,10 +40,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: refcor
+  current_common_name: Red-faced Cormorant
+  current_scientific_name: Urile urile
+  clements_sort: 7390
   historic_common_name: null
   display_historic: false
   note: null

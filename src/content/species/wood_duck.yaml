@@ -73,10 +73,10 @@ abundance:
   blue_mountains: ['', '', '', U, U, U, U, U, R, R, '', '']
   columbia_plateau: [F, F, F, F, F, F, F, F, F, F, F, F]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: wooduc
+  current_common_name: Wood Duck
+  current_scientific_name: Aix sponsa
+  clements_sort: 455
   historic_common_name: null
   display_historic: false
   note: null

@@ -59,10 +59,10 @@ abundance:
   blue_mountains: [U, U, R, '', '', '', '', '', '', R, R, U]
   columbia_plateau: [F, F, F, '', '', '', '', '', '', U, F, F]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: norshr4
+  current_common_name: Northern Shrike
+  current_scientific_name: Lanius borealis
+  clements_sort: 21103
   historic_common_name: null
   display_historic: false
   note: null

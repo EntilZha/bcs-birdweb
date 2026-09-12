@@ -61,10 +61,10 @@ abundance:
   blue_mountains: [U, U, U, F, U, U, U, U, F, U, U, U]
   columbia_plateau: [C, C, C, C, C, '', '', '', C, C, C, C]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: whcspa
+  current_common_name: White-crowned Sparrow
+  current_scientific_name: Zonotrichia leucophrys
+  clements_sort: 33187
   historic_common_name: null
   display_historic: false
   note: null

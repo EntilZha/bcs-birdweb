@@ -69,10 +69,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: tufduc
+  current_common_name: Tufted Duck
+  current_scientific_name: Aythya fuligula
+  clements_sort: 687
   historic_common_name: null
   display_historic: false
   note: null

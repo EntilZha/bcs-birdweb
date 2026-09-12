@@ -67,10 +67,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [R, R, R, R, '', '', '', '', '', R, R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: rebmer
+  current_common_name: Red-breasted Merganser
+  current_scientific_name: Mergus serrator
+  clements_sort: 770
   historic_common_name: null
   display_historic: false
   note: null

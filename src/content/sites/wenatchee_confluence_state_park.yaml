@@ -25,10 +25,10 @@ photos:
     name: Hal Opperman
     url: null
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 47.45932
+lon: -120.32798
+county: Chelan
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/wenatchee_confluence_state_park/10
   archived: '2026-09-12'

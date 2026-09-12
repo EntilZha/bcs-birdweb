@@ -43,10 +43,10 @@ abundance:
   blue_mountains: [C, C, C, C, C, C, C, C, C, C, C, C]
   columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: mouchi
+  current_common_name: Mountain Chickadee
+  current_scientific_name: Poecile gambeli
+  clements_sort: 22077
   historic_common_name: null
   display_historic: false
   note: null

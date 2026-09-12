@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [R, R, R, R, R, R, R, R, R, R, R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: purfin
+  current_common_name: Purple Finch
+  current_scientific_name: Haemorhous purpureus
+  clements_sort: 32324
   historic_common_name: null
   display_historic: false
   note: null

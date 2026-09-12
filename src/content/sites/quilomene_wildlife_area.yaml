@@ -11,10 +11,10 @@ sections:
 
     Check for ticks if you have been walking through sagebrush. There are no public amenities until Gingko State Park where the Old Vantage Highway meets the Columbia River. Rattle snakes are a possibility, albeit remote.
 photos: []
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 47.07106
+lon: -120.13135
+county: Kittitas
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/quilomene_wildlife_area/10
   archived: '2026-09-12'

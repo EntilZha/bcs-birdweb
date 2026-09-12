@@ -11,10 +11,10 @@ sections:
 
     Forks receives ten feet of rain annually, with most falling between October and June, although nice days occur year round. The visiting birder should be prepared for all kinds of weather.
 photos: []
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 47.95022
+lon: -124.38617
+county: Clallam
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/forks/2
   archived: '2026-09-12'

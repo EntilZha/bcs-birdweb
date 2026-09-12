@@ -43,13 +43,13 @@ abundance:
   blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
   columbia_plateau: [R, R, R, '', '', '', '', '', '', R, R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
-  historic_common_name: null
+  ebird_code: norgos
+  current_common_name: American Goshawk
+  current_scientific_name: Astur atricapillus
+  clements_sort: 8292.0
+  historic_common_name: Northern Goshawk
   display_historic: false
-  note: null
+  note: Published on BirdWeb as Northern Goshawk (Accipiter gentilis). The Northern Goshawk was split in 2023; the North American bird is now American Goshawk, in the genus Astur.
 source:
   url: https://birdweb.org/birdweb/bird/northern_goshawk
   archived: '2026-09-12'

@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [R, U, U, U, U, U, U, U, R, R, R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: burowl
+  current_common_name: Burrowing Owl
+  current_scientific_name: Athene cunicularia
+  clements_sort: 9133
   historic_common_name: null
   display_historic: false
   note: null

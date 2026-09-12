@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [F, F, F, F, U, R, R, R, F, F, F, F]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: comloo
+  current_common_name: Common Loon
+  current_scientific_name: Gavia immer
+  clements_sort: 6933
   historic_common_name: null
   display_historic: false
   note: null

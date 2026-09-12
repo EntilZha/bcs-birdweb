@@ -79,10 +79,10 @@ abundance:
   blue_mountains: ['', '', '', F, F, F, F, F, F, U, U, '']
   columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: mallar3
+  current_common_name: Mallard
+  current_scientific_name: Anas platyrhynchos
+  clements_sort: 545
   historic_common_name: null
   display_historic: false
   note: null

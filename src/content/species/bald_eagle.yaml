@@ -61,10 +61,10 @@ abundance:
   blue_mountains: [U, U, U, R, '', '', '', '', '', R, U, U]
   columbia_plateau: [F, F, F, U, R, R, R, R, R, U, F, F]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: baleag
+  current_common_name: Bald Eagle
+  current_scientific_name: Haliaeetus leucocephalus
+  clements_sort: 8367
   historic_common_name: null
   display_historic: false
   note: null

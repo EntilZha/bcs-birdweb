@@ -57,10 +57,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', R, '', '', R, U, U, '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: bkbplo
+  current_common_name: Black-bellied Plover
+  current_scientific_name: Pluvialis squatarola
+  clements_sort: 5811
   historic_common_name: null
   display_historic: false
   note: null

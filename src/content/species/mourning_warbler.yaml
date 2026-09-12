@@ -45,10 +45,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: mouwar
+  current_common_name: Mourning Warbler
+  current_scientific_name: Geothlypis philadelphia
+  clements_sort: 34006
   historic_common_name: null
   display_historic: false
   note: null

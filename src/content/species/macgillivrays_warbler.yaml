@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', '', F, C, C, C, C, '', '', '']
   columbia_plateau: ['', '', '', '', U, R, R, U, U, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: macwar
+  current_common_name: MacGillivray's Warbler
+  current_scientific_name: Geothlypis tolmiei
+  clements_sort: 34005
   historic_common_name: null
   display_historic: false
   note: null

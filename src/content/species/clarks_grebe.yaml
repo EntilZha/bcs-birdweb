@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', R, F, F, F, F, F, U, R, '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: clagre
+  current_common_name: Clark's Grebe
+  current_scientific_name: Aechmophorus clarkii
+  clements_sort: 6891
   historic_common_name: null
   display_historic: false
   note: null

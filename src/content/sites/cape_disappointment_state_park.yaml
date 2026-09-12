@@ -14,10 +14,10 @@ photos:
     name: Hal Opperman
     url: null
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 46.29008
+lon: -124.06816
+county: Pacific
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/cape_disappointment_state_park/2
   archived: '2026-09-12'

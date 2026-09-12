@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', '', F, F, F, F, R, '', '', '']
   columbia_plateau: ['', '', '', '', R, R, '', '', R, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: reevir1
+  current_common_name: Red-eyed Vireo
+  current_scientific_name: Vireo olivaceus
+  clements_sort: 19267
   historic_common_name: null
   display_historic: false
   note: null

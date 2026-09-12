@@ -47,10 +47,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: cowscj1
+  current_common_name: California Scrub-Jay
+  current_scientific_name: Aphelocoma californica
+  clements_sort: 21303
   historic_common_name: null
   display_historic: false
   note: null

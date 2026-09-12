@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', R, R, '', '', '', '', '']
   columbia_plateau: ['', '', U, F, F, F, F, F, U, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: caster1
+  current_common_name: Caspian Tern
+  current_scientific_name: Hydroprogne caspia
+  clements_sort: 6718
   historic_common_name: null
   display_historic: false
   note: null

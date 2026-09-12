@@ -49,10 +49,10 @@ abundance:
   blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
   columbia_plateau: [F, F, F, F, F, F, F, F, F, F, F, F]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: pygnut
+  current_common_name: Pygmy Nuthatch
+  current_scientific_name: Sitta pygmaea
+  clements_sort: 26924
   historic_common_name: null
   display_historic: false
   note: null

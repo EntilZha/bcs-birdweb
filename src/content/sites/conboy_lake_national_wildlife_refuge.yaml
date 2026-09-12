@@ -33,10 +33,10 @@ photos:
     name: Lyn Topinka
     url: http://englishriverwebsite.com/
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 45.97502
+lon: -121.31938
+county: Klickitat
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/conboy_lake_national_wildlife_refuge/6
   archived: '2026-09-12'

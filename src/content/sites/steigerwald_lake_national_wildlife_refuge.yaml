@@ -14,10 +14,10 @@ photos:
     name: Wilson Cady
     url: null
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 45.56571
+lon: -122.30317
+county: Clark
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/steigerwald_lake_national_wildlife_refuge/3
   archived: '2026-09-12'

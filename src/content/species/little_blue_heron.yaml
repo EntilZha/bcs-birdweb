@@ -46,10 +46,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: libher
+  current_common_name: Little Blue Heron
+  current_scientific_name: Egretta caerulea
+  clements_sort: 7629
   historic_common_name: null
   display_historic: false
   note: null

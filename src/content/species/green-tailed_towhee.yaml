@@ -41,10 +41,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', R, R, R, R, '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: gnttow
+  current_common_name: Green-tailed Towhee
+  current_scientific_name: Pipilo chlorurus
+  clements_sort: 33385
   historic_common_name: null
   display_historic: false
   note: null

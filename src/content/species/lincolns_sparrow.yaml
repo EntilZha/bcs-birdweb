@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', U, F, F, F, F, F, U, R, '']
   columbia_plateau: [R, R, R, U, U, '', '', U, U, U, R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: linspa
+  current_common_name: Lincoln's Sparrow
+  current_scientific_name: Melospiza lincolnii
+  clements_sort: 33310
   historic_common_name: null
   display_historic: false
   note: null

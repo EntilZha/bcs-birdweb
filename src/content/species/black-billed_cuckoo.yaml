@@ -39,10 +39,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: bkbcuc
+  current_common_name: Black-billed Cuckoo
+  current_scientific_name: Coccyzus erythropthalmus
+  clements_sort: 3243
   historic_common_name: null
   display_historic: false
   note: null

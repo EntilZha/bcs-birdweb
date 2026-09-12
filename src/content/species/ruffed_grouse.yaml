@@ -67,10 +67,10 @@ abundance:
   blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
   columbia_plateau: [R, R, R, R, R, R, R, R, R, R, R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: rufgro
+  current_common_name: Ruffed Grouse
+  current_scientific_name: Bonasa umbellus
+  clements_sort: 1283
   historic_common_name: null
   display_historic: false
   note: null

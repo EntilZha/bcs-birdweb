@@ -34,13 +34,13 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
-  historic_common_name: null
+  ebird_code: xanmur2
+  current_common_name: Scripps's Murrelet
+  current_scientific_name: Synthliboramphus scrippsi
+  clements_sort: 6437.0
+  historic_common_name: Xantus's Murrelet
   display_historic: false
-  note: null
+  note: Published on BirdWeb as Xantus's Murrelet. That species was split into Scripps's and Guadalupe Murrelets; Washington's few records are of Scripps's Murrelet.
 source:
   url: https://birdweb.org/birdweb/bird/xantuss_murrelet
   archived: '2026-09-12'

@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', R, U, C, C, C, C, C, U, '', '']
   columbia_plateau: [U, U, U, F, F, F, F, F, F, U, U, U]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: spotow
+  current_common_name: Spotted Towhee
+  current_scientific_name: Pipilo maculatus
+  clements_sort: 33386
   historic_common_name: null
   display_historic: false
   note: null

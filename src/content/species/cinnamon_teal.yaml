@@ -73,10 +73,10 @@ abundance:
   blue_mountains: ['', '', '', '', U, U, U, U, R, '', '', '']
   columbia_plateau: ['', '', F, C, C, C, C, F, U, R, '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: cintea
+  current_common_name: Cinnamon Teal
+  current_scientific_name: Spatula cyanoptera
+  clements_sort: 487
   historic_common_name: null
   display_historic: false
   note: null

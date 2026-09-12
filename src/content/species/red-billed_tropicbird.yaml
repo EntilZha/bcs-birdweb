@@ -40,10 +40,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: rebtro
+  current_common_name: Red-billed Tropicbird
+  current_scientific_name: Phaethon aethereus
+  clements_sort: 6915
   historic_common_name: null
   display_historic: false
   note: null

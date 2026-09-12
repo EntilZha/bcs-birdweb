@@ -61,13 +61,13 @@ abundance:
   blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
-  historic_common_name: null
+  ebird_code: gryjay
+  current_common_name: Canada Jay
+  current_scientific_name: Perisoreus canadensis
+  clements_sort: 21181.0
+  historic_common_name: Gray Jay
   display_historic: false
-  note: null
+  note: Published on BirdWeb as Gray Jay. The American Ornithological Society restored the name Canada Jay in 2018; it is the same bird.
 source:
   url: https://birdweb.org/birdweb/bird/gray_jay
   archived: '2026-09-12'

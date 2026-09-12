@@ -19,10 +19,10 @@ photos:
     name: John Davis
     url: null
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 48.05411
+lon: -121.51925
+county: Snohomish
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/big_four_ice_caves/4
   archived: '2026-09-12'

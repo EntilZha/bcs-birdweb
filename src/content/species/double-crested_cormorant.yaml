@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', '', R, R, R, R, R, R, '', '']
   columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: doccor
+  current_common_name: Double-crested Cormorant
+  current_scientific_name: Nannopterum auritum
+  clements_sort: 7424
   historic_common_name: null
   display_historic: false
   note: null

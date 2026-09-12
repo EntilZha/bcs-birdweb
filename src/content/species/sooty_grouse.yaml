@@ -67,10 +67,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: soogro1
+  current_common_name: Sooty Grouse
+  current_scientific_name: Dendragapus fuliginosus
+  clements_sort: 1320
   historic_common_name: null
   display_historic: false
   note: null

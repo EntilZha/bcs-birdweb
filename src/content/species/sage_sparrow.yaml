@@ -49,13 +49,13 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', U, F, F, F, F, F, U, U, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
-  historic_common_name: null
+  ebird_code: sagspa1
+  current_common_name: Sagebrush Sparrow
+  current_scientific_name: Artemisiospiza nevadensis
+  clements_sort: 33207.0
+  historic_common_name: Sage Sparrow
   display_historic: false
-  note: null
+  note: Published on BirdWeb as Sage Sparrow. That species was split into Sagebrush Sparrow and Bell's Sparrow; the bird breeding in Washington's shrub-steppe is the Sagebrush Sparrow.
 source:
   url: https://birdweb.org/birdweb/bird/sage_sparrow
   archived: '2026-09-12'

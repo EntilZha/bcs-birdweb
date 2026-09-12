@@ -45,10 +45,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: fuwduc
+  current_common_name: Fulvous Whistling-Duck
+  current_scientific_name: Dendrocygna bicolor
+  clements_sort: 249
   historic_common_name: null
   display_historic: false
   note: null

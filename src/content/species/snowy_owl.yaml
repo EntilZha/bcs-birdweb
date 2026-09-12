@@ -91,10 +91,10 @@ abundance:
   blue_mountains: [I, I, '', '', '', '', '', '', '', '', '', I]
   columbia_plateau: [R, R, '', '', '', '', '', '', '', '', R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: snoowl1
+  current_common_name: Snowy Owl
+  current_scientific_name: Bubo scandiacus
+  clements_sort: 8909
   historic_common_name: null
   display_historic: false
   note: null

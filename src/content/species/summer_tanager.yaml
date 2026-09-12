@@ -64,10 +64,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: sumtan
+  current_common_name: Summer Tanager
+  current_scientific_name: Piranga rubra
+  clements_sort: 34432
   historic_common_name: null
   display_historic: false
   note: null

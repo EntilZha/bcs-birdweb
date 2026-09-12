@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', R, '', '', '']
   columbia_plateau: [R, R, R, U, U, '', '', '', U, U, R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: gocspa
+  current_common_name: Golden-crowned Sparrow
+  current_scientific_name: Zonotrichia atricapilla
+  clements_sort: 33196
   historic_common_name: null
   display_historic: false
   note: null

@@ -55,10 +55,10 @@ abundance:
   blue_mountains: [U, U, U, U, F, F, F, F, F, F, U, U]
   columbia_plateau: [R, R, R, U, U, U, U, U, U, R, R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: casfin
+  current_common_name: Cassin's Finch
+  current_scientific_name: Haemorhous cassinii
+  clements_sort: 32329
   historic_common_name: null
   display_historic: false
   note: null

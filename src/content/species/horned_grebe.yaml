@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', R, R, '', '', '', '', '', R, R, '']
   columbia_plateau: [F, F, F, U, R, '', '', '', U, F, F, F]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: horgre
+  current_common_name: Horned Grebe
+  current_scientific_name: Podiceps auritus
+  clements_sort: 6866
   historic_common_name: null
   display_historic: false
   note: null

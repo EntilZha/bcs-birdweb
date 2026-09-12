@@ -24,10 +24,10 @@ photos:
     name: Mike Denny
     url: null
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 46.24908
+lon: -118.1428
+county: Walla Walla
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/coppei_creek/9
   archived: '2026-09-12'

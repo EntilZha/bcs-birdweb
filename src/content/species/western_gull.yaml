@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: wesgul
+  current_common_name: Western Gull
+  current_scientific_name: Larus occidentalis
+  clements_sort: 6528
   historic_common_name: null
   display_historic: false
   note: null

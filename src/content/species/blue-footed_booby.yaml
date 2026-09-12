@@ -34,10 +34,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: bfoboo
+  current_common_name: Blue-footed Booby
+  current_scientific_name: Sula nebouxii
+  clements_sort: 7358
   historic_common_name: null
   display_historic: false
   note: null

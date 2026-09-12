@@ -53,10 +53,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: tribla
+  current_common_name: Tricolored Blackbird
+  current_scientific_name: Agelaius tricolor
+  clements_sort: 33807
   historic_common_name: null
   display_historic: false
   note: null

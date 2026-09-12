@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', '', '', R, R, R, R, '', '', '', '']
   columbia_plateau: ['', '', '', '', U, U, U, U, U, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: gryfly
+  current_common_name: Gray Flycatcher
+  current_scientific_name: Empidonax wrightii
+  clements_sort: 16965
   historic_common_name: null
   display_historic: false
   note: null

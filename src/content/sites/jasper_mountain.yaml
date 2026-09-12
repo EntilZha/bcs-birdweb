@@ -17,10 +17,10 @@ photos:
     name: Ginger Shoemake
     url: null
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 48.89157
+lon: -118.28834
+county: Ferry
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/jasper_mountain/9
   archived: '2026-09-12'

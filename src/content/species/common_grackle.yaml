@@ -39,10 +39,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: comgra
+  current_common_name: Common Grackle
+  current_scientific_name: Quiscalus quiscula
+  clements_sort: 33853
   historic_common_name: null
   display_historic: false
   note: null

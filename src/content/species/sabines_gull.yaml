@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', R, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: sabgul
+  current_common_name: Sabine's Gull
+  current_scientific_name: Xema sabini
+  clements_sort: 6455
   historic_common_name: null
   display_historic: false
   note: null

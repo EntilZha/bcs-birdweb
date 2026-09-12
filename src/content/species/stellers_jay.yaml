@@ -43,10 +43,10 @@ abundance:
   blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
   columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: stejay
+  current_common_name: Steller's Jay
+  current_scientific_name: Cyanocitta stelleri
+  clements_sort: 21274
   historic_common_name: null
   display_historic: false
   note: null

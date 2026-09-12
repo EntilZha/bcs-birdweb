@@ -22,10 +22,10 @@ photos:
     name: Denny Granstrand
     url: http://granstrand.net/gallery/
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 46.34108
+lon: -120.83662
+county: Yakima
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/fort_simcoe_state_park/6
   archived: '2026-09-12'

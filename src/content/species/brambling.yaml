@@ -57,10 +57,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: brambl
+  current_common_name: Brambling
+  current_scientific_name: Fringilla montifringilla
+  clements_sort: 31974
   historic_common_name: null
   display_historic: false
   note: null

@@ -61,10 +61,10 @@ abundance:
   blue_mountains: [R, R, R, U, U, U, U, U, U, U, R, R]
   columbia_plateau: [U, U, U, U, U, R, R, R, F, F, U, U]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: coohaw
+  current_common_name: Cooper's Hawk
+  current_scientific_name: Astur cooperii
+  clements_sort: 8278
   historic_common_name: null
   display_historic: false
   note: null

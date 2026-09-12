@@ -53,10 +53,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: lesgol
+  current_common_name: Lesser Goldfinch
+  current_scientific_name: Spinus psaltria
+  clements_sort: 32609
   historic_common_name: null
   display_historic: false
   note: null

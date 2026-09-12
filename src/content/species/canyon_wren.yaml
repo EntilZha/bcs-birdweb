@@ -49,10 +49,10 @@ abundance:
   blue_mountains: [R, R, U, U, U, U, U, U, U, U, U, R]
   columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: canwre
+  current_common_name: Canyon Wren
+  current_scientific_name: Catherpes mexicanus
+  clements_sort: 27184
   historic_common_name: null
   display_historic: false
   note: null

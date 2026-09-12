@@ -18,10 +18,10 @@ photos:
     name: Richard Sedgley
     url: http://www.flickr.com/photos/rsedgley/
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 47.36908
+lon: -122.4767
+county: King
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/quartermaster_harbor/3
   archived: '2026-09-12'

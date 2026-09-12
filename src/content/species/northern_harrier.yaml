@@ -67,10 +67,10 @@ abundance:
   blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
   columbia_plateau: [F, F, F, F, F, F, F, F, F, F, F, F]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: norhar2
+  current_common_name: Northern Harrier
+  current_scientific_name: Circus hudsonius
+  clements_sort: 8324
   historic_common_name: null
   display_historic: false
   note: null

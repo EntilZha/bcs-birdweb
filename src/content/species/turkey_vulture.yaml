@@ -47,10 +47,10 @@ abundance:
   blue_mountains: ['', '', R, R, R, R, R, R, U, U, '', '']
   columbia_plateau: ['', '', U, U, U, U, U, U, U, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: turvul
+  current_common_name: Turkey Vulture
+  current_scientific_name: Cathartes aura
+  clements_sort: 7815
   historic_common_name: null
   display_historic: false
   note: null

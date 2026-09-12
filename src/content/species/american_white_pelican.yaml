@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [U, U, U, F, F, C, C, C, C, C, U, U]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: amwpel
+  current_common_name: American White Pelican
+  current_scientific_name: Pelecanus erythrorhynchos
+  clements_sort: 7791
   historic_common_name: null
   display_historic: false
   note: null

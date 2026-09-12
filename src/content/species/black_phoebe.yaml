@@ -64,10 +64,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: blkpho
+  current_common_name: Black Phoebe
+  current_scientific_name: Sayornis nigricans
+  clements_sort: 16998
   historic_common_name: null
   display_historic: false
   note: null

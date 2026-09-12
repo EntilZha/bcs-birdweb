@@ -22,10 +22,10 @@ photos:
     name: ''
     url: null
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 46.97805
+lon: -123.9416
+county: Grays Harbor
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/bowerman_basin/2
   archived: '2026-09-12'

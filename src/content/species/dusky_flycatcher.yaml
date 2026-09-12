@@ -43,10 +43,10 @@ abundance:
   blue_mountains: ['', '', '', R, C, C, C, C, U, '', '', '']
   columbia_plateau: ['', '', '', '', F, F, F, F, F, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: dusfly
+  current_common_name: Dusky Flycatcher
+  current_scientific_name: Empidonax oberholseri
+  clements_sort: 16966
   historic_common_name: null
   display_historic: false
   note: null

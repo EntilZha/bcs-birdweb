@@ -43,10 +43,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: empgoo
+  current_common_name: Emperor Goose
+  current_scientific_name: Anser canagicus
+  clements_sort: 266
   historic_common_name: null
   display_historic: false
   note: null

@@ -73,10 +73,10 @@ abundance:
   blue_mountains: ['', '', '', R, R, '', '', '', R, R, '', '']
   columbia_plateau: [C, C, C, C, F, R, R, R, R, C, C, C]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: buffle
+  current_common_name: Bufflehead
+  current_scientific_name: Bucephala albeola
+  clements_sort: 742
   historic_common_name: null
   display_historic: false
   note: null

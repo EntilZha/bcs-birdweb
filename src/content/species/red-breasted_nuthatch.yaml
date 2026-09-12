@@ -55,10 +55,10 @@ abundance:
   blue_mountains: [C, C, C, C, C, C, C, C, C, C, C, C]
   columbia_plateau: [U, U, U, F, U, R, R, U, F, U, U, U]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: rebnut
+  current_common_name: Red-breasted Nuthatch
+  current_scientific_name: Sitta canadensis
+  clements_sort: 26937
   historic_common_name: null
   display_historic: false
   note: null

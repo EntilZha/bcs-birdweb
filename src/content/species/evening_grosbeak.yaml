@@ -61,10 +61,10 @@ abundance:
   blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
   columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: evegro
+  current_common_name: Evening Grosbeak
+  current_scientific_name: Hesperiphona vespertina
+  clements_sort: 32085
   historic_common_name: null
   display_historic: false
   note: null

@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', '', '', C, C, C, C, U, '', '', '']
   columbia_plateau: ['', '', '', U, F, U, '', F, F, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: towwar
+  current_common_name: Townsend's Warbler
+  current_scientific_name: Setophaga townsendi
+  clements_sort: 34206
   historic_common_name: null
   display_historic: false
   note: null

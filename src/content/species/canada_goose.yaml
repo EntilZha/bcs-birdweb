@@ -70,10 +70,10 @@ abundance:
   blue_mountains: [R, R, U, U, U, U, U, U, U, U, R, R]
   columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: cangoo
+  current_common_name: Canada Goose
+  current_scientific_name: Branta canadensis
+  clements_sort: 342
   historic_common_name: null
   display_historic: false
   note: null

@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', '', F, F, F, F, R, '', '', '']
   columbia_plateau: ['', '', '', '', U, U, U, U, R, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: bkchum
+  current_common_name: Black-chinned Hummingbird
+  current_scientific_name: Archilochus alexandri
+  clements_sort: 4803
   historic_common_name: null
   display_historic: false
   note: null

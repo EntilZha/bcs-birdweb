@@ -43,13 +43,13 @@ abundance:
   blue_mountains: ['', '', '', R, F, F, F, F, U, '', '', '']
   columbia_plateau: ['', '', '', '', F, U, U, F, F, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
-  historic_common_name: null
+  ebird_code: wewvir2
+  current_common_name: Western Warbling Vireo
+  current_scientific_name: Vireo swainsoni
+  clements_sort: 19247.0
+  historic_common_name: Warbling Vireo
   display_historic: false
-  note: null
+  note: Published on BirdWeb as Warbling Vireo. The species was split into Eastern and Western Warbling Vireos; Washington's breeding birds are the Western.
 source:
   url: https://birdweb.org/birdweb/bird/warbling_vireo
   archived: '2026-09-12'

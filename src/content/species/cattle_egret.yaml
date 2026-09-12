@@ -53,13 +53,13 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
-  historic_common_name: null
+  ebird_code: categr1
+  current_common_name: Western Cattle-Egret
+  current_scientific_name: Ardea ibis
+  clements_sort: 7724.0
+  historic_common_name: Cattle Egret
   display_historic: false
-  note: null
+  note: Published on BirdWeb as Cattle Egret (Bubulcus ibis). The species was moved to the genus Ardea and split; the bird recorded in Washington is the Western Cattle-Egret.
 source:
   url: https://birdweb.org/birdweb/bird/cattle_egret
   archived: '2026-09-12'

@@ -25,10 +25,10 @@ sections:
 
     This is tick country and in the spring they can be very bad. Biting insects can also make an otherwise pleasant day miserable, so plan ahead. Weather conditions during certain times of the year can make roads difficult or impassable. The area is remote so use caution when traveling the back roads, taking particular care in wet or dry sand areas.
 photos: []
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 47.03341
+lon: -119.45007
+county: Grant
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/desert_wildlife_area/10
   archived: '2026-09-12'

@@ -14,10 +14,10 @@ photos:
     name: Mike Hamilton
     url: http://home1.gte.net/mikeham
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 48.48668
+lon: -121.61511
+county: Skagit
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/rockport_state_park/4
   archived: '2026-09-12'

@@ -79,10 +79,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', R, R, R, R, '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: amered
+  current_common_name: American Redstart
+  current_scientific_name: Setophaga ruticilla
+  clements_sort: 34058
   historic_common_name: null
   display_historic: false
   note: null

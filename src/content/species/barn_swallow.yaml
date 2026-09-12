@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', '', R, U, U, U, U, U, '', '']
   columbia_plateau: ['', '', '', C, C, C, C, C, C, U, '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: barswa
+  current_common_name: Barn Swallow
+  current_scientific_name: Hirundo rustica
+  clements_sort: 24187
   historic_common_name: null
   display_historic: false
   note: null

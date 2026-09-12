@@ -57,10 +57,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: scoori
+  current_common_name: Scott's Oriole
+  current_scientific_name: Icterus parisorum
+  clements_sort: 33776
   historic_common_name: null
   display_historic: false
   note: null

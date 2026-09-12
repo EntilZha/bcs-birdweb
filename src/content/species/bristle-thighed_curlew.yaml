@@ -40,10 +40,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: brtcur
+  current_common_name: Bristle-thighed Curlew
+  current_scientific_name: Numenius tahitiensis
+  clements_sort: 6010
   historic_common_name: null
   display_historic: false
   note: null

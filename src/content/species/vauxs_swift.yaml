@@ -43,10 +43,10 @@ abundance:
   blue_mountains: ['', '', '', U, F, F, F, F, U, '', '', '']
   columbia_plateau: ['', '', '', R, F, F, F, F, U, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: vauswi
+  current_common_name: Vaux's Swift
+  current_scientific_name: Chaetura vauxi
+  clements_sort: 3897
   historic_common_name: null
   display_historic: false
   note: null

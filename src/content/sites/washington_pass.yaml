@@ -12,10 +12,10 @@ sections:
 
     For more information, call the National Park Service/Forest Service office in Sedro-Woolley at 360-856-5700.
 photos: []
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 47.52746
+lon: -123.14666
+county: Mason
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/washington_pass/6
   archived: '2026-09-12'

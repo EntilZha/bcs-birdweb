@@ -49,10 +49,10 @@ abundance:
   blue_mountains: [R, R, R, R, R, R, R, R, R, R, R, R]
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: bkbwoo
+  current_common_name: Black-backed Woodpecker
+  current_scientific_name: Picoides arcticus
+  clements_sort: 11220
   historic_common_name: null
   display_historic: false
   note: null

@@ -43,10 +43,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', R, '', '', '', '']
   columbia_plateau: ['', '', '', R, R, '', R, U, U, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: solsan
+  current_common_name: Solitary Sandpiper
+  current_scientific_name: Tringa solitaria
+  clements_sort: 6129
   historic_common_name: null
   display_historic: false
   note: null

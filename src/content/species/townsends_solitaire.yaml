@@ -55,10 +55,10 @@ abundance:
   blue_mountains: [R, R, R, U, U, U, U, U, U, U, U, R]
   columbia_plateau: [R, R, R, U, U, '', '', R, U, U, R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: towsol
+  current_common_name: Townsend's Solitaire
+  current_scientific_name: Myadestes townsendi
+  clements_sort: 28163
   historic_common_name: null
   display_historic: false
   note: null

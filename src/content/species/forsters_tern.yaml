@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', U, F, F, F, F, U, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: forter
+  current_common_name: Forster's Tern
+  current_scientific_name: Sterna forsteri
+  clements_sort: 6731
   historic_common_name: null
   display_historic: false
   note: null

@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', R, '', '', R, R, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: shbdow
+  current_common_name: Short-billed Dowitcher
+  current_scientific_name: Limnodromus griseus
+  clements_sort: 6057
   historic_common_name: null
   display_historic: false
   note: null

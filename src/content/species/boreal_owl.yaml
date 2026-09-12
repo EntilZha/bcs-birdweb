@@ -43,10 +43,10 @@ abundance:
   blue_mountains: [R, R, R, R, R, R, R, R, R, R, R, R]
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: borowl
+  current_common_name: Boreal Owl
+  current_scientific_name: Aegolius funereus
+  clements_sort: 9296
   historic_common_name: null
   display_historic: false
   note: null

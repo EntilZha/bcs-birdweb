@@ -22,10 +22,10 @@ photos:
     name: Tim Brennan
     url: http://www.39counties.blogspot.com
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 46.97786
+lon: -119.35563
+county: Grant
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/potholes_state_park/10
   archived: '2026-09-12'

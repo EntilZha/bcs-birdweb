@@ -16,10 +16,10 @@ photos:
     name: Lyn Topinka
     url: http://englishriverwebsite.com/
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 45.997
+lon: -121.52887
+county: Klickitat
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/trout_lake/6
   archived: '2026-09-12'

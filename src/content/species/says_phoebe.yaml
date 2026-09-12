@@ -43,10 +43,10 @@ abundance:
   blue_mountains: ['', '', '', R, U, U, U, U, U, '', '', '']
   columbia_plateau: [R, R, U, F, F, F, F, F, U, R, R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: saypho
+  current_common_name: Say's Phoebe
+  current_scientific_name: Sayornis saya
+  clements_sort: 17010
   historic_common_name: null
   display_historic: false
   note: null

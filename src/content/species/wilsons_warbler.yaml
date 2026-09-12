@@ -73,10 +73,10 @@ abundance:
   blue_mountains: ['', '', '', '', U, F, F, F, F, U, '', '']
   columbia_plateau: ['', '', '', R, C, R, '', C, C, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: wlswar
+  current_common_name: Wilson's Warbler
+  current_scientific_name: Cardellina pusilla
+  clements_sort: 34346
   historic_common_name: null
   display_historic: false
   note: null

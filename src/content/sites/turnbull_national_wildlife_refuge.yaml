@@ -14,10 +14,10 @@ photos:
     name: Tim Brennan
     url: http://www.39counties.blogspot.com
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 47.4237
+lon: -117.57394
+county: Spokane
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/turnbull_national_wildlife_refuge/10
   archived: '2026-09-12'

@@ -17,10 +17,10 @@ photos:
     name: Louise Rutter
     url: null
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 48.53709
+lon: -123.09072
+county: San Juan
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/san_juan_islands/3
   archived: '2026-09-12'

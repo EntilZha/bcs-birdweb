@@ -46,13 +46,13 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
-  historic_common_name: null
+  ebird_code: greshe
+  current_common_name: Great Shearwater
+  current_scientific_name: Ardenna gravis
+  clements_sort: 7207.0
+  historic_common_name: Greater Shearwater
   display_historic: false
-  note: null
+  note: Published on BirdWeb as Greater Shearwater (Puffinus gravis). It is now called Great Shearwater and placed in the genus Ardenna.
 source:
   url: https://birdweb.org/birdweb/bird/greater_shearwater
   archived: '2026-09-12'

@@ -22,10 +22,10 @@ photos:
     name: Hal Opperman
     url: null
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 46.89663
+lon: -124.0386
+county: Grays Harbor
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/bottle_beach_state_park/2
   archived: '2026-09-12'

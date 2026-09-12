@@ -41,10 +41,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: batgod
+  current_common_name: Bar-tailed Godwit
+  current_scientific_name: Limosa lapponica
+  clements_sort: 6033
   historic_common_name: null
   display_historic: false
   note: null

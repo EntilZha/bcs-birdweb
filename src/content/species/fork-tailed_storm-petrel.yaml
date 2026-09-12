@@ -47,10 +47,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: ftspet
+  current_common_name: Fork-tailed Storm-Petrel
+  current_scientific_name: Hydrobates furcatus
+  clements_sort: 7049
   historic_common_name: null
   display_historic: false
   note: null

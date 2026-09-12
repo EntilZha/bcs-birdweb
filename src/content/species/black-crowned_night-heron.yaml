@@ -67,10 +67,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [F, F, F, F, F, F, F, F, F, F, F, F]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: bcnher
+  current_common_name: Black-crowned Night Heron
+  current_scientific_name: Nycticorax nycticorax
+  clements_sort: 7600
   historic_common_name: null
   display_historic: false
   note: null

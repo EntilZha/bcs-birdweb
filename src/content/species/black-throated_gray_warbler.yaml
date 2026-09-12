@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: btywar
+  current_common_name: Black-throated Gray Warbler
+  current_scientific_name: Setophaga nigrescens
+  clements_sort: 34200
   historic_common_name: null
   display_historic: false
   note: null

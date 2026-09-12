@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [R, R, '', '', '', '', '', '', '', R, R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: mewgul2
+  current_common_name: Short-billed Gull
+  current_scientific_name: Larus brachyrhynchus
+  clements_sort: 6519
   historic_common_name: null
   display_historic: false
   note: null

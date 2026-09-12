@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: commur
+  current_common_name: Common Murre
+  current_scientific_name: Uria aalge
+  clements_sort: 6424
   historic_common_name: null
   display_historic: false
   note: null

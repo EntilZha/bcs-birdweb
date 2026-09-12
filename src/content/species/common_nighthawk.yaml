@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', '', '', R, F, F, F, U, '', '', '']
   columbia_plateau: ['', '', '', '', U, C, C, C, R, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: comnig
+  current_common_name: Common Nighthawk
+  current_scientific_name: Chordeiles minor
+  clements_sort: 3492
   historic_common_name: null
   display_historic: false
   note: null

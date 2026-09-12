@@ -47,10 +47,10 @@ abundance:
   blue_mountains: ['', '', R, U, F, F, F, F, U, '', '', '']
   columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: brebla
+  current_common_name: Brewer's Blackbird
+  current_scientific_name: Euphagus cyanocephalus
+  clements_sort: 33851
   historic_common_name: null
   display_historic: false
   note: null

@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', R, F, F, C, C, C, C, U, R, '']
   columbia_plateau: [R, R, U, U, U, U, U, U, U, U, R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: wesblu
+  current_common_name: Western Bluebird
+  current_scientific_name: Sialia mexicana
+  clements_sort: 28136
   historic_common_name: null
   display_historic: false
   note: null

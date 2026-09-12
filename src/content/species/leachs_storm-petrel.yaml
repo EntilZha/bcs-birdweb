@@ -41,10 +41,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: lcspet
+  current_common_name: Leach's Storm-Petrel
+  current_scientific_name: Hydrobates leucorhous
+  clements_sort: 7053
   historic_common_name: null
   display_historic: false
   note: null

@@ -40,13 +40,13 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
-  historic_common_name: null
+  ebird_code: nstspa
+  current_common_name: Nelson's Sparrow
+  current_scientific_name: Ammospiza nelsoni
+  clements_sort: 33232.0
+  historic_common_name: Nelson's Sharp-tailed Sparrow
   display_historic: false
-  note: null
+  note: Published on BirdWeb as Nelson's Sharp-tailed Sparrow. That species was split from Saltmarsh Sparrow and shortened to Nelson's Sparrow.
 source:
   url: https://birdweb.org/birdweb/bird/nelsons_sharp-tailed_sparrow
   archived: '2026-09-12'

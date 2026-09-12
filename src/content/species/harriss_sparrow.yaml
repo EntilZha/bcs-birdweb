@@ -65,10 +65,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', R, '']
   columbia_plateau: [R, R, R, R, '', '', '', '', '', '', R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: harspa
+  current_common_name: Harris's Sparrow
+  current_scientific_name: Zonotrichia querula
+  clements_sort: 33198
   historic_common_name: null
   display_historic: false
   note: null

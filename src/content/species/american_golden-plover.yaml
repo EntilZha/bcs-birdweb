@@ -43,10 +43,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', R, R, R, '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: amgplo
+  current_common_name: American Golden-Plover
+  current_scientific_name: Pluvialis dominica
+  clements_sort: 5815
   historic_common_name: null
   display_historic: false
   note: null

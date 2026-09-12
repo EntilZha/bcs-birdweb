@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [U, U, U, R, '', '', '', '', '', U, U, U]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: eurwig
+  current_common_name: Eurasian Wigeon
+  current_scientific_name: Mareca penelope
+  clements_sort: 512
   historic_common_name: null
   display_historic: false
   note: null

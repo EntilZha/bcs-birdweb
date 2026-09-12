@@ -49,10 +49,10 @@ abundance:
   blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
   columbia_plateau: [F, F, F, F, F, F, F, F, F, F, F, F]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: dowwoo
+  current_common_name: Downy Woodpecker
+  current_scientific_name: Dryobates pubescens
+  clements_sort: 11400
   historic_common_name: null
   display_historic: false
   note: null

@@ -61,10 +61,10 @@ abundance:
   blue_mountains: ['', '', '', R, '', '', '', '', R, R, '', '']
   columbia_plateau: [F, F, F, F, U, R, R, R, U, F, F, F]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: canvas
+  current_common_name: Canvasback
+  current_scientific_name: Aythya valisineria
+  clements_sort: 666
   historic_common_name: null
   display_historic: false
   note: null

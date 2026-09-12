@@ -12,10 +12,10 @@ sections:
 
     There are camping and day-use fees.
 photos: []
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 45.93381
+lon: -120.66416
+county: Klickitat
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/brooks_memorial_state_park/6
   archived: '2026-09-12'

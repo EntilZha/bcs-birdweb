@@ -67,10 +67,10 @@ abundance:
   blue_mountains: [R, R, R, U, U, U, U, U, U, U, U, U]
   columbia_plateau: [F, F, F, F, F, F, F, F, F, F, F, F]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: belkin1
+  current_common_name: Belted Kingfisher
+  current_scientific_name: Megaceryle alcyon
+  clements_sort: 10306
   historic_common_name: null
   display_historic: false
   note: null

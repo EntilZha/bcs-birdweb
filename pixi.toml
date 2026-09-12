@@ -17,6 +17,7 @@ pyyaml = ">=6"
 pillow = ">=10"
 typer = ">=0.9"
 rich = ">=13"
+pytest = ">=8"
 
 
 # --- Archive pipeline (Phase 1) ---------------------------------------------
@@ -80,6 +81,14 @@ description = "Type-check the site with astro check"
 [tasks.test]
 cmd = "npm run test"
 description = "Run the Vitest suite over src/lib/"
+
+[tasks.test-py]
+cmd = "pytest -q scripts/tests"
+description = "Run the pytest suite over the archive/extract pipeline"
+
+[tasks.test-all]
+depends-on = ["test", "test-py"]
+description = "Run both test suites"
 
 [tasks.install-site]
 cmd = "npm install"

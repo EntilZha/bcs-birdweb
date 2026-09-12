@@ -59,13 +59,13 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: [R, R, '', '', '', '', '', '', '', '', R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
-  historic_common_name: null
-  display_historic: false
-  note: null
+  ebird_code: y00478
+  current_common_name: Iceland Gull
+  current_scientific_name: Larus glaucoides
+  clements_sort: 6606.0
+  historic_common_name: Thayer's Gull
+  display_historic: true
+  note: Published on BirdWeb as Thayer's Gull. It was merged into Iceland Gull in 2017 and is now treated as the subspecies Larus glaucoides thayeri -- the form that winters in Washington.
 source:
   url: https://birdweb.org/birdweb/bird/thayers_gull
   archived: '2026-09-12'

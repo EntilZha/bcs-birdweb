@@ -67,10 +67,10 @@ abundance:
   blue_mountains: ['', '', R, U, U, U, U, U, U, U, '', '']
   columbia_plateau: [R, R, U, C, C, C, C, C, C, U, R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: rocwre
+  current_common_name: Rock Wren
+  current_scientific_name: Salpinctes obsoletus
+  clements_sort: 27150
   historic_common_name: null
   display_historic: false
   note: null

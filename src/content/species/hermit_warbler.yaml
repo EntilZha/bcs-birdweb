@@ -49,10 +49,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: herwar
+  current_common_name: Hermit Warbler
+  current_scientific_name: Setophaga occidentalis
+  clements_sort: 34210
   historic_common_name: null
   display_historic: false
   note: null

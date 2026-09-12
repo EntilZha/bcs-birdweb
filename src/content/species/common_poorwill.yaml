@@ -43,10 +43,10 @@ abundance:
   blue_mountains: ['', '', '', R, U, U, U, U, R, '', '', '']
   columbia_plateau: ['', '', '', U, U, U, U, U, U, R, '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: compoo
+  current_common_name: Common Poorwill
+  current_scientific_name: Phalaenoptilus nuttallii
+  clements_sort: 3588
   historic_common_name: null
   display_historic: false
   note: null

@@ -79,10 +79,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', R, R, '', '']
   columbia_plateau: ['', '', '', U, U, '', R, U, U, F, U, '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: bongul
+  current_common_name: Bonaparte's Gull
+  current_scientific_name: Chroicocephalus philadelphia
+  clements_sort: 6462
   historic_common_name: null
   display_historic: false
   note: null

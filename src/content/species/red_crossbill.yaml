@@ -61,10 +61,10 @@ abundance:
   blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
   columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: redcro
+  current_common_name: Red Crossbill
+  current_scientific_name: Loxia curvirostra
+  clements_sort: 32498
   historic_common_name: null
   display_historic: false
   note: null

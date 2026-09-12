@@ -65,10 +65,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', R, R, R, '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: bktspa
+  current_common_name: Black-throated Sparrow
+  current_scientific_name: Amphispiza bilineata
+  clements_sort: 33018
   historic_common_name: null
   display_historic: false
   note: null

@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', '', U, F, C, C, C, C, U, R, '']
   columbia_plateau: [R, R, F, F, F, F, F, F, F, U, R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: moublu
+  current_common_name: Mountain Bluebird
+  current_scientific_name: Sialia currucoides
+  clements_sort: 28144
   historic_common_name: null
   display_historic: false
   note: null

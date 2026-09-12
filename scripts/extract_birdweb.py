@@ -123,6 +123,32 @@ def ordered(record: dict, key_order: Iterable[str]) -> dict:
     return out
 
 
+# Fields the extractor does NOT own. They come from later pipeline stages or from a human
+# working in the editor, and re-running `extract` must not silently discard them: a site's
+# coordinate is confirmed by a person looking at a map, and there is no way to recompute it.
+PRESERVED_FIELDS = {
+    "sites": ("lat", "lon", "county", "geocode_source"),
+    "species": ("taxonomy",),
+}
+
+
+def preserve_existing(path: Path, record: dict, collection: str) -> dict:
+    """Carry forward the fields this script did not produce."""
+    keys = PRESERVED_FIELDS.get(collection)
+    if not keys or not path.exists():
+        return record
+    try:
+        existing = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    except yaml.YAMLError:
+        return record
+    for key in keys:
+        value = existing.get(key)
+        # Only carry a value that actually says something; a null must not mask a fresh one.
+        if value not in (None, {}, []):
+            record[key] = value
+    return record
+
+
 def write_yaml(path: Path, record: dict) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     text = yaml.dump(
@@ -770,7 +796,8 @@ def run(
         species_pages = [p for p in species_pages if p.stem in wanted]
     for page in track(species_pages, description="species", console=console):
         record, warnings = extract_species(page, archived)
-        write_yaml(CONTENT / "species" / f"{page.stem}.yaml", record)
+        target = CONTENT / "species" / f"{page.stem}.yaml"
+        write_yaml(target, preserve_existing(target, record, "species"))
         if warnings:
             all_warnings[f"species/{page.stem}"] = warnings
     counts["species"] = len(species_pages)
@@ -788,7 +815,8 @@ def run(
         site_pages = [p for p in site_pages if p.parent.name in wanted]
     for page in track(site_pages, description="sites   ", console=console):
         record, warnings = extract_site(page, archived, numbers)
-        write_yaml(CONTENT / "sites" / f"{page.parent.name}.yaml", record)
+        target = CONTENT / "sites" / f"{page.parent.name}.yaml"
+        write_yaml(target, preserve_existing(target, record, "sites"))
         if warnings:
             all_warnings[f"sites/{page.parent.name}"] = warnings
     counts["sites"] = len(site_pages)

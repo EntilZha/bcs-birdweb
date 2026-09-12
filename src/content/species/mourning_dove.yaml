@@ -49,10 +49,10 @@ abundance:
   blue_mountains: [R, R, R, U, U, F, F, F, F, U, R, R]
   columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: moudov
+  current_common_name: Mourning Dove
+  current_scientific_name: Zenaida macroura
+  clements_sort: 2412
   historic_common_name: null
   display_historic: false
   note: null

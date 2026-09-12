@@ -40,13 +40,13 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
-  historic_common_name: null
+  ebird_code: lecspa
+  current_common_name: LeConte's Sparrow
+  current_scientific_name: Ammospiza leconteii
+  clements_sort: 33221.0
+  historic_common_name: Le Conte's Sparrow
   display_historic: false
-  note: null
+  note: Published on BirdWeb as Le Conte's Sparrow (Ammodramus leconteii). The spelling is now LeConte's and the species has moved to the genus Ammospiza.
 source:
   url: https://birdweb.org/birdweb/bird/le_contes_sparrow
   archived: '2026-09-12'

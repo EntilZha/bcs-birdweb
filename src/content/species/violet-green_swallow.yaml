@@ -55,10 +55,10 @@ abundance:
   blue_mountains: ['', '', R, U, U, U, U, U, U, '', '', '']
   columbia_plateau: ['', '', F, C, C, C, C, C, F, R, '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: vigswa
+  current_common_name: Violet-green Swallow
+  current_scientific_name: Tachycineta thalassina
+  clements_sort: 24074
   historic_common_name: null
   display_historic: false
   note: null

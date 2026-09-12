@@ -43,10 +43,10 @@ abundance:
   blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
   columbia_plateau: [R, R, R, R, R, R, R, R, R, R, R, R]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: nswowl
+  current_common_name: Northern Saw-whet Owl
+  current_scientific_name: Aegolius acadicus
+  clements_sort: 9304
   historic_common_name: null
   display_historic: false
   note: null

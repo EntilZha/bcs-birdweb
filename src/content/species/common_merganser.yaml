@@ -61,10 +61,10 @@ abundance:
   blue_mountains: [R, R, U, U, U, U, U, U, U, U, U, R]
   columbia_plateau: [C, C, C, F, U, U, U, U, U, C, C, C]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: commer
+  current_common_name: Common Merganser
+  current_scientific_name: Mergus merganser
+  clements_sort: 762
   historic_common_name: null
   display_historic: false
   note: null

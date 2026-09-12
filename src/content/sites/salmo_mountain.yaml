@@ -8,10 +8,10 @@ sections:
   birds: Open forest of Engelmann spruce and subalpine fir, with a rich shrub understory, provides prime habitat for boreal species such as Spruce Grouse, American Three-toed Woodpecker, Boreal Chickadee, and Pine Grosbeak. This is probably the best spot in the state to find Boreal Owl and White-winged Crossbill. Other species possible here include Blue Grouse, Northern Goshawk, Golden Eagle, Northern Pygmy-Owl, Gray Jay, Clark's Nutcracker, Mountain Bluebird, Townsend's Solitaire, Fox Sparrow, and Red Crossbill. Cougars and grizzly bears are reported occasionally, and you should see or hear hoary marmots and pika galore. Steep slopes below the mountaintop and ridges are part of the remote Salmo-Priest Wilderness Area, home to the last remaining caribou in Washington. Trails into this rugged terrain are for experienced wilderness hikers only.
   directions: From Metaline Falls, take SR-31 northbound and turn right in about two miles onto Sullivan Lake Road, which goes past Mill Pond to an intersection on the left with FR-22 in a bit less than five miles. (Maps and other useful information may be had by continuing a half mile straight ahead to the Sullivan Lake ranger station.) Turn east onto FR-22 (Sullivan Creek Road). In six miles, swing left onto FR-2220, which climbs for 12-plus miles through mostly uncut conifer forest dominated by western hemlock, western red cedar, and Engelmann spruce to a fork at Salmo Pass. The left branch (FR-270) continues up Salmo Mountain for another two-plus miles, while the right branch ends in a short distance where the road is blocked at a trailhead parking lot. The closed road is the start of an easy-going, three-mile ridgetop trail through more subalpine forest habitats.
 photos: []
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 48.97237
+lon: -117.1024
+county: Pend Oreille
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/salmo_mountain/8
   archived: '2026-09-12'

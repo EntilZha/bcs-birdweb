@@ -53,10 +53,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: blksco2
+  current_common_name: Black Scoter
+  current_scientific_name: Melanitta americana
+  clements_sort: 737
   historic_common_name: null
   display_historic: false
   note: null

@@ -32,10 +32,10 @@ photos:
     name: Mike Hamilton
     url: http://home1.gte.net/mikeham
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 47.66181
+lon: -122.42191
+county: King
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/seattle_-_discovery_park/3
   archived: '2026-09-12'

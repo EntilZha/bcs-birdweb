@@ -85,10 +85,10 @@ abundance:
   blue_mountains: [R, R, '', '', '', '', '', '', '', '', R, R]
   columbia_plateau: [U, U, U, '', '', '', '', '', '', R, U, U]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: bohwax
+  current_common_name: Bohemian Waxwing
+  current_scientific_name: Bombycilla garrulus
+  clements_sort: 29885
   historic_common_name: null
   display_historic: false
   note: null

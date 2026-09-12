@@ -67,10 +67,10 @@ abundance:
   blue_mountains: ['', '', '', R, F, C, C, C, C, R, '', '']
   columbia_plateau: ['', '', '', U, C, C, C, C, U, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: chispa
+  current_common_name: Chipping Sparrow
+  current_scientific_name: Spizella passerina
+  clements_sort: 32990
   historic_common_name: null
   display_historic: false
   note: null

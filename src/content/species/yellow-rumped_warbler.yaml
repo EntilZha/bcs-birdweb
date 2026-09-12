@@ -67,10 +67,10 @@ abundance:
   blue_mountains: ['', '', '', R, F, F, F, F, F, F, U, '']
   columbia_plateau: [F, F, F, C, C, '', '', U, C, C, F, F]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: yerwar
+  current_common_name: Yellow-rumped Warbler
+  current_scientific_name: Setophaga coronata
+  clements_sort: 34159
   historic_common_name: null
   display_historic: false
   note: null

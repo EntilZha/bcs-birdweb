@@ -21,10 +21,10 @@ sections:
     NOTICE, August, 2005--
     Due to liability issues with livestock presently on the property, Susan Eastman has posted her property "No Trespassing," and has asked folks who have been birding on the property to honor the posted signs. Spokane Audubon and Inland Northwest Lands Trust also request that everyone please bird only from the road until the property has been purchased through the WWRP program. If you have any questions or concerns, please contact Gary Blevins at GaryB@spokanefalls.edu or 509-533-3661.
 photos: []
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 47.67819
+lon: -117.86532
+county: Lincoln
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/reardan_-_audubon_lake/10
   archived: '2026-09-12'

@@ -52,10 +52,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: robgro
+  current_common_name: Rose-breasted Grosbeak
+  current_scientific_name: Pheucticus ludovicianus
+  clements_sort: 34557
   historic_common_name: null
   display_historic: false
   note: null

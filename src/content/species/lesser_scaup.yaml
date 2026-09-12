@@ -67,10 +67,10 @@ abundance:
   blue_mountains: ['', '', '', R, '', '', '', '', '', R, '', '']
   columbia_plateau: [C, C, C, C, C, F, F, F, F, F, C, C]
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: lessca
+  current_common_name: Lesser Scaup
+  current_scientific_name: Aythya affinis
+  clements_sort: 700
   historic_common_name: null
   display_historic: false
   note: null

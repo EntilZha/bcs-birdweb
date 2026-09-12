@@ -16,10 +16,10 @@ photos:
     name: Hal Opperman
     url: null
   hero: true
-lat: null
-lon: null
-county: null
-geocode_source: null
+lat: 47.15833
+lon: -121.72224
+county: King
+geocode_source: nominatim-unconfirmed
 source:
   url: https://birdweb.org/birdweb/site/federation_forest_state_park/5
   archived: '2026-09-12'

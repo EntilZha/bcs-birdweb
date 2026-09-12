@@ -34,10 +34,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: pinjay
+  current_common_name: Pinyon Jay
+  current_scientific_name: Gymnorhinus cyanocephalus
+  clements_sort: 21273
   historic_common_name: null
   display_historic: false
   note: null

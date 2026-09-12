@@ -43,10 +43,10 @@ abundance:
   blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
   columbia_plateau: ['', '', '', '', '', '', R, F, R, '', '', '']
 taxonomy:
-  ebird_code: null
-  current_common_name: null
-  current_scientific_name: null
-  clements_sort: null
+  ebird_code: baisan
+  current_common_name: Baird's Sandpiper
+  current_scientific_name: Calidris bairdii
+  clements_sort: 6217
   historic_common_name: null
   display_historic: false
   note: null
