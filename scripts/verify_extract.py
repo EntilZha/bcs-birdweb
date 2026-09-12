@@ -68,6 +68,37 @@ def source_has_abundance_table(slug: str) -> bool:
     return result
 
 
+_MISSING_AT_SOURCE: set[str] | None = None
+
+
+def missing_at_source() -> set[str]:
+    """Assets the legacy server itself returned 404 for.
+
+    Seven species pages link a range map that was never uploaded, and the live site shows a
+    broken image for them to this day. That is a fact about the source, not a failure of
+    the extractor, so those references are reported rather than failed -- but only because
+    the manifest proves we asked and were told no.
+    """
+    global _MISSING_AT_SOURCE
+    if _MISSING_AT_SOURCE is not None:
+        return _MISSING_AT_SOURCE
+    names: set[str] = set()
+    manifest = ARCHIVE / "manifest.jsonl"
+    if manifest.exists():
+        import json
+
+        with manifest.open(encoding="utf-8") as handle:
+            for line in handle:
+                try:
+                    record = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                if record.get("http_status") != 200:
+                    names.add(record["url"].rsplit("/", 1)[-1])
+    _MISSING_AT_SOURCE = names
+    return names
+
+
 def load_all(collection: str) -> dict[str, dict]:
     directory = CONTENT / collection
     if not directory.exists():
@@ -187,8 +218,25 @@ def check_assets(
     species: dict[str, dict], sites: dict[str, dict], report: Report
 ) -> tuple[int, int]:
     """Cross-check every referenced asset against the archive, both directions."""
-    images = {p.name for p in (ASSETS / "images").glob("*")} if (ASSETS / "images").exists() else set()
-    sounds = {p.name for p in (ASSETS / "sounds").glob("*")} if (ASSETS / "sounds").exists() else set()
+    # Case-folded: IIS served these paths case-insensitively and BirdWeb's markup is
+    # inconsistent about it, so the archive may hold a file under either spelling.
+    images = set()
+    for directory in ("images", "web_images"):
+        if (ASSETS / directory).exists():
+            images |= {p.name.lower() for p in (ASSETS / directory).glob("*")}
+    absent = missing_at_source()
+
+    def report_missing(where: str, kind: str, name: str) -> None:
+        if name in absent or name.lower() in {a.lower() for a in absent}:
+            report.note(f"{where}: {kind} {name} is a broken link on the legacy site (404)")
+        else:
+            report.error(f"{where}: {kind} {name} not in archive")
+
+    sounds = (
+        {p.name.lower() for p in (ASSETS / "sounds").glob("*")}
+        if (ASSETS / "sounds").exists()
+        else set()
+    )
     if not images:
         report.note("no archived images yet — asset cross-check skipped")
         return 0, 0
@@ -199,31 +247,31 @@ def check_assets(
             file = photo.get("file")
             if file:
                 referenced.add(file)
-                if file not in images:
-                    report.error(f"species/{slug}: photo {file} not in archive")
+                if file.lower() not in images:
+                    report_missing(f"species/{slug}", "photo", file)
         for key, value in (record.get("maps") or {}).items():
             if value:
                 referenced.add(value)
-                if value not in images:
-                    report.error(f"species/{slug}: {key} map {value} not in archive")
+                if value.lower() not in images:
+                    report_missing(f"species/{slug}", f"{key} map", value)
         audio = record.get("audio")
         if audio and audio.get("file"):
             referenced.add(audio["file"])
-            if audio["file"] not in sounds:
-                report.error(f"species/{slug}: audio {audio['file']} not in archive")
+            if audio["file"].lower() not in sounds:
+                report_missing(f"species/{slug}", "audio", audio["file"])
 
     for slug, record in sites.items():
         for photo in record.get("photos") or []:
             if photo.get("file"):
                 referenced.add(photo["file"])
-                if photo["file"] not in images:
-                    report.error(f"sites/{slug}: photo {photo['file']} not in archive")
+                if photo["file"].lower() not in images:
+                    report_missing(f"sites/{slug}", "photo", photo["file"])
 
     # Orphans catch the opposite failure: a photo the parser never found. Thumbnails and
     # site chrome are expected to be unreferenced, so only full-size images count.
     orphans = {
         name
-        for name in images - referenced
+        for name in images - {r.lower() for r in referenced}
         if re.search(r"_l\.(jpg|jpeg|png|gif)$", name, re.I)
     }
     if orphans:

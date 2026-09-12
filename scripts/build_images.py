@@ -33,6 +33,8 @@ from rich.table import Table
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 ARCHIVE_IMAGES = REPO_ROOT / "archive" / "assets" / "images"
+# Site chrome and the ecoregion locator maps were served from a second directory.
+ARCHIVE_WEB_IMAGES = REPO_ROOT / "archive" / "assets" / "web_images"
 ARCHIVE_SOUNDS = REPO_ROOT / "archive" / "assets" / "sounds"
 CONTENT = REPO_ROOT / "src" / "content"
 ASSETS = REPO_ROOT / "src" / "assets"
@@ -56,6 +58,46 @@ def load_collection(name: str) -> dict[str, dict]:
     }
 
 
+def source_404s() -> set[str]:
+    """Filenames the legacy server returned a non-200 for, read from the crawl manifest."""
+    manifest = REPO_ROOT / "archive" / "manifest.jsonl"
+    if not manifest.exists():
+        return set()
+    import json
+
+    names: set[str] = set()
+    with manifest.open(encoding="utf-8") as handle:
+        for line in handle:
+            try:
+                record = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            if record.get("http_status") != 200:
+                names.add(record["url"].rsplit("/", 1)[-1])
+    return names
+
+
+_INDEX: dict[str, Path] | None = None
+
+
+def archive_index() -> dict[str, Path]:
+    """Case-folded index of every archived image.
+
+    IIS serves paths case-insensitively, and BirdWeb's own markup is inconsistent about it:
+    the filmstrip thumbnail links `greglavaty032_t.jpg` while `data-large_file` on the same
+    element says `GregLavaty032.jpg`. Both are the same file on the server, so matching by
+    exact filename loses images that were archived under the other spelling.
+    """
+    global _INDEX
+    if _INDEX is None:
+        _INDEX = {}
+        for directory in (ARCHIVE_IMAGES, ARCHIVE_WEB_IMAGES):
+            if directory.exists():
+                for path in directory.glob("*"):
+                    _INDEX.setdefault(path.name.lower(), path)
+    return _INDEX
+
+
 def best_source(file: str) -> Path | None:
     """Highest-resolution archived rendition of an image.
 
@@ -67,9 +109,10 @@ def best_source(file: str) -> Path | None:
     stem, _, ext = file.rpartition(".")
     if stem.endswith(("_l", "_t", "_s")):
         candidates.insert(0, f"{stem[:-2]}.{ext}")
+    index = archive_index()
     for name in candidates:
-        path = ARCHIVE_IMAGES / name
-        if path.exists():
+        path = index.get(name.lower())
+        if path is not None:
             return path
     return None
 
@@ -179,13 +222,28 @@ def run(force: bool = typer.Option(False, help="Re-encode even if the output exi
     console.print(table)
 
     if missing_names:
-        console.print(
-            "\n[yellow]Missing from the archive — is the crawl still running?[/yellow]"
-        )
-        for name in missing_names[:10]:
-            console.print(f"  {name}")
-        if len(missing_names) > 10:
-            console.print(f"  … {len(missing_names) - 10} more")
+        # Distinguish "not crawled yet" from "the legacy server 404s on this too". Seven
+        # species pages link a range map that was never uploaded; the live site has shown a
+        # broken image for them for twenty years, and there is nothing to recover.
+        absent = source_404s()
+        broken = [n for n in missing_names if n in absent]
+        uncrawled = [n for n in missing_names if n not in absent]
+        if broken:
+            console.print(
+                f"\n[dim]{len(broken)} referenced image(s) are broken links on the legacy "
+                "site itself (404 at source) — nothing to recover:[/dim]"
+            )
+            for name in broken:
+                console.print(f"  [dim]{name}[/dim]")
+        if uncrawled:
+            console.print(
+                f"\n[yellow]{len(uncrawled)} image(s) not in the archive — is the crawl "
+                "still running?[/yellow]"
+            )
+            for name in uncrawled[:10]:
+                console.print(f"  {name}")
+            if len(uncrawled) > 10:
+                console.print(f"  … {len(uncrawled) - 10} more")
 
 
 if __name__ == "__main__":

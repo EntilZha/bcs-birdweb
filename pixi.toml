@@ -17,7 +17,7 @@ pyyaml = ">=6"
 pillow = ">=10"
 typer = ">=0.9"
 rich = ">=13"
-zstandard = ">=0.22"
+
 
 # --- Archive pipeline (Phase 1) ---------------------------------------------
 # These hit the live legacy site. `mirror` is meant to run once: it pulls raw bytes into
@@ -34,7 +34,7 @@ description = "Re-hash every archived file against manifest.jsonl and report cov
 
 [tasks.archive-pack]
 cmd = "python scripts/pack_archive.py"
-description = "Pack archive/ into a dated .tar.zst + SHA256SUMS for the BCS Google Drive"
+description = "Pack archive/ into a dated .tar.gz + SHA256SUMS for the BCS Google Drive"
 
 # --- Content pipeline (Phases 2-4) ------------------------------------------
 # All offline: these read archive/ and write src/content/ and src/assets/.

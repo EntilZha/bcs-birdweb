@@ -25,7 +25,9 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import re
+import shutil
 import sys
 import time
 from collections import deque
@@ -37,6 +39,7 @@ import httpx
 import typer
 from rich.console import Console
 from rich.progress import (
+    track,
     BarColumn,
     MofNCompleteColumn,
     Progress,
@@ -77,7 +80,7 @@ PAGE_PATTERNS = [
     re.compile(r"^/birdweb/site/[^/]+/\d+$"),
 ]
 
-ASSET_DIR_PATTERN = re.compile(r"^/birdweb/(images|sounds|web_images|css)/[^/]+$", re.I)
+ASSET_DIR_PATTERN = re.compile(r"^/birdweb/(images|sounds|web_images|css|js)/[^/]+$", re.I)
 ROOT_ASSET_PATTERN = re.compile(
     r"^/birdweb/[^/]+\.(ico|png|svg|webmanifest|jpg|gif|css|js)$", re.I
 )
@@ -100,6 +103,12 @@ LINK_ATTR_RE = re.compile(
     re.I,
 )
 CSS_URL_RE = re.compile(r"""url\(\s*(?P<q>["']?)(?P<url>[^"')]+)(?P=q)\s*\)""", re.I)
+# A handful of images are named only inside inline scripts -- the search button is set via
+# `$(...).css("background", "url(\"https://birdweb.org/birdweb/web_images/...\")")`, which
+# no href/src scan will ever see. Matching bare birdweb URLs in the page text catches them.
+INLINE_URL_RE = re.compile(
+    r"""https?:\\?/\\?/(?:[\w.-]*\.)?birdweb\.org/[Bb]irdweb/[^\s"'\\<>()]+""", re.I
+)
 
 console = Console()
 app = typer.Typer(add_completion=False, help=__doc__)
@@ -200,9 +209,11 @@ def extract_links(body: bytes, base_url: str) -> list[str]:
     found: list[str] = []
     for match in LINK_ATTR_RE.finditer(text):
         found.append(match.group("url"))
-    if base_url.lower().endswith(".css"):
+    if base_url.lower().endswith((".css", ".js")):
         for match in CSS_URL_RE.finditer(text):
             found.append(match.group("url"))
+    for match in INLINE_URL_RE.finditer(text):
+        found.append(match.group(0).replace("\\/", "/"))
 
     out: list[str] = []
     for raw in found:
@@ -306,7 +317,7 @@ def crawl(
                 skipped += 1
                 progress.advance(task)
                 # Still need this page's links to reach the rest of the graph.
-                if url_kind(url) == "page":
+                if url_kind(url) == "page" or url.lower().endswith((".css", ".js")):
                     for link in extract_links(target.read_bytes(), url):
                         enqueue(link, url)
                         for sibling in variant_siblings(link):
@@ -349,7 +360,7 @@ def crawl(
             )
             fetched += 1
 
-            if url_kind(url) == "page" or url.lower().endswith(".css"):
+            if url_kind(url) == "page" or url.lower().endswith((".css", ".js")):
                 for link in extract_links(body, url):
                     enqueue(link, url)
                     for sibling in variant_siblings(link):
@@ -403,6 +414,146 @@ def fetch(
 
 def now_iso() -> str:
     return datetime.now(timezone.utc).isoformat(timespec="seconds")
+
+
+# --------------------------------------------------------------------------------------
+# Offline rewrite
+# --------------------------------------------------------------------------------------
+
+BROWSABLE = ARCHIVE / "browsable"
+
+# The pages load jQuery and jQuery UI from Google's CDN. They are third-party and MIT
+# licensed, but without them the archived pages lose their tab widgets and image filmstrip,
+# so a faithful offline copy has to carry them. Analytics is deliberately NOT vendored:
+# it is tracking, not content, and an archive should not phone home.
+VENDOR_SCRIPTS = {
+    "https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js": "jquery.min.js",
+    "https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.17/jquery-ui.min.js": "jquery-ui.min.js",
+}
+
+
+@app.command()
+def rewrite() -> None:
+    """Build archive/browsable/ -- the mirror with links rewritten to relative paths.
+
+    This is the difference between a folder of files and a preserved site. Someone opening
+    the tarball in twenty years should be able to double-click index.html and click through
+    every species, site and ecoregion with no web server, no network and none of this
+    tooling.
+    """
+    if not PAGES_DIR.exists():
+        console.print("[red]Nothing to rewrite. Run `pixi run mirror` first.[/red]")
+        raise typer.Exit(1)
+
+    if BROWSABLE.exists():
+        shutil.rmtree(BROWSABLE)
+    BROWSABLE.mkdir(parents=True)
+
+    # Fetch the CDN scripts once into the browsable tree.
+    vendor_dir = BROWSABLE / "vendor"
+    vendor_dir.mkdir(parents=True, exist_ok=True)
+    headers = {"User-Agent": USER_AGENT}
+    with httpx.Client(headers=headers, follow_redirects=True, timeout=30.0) as client:
+        for url, name in VENDOR_SCRIPTS.items():
+            target = vendor_dir / name
+            if target.exists():
+                continue
+            try:
+                response = client.get(url)
+                if response.status_code == 200:
+                    target.write_bytes(response.content)
+                    console.print(f"  vendored {name} ({len(response.content) / 1024:.0f} KB)")
+            except httpx.HTTPError as exc:
+                console.print(f"  [yellow]could not vendor {name}: {exc}[/yellow]")
+
+    pages = sorted(PAGES_DIR.rglob("*.html"))
+    written = 0
+
+    for page in track(pages, description="rewriting", console=console):
+        rel = page.relative_to(PAGES_DIR)
+        target = BROWSABLE / "pages" / rel
+        target.parent.mkdir(parents=True, exist_ok=True)
+        html = page.read_bytes().decode("iso-8859-1", errors="replace")
+
+        here_dir = (Path("pages") / rel).parent
+
+        def to_relative(match: re.Match[str]) -> str:
+            attr, quote, raw = match.group("attr"), match.group("q"), match.group("url")
+            if raw in VENDOR_SCRIPTS:
+                dest = Path("vendor") / VENDOR_SCRIPTS[raw]
+                return f'{attr}={quote}{os.path.relpath(dest, here_dir)}{quote}'
+            absolute = urljoin(f"{ORIGIN}{'/birdweb/'}{rel.as_posix()}", raw)
+            normalized = canonical(absolute)
+            if not normalized:
+                return match.group(0)
+            kind = url_kind(normalized)
+            if not kind:
+                return match.group(0)
+            dest = local_path(normalized)
+            # Assets sit beside pages/ in the browsable tree, so relativize from the page.
+            dest_rel = (
+                Path("pages") / dest.relative_to(PAGES_DIR)
+                if kind == "page"
+                else Path("assets") / dest.relative_to(ASSETS_DIR)
+            )
+            here = (Path("pages") / rel).parent
+            return f'{attr}={quote}{os.path.relpath(dest_rel, here)}{quote}'
+
+        html = re.sub(
+            r"""(?P<attr>href|src)\s*=\s*(?P<q>["'])(?P<url>[^"']+)(?P=q)""",
+            to_relative,
+            html,
+            flags=re.I,
+        )
+        # Second pass: any absolute birdweb URL still left is inside an inline script (the
+        # search button sets its own background image that way). The attribute pass above
+        # has already turned every real link relative, so whatever matches here is JS.
+        def inline_to_relative(match: re.Match[str]) -> str:
+            normalized = canonical(match.group(0).replace("\\/", "/"))
+            if not normalized or not url_kind(normalized):
+                return match.group(0)
+            dest = local_path(normalized)
+            kind = url_kind(normalized)
+            dest_rel = (
+                Path("pages") / dest.relative_to(PAGES_DIR)
+                if kind == "page"
+                else Path("assets") / dest.relative_to(ASSETS_DIR)
+            )
+            return os.path.relpath(dest_rel, here_dir)
+
+        html = INLINE_URL_RE.sub(inline_to_relative, html)
+        html = re.sub(
+            r"<script[^>]*googletagmanager[^>]*>.*?</script>", "", html, flags=re.S | re.I
+        )
+        target.write_text(html, encoding="iso-8859-1", errors="replace")
+        written += 1
+
+    # Assets are hardlinked where the filesystem allows it, so the browsable copy costs
+    # almost nothing on disk; tar resolves them back to regular files.
+    linked = 0
+    for asset in ASSETS_DIR.rglob("*"):
+        if not asset.is_file():
+            continue
+        dest = BROWSABLE / "assets" / asset.relative_to(ASSETS_DIR)
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        try:
+            os.link(asset, dest)
+        except OSError:
+            shutil.copy2(asset, dest)
+        linked += 1
+
+    (BROWSABLE / "index.html").write_text(
+        "<!doctype html>\n<meta charset='iso-8859-1'>\n"
+        "<title>BirdWeb archive</title>\n"
+        "<meta http-equiv='refresh' content='0; url=pages/index.html'>\n"
+        "<p>Opening the <a href='pages/index.html'>BirdWeb archive</a>…</p>\n",
+        encoding="utf-8",
+    )
+
+    console.print(
+        f"\n[green]{written} pages rewritten, {linked} assets linked.[/green]\n"
+        f"Open [bold]{BROWSABLE / 'index.html'}[/bold] with the network off."
+    )
 
 
 # --------------------------------------------------------------------------------------
@@ -468,9 +619,14 @@ def page_counts() -> dict[str, int]:
     def count(pattern: str) -> int:
         return len(list(PAGES_DIR.glob(pattern))) if PAGES_DIR.exists() else 0
 
+    # Sites are counted by unique slug, not by page: five sites straddle an ecoregion
+    # boundary and the legacy site served each of them under two URLs.
+    site_slugs = (
+        {p.parent.name for p in PAGES_DIR.glob("site/*/*.html")} if PAGES_DIR.exists() else set()
+    )
     return {
         "species": count("bird/*.html"),
-        "sites": count("site/*/*.html"),
+        "sites": len(site_slugs),
         "ecoregions": count("ecoregion/*.html"),
         "families": count("family/*.html"),
     }

@@ -25,7 +25,6 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/idna-3.19-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/markdown-it-py-4.2.0-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/mdurl-0.1.2-pyhd8ed1ab_1.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/pycparser-3.0-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pygments-2.21.0-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python_abi-3.12-9_cp312.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/rich-15.0.0-pyhcf101f3_0.conda
@@ -36,7 +35,6 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/tzdata-2026c-h151e31d_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/bzip2-1.0.8-h4e30115_10.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/c-ares-1.34.8-h74c22ad_2.conda
-      - conda: https://conda.anaconda.org/conda-forge/osx-arm64/cffi-2.1.1-py312hc892d8b_3.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/cython-3.0.11-py312hde4cb15_2.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/icu-78.3-py310h579977c_2.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/lcms2-2.19.1-hce41798_3.conda
@@ -78,7 +76,6 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/xorg-libxdmcp-1.1.5-h84a0fba_2.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/yaml-0.2.5-h74c22ad_3.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/zlib-ng-2.3.3-h31dac16_1.conda
-      - conda: https://conda.anaconda.org/conda-forge/osx-arm64/zstandard-0.25.0-py312hbd136b4_4.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/zstd-1.5.7-hf451053_7.conda
 packages:
 - conda: https://conda.anaconda.org/conda-forge/noarch/annotated-doc-0.0.5-pyhcf101f3_0.conda
@@ -244,17 +241,6 @@ packages:
   run_exports: {}
   size: 14465
   timestamp: 1733255681319
-- conda: https://conda.anaconda.org/conda-forge/noarch/pycparser-3.0-pyhcf101f3_0.conda
-  sha256: e27e0473fc6723311a0bd48b89b616fa1b996a2f7a2b555338cbbcfb9c640568
-  md5: 9c5491066224083c41b6d5635ed7107b
-  depends:
-  - python >=3.10
-  - python
-  license: BSD-3-Clause
-  license_family: BSD
-  run_exports: {}
-  size: 55886
-  timestamp: 1779293633166
 - conda: https://conda.anaconda.org/conda-forge/noarch/pygments-2.21.0-pyhcf101f3_0.conda
   sha256: f5f015ff1bc3e1b7fc08eee096b1865234189ae0b82bebdb86a5369116e42fa0
   md5: 2882dee445dfa45b0c5afce3ffb7730a
@@ -367,20 +353,6 @@ packages:
     - c-ares >=1.34.8,<2.0a0
   size: 197819
   timestamp: 1787169996553
-- conda: https://conda.anaconda.org/conda-forge/osx-arm64/cffi-2.1.1-py312hc892d8b_3.conda
-  sha256: 2fdabfeb8de0e506c55a4fc0cbc57cf2579ad011959d3234ea695f58beb8dce1
-  md5: 3361d7efede75a6caa9041cbaa97b4e9
-  depends:
-  - __osx >=11.0
-  - libffi >=3.7.0,<3.8.0a0
-  - pycparser
-  - python >=3.12,<3.13.0a0
-  - python_abi 3.12.* *_cp312
-  license: MIT
-  license_family: MIT
-  run_exports: {}
-  size: 289165
-  timestamp: 1788485306633
 - conda: https://conda.anaconda.org/conda-forge/osx-arm64/cython-3.0.11-py312hde4cb15_2.conda
   sha256: bd50c1d3f13403bbc96c0cd18ae95d492eda85df8ab9febe1719bf01018c6e32
   md5: bc620580cd4cafd885769a3975c00287
@@ -949,21 +921,6 @@ packages:
     - zlib-ng >=2.3.3,<2.4.0a0
   size: 95857
   timestamp: 1786737243497
-- conda: https://conda.anaconda.org/conda-forge/osx-arm64/zstandard-0.25.0-py312hbd136b4_4.conda
-  sha256: 4f9f7fa27289e49604cb99c572aa6acf3c8feadec10f826532b5f56fd73c00e4
-  md5: 499a8bd66852513c4105d0954906232c
-  depends:
-  - python
-  - cffi >=1.11
-  - zstd >=1.5.7,<1.5.8.0a0
-  - __osx >=11.0
-  - python_abi 3.12.* *_cp312
-  - zstd >=1.5.7,<1.6.0a0
-  license: BSD-3-Clause
-  license_family: BSD
-  run_exports: {}
-  size: 375944
-  timestamp: 1788604316671
 - conda: https://conda.anaconda.org/conda-forge/osx-arm64/zstd-1.5.7-hf451053_7.conda
   sha256: da867f5092eb0cb746d353694f0098031fd9817a4ce7d5743121209ae0f406ca
   md5: 4ec2684c73812cc2c3d78379384a39cc
