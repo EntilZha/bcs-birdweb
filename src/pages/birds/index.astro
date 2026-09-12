@@ -3,6 +3,7 @@ import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import SpeciesCard from "../../components/SpeciesCard.astro";
 import SearchBox from "../../components/SearchBox.tsx";
+import IndexToggle from "../../components/IndexToggle.astro";
 import { buildSearchIndex } from "../../lib/search";
 import { taxonomicSort } from "../../lib/species";
 
@@ -37,6 +38,8 @@ for (const entry of species) {
   <p class="mt-1 text-ink">
     {species.length} species in {groups.length} families, in taxonomic order.
   </p>
+
+  <div class="mt-4"><IndexToggle current="family" /></div>
 
   <div class="mt-5 max-w-xl">
     <SearchBox entries={index} base={base} client:load />

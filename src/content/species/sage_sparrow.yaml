@@ -22,8 +22,8 @@ photos:
 - file: sasp.jpg
   caption: ''
   credit:
-    name: Joseph V Higbee
-    url: http://www.pbase.com/jvhigbee
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
   hero: false
 - file: sags_ad_gth_l.jpg
   caption: ''
@@ -52,7 +52,7 @@ taxonomy:
   ebird_code: sagspa1
   current_common_name: Sagebrush Sparrow
   current_scientific_name: Artemisiospiza nevadensis
-  clements_sort: 33207.0
+  clements_sort: 33207
   historic_common_name: Sage Sparrow
   display_historic: false
   note: Published on BirdWeb as Sage Sparrow. That species was split into Sagebrush Sparrow and Bell's Sparrow; the bird breeding in Washington's shrub-steppe is the Sagebrush Sparrow.

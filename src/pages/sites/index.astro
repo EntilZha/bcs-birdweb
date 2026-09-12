@@ -1,23 +1,27 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
-import { ECOREGIONS, ECOREGION_NAME } from "../../config/ecoregions";
 import SitesMap from "../../components/SitesMap.astro";
+import SiteFilter, { type SiteEntry } from "../../components/SiteFilter.tsx";
 
 const base = import.meta.env.BASE_URL;
 const sites = (await getCollection("sites")).sort((a, b) => a.data.name.localeCompare(b.data.name));
 
-// Grouped by ecoregion, west to east. A site that straddles a boundary appears under each,
-// which is how a birder would look for it.
-const groups = ECOREGIONS.map((eco) => ({
-  ...eco,
-  members: sites.filter((s) => s.data.ecoregions.includes(eco.slug)),
-})).filter((g) => g.members.length > 0);
-
-const geocoded = sites.filter((s) => s.data.lat != null).length;
+// Names and regions only. Shipping the prose too would be most of a megabyte for a filter
+// that matches on names.
+const entries: SiteEntry[] = sites.map((site) => ({
+  slug: site.id,
+  name: site.data.name,
+  ecoregions: [...site.data.ecoregions],
+  number: site.data.number,
+  county: site.data.geocode_source === "confirmed" ? site.data.county : null,
+}));
 ---
 
-<Layout title="Birding sites — BirdWeb" description={`${sites.length} places to go birding in Washington, with habitat notes, the birds to expect, and directions.`}>
+<Layout
+  title="Birding sites — BirdWeb"
+  description={`${sites.length} places to go birding in Washington, with habitat notes, the birds to expect, and directions.`}
+>
   <h1 class="text-3xl font-bold text-brand">Birding sites</h1>
   <p class="mt-1 text-ink">
     {sites.length} places to go birding across Washington, grouped by ecoregion.
@@ -35,28 +39,7 @@ const geocoded = sites.filter((s) => s.data.lat != null).length;
     <SitesMap sites={sites} />
   </div>
 
-  {groups.map((group) => (
-    <section class="mt-9">
-      <div class="flex flex-wrap items-baseline gap-x-3 mb-3">
-        <h2 class="text-xl font-bold text-brand">
-          <a href={`${base}ecoregions/${group.slug}/`} class="hover:underline">{group.name}</a>
-        </h2>
-        <span class="text-xs text-ink-faint">{group.members.length} sites</span>
-      </div>
-      <ul class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3 p-0 list-none">
-        {group.members.map((site) => (
-          <li>
-            <a href={`${base}sites/${site.id}/`} class="block h-full rounded-xl bg-white ring-1 ring-black/5 px-4 py-3 shadow-sm transition hover:shadow-md active:scale-[0.99] min-h-11 flex flex-col justify-center">
-              <span class="font-semibold text-brand">{site.data.name}</span>
-              {site.data.ecoregions.length > 1 && (
-                <span class="block text-xs text-ink-muted mt-0.5">
-                  Also in {site.data.ecoregions.filter((e) => e !== group.slug).map((e) => ECOREGION_NAME[e]).join(", ")}
-                </span>
-              )}
-            </a>
-          </li>
-        ))}
-      </ul>
-    </section>
-  ))}
+  <div class="mt-8">
+    <SiteFilter sites={entries} base={base} client:load />
+  </div>
 </Layout>

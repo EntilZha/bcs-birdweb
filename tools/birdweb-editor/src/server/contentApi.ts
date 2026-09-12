@@ -253,6 +253,107 @@ export function contentApi({ repoRoot }: Options): Plugin {
             }
           }
 
+          /**
+           * GET/POST /api/taxonomy-overrides — the twenty species where a post-2005 split
+           * or lump needed a human decision about which daughter species occurs in
+           * Washington. Edited here rather than in a text editor because the reasoning
+           * fields matter and are easy to clobber.
+           */
+          if (pathname === "/api/taxonomy-overrides") {
+            const file = path.join(repoRoot, "src", "config", "taxonomy-overrides.yaml");
+            if (req.method === "GET") {
+              if (!fs.existsSync(file)) return json(200, { species: {} });
+              const text = fs.readFileSync(file, "utf8");
+              const parsed = (yaml.load(text) || {}) as { species?: Record<string, unknown> };
+              // The file's header comments explain why each entry exists; hand them back so
+              // a save can put them right back rather than silently dropping them.
+              const header = text.slice(0, text.indexOf("species:"));
+              return json(200, { species: parsed.species || {}, header });
+            }
+            if (req.method === "POST") {
+              const body = await readBody();
+              const header = typeof body.header === "string" ? body.header : "";
+              const text =
+                header +
+                yaml.dump({ species: body.species || {} }, {
+                  sortKeys: true,
+                  lineWidth: 100,
+                  noRefs: true,
+                });
+              fs.writeFileSync(file, text, "utf8");
+              return json(200, { ok: true });
+            }
+          }
+
+          /**
+           * GET /api/credits — every photographer across species and sites, with how many
+           * images each contributed. Aggregated here because the credit lives per-photo in
+           * the source data and nowhere else, so a misspelled name is otherwise invisible
+           * and unfixable in bulk.
+           */
+          if (pathname === "/api/credits" && req.method === "GET") {
+            const tally = new Map<string, { count: number; urls: Set<string>; where: string[] }>();
+            for (const collection of ["species", "sites"] as CollectionName[]) {
+              for (const { slug, data } of listRecords(collection)) {
+                for (const photo of (data.photos as Array<Record<string, any>>) || []) {
+                  const name = (photo?.credit?.name || "").trim();
+                  if (!name) continue;
+                  const entry =
+                    tally.get(name) || { count: 0, urls: new Set<string>(), where: [] };
+                  entry.count += 1;
+                  if (photo.credit.url) entry.urls.add(photo.credit.url);
+                  if (entry.where.length < 40) entry.where.push(`${collection}/${slug}`);
+                  tally.set(name, entry);
+                }
+              }
+            }
+            const credits = [...tally.entries()]
+              .map(([name, v]) => ({
+                name,
+                count: v.count,
+                urls: [...v.urls],
+                where: v.where,
+              }))
+              .sort((a, b) => a.name.localeCompare(b.name));
+            return json(200, { credits });
+          }
+
+          /**
+           * POST /api/credits/rename — change a photographer's name everywhere at once.
+           *
+           * These names were typed per-photo over twenty years, so the same person appears
+           * with variant spellings. Fixing that one record at a time across 2,200 photos is
+           * not work anyone will do, and getting a contributor's name right is the least
+           * this rebuild owes them.
+           */
+          if (pathname === "/api/credits/rename" && req.method === "POST") {
+            const body = await readBody();
+            const from = String(body.from || "").trim();
+            const to = String(body.to || "").trim();
+            const url = body.url === undefined ? undefined : String(body.url || "").trim();
+            if (!from || !to) return json(400, { error: "both names are required" });
+
+            let photos = 0;
+            const touched: string[] = [];
+            for (const collection of ["species", "sites"] as CollectionName[]) {
+              for (const { slug, data } of listRecords(collection)) {
+                let changed = false;
+                for (const photo of (data.photos as Array<Record<string, any>>) || []) {
+                  if ((photo?.credit?.name || "").trim() !== from) continue;
+                  photo.credit.name = to;
+                  if (url !== undefined) photo.credit.url = url || null;
+                  changed = true;
+                  photos += 1;
+                }
+                if (changed) {
+                  save(collection, slug, data);
+                  touched.push(`${collection}/${slug}`);
+                }
+              }
+            }
+            return json(200, { ok: true, photos, records: touched.length });
+          }
+
           // GET /api/backups — what this session has written, and how to clean up.
           if (pathname === "/api/backups" && req.method === "GET") {
             const found: string[] = [];

@@ -15,8 +15,8 @@ photos:
 - file: leconte2.jpg
   caption: ''
   credit:
-    name: Joseph V Higbee
-    url: http://www.pbase.com/jvhigbee
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
   hero: true
 - file: lcsp_gl_l.jpg
   caption: 'Note: grayish auriculars with buffy orange supercilium and malar stripe.'
@@ -43,7 +43,7 @@ taxonomy:
   ebird_code: lecspa
   current_common_name: LeConte's Sparrow
   current_scientific_name: Ammospiza leconteii
-  clements_sort: 33221.0
+  clements_sort: 33221
   historic_common_name: Le Conte's Sparrow
   display_historic: false
   note: Published on BirdWeb as Le Conte's Sparrow (Ammodramus leconteii). The spelling is now LeConte's and the species has moved to the genus Ammospiza.

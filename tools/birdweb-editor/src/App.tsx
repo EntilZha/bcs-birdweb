@@ -3,6 +3,8 @@ import { api, assetUrl, type Collection, type IndexRecord } from "./api";
 import { useAutosave, type SaveState } from "./useAutosave";
 import AbundanceEditor from "./components/AbundanceEditor";
 import MapPicker from "./components/MapPicker";
+import Credits from "./pages/Credits";
+import Taxonomy from "./pages/Taxonomy";
 
 const ECOREGIONS = [
   { slug: "oceanic", name: "Oceanic" },
@@ -34,16 +36,23 @@ const SITE_SECTIONS: Array<[string, string]> = [
   ["references", "References"],
 ];
 
+type Screen = Collection | "taxonomy" | "credits";
+const COLLECTIONS: Collection[] = ["species", "sites", "ecoregions"];
+const isCollection = (screen: Screen): screen is Collection =>
+  (COLLECTIONS as string[]).includes(screen);
+
 export default function App() {
-  const [collection, setCollection] = useState<Collection>("species");
+  const [screen, setScreen] = useState<Screen>("species");
+  const collection: Collection = isCollection(screen) ? screen : "species";
   const [records, setRecords] = useState<IndexRecord[]>([]);
   const [slug, setSlug] = useState<string | null>(null);
   const [query, setQuery] = useState("");
 
   useEffect(() => {
     setSlug(null);
-    api.list(collection).then(setRecords).catch(() => setRecords([]));
-  }, [collection]);
+    if (!isCollection(screen)) return;
+    api.list(screen).then(setRecords).catch(() => setRecords([]));
+  }, [screen]);
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -62,15 +71,15 @@ export default function App() {
       <header className="bg-brand text-white px-4 py-2.5 flex items-center gap-4 shrink-0">
         <span className="font-semibold">BirdWeb editor</span>
         <nav className="flex gap-1.5">
-          {(["species", "sites", "ecoregions"] as const).map((name) => (
+          {(["species", "sites", "ecoregions", "taxonomy", "credits"] as const).map((name) => (
             <button
               key={name}
               type="button"
-              onClick={() => setCollection(name)}
-              aria-pressed={collection === name}
+              onClick={() => setScreen(name)}
+              aria-pressed={screen === name}
               className={[
                 "rounded-full px-3 py-1 text-xs font-semibold capitalize transition",
-                collection === name
+                screen === name
                   ? "bg-pop text-brand"
                   : "bg-white/10 text-sage hover:bg-white/20",
               ].join(" ")}
@@ -85,6 +94,12 @@ export default function App() {
       </header>
 
       <div className="flex flex-1 min-h-0">
+        {!isCollection(screen) ? (
+          <main className="flex-1 overflow-y-auto">
+            {screen === "taxonomy" ? <Taxonomy /> : <Credits />}
+          </main>
+        ) : (
+        <>
         <aside className="w-72 shrink-0 border-r border-black/10 bg-white flex flex-col">
           <div className="p-3 border-b border-black/10">
             <input
@@ -130,6 +145,8 @@ export default function App() {
             <Welcome collection={collection} count={records.length} />
           )}
         </main>
+        </>
+        )}
       </div>
     </div>
   );
@@ -482,60 +499,107 @@ function RecordEditor({ collection, slug }: { collection: Collection; slug: stri
           <h2 className="text-sm font-semibold uppercase tracking-wide text-ink-muted mb-2">
             Photographs
           </h2>
+          <p className="mb-2 text-xs text-ink-muted">
+            Order matters: the lead photo is the one the species page opens with, and the
+            rest follow in this order.
+          </p>
           <ul className="grid gap-3 sm:grid-cols-2 p-0 list-none">
-            {record.photos.map((photo: any, i: number) => (
-              <li key={photo.file} className="rounded-xl bg-white ring-1 ring-black/5 p-3 flex gap-3">
-                <img
-                  src={assetUrl(
-                    `${collection === "sites" ? "sites" : "birds"}/${slug}/${photo.file.replace(/\.[^.]+$/, ".webp")}`,
-                    160,
-                  )}
-                  alt=""
-                  className="h-24 w-24 rounded-lg object-cover bg-black/5 shrink-0"
-                />
-                <div className="min-w-0 flex-1 space-y-1.5">
-                  <input
-                    type="text"
-                    value={photo.caption ?? ""}
-                    onChange={(e) => {
-                      const photos = [...record.photos];
-                      photos[i] = { ...photo, caption: e.target.value };
-                      set({ photos });
-                    }}
-                    placeholder="Caption"
-                    className="w-full rounded border border-black/15 px-2 py-1 text-xs focus:border-brand focus:outline-none"
-                  />
-                  <input
-                    type="text"
-                    value={photo.credit?.name ?? ""}
-                    onChange={(e) => {
-                      const photos = [...record.photos];
-                      photos[i] = { ...photo, credit: { ...photo.credit, name: e.target.value } };
-                      set({ photos });
-                    }}
-                    placeholder="Photographer"
-                    className="w-full rounded border border-black/15 px-2 py-1 text-xs focus:border-brand focus:outline-none"
-                  />
-                  <label className="flex items-center gap-1.5 text-xs text-ink-muted">
-                    <input
-                      type="radio"
-                      name={`hero-${slug}`}
-                      checked={Boolean(photo.hero)}
-                      onChange={() => {
-                        // Exactly one hero: the schema enforces it and the site assumes it.
-                        set({
-                          photos: record.photos.map((p: any, j: number) => ({
-                            ...p,
-                            hero: i === j,
-                          })),
-                        });
-                      }}
+            {record.photos.map((photo: any, i: number) => {
+              const move = (to: number) => {
+                if (to < 0 || to >= record.photos.length) return;
+                const photos = [...record.photos];
+                const [moved] = photos.splice(i, 1);
+                photos.splice(to, 0, moved);
+                set({ photos });
+              };
+              return (
+                <li
+                  key={photo.file}
+                  className="flex gap-3 rounded-xl bg-white p-3 ring-1 ring-black/5"
+                >
+                  <div className="shrink-0">
+                    <img
+                      src={assetUrl(
+                        `${collection === "sites" ? "sites" : "birds"}/${slug}/${photo.file.replace(/\.[^.]+$/, ".webp")}`,
+                        160,
+                      )}
+                      alt=""
+                      className="h-24 w-24 rounded-lg bg-black/5 object-cover"
                     />
-                    Lead photo
-                  </label>
-                </div>
-              </li>
-            ))}
+                    {/* Buttons rather than drag-and-drop: this has to work with a keyboard
+                        and a screen reader, and a photo list is short enough that two
+                        presses beat a drag handle nobody can reach by tabbing. */}
+                    <div className="mt-1.5 flex justify-center gap-1">
+                      <button
+                        type="button"
+                        onClick={() => move(i - 1)}
+                        disabled={i === 0}
+                        aria-label={`Move ${photo.file} earlier`}
+                        className="rounded bg-black/5 px-2 py-1 text-xs text-brand transition hover:bg-black/10 disabled:opacity-30"
+                      >
+                        ↑
+                      </button>
+                      <button
+                        type="button"
+                        onClick={() => move(i + 1)}
+                        disabled={i === record.photos.length - 1}
+                        aria-label={`Move ${photo.file} later`}
+                        className="rounded bg-black/5 px-2 py-1 text-xs text-brand transition hover:bg-black/10 disabled:opacity-30"
+                      >
+                        ↓
+                      </button>
+                    </div>
+                  </div>
+                  <div className="min-w-0 flex-1 space-y-1.5">
+                    <p className="truncate font-mono text-[0.625rem] text-ink-faint">
+                      {photo.file}
+                    </p>
+                    <input
+                      type="text"
+                      value={photo.caption ?? ""}
+                      onChange={(e) => {
+                        const photos = [...record.photos];
+                        photos[i] = { ...photo, caption: e.target.value };
+                        set({ photos });
+                      }}
+                      placeholder="Caption"
+                      className="w-full rounded border border-black/15 px-2 py-1 text-xs focus:border-brand focus:outline-none"
+                    />
+                    <input
+                      type="text"
+                      value={photo.credit?.name ?? ""}
+                      onChange={(e) => {
+                        const photos = [...record.photos];
+                        photos[i] = {
+                          ...photo,
+                          credit: { ...photo.credit, name: e.target.value },
+                        };
+                        set({ photos });
+                      }}
+                      placeholder="Photographer"
+                      className="w-full rounded border border-black/15 px-2 py-1 text-xs focus:border-brand focus:outline-none"
+                    />
+                    <label className="flex items-center gap-1.5 text-xs text-ink-muted">
+                      <input
+                        type="radio"
+                        name={`hero-${slug}`}
+                        checked={Boolean(photo.hero)}
+                        onChange={() => {
+                          // Exactly one hero: the schema enforces it and the site assumes it.
+                          set({
+                            photos: record.photos.map((p: any, j: number) => ({
+                              ...p,
+                              hero: i === j,
+                            })),
+                          });
+                        }}
+                      />
+                      Lead photo
+                    </label>
+                  </div>
+                </li>
+              );
+            })}
           </ul>
         </section>
       )}

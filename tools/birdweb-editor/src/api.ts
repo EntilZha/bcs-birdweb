@@ -2,6 +2,29 @@
 
 export type Collection = "species" | "sites" | "ecoregions";
 
+/** One entry in src/config/taxonomy-overrides.yaml. */
+export interface TaxonomyOverride {
+  birdweb_common_name?: string | null;
+  birdweb_scientific_name?: string | null;
+  why?: string | null;
+  suggested_ebird_code?: string | null;
+  suggested_common_name?: string | null;
+  ebird_code?: string | null;
+  current_common_name?: string | null;
+  current_scientific_name?: string | null;
+  clements_sort?: number | null;
+  display_historic?: boolean;
+  note?: string | null;
+}
+
+export interface Credit {
+  name: string;
+  count: number;
+  urls: string[];
+  /** Up to 40 record ids that carry this credit, for spot-checking a rename. */
+  where: string[];
+}
+
 export interface IndexRecord {
   slug: string;
   name: string;
@@ -56,6 +79,30 @@ export const api = {
     }),
 
   backups: () => json<{ backups: string[] }>("/api/backups").then((r) => r.backups),
+
+  taxonomyOverrides: () =>
+    json<{ species: Record<string, TaxonomyOverride>; header: string }>(
+      "/api/taxonomy-overrides",
+    ),
+
+  saveTaxonomyOverrides: (species: Record<string, TaxonomyOverride>, header: string) =>
+    json<{ ok?: boolean; error?: string }>("/api/taxonomy-overrides", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ species, header }),
+    }),
+
+  credits: () => json<{ credits: Credit[] }>("/api/credits").then((r) => r.credits),
+
+  renameCredit: (from: string, to: string, url?: string | null) =>
+    json<{ ok?: boolean; photos?: number; records?: number; error?: string }>(
+      "/api/credits/rename",
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ from, to, url }),
+      },
+    ),
 
   clearBackups: () =>
     json<{ removed: number }>("/api/backups", { method: "DELETE" }).then((r) => r.removed),
