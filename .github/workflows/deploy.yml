@@ -30,6 +30,22 @@ jobs:
 
       - run: npm ci
 
+      # The content pipeline is Python. uv rather than pixi here: CI only needs to run the
+      # scripts, not provision the whole toolchain, and uv resolves in seconds.
+      - name: Set up Python
+        uses: astral-sh/setup-uv@v5
+
+      - name: Content QA gate
+        run: |
+          uv run --with pyyaml --with selectolax --with typer --with rich \
+            python scripts/verify_extract.py
+
+      - name: Pipeline tests
+        run: |
+          uv run --with pytest --with pyyaml --with selectolax --with typer \
+            --with rich --with httpx --with pillow \
+            pytest -q scripts/tests
+
       # Gates before the build, so a broken content edit fails loudly rather than
       # publishing a page with a missing species or a malformed abundance row.
       - name: Type-check

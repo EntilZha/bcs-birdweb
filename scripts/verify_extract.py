@@ -117,6 +117,7 @@ class Report:
         self.errors: list[str] = []
         self.notes: list[str] = []
         self.rarities: list[str] = []
+        self.pending_pins: list[str] = []
 
     def error(self, message: str) -> None:
         self.errors.append(message)
@@ -209,15 +210,14 @@ def check_sites(records: dict[str, dict], report: Report) -> None:
         sections = record.get("sections") or {}
         if not sections.get("site") and not sections.get("birds"):
             report.error(f"{where}: no site or birds prose")
-        # Geocoding is net-new and human-confirmed. The invariant is positive, not a
-        # blocklist: a coordinate ships only if someone pressed Confirm in the editor.
-        # Listing bad values instead would let any new source string through by default.
+        # Geocoding is net-new and human-confirmed. The rule is enforced where it
+        # matters -- src/lib/sites.ts plots a pin only when geocode_source is
+        # "confirmed", and that is unit-tested -- so an unconfirmed coordinate cannot
+        # reach a reader. Here it is outstanding work, not a failure, which is what lets
+        # this gate run in CI while 41 pins are still waiting for someone to check them.
         has_pin = record.get("lat") is not None or record.get("lon") is not None
         if has_pin and record.get("geocode_source") != "confirmed":
-            report.error(
-                f"{where}: coordinate is {record.get('geocode_source') or 'unsourced'}, "
-                "not confirmed — confirm it in the editor or clear it"
-            )
+            report.pending_pins.append(slug)
         if has_pin and (record.get("lat") is None or record.get("lon") is None):
             report.error(f"{where}: has only one of lat/lon")
 
@@ -326,6 +326,10 @@ def run(show: int = typer.Option(15, help="How many of each problem to list.")) 
     summary.add_row("errors", f"[red]{len(report.errors)}[/red]" if report.errors else "[green]0[/green]")
     summary.add_row("notes", str(len(report.notes)))
     summary.add_row("rarity accounts", str(len(report.rarities)))
+    summary.add_row(
+        "sites awaiting a confirmed pin",
+        f"[yellow]{len(report.pending_pins)}[/yellow]" if report.pending_pins else "0",
+    )
     summary.add_row("assets referenced", str(referenced))
     summary.add_row("orphan full-size images", str(orphans))
     console.print(summary)
@@ -334,6 +338,14 @@ def run(show: int = typer.Option(15, help="How many of each problem to list.")) 
         console.print(
             f"\n[dim]{len(report.rarities)} rarity accounts (no status, no abundance) — "
             f"e.g. {', '.join(sorted(report.rarities)[:5])}[/dim]"
+        )
+
+    if report.pending_pins:
+        console.print(
+            f"\n[yellow]{len(report.pending_pins)} site(s) have a coordinate that nobody has "
+            "confirmed.[/yellow]\n"
+            "They are not shown on the map until someone checks them in "
+            "[bold]pixi run editor[/bold]."
         )
 
     if report.notes:

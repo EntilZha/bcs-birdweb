@@ -1,0 +1,95 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { ECOREGION_NAME } from "../config/ecoregions";
+import {
+  VIEW_HEIGHT,
+  VIEW_WIDTH,
+  WASHINGTON_PATH,
+  project,
+  withinWashington,
+} from "../lib/project";
+
+interface Props {
+  sites: CollectionEntry<"sites">[];
+  class?: string;
+}
+
+const { sites, class: className = "" } = Astro.props;
+const base = import.meta.env.BASE_URL;
+
+/**
+ * Only confirmed pins are ever plotted.
+ *
+ * This is the enforcement point, not `verify`. A proposed coordinate is a guess made by a
+ * geocoder; putting one on a map tells a reader "the bird place is here", and if it is
+ * wrong they drive somewhere else. The filter lives next to the rendering so that no
+ * future caller can route around it.
+ */
+const plotted = sites
+  .filter((site) => site.data.geocode_source === "confirmed")
+  .filter((site) => site.data.lat != null && site.data.lon != null)
+  .filter((site) => withinWashington(site.data.lat!, site.data.lon!))
+  .map((site) => ({
+    site,
+    ...project(site.data.lon!, site.data.lat!),
+  }));
+
+const awaiting = sites.length - plotted.length;
+---
+
+<figure class:list={["m-0", className]}>
+  <svg
+    viewBox={`0 0 ${VIEW_WIDTH} ${VIEW_HEIGHT}`}
+    class="w-full h-auto rounded-2xl bg-white ring-1 ring-black/5"
+    role="img"
+    aria-label={`Map of Washington showing ${plotted.length} birding sites`}
+  >
+    <title>Birding sites in Washington</title>
+    <path
+      d={WASHINGTON_PATH}
+      fill="var(--color-cream)"
+      stroke="var(--color-sage)"
+      stroke-width="2"
+      stroke-linejoin="round"
+    />
+    {
+      plotted.map(({ site, x, y }) => (
+        <a
+          href={`${base}sites/${site.id}/`}
+          class="group"
+          aria-label={`${site.data.name}, ${site.data.ecoregions.map((e) => ECOREGION_NAME[e]).join(" and ")}`}
+        >
+          {/* A generous transparent disc under the dot: the visible mark is sized for the
+              map, but the tap target has to be sized for a finger. */}
+          <circle cx={x} cy={y} r="22" fill="transparent" />
+          <circle
+            cx={x}
+            cy={y}
+            r="8"
+            class="fill-brand transition-all group-hover:r-[12] group-focus:r-[12]"
+            stroke="white"
+            stroke-width="2.5"
+          />
+          <title>{site.data.name}</title>
+        </a>
+      ))
+    }
+  </svg>
+
+  <figcaption class="mt-2 text-xs text-black/55">
+    {
+      plotted.length > 0 ? (
+        <>
+          {plotted.length} of {sites.length} birding sites. Tap a marker to open the site.
+          {awaiting > 0 && ` ${awaiting} more are still being placed.`}
+        </>
+      ) : (
+        <>
+          No sites are mapped yet. The original BirdWeb pages carry no coordinates, so all
+          {" "}{sites.length} locations are being placed and checked by hand — a map is only
+          useful if every pin on it is right.
+        </>
+      )
+    }
+  </figcaption>
+</figure>

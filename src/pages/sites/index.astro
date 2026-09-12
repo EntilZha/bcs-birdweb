@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import { ECOREGIONS, ECOREGION_NAME } from "../../config/ecoregions";
+import SitesMap from "../../components/SitesMap.astro";
 
 const base = import.meta.env.BASE_URL;
 const sites = (await getCollection("sites")).sort((a, b) => a.data.name.localeCompare(b.data.name));
@@ -30,12 +31,9 @@ const geocoded = sites.filter((s) => s.data.lat != null).length;
     >
   </p>
 
-  {geocoded === 0 && (
-    <p class="mt-4 rounded-xl bg-pop/30 px-4 py-3 text-sm text-brand/85">
-      An interactive map is coming: the original site's pages carry no coordinates, so each
-      of these {sites.length} locations is being placed and checked by hand.
-    </p>
-  )}
+  <div class="mt-6">
+    <SitesMap sites={sites} />
+  </div>
 
   {groups.map((group) => (
     <section class="mt-9">
