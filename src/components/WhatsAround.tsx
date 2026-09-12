@@ -1,6 +1,7 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { ABUNDANCE, MONTHS_LONG, type AbundanceCode } from "../config/abundance";
 import { ECOREGIONS, type EcoregionSlug } from "../config/ecoregions";
+import { parseWhatsAroundUrl, whatsAroundQuery } from "../lib/whatsAroundUrl";
 
 /**
  * One species, flattened for the client. Abundance arrives as ten 12-character strings
@@ -33,15 +34,33 @@ export default function WhatsAround({ species, base, initialMonth, initialEcoreg
   const [ecoregion, setEcoregion] = useState<EcoregionSlug>(initialEcoregion);
   const [minRank, setMinRank] = useState(1);
 
+  // The URL is read once on mount, not during the first render: this island is hydrated
+  // from prerendered HTML built with the props above, so deriving initial state from
+  // location here would make the client's first render disagree with the server's.
+  const restored = useRef(false);
+  useEffect(() => {
+    const next = parseWhatsAroundUrl(window.location.search, {
+      ecoregion: initialEcoregion,
+      month: initialMonth,
+      minRank: 1,
+    });
+    setEcoregion(next.ecoregion);
+    setMonth(next.month);
+    setMinRank(next.minRank);
+    restored.current = true;
+  }, [initialEcoregion, initialMonth]);
+
   // Mirror the selection into the URL so a staff member can bookmark or share a view,
   // and so a reload keeps the state. replaceState, not push: this is a filter, not a
   // navigation, and it should not stack up back-button entries.
+  //
+  // Held off until the read above has run, or this would overwrite the very parameters it
+  // is about to restore -- which is what it did before, silently destroying any shared
+  // link the moment it was opened.
   useEffect(() => {
-    const params = new URLSearchParams();
-    params.set("region", ecoregion);
-    params.set("month", String(month + 1));
-    if (minRank > 1) params.set("min", String(minRank));
-    window.history.replaceState(null, "", `?${params}`);
+    if (!restored.current) return;
+    const query = whatsAroundQuery({ ecoregion, month, minRank });
+    window.history.replaceState(null, "", `?${query}`);
   }, [ecoregion, month, minRank]);
 
   const regionIndex = ECOREGIONS.findIndex((e) => e.slug === ecoregion);
