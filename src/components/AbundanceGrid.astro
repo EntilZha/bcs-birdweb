@@ -35,15 +35,21 @@ const legend: AbundanceCode[] = ["C", "F", "U", "R", "I", ""];
     </p>
   ) : (
     <div class="space-y-3">
-      {/* Tables are the one thing allowed to scroll sideways; the page body never does. */}
-      <div class="overflow-x-auto -mx-4 px-4 sm:mx-0 sm:px-0">
+      {/* Tables are the one thing allowed to scroll sideways; the page body never does.
+          No negative-margin bleed here: the sticky region column is pinned to the scroll
+          container's content edge, so any padding outside it is a gap that scrolled cells
+          show through. A slightly narrower table beats cells sliding under the labels. */}
+      <div class="overflow-x-auto [scrollbar-gutter:stable]">
         <table class="w-full min-w-[34rem] border-separate border-spacing-0.5 text-xs">
           <caption class="sr-only">
             Abundance of {speciesName} by ecoregion and month
           </caption>
           <thead>
             <tr>
-              <th class="text-left font-semibold text-ink-muted pr-2 pb-1 w-40">Ecoregion</th>
+              <th
+                class="sticky left-0 z-10 bg-white text-left font-semibold text-ink-muted pr-2 pb-1 w-40"
+                >Ecoregion</th
+              >
               {MONTHS.map((month, i) => (
                 <th
                   scope="col"
@@ -63,7 +69,7 @@ const legend: AbundanceCode[] = ["C", "F", "U", "R", "I", ""];
                 <tr>
                   <th
                     scope="row"
-                    class="text-left font-medium text-ink pr-2 py-0.5 align-middle"
+                    class="sticky left-0 z-10 bg-white text-left font-medium text-ink pr-2 py-0.5 align-middle"
                   >
                     <a
                       href={`${import.meta.env.BASE_URL}ecoregions/${slug}/`}

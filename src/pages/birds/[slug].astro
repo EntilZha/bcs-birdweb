@@ -43,6 +43,17 @@ const familyMembers = allSpecies
   .sort((a, b) => taxonomicSort(a.data, b.data));
 
 const sections = SECTION_LABELS.filter(([key]) => data.sections[key]);
+
+// A jump list, not tabs. The legacy site put these behind tabs and buried the abundance
+// table at the bottom of one; the fix for a long page is navigation, not concealment.
+// Desktop only: on a phone the sections are already a short scroll apart and a sticky nav
+// would cost more screen than it saves.
+const jumpTargets = [
+  { id: "abundance", label: "Where and when" },
+  ...sections.map(([key, label]) => ({ id: `section-${key}`, label })),
+  ...(gallery.length > 0 ? [{ id: "photographs", label: "More photographs" }] : []),
+  ...(familyMembers.length > 0 ? [{ id: "family-members", label: `Other ${family?.data.common_name ?? data.family.name}` }] : []),
+];
 ---
 
 <Layout
@@ -195,7 +206,7 @@ const sections = SECTION_LABELS.filter(([key]) => data.sections[key]);
     <!-- Abundance sits high on the page, not buried in a tab at the bottom. It is the
          densest thing BirdWeb knows and it answers the question most visitors actually
          have: could I see this bird, here, now? -->
-    <section class="mt-10">
+    <section id="abundance" class="mt-10 scroll-mt-24">
       <h2 class="text-xl font-bold text-brand mb-1">Where and when to find it</h2>
       <p class="text-sm text-ink-muted mb-4">
         Abundance by ecoregion, month by month, as recorded by the BCS Science Committee.
@@ -209,7 +220,7 @@ const sections = SECTION_LABELS.filter(([key]) => data.sections[key]);
       <div class="space-y-7">
         {
           sections.map(([key, label]) => (
-            <section>
+            <section id={`section-${key}`} class="scroll-mt-24">
               <h2 class="text-xl font-bold text-brand mb-2">{label}</h2>
               <Prose text={data.sections[key]!} />
             </section>
@@ -218,6 +229,22 @@ const sections = SECTION_LABELS.filter(([key]) => data.sections[key]);
       </div>
 
       <aside class="space-y-6">
+        <nav class="hidden lg:block sticky top-24 rounded-2xl bg-white shadow-sm ring-1 ring-black/5 p-4">
+          <h2 class="text-xs font-semibold uppercase tracking-wide text-ink-muted mb-2">
+            On this page
+          </h2>
+          <ul class="space-y-1 p-0 list-none text-sm">
+            {
+              jumpTargets.map((target) => (
+                <li>
+                  <a href={`#${target.id}`} class="text-brand hover:underline">
+                    {target.label}
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </nav>
         {
           (waMap || naMap) && (
             <section class="rounded-2xl bg-white shadow-sm ring-1 ring-black/5 p-4">
@@ -278,7 +305,7 @@ const sections = SECTION_LABELS.filter(([key]) => data.sections[key]);
 
     {
       gallery.length > 0 && (
-        <section class="mt-10">
+        <section id="photographs" class="mt-10 scroll-mt-24">
           <h2 class="text-xl font-bold text-brand mb-4">More photographs</h2>
           <ul class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 list-none p-0">
             {gallery.map((photo) => {
@@ -312,7 +339,7 @@ const sections = SECTION_LABELS.filter(([key]) => data.sections[key]);
 
     {
       familyMembers.length > 0 && (
-        <section class="mt-10">
+        <section id="family-members" class="mt-10 scroll-mt-24">
           <h2 class="text-xl font-bold text-brand mb-1">
             Other {family?.data.common_name ?? data.family.name}
           </h2>
