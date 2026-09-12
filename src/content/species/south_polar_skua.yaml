@@ -1,0 +1,53 @@
+slug: south_polar_skua
+common_name: South Polar Skua
+scientific_name: Stercorarius maccormicki
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Stercorariidae
+  slug: stercorariidae
+status: Rare pelagic migrant.
+species_of_concern: false
+sections:
+  general_description: The South Polar Skua looks like a bulky, broad-winged gull with a short, wedge-shaped tail. Adults have both dark and light morphs. The light morph is pale gray on the head, neck, and underparts. The upperparts are darker, with narrow, whitish streaks. The dark morph is uniformly dark grayish-brown above with a pale yellowish nape. Juveniles are darker than light-morph adults and range from dark brown to dark gray. In flight, the South Polar Skua has a hunchbacked appearance, blackish underwing coverts, and a white patch in the primaries.
+  habitat: Away from their breeding grounds, South Polar Skuas are highly pelagic. They occur far offshore over warm or cold waters, especially near fishing vessels, small schooling fishes, and offshore shallows, but may occasionally be seen closer to land. They nest on barren ground in Antarctica.
+  behavior: South Polar Skuas forage by plunging into the water for fish, seizing prey on the surface, or by stealing prey from other seabirds. They may actually grab and violently shake other birds to force them to disgorge their food. South Polar Skuas are powerful and fast in flight. They are generally silent away from their breeding grounds.
+  diet: Their diet consists mainly of fish for most of the year. On their breeding grounds, they nest close to penguin colonies where they feed on the eggs and the young. When they overlap with the larger Brown Skuas, which control penguin colonies, South Polar Skuas are forced to forage at sea.
+  nesting: South Polar Skuas begin breeding at 5-6 years, and keep the same mate and nest site year after year. The male begins the simple nest scrape in soil or moss, and the female finishes it. The female usually lays 2 eggs and both sexes incubate, the female more than the male. Both parents feed the young by regurgitation. The young are able to leave the nest soon after hatching, but remain in the vicinity of the nest. Usually only one chick survives to fledging, which occurs at 49-59 days.
+  migration_status: South Polar Skuas migrate from the Southern Hemisphere into the northern Pacific Ocean in a clockwise loop from Japan to North America. Off Washington, peak migration occurs from late August to early October, although birds have been spotted as early as mid-May.
+  conservation_status: Numbers appear to be stable, and the remoteness of their range makes the South Polar Skua relatively safe from human impacts.
+  when_where_wa: South Polar Skuas are usually observed more than 10 miles from shore, so an offshore boat trip is the best, if not only, way to find them.
+photos:
+- file: spsk_fl_jp_l.jpg
+  caption: 'Adult (dark morph). Note: broad wings, thick bill, prominent underwing flashes and upperwing primary shafts.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: true
+audio: null
+maps:
+  wa: catmac.jpg
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', R, U, F, F, F, '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: sopsku1
+  current_common_name: South Polar Skua
+  current_scientific_name: Stercorarius maccormicki
+  clements_sort: 6372
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/south_polar_skua
+  archived: '2026-09-12'

@@ -1,0 +1,61 @@
+slug: varied_thrush
+common_name: Varied Thrush
+scientific_name: Ixoreus naevius
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Turdidae
+  slug: turdidae
+status: Common resident west. Fairly common east.
+species_of_concern: false
+sections:
+  general_description: Similar in size and shape to the American Robin but slighter in build, the Varied Thrush is a boldly patterned bird. In the male, the rust-colored belly and throat are interrupted by a black breast-band; the female has a lighter, grayish band. A similar band lines the face at the eye. A rust-colored stripe lines the head above the eye-band, and the crown is bluish gray, as are the back and tail. The wings are boldly patterned with slate, black, and rust. Female patterning is similar, but the back is brownish.
+  habitat: The Varied Thrush is a bird of thick, damp, mossy coniferous forests. Although it prefers dense, wet, old-growth forests, it can be found in a variety of forest types, including mixed forests. During migration and in winter, it frequents ravines and thickets, especially near streams. In winter, it may also be found on lawns and road edges.
+  behavior: The Varied Thrush is similar in behavior to the American Robin, but more elusive. Much of its foraging is done on the ground, usually in dense cover, although sometimes it forages on open lawns and roads. The Varied Thrush's song is a unique fuzzy, metallic whistle on different pitches.
+  diet: Like other species of thrushes, Varied Thrushes eat a combination of insects and berries, shifting seasonally. In winter, they feed on berries, seeds, and acorns, in trees or shrubs or on the ground. In summer, they prey on insects and other invertebrates.
+  nesting: The male Varied Thrush sings to defend his territory. The song is most often heard at dawn, dusk, and after a rain shower. The female builds the nest in a conifer at the base of a branch against the trunk, usually 5-15 feet off the ground. The nest is a bulky, open cup made of twigs, moss, leaves, and pieces of bark, lined with soft grass and rootlets. The female lays 3-4 eggs that she incubates. Both parents feed the young. They raise two broods in a season when possible.
+  migration_status: Varied Thrushes are altitudinal migrants. They generally breed at middle to high elevations. They head down into the lowlands in winter. In late winter and early spring, they may wander to more open areas, and then in March and April they return to their breeding range. Winter range may depend on severity of weather.
+  conservation_status: Varied Thrushes are currently still common, but are vulnerable to loss of habitat due to the cutting of forests throughout their range. There are two subspecies found in Washington, separated by the Cascades. Historically, Varied Thrushes bred in Puget Sound lowlands, but settlement has resulted in a decline in breeding in western Washington lowlands. Breeding Bird Survey data have shown a significant decline from 1982-1991, but there has been a significant increase in Washington from 1966-1991.
+  when_where_wa: Varied Thrushes are common in conifer forests throughout the state. In western Washington, they are found in all forest zones, but do not breed in urban areas around Puget Sound. In eastern Washington, they are found in the montane and sub-alpine forests at higher elevations above the Ponderosa pine zone. They can be found at lower elevations especially along streams.
+photos:
+- file: vath_jh_l.jpg
+  caption: 'Male. Note: bold orange supercilium, dark breast-band, and bold patterned wings.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: vath_f_jh_l.jpg
+  caption: 'Female. Note: faint gray collar.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: vath1.mp3
+  credit: null
+maps:
+  wa: ixna.jpg
+  north_america: vathmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, U, U, U, U, F, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: ['', '', U, F, F, F, F, F, F, F, U, '']
+  canadian_rockies: [U, U, F, F, F, F, F, F, U, U, U, U]
+  blue_mountains: [R, R, R, U, U, U, U, U, U, U, R, R]
+  columbia_plateau: [U, U, U, U, U, '', '', '', R, U, U, U]
+taxonomy:
+  ebird_code: varthr
+  current_common_name: Varied Thrush
+  current_scientific_name: Ixoreus naevius
+  clements_sort: 28249
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/varied_thrush
+  archived: '2026-09-12'

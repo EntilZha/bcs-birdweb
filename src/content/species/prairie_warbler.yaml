@@ -1,0 +1,57 @@
+slug: prairie_warbler
+common_name: Prairie Warbler
+scientific_name: Dendroica discolor
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: |-
+    Adults have a brownish-green back with chestnut streaks, bright yellow underparts, black streaking on the sides, faint wingbars, a yellow eyebrow and dark line through the eye, and a yellow cheek patch. Immatures are much plainer; consult field guides for separating them from similar plumages of other *Dendroica* warblers. Among Washington’s regularly occurring warblers, Prairie Warbler could be mistaken for Townsend’s Warbler in some plumages. However, unlike Townsend’s it typically forages in brush and low branches rather than high in the canopy, and bobs its tail constantly.
+
+    The Prairie Warbler nests east of the Great Plains from southern New England and the lower Midwest to the Gulf Coast, and winters in southern Florida and the West Indies. It is an accidental fall vagrant in the Pacific Northwest, almost exclusively along the coast. Oregon has nine records, British Columbia has three, and Idaho has none. Washington’s only record, at Wallula (Walla Walla County) on 20 December 1989, is unusual but not unparalleled both for its location and for its date. The Northwest has two other winter records—a bird at Newport, Oregon, 6–26 December 1995, and another 18 December 1993–25 January 1994 at Masset in the Queen Charlotte Islands, British Columbia. The only other records from the interior Northwest were at Malheur National Wildlife Refuge, Oregon, on 10 September 1999, and a sight record from 17 June 1977 in the Okanagan Valley of British Columbia. The latter is also the only spring record of Prairie Warbler for the Northwest.
+
+    *Revised November 2007*
+photos:
+- file: praw_gl_l.jpg
+  caption: 'Male. Note: bold yellow supercilium, streaked flanks, and rufous streaked back.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: praw_f_gl_l.jpg
+  caption: 'Female. Note: muted streaks on sides.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: prawmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: prawar
+  current_common_name: Prairie Warbler
+  current_scientific_name: Setophaga discolor
+  clements_sort: 34185
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/prairie_warbler
+  archived: '2026-09-12'

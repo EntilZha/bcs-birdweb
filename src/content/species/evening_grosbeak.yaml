@@ -1,0 +1,73 @@
+slug: evening_grosbeak
+common_name: Evening Grosbeak
+scientific_name: Coccothraustes vespertinus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Fringillidae
+  slug: fringillidae
+status: Common but irregular resident.
+species_of_concern: true
+sections:
+  general_description: Evening Grosbeaks are medium-large songbirds with very thick, seed-cracking bills. They are highly sexually dimorphic. The males have blackish heads, bright yellow undersides and backs, black wings with large, white wing-patches, and black tails. They also have yellow brows. Their bills become greenish in spring and summer. Females are brownish-gray with dark heads. They have black wings with white patches, but less white on their wings than the males. They also have yellow underwings. Juveniles look similar to females.
+  habitat: Evening Grosbeaks breed in mixed conifer forests, but will used broadleaved trees for nesting and foraging. During migration and winter they are often found in open, broadleaved forests, especially ones with fruiting shrubs.
+  behavior: Outside of the breeding season, Evening Grosbeaks are usually in noisy flocks. They typically forage in trees and shrubs, at the tops and outer branches. They also forage on the ground and often gather at roadsides or in campground fire-pits, where they forage on minerals. Large numbers gather in areas with outbreaks of spruce budworms.
+  diet: Large seeds, especially ash, maple, and sunflower seeds from bird feeders, make up most of the Evening Grosbeak's diet. They also eat invertebrates, especially spruce budworm.
+  nesting: Evening Grosbeaks are generally monogamous, although when there is an unusually plentiful food supply, polygamy can occur. In most cases, pairs form before the birds arrive on the breeding grounds. Nests are typically located high up in trees, on horizontal branches well out from the trunk or in vertical forks. The female builds the nest, which is a loose saucer of roots and twigs lined with fine grass, moss, rootlets, needles, and lichen. After laying 3-4 eggs, she incubates them for 12 to 14 days. The male brings food to the female on the nest. Both members of the pair feed the young. Young Evening Grosbeaks leave the nest after 13 to 14 days, but remain near the nest for 2 to 5 days, and the adults continue to feed them for some time after that. Some pairs raise two clutches in a single season.
+  migration_status: Evening Grosbeaks are somewhat nomadic and wander widely in winter. Irruptions in fall and winter are common in response to changing food supplies. Eastern birds may migrate south, but western populations are more often altitudinal migrants, moving from the mountains into nearby lowlands in winter.
+  conservation_status: Evening Grosbeaks were formerly restricted to the western United States but have expanded their range eastward across the country. This expansion is credited to the planting of box elders and other seed- and fruit-bearing trees across the northern prairies, as well as the presence of bird feeders. As is the case with many irruptive, nomadic species, it is difficult to determine the true population of Evening Grosbeaks. For example, considerable variation in the numbers wintering in the Washington lowlands may reflect either changes in population or merely varying migration.
+  when_where_wa: Evening Grosbeaks are common breeders in mountainous areas throughout Washington, although they are less common in the Olympics than elsewhere. They are seen sporadically in winter throughout much of the forested portion of the state, and are especially common in the Puget lowlands in April and May.
+photos:
+- file: evgr_f_lb_l.jpg
+  caption: Female
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: evgr_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: evgr_jh_l.jpg
+  caption: Male
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: evgr_f_jh_l.jpg
+  caption: Female
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: EVGR01.mp3
+  credit: null
+maps:
+  wa: cove.jpg
+  north_america: evgrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, F, F, F, F, F, F, F, F, F]
+  puget_trough: [F, F, F, F, F, F, F, F, F, F, F, F]
+  north_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: [U, U, U, U, U, U, U, U, U, U, U, U]
+  blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
+  columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
+taxonomy:
+  ebird_code: evegro
+  current_common_name: Evening Grosbeak
+  current_scientific_name: Hesperiphona vespertina
+  clements_sort: 32085
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/evening_grosbeak
+  archived: '2026-09-12'

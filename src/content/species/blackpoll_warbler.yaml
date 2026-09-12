@@ -1,0 +1,57 @@
+slug: blackpoll_warbler
+common_name: Blackpoll Warbler
+scientific_name: Dendroica striata
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    Solid black cap, white cheek, and black-streaked back and underparts make the breeding-plumaged male unmistakable. In all other plumages, however, the Blackpoll Warbler is much plainer and subject to confusion with similar plumages of other warblers of the genus *Dendroica* that show two white wing bars and an overall yellowish or greenish coloration, with or without some streaking on the sides. The white undertail coverts are a useful mark; consult field guides for other identification clues.
+
+    The Blackpoll Warbler nests in taiga and boreal forests from Alaska across northern Canada to Labrador, south on mountaintops into New England and upstate New York. Its spring and fall migration routes take it across the Caribbean to and from wintering grounds in South America, some birds traveling as far south as Argentina. This is perhaps the most common vagrant “eastern” warbler in the West. California records a hundred or more Blackpoll visitors in a typical year but they are much less common farther north. In the Pacific Northwest, Blackpoll Warbler breeds in the northern part of British Columbia but occurs only casually in the southern part of the province and along the coast. This species is a casual, nearly annual visitor in Washington with about 20 records, all but two of which occurred in fall and all but two east of the Cascades. It is rare but annual in both Idaho and Oregon, with 75–80 percent of the records from fall and the rest in spring.
+
+    *Revised November 2007*
+photos:
+- file: blpw_gl_l.jpg
+  caption: 'Male. Note: black cap and white cheeks.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: blpw_f_gl_l.jpg
+  caption: 'Female. Note: bright yellow legs and feet.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: blpwmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: bkpwar
+  current_common_name: Blackpoll Warbler
+  current_scientific_name: Setophaga striata
+  clements_sort: 34138
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/blackpoll_warbler
+  archived: '2026-09-12'

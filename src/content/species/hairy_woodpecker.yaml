@@ -1,0 +1,61 @@
+slug: hairy_woodpecker
+common_name: Hairy Woodpecker
+scientific_name: Picoides villosus
+order:
+  name: Piciformes
+  slug: piciformes
+family:
+  name: Picidae
+  slug: picidae
+status: Fairly common resident.
+species_of_concern: false
+sections:
+  general_description: The plumage of Hairy Woodpeckers is a mix of black and white (but see below). Its wings, lower back, and tail are black with white spots; its upper back and outer tail feathers are white. Its underside is white, and its head is marked with wide alternating black and white stripes. Males have a red spot at the backs of their heads which females lack. Hairy Woodpeckers closely resemble Downy Woodpeckers but are larger and have much longer bills. Hairy Woodpeckers found in western Washington are considerably darker than their eastern Washington counterparts, with most of the areas described above as 'white' actually a dingy tan color. Juveniles look like adults, but some have red on their foreheads.
+  habitat: In Washington, the typical habitat of Hairy Woodpeckers is mature coniferous forest, although they are common in hardwood and mixed forests in other parts of their range. In Washington, they also frequent burned forests, mixed forests, wooded parks, and conifer-lined streams and shorelines. They require areas with heavier, more mature tree cover than Downy Woodpeckers and are more dependent on the presence of large trees.
+  behavior: Hairy Woodpeckers forage primarily on the trunks or main limbs of trees, where they probe into crevices and scale off bark searching for prey. They drum frequently in spring.
+  diet: Bark-boring and wood-boring beetle larvae in dead and dying trees are the main food of Hairy Woodpeckers. They also feed on sap from sapsucker holes, berries, nuts, seeds, and suet.
+  nesting: Hairy Woodpeckers form monogamous breeding pairs in late winter, and pairs from previous seasons often re-pair. Both members of the pair excavate nesting and roosting holes in soft or rotten wood, especially in aspens or dead conifers. Although Hairy Woodpeckers spend most of their time in coniferous forests, they prefer to nest in deciduous trees. Both parents incubate the 4 eggs for about 14 days, and both feed the young. The young leave the nest after 28 to 30 days and follow the parents around for some time thereafter. Each pair of Hairy Woodpeckers typically raises one brood each year.
+  migration_status: Hairy Woodpeckers are generally considered permanent residents, although some may move south or into lower elevations, especially into tall trees along lowland streams during winter.
+  conservation_status: 'While Hairy Woodpeckers are still widespread and common throughout their range, their populations in many areas have probably declined from historic levels. Forestry practices that remove snags and large trees have reduced nesting and roosting areas, and the introduced European Starlings and House Sparrows compete for nesting and roosting sites. In the Puget Trough, where hardwoods have mostly replaced mature conifer forest, Hairy Woodpeckers are now less common than Downys. There are three recognized subspecies in Washington: those found in the far eastern part of the state, those found in the Cascades, and those found in western Washington.'
+  when_where_wa: Hairy Woodpeckers can be found in appropriate habitat at low to moderate elevations up through the sub-alpine zone throughout Washington. In the Cascades, they are the most widespread and frequently seen woodpeckers. They are present year round, but can be harder to find in winter, especially in the western interior valleys. In winter, they are more common on the east slopes of the Cascades.
+photos:
+- file: hawo_f_gl_l.jpg
+  caption: 'Female. Note: long heavy bill, lack of red on crown (of male), unmarked outer tail feathers.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: hawo_jh_l.jpg
+  caption: 'Male. Note: red on crown, long bill, and unmarked outer tail feathers.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: hawo.mp3
+  credit: null
+maps:
+  wa: pivi.jpg
+  north_america: hawomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, F, F, F, F, F, F, F, F, F]
+  puget_trough: [F, F, F, F, F, F, F, F, F, F, F, F]
+  north_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: [F, F, F, F, F, F, F, F, F, F, F, F]
+  canadian_rockies: [F, F, F, F, F, F, F, F, F, F, F, F]
+  blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
+  columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
+taxonomy:
+  ebird_code: haiwoo
+  current_common_name: Hairy Woodpecker
+  current_scientific_name: Leuconotopicus villosus
+  clements_sort: 11427
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/hairy_woodpecker
+  archived: '2026-09-12'

@@ -1,0 +1,85 @@
+slug: wood_duck
+common_name: Wood Duck
+scientific_name: Aix sponsa
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Fairly common to locally common resident.
+species_of_concern: false
+sections:
+  general_description: Male Wood Ducks are flamboyant in breeding plumage, practically unmistakable with their brightly colored chestnut and yellow bodies, green droop-crested heads, bright red bills, and bold white barring on their faces and bodies. Females are drabber, with subtle iridescence on overall grayish-brown bodies, spotted flanks, and a white teardrop surrounding each eye. Juveniles appear similar to females, as do non-breeding males in eclipse plumage (from June to September), although they have the red bill and white facial markings.
+  habitat: Rarely seen on marine waters, the Wood Duck is a bird of wooded wetlands and slow-moving, tree-lined rivers, with a preference for deciduous-tree habitats. This cavity-nester requires either a natural cavity or nest box to raise its young.
+  behavior: Wood Ducks forage in the water by taking food from the surface and up-ending to reach food underneath. They also graze on land. Pairs form on the wintering grounds, and males attract females by showing off their brightly colored plumage. Females demonstrate strong fidelity to the sites where they hatched (philopatry), and they lead their mates back to those sites in the spring.
+  diet: Aquatic plant seeds make up the majority of the diet. Insects and other aquatic invertebrates are also eaten, especially by young birds. In areas with oak trees, acorns are a significant source of food.
+  nesting: Wood Ducks nest in cavities near or above water, up to 65 feet high. The most common natural cavities are Pileated Woodpecker holes, but artificial nest boxes are used as well. The cavity is lined with down. The female lays 9 to 14 eggs and incubates them for 25 to 35 days. After the female begins incubation, the pair breaks up. After one day in the nest, the young leap to the ground or water, often quite a long jump. The young can swim and feed themselves, but the female continues to tend them for 5 to 6 weeks. She leaves before they can fly, however. They fledge when they are 8 to 9 weeks old.
+  migration_status: Many Wood Ducks are short-distance migrants, but almost 75% of the Wood Ducks in the Pacific Flyway are non-migratory. Those that are migratory fly from British Columbia through western Washington and winter in the Central Valley of California. Some western Washington breeders do not appear to be migratory, although most are. Those from eastern Washington are also migratory. Males gather in a post-breeding flock and molt before the fall migration.
+  conservation_status: Wood Ducks declined seriously during the late 19th Century due to over-hunting and habitat loss, and were threatened with extinction early in the 20th Century. Legal protection, beginning in 1918 with the Migratory Bird Treaty Act, and major initiatives to provide nest boxes in appropriate habitat have helped the Wood Duck recover to healthy numbers. Expanding beaver populations throughout the Wood Duck's range have also helped the population rebound as beavers create an ideal forested wetland habitat for Wood Ducks.
+  when_where_wa: Wood Ducks are common breeders from March through August in lowlands west of the Cascades. In eastern Washington, they are uncommon in the central Columbia Basin, but found more commonly in the lowlands, especially along major river valleys in northeastern Washington. In winter, they are uncommon, but still present in some areas west of the Cascades, and wintering numbers appear to be increasing.
+photos:
+- file: wodu_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: wodu_tg_l.jpg
+  caption: Male
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: wodu_f_tg_l.jpg
+  caption: 'Female. Note: white around eye'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: wodu_ffl_gl_l.jpg
+  caption: Female
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: wodu_fl_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: wodu_w_gl_l.jpg
+  caption: Male, eclipse plumage.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: wodu.mp3
+  credit: null
+maps:
+  wa: aisp.jpg
+  north_america: wodumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, F, F, F, F, F, U, R, R, R]
+  puget_trough: [U, U, F, F, C, F, F, F, F, U, U, U]
+  north_cascades: ['', U, C, C, C, C, C, C, C, U, '', '']
+  west_cascades: [U, U, U, F, C, C, C, F, U, U, U, U]
+  east_cascades: ['', '', U, F, F, F, F, F, F, U, R, R]
+  okanogan: ['', '', U, C, F, F, F, F, F, C, C, '']
+  canadian_rockies: ['', '', '', F, F, F, F, F, F, '', '', '']
+  blue_mountains: ['', '', '', U, U, U, U, U, R, R, '', '']
+  columbia_plateau: [F, F, F, F, F, F, F, F, F, F, F, F]
+taxonomy:
+  ebird_code: wooduc
+  current_common_name: Wood Duck
+  current_scientific_name: Aix sponsa
+  clements_sort: 455
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/wood_duck
+  archived: '2026-09-12'

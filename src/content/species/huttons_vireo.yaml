@@ -1,0 +1,61 @@
+slug: huttons_vireo
+common_name: Hutton's Vireo
+scientific_name: Vireo huttoni
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Vireonidae
+  slug: vireonidae
+status: Fairly common resident west.
+species_of_concern: false
+sections:
+  general_description: Hutton's Vireo is olive-gray above and a drab lighter olive below. It has a white eye-ring and two white wing-bars. It looks much like a Ruby-crowned Kinglet, but is larger, has a thicker bill, and has blue-gray legs and feet (in contrast to the kinglet's black legs and yellow feet.) Hutton's Vireo also lacks the black bar behind the lower white wing-bar that is present on the wing of the Ruby-crowned Kinglet.
+  habitat: In much of their range, Hutton's Vireos are associated with live-oak forests, but in Washington they are found in mixed coniferous/deciduous forests, especially near wetlands or forest openings. They are found only west of the Cascades, usually at lower elevations.
+  behavior: In winter, one or two Hutton's Vireos can often be found in flocks with Bushtits, chickadees, and Ruby-crowned Kinglets. They are generally less active than kinglets, but like kinglets, they flick their wings. They search for prey beneath leaves and hover briefly in front of foliage, picking off food. In summer, they are relatively inconspicuous, and are usually noticed only because of their monotonous, ceaselessly repeated 'zwee-zwee-zwee' song.
+  diet: Hutton's Vireos eat mostly insects and spiders. They will also eat small fruits, berries, and plant galls.
+  nesting: Monogamous pairs form in the early spring and last through the breeding season. Both members of the pair build the nest, a cup suspended from a horizontal forked branch. The nest is made of bark strips, moss, and lichen and lined with fine grass. Spider webs hold the nest together, and plant down and spider egg cases often decorate the outside. Both parents incubate the four eggs for 14 to 16 days. Both feed and tend the young for the 14 to 17 days they are in the nest and for up to three weeks after they leave it. Hutton's Vireos usually raise only one brood a year, occasionally two.
+  migration_status: Hutton's Vireo is generally considered the only resident vireo in Washington. There is some seasonal movement, however, with birds appearing in the winter in some areas in which they are not known to breed (often along lowland streams).
+  conservation_status: The Hutton's Vireo is only an infrequent host for Brown-headed Cowbirds, which nevertheless may have an impact on its population. In Washington, Hutton's Vireos have benefited from logging practices that have created shrubby second-growth stands, which include numerous hardwoods. Breeding Bird Survey records show a small, statistically insignificant, increase between 1966 and 2000.
+  when_where_wa: An uncommon species in low-elevation forests in western Washington, Hutton's Vireo is the only vireo found in Washington in winter. Although it is not common anywhere, it is fairly easy to find in the proper habitat, especially near the coast.
+photos:
+- file: huvi_ad_gth_l.jpg
+  caption: 'Separated from Ruby-crowned Kinglet by dark legs, thicker and slightly hooked bill, nearly complete eye-ring (only broken on top, kinglets is broken on top and bottom). Kinglets are constantly moving: Hutton''s Vireos are more lethargic.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: huvi_ad2_gth_l.jpg
+  caption: 'Separated from Ruby-crowned Kinglet by dark legs, thicker and slightly hooked bill, nearly complete eye-ring (only broken on top, kinglets is broken on top and bottom). Kinglets are constantly moving: Hutton''s Vireos are more lethargic.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio:
+  file: HUVI01.mp3
+  credit: null
+maps:
+  wa: vihu.jpg
+  north_america: huvimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, F, F, F, F, F, F, F, F, F]
+  puget_trough: [F, F, F, F, F, F, F, F, F, F, F, F]
+  north_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: hutvir
+  current_common_name: Hutton's Vireo
+  current_scientific_name: Vireo huttoni
+  clements_sort: 19204
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/huttons_vireo
+  archived: '2026-09-12'

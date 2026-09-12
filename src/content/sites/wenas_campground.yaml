@@ -1,0 +1,28 @@
+slug: wenas_campground
+name: Wenas Campground
+number: 507
+ecoregions:
+- east_cascades
+sections:
+  site: 'The Wenas Campground is well known to legions of Washington birders (and plant aficionados). It is the site of an annual Audubon Society gathering (visitors always welcome) each Memorial Day Weekend, featuring field trips, botany exhibits, and campfire programs. Its reputation as a premier birdwatching mecca is well deserved-- as much for the productive sites that can be explored nearby, as for the immediate campground area. The approach from Ellensburg is characterized by a variety of habitats: basalt flats, shrub-steppe sagebrush areas, riparian corridors, and forested areas, and offers excellent birdwatching all along the route. The primitive roads leading northwest from the campground gain elevation rapidly to mountain meadows and mixed conifer forest. The campground area itself is characterized by open Ponderosa pine forest, creek-side black cottonwood trees and shrubs, and brushy hillsides. There are spectacular wildflower displays in May and June, and later in the higher elevations beyond the campground. (For a list of native plants, please see References below.)'
+  birds: The Wenas Campground area is an excellent place to find some of Washington's less common species. White-headed Woodpeckers, Gray and Dusky Flycatchers, and all three nuthatches (White-breasted, Red-breasted, and Pygmy) are usually seen with diligent searching. The riparian habitats host House Wrens, Red-naped Sapsuckers, Warbling Vireos, Veeries, and Yellow and MacGillivray's Warblers. The brushy hillsides to the west are good places to look for Calliope Hummingbirds and Nashville Warblers. Western Wood-Pewees are common, and Western Bluebirds and Chipping Sparrows may be found in the Ponderosa pines. (Both Mountain and Western Bluebirds can be seen in numbers, nesting in the boxes along the approach from Ellensburg.)
+  directions: |-
+    May through August is the best time to visit.
+    There are two routes into the Wenas Campground. From I-90, exit at #109 (Canyon Road, Ellensburg), head north toward town, and turn left on Umtanum Road, about a half mile from the interstate. Follow Umtanum Road for 17+ miles to a three-way junction. Take Audubon Road/North Wenas Road north for about 2.5 miles to a left turn where a wooden bridge crosses Wenas Creek. From Yakima, take US- 97/I-82 north, and exit at Exit #26. Cross the freeway and the Yakima River, and head north up Wenas Valley on North Wenas Road to the three-way junction.
+    A suggested strategy is to allow time to bird along the approaches, whether from Ellensburg or Yakima.
+
+    There are no fees and no facilities at the Wenas Campground. The road from the three-way junction is rough, but does not usually require a four-wheel-drive vehicle. However weather conditions may produce water on the road (usually crossable), and care should be taken.
+photos:
+- file: site_wenas_as.jpg
+  caption: ''
+  credit:
+    name: Adam Sedgley
+    url: null
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/wenas_campground/6
+  archived: '2026-09-12'

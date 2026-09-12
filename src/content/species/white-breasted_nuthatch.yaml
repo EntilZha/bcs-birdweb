@@ -1,0 +1,61 @@
+slug: white-breasted_nuthatch
+common_name: White-breasted Nuthatch
+scientific_name: Sitta carolinensis
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Sittidae
+  slug: sittidae
+status: Fairly common resident east. Uncommon west.
+species_of_concern: true
+sections:
+  general_description: The largest of the three species of nuthatch in Washington, the White-breasted Nuthatch has a bright white breast and face. The white on the face extends above the eyes. Its upperparts are slate-gray, with streaks of black in the wings. Males have black caps, which extend to their necks and partially around the neck like a collar. Females' caps are similar, but gray. Both sexes are chestnut-colored under their short tails. In flight, white can be seen on either side of the tail. Like all of Washington's nuthatches, the White-breasted has strong legs and toes, long, curved talons, and a long, strong bill.
+  habitat: White-breasted Nuthatches are found in deciduous forests across much of their range, but in eastern Washington they are found primarily in Ponderosa pines. They are not as restricted to Ponderosa pine as the Pygmy Nuthatch, and will use Douglas fir and black cottonwood stands also. A subspecies that is rare in Washington but fairly common farther south lives in what little remains of Garry oak in western Washington.
+  behavior: Like other nuthatches, the White-breasted uses its strong legs and claws to walk up, down, and sideways on tree trunks, probing in the bark crevices for food. They readily come to seed and suet feeders and cache food in crevices to return to later. White-breasted Nuthatches respond readily to imitated Pygmy-Owl calls.
+  diet: Insects and spiders are the main food in the summer. During winter, White-breasted Nuthatches eat many insects that they pry from their wintering spots in bark crevices, but they also eat many seeds. In developed areas they have learned to eat suet and peanut butter mixes as well.
+  nesting: Pairs form long-term bonds and remain on nesting territories year round. White-breasted Nuthatches do not generally excavate their own holes, but nest in a natural cavity or old woodpecker hole. They may occasionally use artificial nest boxes. The female builds the nest, which is a soft cup of bark fibers, grass, hair, and feathers. Sometimes mud is added to the entrance of the cavity, perhaps to keep larger predators away. They will also brush the nest, inside and out, with a crushed insect, perhaps coating the nest with chemical secretions that may keep predators away. The female incubates 5 to 9 eggs for 12 to 14 days. The male feeds the female while she incubates and helps her feed the young once they hatch. The young leave the nest at 14 to 26 days, but stay with the adults for several more weeks until they become completely independent.
+  migration_status: White-breasted Nuthatches are usually permanent residents but may have irruptive movements in some winters. This is less common in White-breasted Nuthatches than in Red-breasted.
+  conservation_status: The Breeding Bird Survey shows a small, not statistically significant decrease in the total number of White-breasted Nuthatches in Washington bewteen 1980 and 2002. The eastern-Washington subspecies remains common in the appropriate habitat. However the western-Washington subspecies has declined significantly in the past century and is now limited to Clark County in southern Washington. Washington was already at the northern extent of the oak woodland zone, and much of this habitat has been lost to development. As White-breasted nuthatches have vanished from areas in which oaks are still numerous, there must be other causes for the decline. The western Washington subspecies is currently listed as a subspecies-of-concern by the US Fish and Wildlife Service, and is a candidate for listing by the Washington Department of Fish and Wildlife.
+  when_where_wa: The White-breasted Nuthatch is fairly common, although it may be patchily distributed in eastern Washington lowland woods. In western Washington, there was a small population at Fort Lewis south of Tacoma (Pierce County) until the late 1990s, but this and many southwestern Washington populations have been extirpated. The last stronghold of the western Washington subspecies is in and near Ridgefield National Wildlife Refuge, where it can still be found fairly easily in the Garry oaks.
+photos:
+- file: wbnu_jh_l.jpg
+  caption: 'Male. Note: dark cap contrastingly greatly with back color.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: wbnu_f_tg_l.jpg
+  caption: 'Female. Note: weak dark cap.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: WBNU01.mp3
+  credit: null
+maps:
+  wa: sicar.jpg
+  north_america: wbnumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: [U, U, U, U, U, U, U, U, U, U, U, U]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: [F, F, F, F, F, F, F, F, F, F, F, F]
+  canadian_rockies: [U, U, U, U, U, U, U, U, U, U, U, U]
+  blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
+  columbia_plateau: [F, F, F, F, F, F, F, F, F, F, F, F]
+taxonomy:
+  ebird_code: whbnut
+  current_common_name: White-breasted Nuthatch
+  current_scientific_name: Sitta carolinensis
+  clements_sort: 26889
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/white-breasted_nuthatch
+  archived: '2026-09-12'

@@ -1,0 +1,65 @@
+slug: elegant_tern
+common_name: Elegant Tern
+scientific_name: Thalasseus elegans
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Irregular visitor on outer coast.
+species_of_concern: false
+sections:
+  general_description: The Elegant Tern is a fairly large, slim tern, with a long, orange, slightly drooping bill. It has narrow, angled wings, a deeply forked tail, and a shaggy crest. The adult in breeding plumage has a gray mantle, white breast and belly, and white face with a black, crested cap. The legs are black. The adult in non-breeding plumage is similar, but with a white forehead that darkens to streaky black, as if the cap has receded. Juveniles appear similar to non-breeding adults, but their legs are yellow.
+  habitat: A coastal species, the Elegant Tern is found in shallow waters, in bays and estuaries, and sometimes far out to sea. It is extremely rare inland. Nesting habitat is isolated, flat, sandy or rocky islands without much vegetation, and is restricted to five sites in Mexico and southern California.
+  behavior: Elegant Terns are highly social and very vocal, especially when feeding in flocks. They forage by flying over water, hovering, and plunging down to catch prey below the water's surface.
+  diet: The key prey of this species on its breeding grounds is the northern anchovy. Other small fish and small crustaceans round out the diet.
+  nesting: Elegant Terns sometimes breed in mixed colonies with other terns or Heerman's Gulls, where their nests are packed closely together. They nest on bare ground, out in the open. Both parents help to make a simple scrape in the ground, collecting debris to form a rim and sometimes lining the scrape with pebbles or shells. The female lays one or perhaps two eggs. Incubation is by both sexes, and lasts about 4 weeks. After hatching, the chick stays in the nest for about a week. Then, like other crested terns, it joins a group of up to several hundred chicks called a crèche. The adults take turns guarding the crèche, standing at the perimeter of the group and herding the chicks together. A parent feeds only its own chick in the crèche, recognizing the chick by its call note. Chicks stay in the crèche until they fledge at about 35 days, after which they follow their parents for at least five or six more months.
+  migration_status: Elegant Terns migrate north and south along the coast in late summer and early fall after the breeding season. Birds that dispersed northward head south again in October. Their winter range extends as far south as Peru and Chile.
+  conservation_status: The Elegant Tern has the most restricted breeding distribution of any tern in North America, and only five colonies are currently known. The largest of the five, located on Isla Rasa, Mexico hosts 90-97% of the worldwide population. Historically, this is a species of limited distribution, with only about a dozen nesting colonies, but disturbance from humans and feral animals, habitat degradation, and changing climatic conditions have reduced it even further, to the current small number of colonies. The breeding range is currently expanding northward into California, however, perhaps in response to the shifting distribution of northern anchovies. The Elegant Tern is a highly vulnerable species and is listed as a species of special concern in California. Some conservationists believe that the US and Mexico should immediately list the Elegant Tern as endangered and begin recovery programs before it is too late.
+  when_where_wa: The Elegant Tern is a rare visitor to Washington from July to mid-September, along the southern outer coast in sandy habitats and offshore. In some years, Elegant Terns can be found in fairly good numbers in southwestern Washington locations, e.g. Ocean Shores (Grays Harbor County) and in Pacific County. They may be absent in other years.
+photos:
+- file: elte_wfl_tg_l.jpg
+  caption: Adult nonbreeding, note long, thin, decurved bill
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: elte_tg_l.jpg
+  caption: Adult breeding with Caspian Tern in background
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: elte_jfl_jp_l.jpg
+  caption: Juvenile
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+audio: null
+maps:
+  wa: stel.jpg
+  north_america: eltemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', I, I, '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: eleter1
+  current_common_name: Elegant Tern
+  current_scientific_name: Thalasseus elegans
+  clements_sort: 6780
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/elegant_tern
+  archived: '2026-09-12'

@@ -1,0 +1,79 @@
+slug: rock_wren
+common_name: Rock Wren
+scientific_name: Salpinctes obsoletus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Troglodytidae
+  slug: troglodytidae
+status: Common summer resident east. Uncommon winter.
+species_of_concern: false
+sections:
+  general_description: The Rock Wren is the largest wren in Washington. Its back is gray and speckled with light dots. Its flanks are buff-yellow, and its breast is white streaked with gray. Two eye-lines, white over dark, extend behind the eye. In flight, a brown rump patch is evident, as are the pale tips of the tail. The pale tip extends almost all the way across in a terminal band, but is interrupted in the middle by gray. The undertail coverts are white with black bars. Juveniles look like adults but have less streaking on their breasts.
+  habitat: Rock Wrens can be found in open, arid surroundings on rocky slopes and canyons at a variety of elevations. In winter, if no rocks are available, territory may be established around landmarks such as hay bales and farm equipment. These wrens breed in rocky habitats, such as canyons, coulees, outcroppings, and talus slopes in the steppe and dry forests.
+  behavior: Rock Wrens use their long bills to probe into narrow crevices and find prey. They are often seen bouncing up and down among the rocks as they forage. Males often sing from rock promontories.
+  diet: Insects and spiders are the predominant prey of the Rock Wren.
+  nesting: The most curious aspect of the Rock Wren is its tendency to create a stone walkway at the entrance to its nest. It is unknown what purpose this trail of flat stones and pebbles serves, but it is built by both sexes, before the nest cup. Males establish a territory and sing to attract females. The pair bond is monogamous and lasts through the breeding season. The nest is typically tucked in a crevice or hole, with the walkway the only external sign of its presence. Inside the crevice, the wrens build a foundation of stone, on top of which the female builds a loose cup of grass, wood, bark, hair, and spider webbing, which the male helps bring to the nest. The female incubates 5 to 6 eggs for 14 to 16 days. When the young hatch, both parents feed them at the nest for about 14 to 16 days. Once the young leave the nest, the parents continue to feed them for about a week. After that, the young become independent of their parents for food, but may remain on their territory for another four weeks.
+  migration_status: Rock Wrens are strongly migratory. They leave northern breeding areas for winter ranges farther south or at lower elevations. Most leave Washington in the winter, although a few remain in southeast and central Washington.
+  conservation_status: Currently widespread and common, Rock Wrens have been increasing significantly in Washington since 1982. Most of their nesting habitat is not adversely affected by human activities. Livestock grazing near nesting Rock Wrens, however, may be responsible for an increased incidence of nest parasitism by Brown-headed Cowbirds and may be cause for concern.
+  when_where_wa: During summer, Rock Wrens are common in the steppe regions of eastern Washington. They also breed above the tree line in the rocky habitats and clear-cuts along the Cascade Crest and in the Blue Mountains of southeastern Washington. Vagrants can show up in western Washington during migration, and some breeding records exist in the San Juan Islands. They have also colonized the ash- and pumice-covered slopes of Mt. St. Helens, following the 1980 eruption. They may also be breeding above the tree line in the northeastern Olympic Mountains, but the majority of the breeding population is in the Columbia Basin. During migration, they are commonly found at high elevations. In mild winters, some Rock Wrens remain in small numbers at low elevations in southeastern and central Washington.
+photos:
+- file: rowr_a_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rowr_a2_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: rowr_ad3_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rowr_ad4_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rowr_j_jh_l.jpg
+  caption: Juvenile
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: ROWR01.mp3
+  credit: null
+maps:
+  wa: saob.jpg
+  north_america: rowrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', R, R, R, R, '', '', '', '']
+  east_cascades: ['', '', '', U, U, U, U, U, U, '', '', '']
+  okanogan: ['', U, F, F, F, F, F, F, F, U, U, '']
+  canadian_rockies: ['', '', '', U, U, U, U, U, '', '', '', '']
+  blue_mountains: ['', '', R, U, U, U, U, U, U, U, '', '']
+  columbia_plateau: [R, R, U, C, C, C, C, C, C, U, R, R]
+taxonomy:
+  ebird_code: rocwre
+  current_common_name: Rock Wren
+  current_scientific_name: Salpinctes obsoletus
+  clements_sort: 27150
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/rock_wren
+  archived: '2026-09-12'

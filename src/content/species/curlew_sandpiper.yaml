@@ -1,0 +1,46 @@
+slug: curlew_sandpiper
+common_name: Curlew Sandpiper
+scientific_name: Calidris ferruginea
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Casual fall migrant on the North Olympic and outer coasts; accidental in spring (one record each east and west).
+photos:
+- file: cusa_br_dp_l.jpg
+  caption: Breeding plumage
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: cursan
+  current_common_name: Curlew Sandpiper
+  current_scientific_name: Calidris ferruginea
+  clements_sort: 6182
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/curlew_sandpiper
+  archived: '2026-09-12'

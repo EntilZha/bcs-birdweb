@@ -1,0 +1,73 @@
+slug: white-crowned_sparrow
+common_name: White-crowned Sparrow
+scientific_name: Zonotrichia leucophrys
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Common resident. Uncommon winter east.
+species_of_concern: false
+sections:
+  general_description: The White-crowned Sparrow is a distinctive bird with bold black and white stripes on its head. It has a clear, gray breast and belly, long tail, and wings distinctly marked with two white wing-bars. The beak is orange-yellow to reddish-brown depending on the subspecies. Young birds are streaked overall until August, when they take on a juvenile plumage similar to the adult; they have brown and tan head stripes rather than black and white, which they keep until the spring.
+  habitat: Different subspecies vary in their habitat requirements, but in general they require a patchy mosaic of bare ground and shrubby areas for breeding. Their territories are usually small, and they will breed in small patches of habitat in the middle of a city. During winter, they move into slightly more open habitats than the related Golden-crowned Sparrow. There are three subspecies of White-crowned Sparrow in Washington. Z. l. pugetensis occurs in shrubby habitats in cities, recent clear-cuts, wetlands, and alpine parkland. Z. l. gambelii nests in a variety of habitats, including alpine meadows, grass, and dense shrubs, and is best distinguished from Z. l. pugetensis by its song. Z. l. oriantha uses sub-alpine and alpine meadows.
+  behavior: White-crowned Sparrows are generally found in flocks of their own and other species outside the breeding season. Flocks of White-crowned Sparrows fan out into open ground away from sheltering bushes as they feed, flying back to cover in a wave if disturbed. They forage on the ground in open areas, with sheltered thickets nearby for cover. They use a two-footed scratching maneuver to locate food in the leaf litter.
+  diet: In the winter, White-crowned Sparrows eat seeds, grass, buds, fruits, and arthropods. During the breeding season, arthropods make up a larger proportion of the diet.
+  nesting: Males generally arrive on the breeding grounds before females. The males sing to defend their territories and attract mates. The nest is usually located on the ground at the base of a shrub or a clump of grass, in a depression so the rim is level with the ground. Nests on the West Coast are often placed in a shrub a few feet off the ground. The female builds the nest, which is an open cup made of grass, sticks, pine needles, rootlets, and bark strips and is lined with fine grass, feathers, and hair. The female incubates the 3 to 7 eggs for 11 to 14 days. Both parents feed the young, which leave the nest at 8 to 10 days after hatching. The young begin to fly about 7 to 10 days after leaving the nest and start finding their own food at about that time as well. The pugetensis subspecies typically raises 2 to 3 broods each year, while the other subspecies usually raise only one.
+  migration_status: Many birds go south in the winter, but a number of the gambelii subspecies winter in Washington, migrating from breeding grounds farther north, arriving in mid-August and leaving in mid-March. Migrants of the gambelii subspecies that nest in Washington start to arrive in early May and leave in late August. During migration, the gambelii is one of the most abundant birds to be found in eastern Washington. The pugetensis subspecies arrives in early April and leaves in late August. Oriantha, the third subspecies, arrives in mid-May and leaves in mid-September. Some high-altitude populations arrive at lower elevations and then head up the slopes as the snow melts.
+  conservation_status: Z. l. pugetensis is a common breeding bird throughout the western Washington lowlands. It has expanded its range considerably in the past 30 years, in part due to logging and development, which have increased its habitat.
+  when_where_wa: As a species, the White-crowned Sparrow is common year round in western Washington. In the winter, it is one of the most widespread and abundant sparrows in Washington. From September to mid-May it is most common along the Columbia River and its major tributaries, in the interior lowlands of western Washington, and along the outer coastline. Z. l. pugetensis is common all over western Washington in the right habitat, including high-mountain clear-cuts, city parks, and suburban lawns. It is uncommon and local east of the Cascades, where it has begun to expand its range into Yakima and Kittitas Counties and to Ellensburg, up the Columbia River. Z. l. oriantha, the easternmost of the subspecies, breeds in subalpine areas and is an uncommon and local breeder in the Blue Mountains and in the mountains of northeastern Washington.In Washington, Z. l. gambelii breeds in habitats similar to those favored by Z. l. oriantha, but is typically found farther west, in the eastern Cascades, and northwestern Okanogan County. It is an abundant migrant throughout Washington, and many of the birds that breed in northwest Canada and Alaska winter in eastern Washington. This bird can be distinguished from the other subspecies by its bolder and brighter plumage.
+photos:
+- file: wcsp_ad_gth_l.jpg
+  caption: Adult (gambelli ssp.)
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: wcsp_ad2_gth_l.jpg
+  caption: Adult (pugetensis ssp.)
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: wcsp_j_tg_l.jpg
+  caption: Juvenile pugetensis race.
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: wcsp_j2_tg_l.jpg
+  caption: Juvenile gambeli race.
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: wcsp1.mp3
+  credit: null
+maps:
+  wa: zole.jpg
+  north_america: wcspmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, F, C, C, C, C, C, C, F, U, U]
+  puget_trough: [F, F, C, C, C, C, C, C, C, C, F, F]
+  north_cascades: [R, R, U, C, C, C, C, C, C, U, U, R]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [C, C, C, C, C, F, F, F, C, C, C, C]
+  okanogan: [U, U, U, C, C, R, R, R, C, C, U, U]
+  canadian_rockies: ['', '', '', U, F, R, R, R, C, F, '', '']
+  blue_mountains: [U, U, U, F, U, U, U, U, F, U, U, U]
+  columbia_plateau: [C, C, C, C, C, '', '', '', C, C, C, C]
+taxonomy:
+  ebird_code: whcspa
+  current_common_name: White-crowned Sparrow
+  current_scientific_name: Zonotrichia leucophrys
+  clements_sort: 33187
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/white-crowned_sparrow
+  archived: '2026-09-12'

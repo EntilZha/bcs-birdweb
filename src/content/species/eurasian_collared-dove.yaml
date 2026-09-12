@@ -1,0 +1,59 @@
+slug: eurasian_collared-dove
+common_name: Eurasian Collared-Dove
+scientific_name: Streptopelia decaocto
+order:
+  name: Columbiformes
+  slug: columbiformes
+family:
+  name: Columbidae
+  slug: columbidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    A recent arrival in Washington, this exotic invader is increasing explosively and is certainly here to stay. It adapts especially well to agricultural and suburban landscapes but might be found in just about any low- or mid-elevation habitat except for closed forest and dense urban development. Native to South Asia, it has also been established for centuries in the Middle East, Turkey, and northern China, where it was likely introduced. Beginning in the 1930s, it rapidly expanded its range northward and westward from the Balkans across Europe and is now a common resident from Japan and Burma to Portugal and the Faeroes.
+
+    Several birds were released from captivity in the Bahamas in 1974, and flourished; their offspring soon reached Florida where the population mushroomed. From this beachhead Eurasian Collared-Doves swept across the continent in the 1990s. The first Oregon record occurred on 21 December 1999 at Oregon City, and the first Washington record (not yet reviewed by the Washington Bird Records Committee) was on 2 January 2000 at Spokane (Spokane County). The second state record occurred at Wenatchee (Chelan County) in 2002; the third, in 2003 at Stanwood (Snohomish County), was also the first state record west of the Cascades. The leading edge of the main wave arrived in May 2005. Since then more than 200 birds have been reported from many locations in both eastern and western Washington, including evidence of breeding.
+
+    The Eurasian Collared-Dove is overall pale grayish with warmer light-brown tones on the back, and has on the nape a black collar narrowly edged with white. It is larger, less slender, and grayer in color than the Mourning Dove, which lacks the black collar. The blunt-tipped tail is fan-shaped when spread, unlike the Mourning Dove’s much longer, pointed tail. African Collared-Dove *(Streptopelia roseogrisea)*—an escaped cage bird occasionally seen in Washington, formerly known as Ringed Turtle-Dove *(S. risoria)*—is rather similar to the Eurasian Collared-Dove but smaller and lighter in color (can be almost white). Consult field guides for the finer points of separating these two closely related species.
+
+    *Revised July 2007*
+photos:
+- file: eucd_fl_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: eucd_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: ecdomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: eucdov
+  current_common_name: Eurasian Collared-Dove
+  current_scientific_name: Streptopelia decaocto
+  clements_sort: 2031
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/eurasian_collared-dove
+  archived: '2026-09-12'

@@ -1,0 +1,67 @@
+slug: arctic_tern
+common_name: Arctic Tern
+scientific_name: Sterna paradisaea
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Fairly common pelagic migrant. Rare breeder.
+species_of_concern: true
+sections:
+  general_description: The Arctic Tern is slightly smaller than the Common Tern with long, narrow wings and very short legs. In breeding plumage, the Arctic Tern has a light gray mantle and belly. The lower half of the face is white, and the upper sports a black cap without a crest. The tail is white, and usually projects beyond the wingtips when the bird is perched. The bill and legs are red. The adult does not show the black 'wedge' in the outer flight feathers that is present on Common Terns, and instead shows a thin, black border on the trailing edge of the primaries, visible from below. In the non-breeding season, the Arctic Tern has a receding black cap, with a white forehead extending halfway back its head, and the legs and beak are black. Juveniles have a light brown wash to their plumage, but this is mostly gone by August. At first, the young have orange feet, which then turn black. A dark bar is visible on juveniles' wrists.
+  habitat: The Arctic Tern nests on marshes, tundra lakes, and shorelines in the Arctic, and south on the East Coast to New England. From 1977 to 1995, Arctic Terns nested on gravel islands and parking lots in Everett (Snohomish County). During the non-breeding season, the Arctic Tern is highly pelagic, spending most of its time on the open ocean, far from land.
+  behavior: The Arctic Tern forages by flying slowly upward, hovering briefly, and dropping from the air to catch prey below the water's surface. They also steal food from other birds, startling them into dropping their catch by swooping at them. Arctic Terns are seldom seen resting directly on the water, even during their long migration. They may, however, be seen perched on floating logs and other debris.
+  diet: Diet varies with season and location, but is primarily fish, crustaceans, and insects.
+  nesting: Arctic Terns don't breed until they are 3-4 years old. Both sexes help build a nest on the ground in a colony, sometimes mixed with other species of terns. The nest is out in the open, a shallow depression, often lined with plants and debris. Incubation is by both sexes and lasts about 3 weeks. The parents vigorously defend the nest, dive-bombing intruders. One to three days after hatching, the young leave the nest and hide in nearby cover. Both parents help feed the young until they fledge, usually at 3-4 weeks of age. After that, the young stay with their parents for one or two months more.
+  migration_status: True long-distance migrants, some Arctic Terns migrate greater distances than any other birds, traveling from the high Arctic to the Antarctic and back every year. This migration is mostly completed well offshore, but occasionally birds are seen from shore.
+  conservation_status: Throughout most of its breeding range, no obvious population trends have been observed, as most of its range is remote and protected from the effects of many human activities. At the southern edge of its breeding range on the Atlantic Coast, steady declines have been observed. The small nesting colony found in Everett (Snohomish County) in 1977 is the southern-most nesting location recorded on the West Coast of North America. The nearest regular breeding colony is 825 miles north, in southeastern Alaska. The Everett terns nested on Jetty Island for a few years, but when the vegetation grew up on the island, the habitat became unsuitable for nesting. The colony then moved to a dirt/gravel parking lot on the mainland in the early 1980s. At this unprotected site, the colony was reduced from 10-12 pairs to 2-3 pairs. This small colony persisted in Everett, where many people struggled to move the colony to a more protected site, because the Navy had plans to develop that site. Attempts to move the colony were not successful, and there has been no known breeding of Arctic Terns in Washington since 1995, though a pair was still present in 2000.
+  when_where_wa: Seldom seen from land south of their breeding grounds (and now that there are probably no longer Arctic Terns breeding in Washington), the best way to see them is from offshore boat trips during migration.
+photos:
+- file: arte_gt_l.jpg
+  caption: 'Adult breeding. Note: short all red bill and legs'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: arte_fl_gt_l.jpg
+  caption: 'Adult breeding. Note: gray underparts'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: arte_wfl_gt_l.jpg
+  caption: Adult nonbreeding
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: arte.mp3
+  credit: null
+maps:
+  wa: stpar.jpg
+  north_america: artemap.gif
+abundance:
+  oceanic: ['', '', '', U, U, R, U, F, F, R, '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', R, R, R, R, '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: arcter
+  current_common_name: Arctic Tern
+  current_scientific_name: Sterna paradisaea
+  clements_sort: 6733
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/arctic_tern
+  archived: '2026-09-12'

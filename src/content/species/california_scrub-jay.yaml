@@ -1,0 +1,59 @@
+slug: california_scrub-jay
+common_name: California Scrub-Jay
+scientific_name: Aphelocoma californica
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Corvidae
+  slug: corvidae
+status: Fairly common resident west.
+species_of_concern: false
+sections:
+  general_description: Califonia Scrub-Jays are medium-sized, slender birds with long tails. The Western Scrub-Jay has blue upperparts, a grayish-brown back, and light underparts. It has a well-defined blue breast-band that contrasts with its white breast and throat. A white line just above each eye divides the blue crown from the darker cheek patches.
+  habitat: California Scrub-Jays are typically found in oak woodlands. In Washington, they are also found in residential areas with low- to mid-density development.
+  behavior: California Scrub-Jays usually forage in pairs, family groups, or very small flocks outside the breeding season. They forage on the ground and in trees, caching much of the food they find and retrieving it later.
+  diet: California Scrub-Jays are omnivorous, with a diet that varies by season and region. In summer, they eat many insects, spiders, and snails, and in winter, they shift to berries, acorns, and other seeds. They eat rodents, reptiles, amphibians, and the eggs and young of other bird species. They also visit bird feeders.
+  nesting: California Scrub-Jays are typically monogamous, and nest in shrubs or low trees. Both members of the pair help build the nest, which is a thick-walled cup made of grass, twigs, and moss, lined with soft rootlets and hair. The male brings food while the female incubates 3-6 eggs for 15-17 days. Both adults help feed the young, which leave the nest at 18-19 days. They typically raise one brood each year.
+  migration_status: California Scrub-Jays do not migrate, but some birds disperse, particularly in fall, which has enabled the species to spread north into Washington.
+  conservation_status: California Scrub-Jays have been expanding their range northward and eastward since the 1970s. This expansion is most likely due to increased residential development and feeding by humans, and will probably continue. In Washington, the breeding population has expanded from the Portland, OR and Vancouver, WA area, up and down the Columbia River, and northward to King County, with wandering birds found north to Skagit and Snohomish Counties.
+  when_where_wa: California Scrub-Jays can be found regularly year round in western Washington lowlands from Puget Sound south. They are occasional as far north as Seattle and have been found breeding north of Enumclaw and in Seattle in small numbers (King County). They can be found rarely all the way to the coast in Grays Harbor County and east to Lyle in Klickitat County. Ridgefield Wildlife Refuge in southwest Washington is a good location for finding them.
+photos:
+- file: wesj_tg_l.jpg
+  caption: ''
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: wesj_j_tg_l.jpg
+  caption: Juvenile
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio: null
+maps:
+  wa: apco.jpg
+  north_america: wesjmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, U, U, U, U, U, U, U]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: cowscj1
+  current_common_name: California Scrub-Jay
+  current_scientific_name: Aphelocoma californica
+  clements_sort: 21303
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/california_scrub-jay
+  archived: '2026-09-12'

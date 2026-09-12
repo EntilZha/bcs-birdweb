@@ -1,0 +1,61 @@
+slug: yellow-billed_cuckoo
+common_name: Yellow-billed Cuckoo
+scientific_name: Coccyzus americanus
+order:
+  name: Cuculiformes
+  slug: cuculiformes
+family:
+  name: Cuculidae
+  slug: cuculidae
+status: Accidental summer.
+species_of_concern: true
+sections:
+  general_description: Yellow-billed Cuckoos are considered extirpated in Washington, but they appear extremely rarely during summer. Yellow-billed Cuckoos are slender, long-tailed birds with white underparts and dark upperparts. They have unstreaked, grayish-brown backs and rufous wings. Their tails have black-and-white bars when seen from below, but from above they show brown with white spots at the edges. Their bills are mostly yellow and curved downward.
+  habitat: The habitat of the Yellow-billed Cuckoo in western North America is forested stream-sides. Cottonwoods and willows that form open woodlands with dense, low vegetation are particularly preferred. These cuckoos are generally absent from large, urban areas and dense forests, although they will use both of these habitats in central North America.
+  behavior: Yellow-billed Cuckoos earned the name Rain Crow because they appear to call more often on cloudy days, although this behavior has never been substantiated. They generally forage by gleaning, watching inconspicuously from a perch and waiting for potential prey to move and disclose its location.
+  diet: Large insects, especially caterpillars, make up the majority of the Yellow-billed Cuckoo's diet. These cuckoos may gather in areas with caterpillar outbreaks, although they are less reliant on caterpillars than are Black-billed Cuckoos. They eat small lizards, frogs, eggs, and occasionally young birds.
+  nesting: Yellow-billed Cuckoos have a very condensed breeding cycle, and the timing of their breeding onset is correlated with abundant local food. They nest in trees, shrubs, or vines on horizontal branches. Both members of the pair help build the nest, incubate the eggs, brood, and feed the young. The nest is a loose platform of twigs and stems, lightly lined with grass, leaves, and bark strips, sometimes with dry pine needles scattered on the rim. There are usually 2-3 eggs, and incubation lasts 9-11 days. The young leave the nest after 7-9 days, and can fly at three weeks. Yellow-billed Cuckoos will lay eggs in the nests of other birds of their own and other species. The other species that they most commonly parasitize are American Robin, Gray Catbird, and Wood Thrush.
+  migration_status: Yellow-billed Cuckoos are Neotropical migrants. Most populations winter in South America. They generally migrate late in the fall and spring, and western populations generally migrate later than populations in eastern North America.
+  conservation_status: Populations of Yellow-billed Cuckoos have severely declined throughout their range, especially in western states, where they are now extirpated from British Columbia, Washington, and Oregon. As of 1999, the California population was down to 30 pairs. The Idaho population is estimated at a few dozen pairs. Most of this decline can be attributed to habitat loss, but unknown factors also seem to have played a major role. Despite this dramatic decline, the Yellow-billed Cuckoo is considered only a candidate for listing by the Washington Department of Fish and Wildlife, and a species of concern by the US Fish and Wildlife Department. There has been controversy surrounding the federal listing of the Yellow-billed Cuckoo, because the status of the western population as a subspecies is in question, and this precludes listing.
+  when_where_wa: Yellow-billed Cuckoos are officially considered extirpated in Washington, and the occasional sightings are vagrants. Historically, they nested along wooded rivers in eastern Washington, along the shores of Lake Washington (King County), in Tacoma (Pierce County), and in Whatcom County. A recent observation in Washington was a single bird near Elma at Vance Creek County Park (Grays Harbor County) in 1996. In 1997, the Peregrines that nest in downtown Seattle were captured on video, feeding a Yellow-billed Cuckoo to their nestlings. In the latter half of the 20th Century, there were three sightings along forested stream-sides in eastern Washington. Other sightings in the past few decades were along historical breeding grounds on the shore of Lake Washington and in a cottonwood grove along the Snohomish River near Sultan (Snohomish County).
+photos:
+- file: ybcu_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: ybcu_fl_gl_l.jpg
+  caption: 'In flight. Note: yellow bill and rufous under/upperwings'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: ybcu.mp3
+  credit: null
+maps:
+  wa: coam.jpg
+  north_america: ybcumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: yebcuc
+  current_common_name: Yellow-billed Cuckoo
+  current_scientific_name: Coccyzus americanus
+  clements_sort: 3238
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/yellow-billed_cuckoo
+  archived: '2026-09-12'

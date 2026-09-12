@@ -1,0 +1,55 @@
+slug: vauxs_swift
+common_name: Vaux's Swift
+scientific_name: Chaetura vauxi
+order:
+  name: Apodiformes
+  slug: apodiformes
+family:
+  name: Apodidae
+  slug: apodidae
+status: Fairly common summer resident.
+species_of_concern: true
+sections:
+  general_description: The Vaux's Swift is a small swift with a short tail. This swift is usually seen only in flight and is often described as a cigar with wings. It is brownish-gray overall, with a lighter rump and breast. The Vaux's Swift's wings are long and narrow, and its flight is rapid. The tail is squared off at the end, not notched like that of the Black Swift. The name is English, not French, and the 'x' is sounded.
+  habitat: Unlike their similar relatives, the Chimney Swifts, Vaux's Swifts do not often nest in chimneys. They usually nest in natural cavities with vertical entranceways, such as hollow trees. However, with the loss of major snags, Vaux's Swifts have been increasingly observed roosting during migration in large numbers in man-made structures such as large industrial chimneys. Foraging habitat is open sky over woodlands, lakes, and rivers, where flying insects are abundant. Nesting habitat is forest, either coniferous or mixed, but primarily old growth with snags for nesting and roosting.
+  behavior: Vaux's Swifts forage in fast flight, often low over the water. Their wide bills act as traps as they fly into swarms of insects.
+  diet: Small flying insects, sometimes called "aerial plankton," are the staple of the Vaux's Swift's diet.
+  nesting: In colonies, or in solitary pairs, the Vaux's Swift usually chooses a hollow tree for nesting. Both sexes collect nesting material, breaking off small twigs in flight and bringing them to the nest site, where they cement them in place with sticky saliva. The nest is a shallow half-cup attached to the inside of a tree. Clutches are large, usually six eggs, which both parents incubate for 18 to 19 days. Both parents feed and tend the young, and sometimes additional adults help incubate, brood, and feed the young. They raise only one brood each year. The young first fly when about a month old, and may continue to return to the nest site for a few days.
+  migration_status: Washington's Vaux's Swifts move south in the fall, mostly to Mexico, with some birds wintering in California.
+  conservation_status: Although the extent of old-growth forest in the Northwest is diminishing and snags are frequently removed from mature forests in an effort to prevent forest fires, the population of Vaux's swift appears to have remained stable between 1966 and 2002.
+  when_where_wa: The Vaux's Swift is a common breeder in forested areas throughout Washington where suitable nesting trees exist. In eastern Washington, they can also be found below the lower tree-line in residential areas. Throughout the summer, they are common in Seattle, although there are few recorded nests in Seattle. In the Blue Mountain region, they are found throughout the forests, down river valleys, and in the residential areas of Walla Walla (Walla Walla County) and Pomeroy (Garfield County). Vaux's Swifts arrive in Washington in late April and the beginning of May, and leave the eastern portion of the state by early September and the western portion of the state by early October.
+photos:
+- file: vasw_fl_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio:
+  file: vasw.mp3
+  credit: null
+maps:
+  wa: chva.jpg
+  north_america: vaswmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', R, F, F, F, C, U, '', '', '']
+  puget_trough: ['', '', '', U, F, F, F, C, C, R, '', '']
+  north_cascades: ['', '', '', '', C, C, C, C, U, '', '', '']
+  west_cascades: ['', '', '', U, F, F, F, F, F, U, '', '']
+  east_cascades: ['', '', '', U, C, C, C, C, C, '', '', '']
+  okanogan: ['', '', '', U, U, U, U, U, U, '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, F, U, '', '', '']
+  blue_mountains: ['', '', '', U, F, F, F, F, U, '', '', '']
+  columbia_plateau: ['', '', '', R, F, F, F, F, U, '', '', '']
+taxonomy:
+  ebird_code: vauswi
+  current_common_name: Vaux's Swift
+  current_scientific_name: Chaetura vauxi
+  clements_sort: 3897
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/vauxs_swift
+  archived: '2026-09-12'

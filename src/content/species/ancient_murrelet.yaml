@@ -1,0 +1,53 @@
+slug: ancient_murrelet
+common_name: Ancient Murrelet
+scientific_name: Synthliboramphus antiquus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Alcidae
+  slug: alcidae
+status: Uncommon fall and winter coast. May breed.
+species_of_concern: false
+sections:
+  general_description: A small, stocky bird, the Ancient Murrelet is slate-gray above, with gray and white sides and a white belly. The head is black, and the bill is pale. White on the throat extends back and up to the ears. During the breeding season, the throat is black, with a white band at the neck. The eyebrow is accented with white feathers at this time.
+  habitat: Ancient Murrelets spend most of the time on cold-water seas. They forage over the edge of the continental shelf, and also closer to shore, especially in areas where tidal currents bring food up to the surface. They nest on islands or inland in dense forests with thick moss but little underbrush.
+  behavior: The Ancient Murrelet is more agile in flight than most alcids and will often plunge directly from the air into the water to forage. Swimming underwater, using its wings as flippers, it catches most of its food within sixty feet of the surface. Its breeding behavior is unusual among seabirds in that, at night, in the nesting colonies, males sing from tree branches and other high perches.
+  diet: Small fish, krill, and shrimp make up most of the Ancient Murrelet's diet.
+  nesting: Ancient Murrelets nest in small colonies located on islands or in coastal forests. They place their nests at the bases of large trees in burrows under the roots, or under grass tussocks. Both sexes dig the burrows, which are 2-5 feet long and end in a nest chamber lined with twigs, leaves, and grass. Like many alcids, they are active in the colonies at night. They raise two young, and both parents incubate the eggs, often taking extended shifts on the nest, lasting from 2-6 days at a time. Incubation lasts for about 4 weeks. Within three days of hatching, the parents call the young out from the burrow and then fly to sea, where they repeatedly call for the young. The newly hatched chicks run to shore from the burrows, enter the water, and swim to the parents. Immediately upon reaching the water they can swim and dive well, using both their feet and wings for propulsion. Chicks do not receive their first meal until they have joined their parents on the water. The family swims offshore together, and groups have been found 30 miles from the colony within 18 hours of departure. Chicks will stay with and be fed by their parents at sea for at least four more weeks.
+  migration_status: Some seasonal movement occurs. After the young hatch, Ancient Murrelets disperse widely at sea. In winter, they prefer coastal areas, often foraging within the kelp belt.
+  conservation_status: Although still abundant, the world population of Ancient Murrelets has been declining for many years. They are very sensitive to disturbance during incubation, and introduced predators on nesting islands have had major impacts on a number of colonies. Oil contamination and loss of habitat are also potential threats to Ancient Murrelets.
+  when_where_wa: More pelagic and gregarious than Marbled Murrelets, Ancient Murrelets are typically found farther out, with flocks of up to 30 birds a common sight in the winter. From October through December, they are numerous in offshore areas, are often visible from shore, and are the most likely of Washington's alcids to be found inland (especially in October and November). They are uncommon from January to March, and from mid-August through September. They are rare from April to mid-August, with non-breeders occasionally spotted on open salt water. Washington is at the southern edge of the Ancient Murrelet breeding range, and it is uncertain whether they currently nest here at all. The last confirmed breeding record in Washington is from 1924. Breeding-season sightings are so rare that it is most likely non-breeders that we see here. However, there is some evidence to suggest that there may be a small breeding population on one of the outer-coast islands in Clallam or Jefferson Counties.
+photos:
+- file: anmu_w_gt_l.jpg
+  caption: Nonbreeding adult
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+audio: null
+maps:
+  wa: syan.jpg
+  north_america: anmumap.gif
+abundance:
+  oceanic: [F, F, F, F, U, U, U, U, U, U, F, F]
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: [U, U, U, '', '', '', '', '', '', U, F, F]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: ancmur
+  current_common_name: Ancient Murrelet
+  current_scientific_name: Synthliboramphus antiquus
+  clements_sort: 6433
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/ancient_murrelet
+  archived: '2026-09-12'

@@ -1,0 +1,61 @@
+slug: burrowing_owl
+common_name: Burrowing Owl
+scientific_name: Athene cunicularia
+order:
+  name: Strigiformes
+  slug: strigiformes
+family:
+  name: Strigidae
+  slug: strigidae
+status: Uncommon summer east, rare winter.
+species_of_concern: true
+sections:
+  general_description: Burrowing Owls are long-legged, ground-dwelling owls. Adults are light brown, mottled with white. They have white throats and eyebrows, and yellow eyes. Immatures are light brown, less distinctively mottled than adults, and have buffy, unstreaked bellies. In contrast to most other owls and almost all other raptor species, females are smaller than males.
+  habitat: Typical Burrowing Owl habitat is flat, open terrain with soft soil, short grass, sparsely distributed vegetation, or exposed ground. Historically, they were found in association with prairie dogs and other burrowing mammals (but see below.) Burrowing Owls are frequently seen along the banks of irrigation canals.
+  behavior: Burrowing Owls often live in loose colonies, with adults standing guard near the nest burrows. They are active both day and night, especially during the breeding season, although they are most active at dawn and dusk. They hunt by swooping down from perches and surprising prey, by hovering over open areas, and by running along the ground to chase prey down. They catch their prey in their talons and can even snatch flying insects from mid-air.
+  diet: Burrowing Owls are opportunistic feeders, preying on large invertebrates, small mammals, and other birds. During the breeding season they eat mostly insects and other invertebrates. In winter, when invertebrates are scarce, owls that remain at northern latitudes take largely vertebrate prey.
+  nesting: Burrowing Owls form monogamous pair bonds during the nesting season. They nest in burrows, but with the exception of the population in Florida, do not dig their own. They use prairie dog towns and ground squirrel burrows when they are available, but they also nest in drainage pipes and artificial burrows. They do not bring nest material to the burrow. The female incubates 7-10 eggs for 28-30 days, while the male brings her food. After the young hatch, the female broods for 1-2 weeks, and the male continues to provide all food. Once brooding is complete, both adults feed the young. Young Burrowing Owls leave the nest after about six weeks and can hunt for themselves at 7-8 weeks.
+  migration_status: Except for the population in Florida, Burrowing Owls are migratory. Most spend the winter in southern Mexico and Central America. Owls breeding in Washington migrate south along the coast and winter in California, occasionally as far south as Mexico.
+  conservation_status: Burrowing Owls have declined significantly in most of their historical range. The United States Fish and Wildlife Service lists them as a species of concern, and the Washington Gap Analysis project lists them as a species-at-risk. The Washington Department of Fish and Wildlife is considering Burrowing Owl for listing. Habitat loss, with destruction of available nesting burrows and the conversion of shrub-steppe areas to agriculture, has been the major cause of the decline. Ground squirrel and prairie dog control measures have worked too well, and the decline in their populations has led to the loss of burrows available for nesting. Burrowing Owls can live in areas converted to agriculture if pesticide use is limited and the nest burrows are not plowed over. Artificial burrows have been used successfully in some areas. Burrowing Owls are seriously declining in Washington, especially in the Channeled Scablands, the Okanogan Valley, and southeastern Washington.
+  when_where_wa: Small numbers of Burrowing Owls formerly bred in western Washington prairies, but the owls are now limited to the shrub-steppe zone of eastern Washington. Several artificial burrows are currently being used in the potholes area (Grant County.) The Hanford site and the surrounding tri-cities area host the highest concentration in the state. Burrowing Owls can be found in Washington from mid-March through August and rarely during the winter as well.
+photos:
+- file: buow_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: buow_j_tg_l.jpg
+  caption: 'Fledgling. Note: unmarked buffy underparts.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: buow.mp3
+  credit: null
+maps:
+  wa: atcu.jpg
+  north_america: buowmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [R, U, U, U, U, U, U, U, R, R, R, R]
+taxonomy:
+  ebird_code: burowl
+  current_common_name: Burrowing Owl
+  current_scientific_name: Athene cunicularia
+  clements_sort: 9133
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/burrowing_owl
+  archived: '2026-09-12'

@@ -1,0 +1,67 @@
+slug: common_nighthawk
+common_name: Common Nighthawk
+scientific_name: Chordeiles minor
+order:
+  name: Caprimulgiformes
+  slug: caprimulgiformes
+family:
+  name: Caprimulgidae
+  slug: caprimulgidae
+status: Common summer east. Uncommon west.
+species_of_concern: false
+sections:
+  general_description: The Common Nighthawk is a cryptic bird most often seen in flight, when it can be easily identified by the white bar across each long, pointed wing. This mottled gray and black bird has large eyes. It also has a tiny beak with a large gape, surrounded by stiff feathers called rictal bristles, which help the bird catch its aerial prey.
+  habitat: Common Nighthawks live in a variety of open habitats, from shrub-steppe, grassland, and agricultural fields to cities, clear-cuts, and burns, as long as there are abundant flying insects and open gravel surfaces for nesting.
+  behavior: This species is most active at dusk and dawn, when it forages in flight. During the breeding season, males take time out from foraging to perform display flights, flying high up in the air and then diving, ending with a booming noise as they brake out of a fast dive. Vocalizations include a loud, distinctive call, given in flight.
+  diet: Common Nighthawks eat flying insects.
+  nesting: Originally nesting on open ground along rivers or other gravelly stretches, the Common Nighthawk has adapted to city life in many areas and will nest on gravel rooftops. The two eggs are laid directly on sand or gravel with no nest. The female does most of the incubation, which lasts for 18 to 20 days. Once the young have hatched, both parents regurgitate insects for them. The young begin to fly at 18 days and can feed independently at 25 days. Within one month, they are on their own. Each adult pair typically raises a single brood each season.
+  migration_status: These long-distance migrants travel to South America for the winter, leaving their northern breeding grounds by September. They often migrate in flocks, often hundreds or thousands of birds together. They are one of the latest spring arrivals, reaching their northernmost breeding grounds in the Yukon in early June.
+  conservation_status: There are two subspecies of Common Nighthawk in Washington, separated by the Cascades. The western Washington subspecies was probably not terribly common prior to European settlement of the area, but when western Washington forests were cleared, more open area was made available for Common Nighthawks. They became common in the late 1800s to the early 1900s. Now that many of these open areas have been developed, or have reverted to forest, the population of Common Nighthawks in western Washington has declined. In eastern Washington, they are still fairly common, although they have also decreased there in the past 20 years. Common Nighthawks are declining in several other areas of North America as well. Pesticides may have reduced the amount of prey available. Also, competition with Glaucous-winged Gulls for rooftop nesting sites may have reduced the population. In addition, predation by gulls and perhaps by American Crows may be an important factor in the decline of rooftop nesting. Common Nighthawks no longer nest on rooftops in Washington.
+  when_where_wa: Small numbers of Common Nighthawks still breed in western Washington, and can be found in the Puget Trough and out to Ocean Shores (Grays Harbor County) from June into early September. They can be found from mid-May through August, but some birds remain into early September. They are fairly common out in the open desert in the Columbia Basin and in the sagebrush and Ponderosa-pine zones.
+photos:
+- file: coni_fl_gth_l.jpg
+  caption: 'Male in flight. Note: white band on tail.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: coni_fl_gl_l.jpg
+  caption: 'Male in flight. Note: white band on tail.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: coni_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: coni1.mp3
+  credit: null
+maps:
+  wa: chmi.jpg
+  north_america: conimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', R, U, U, U, '', '', '', '']
+  puget_trough: ['', '', '', '', '', U, U, U, R, '', '', '']
+  north_cascades: ['', '', '', '', '', U, U, U, R, '', '', '']
+  west_cascades: ['', '', '', '', '', U, U, U, R, '', '', '']
+  east_cascades: ['', '', '', '', R, C, C, C, F, '', '', '']
+  okanogan: ['', '', '', '', U, C, C, C, U, '', '', '']
+  canadian_rockies: ['', '', '', '', '', F, F, F, '', '', '', '']
+  blue_mountains: ['', '', '', '', R, F, F, F, U, '', '', '']
+  columbia_plateau: ['', '', '', '', U, C, C, C, R, '', '', '']
+taxonomy:
+  ebird_code: comnig
+  current_common_name: Common Nighthawk
+  current_scientific_name: Chordeiles minor
+  clements_sort: 3492
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/common_nighthawk
+  archived: '2026-09-12'

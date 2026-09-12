@@ -1,0 +1,50 @@
+slug: blue-winged_warbler
+common_name: Blue-winged Warbler
+scientific_name: Vermivora pinus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    Distinctive in all plumages, the Blue-winged Warbler is mostly bright yellow with a greenish-tinged back, blue-gray wings with two white wingbars, and a dark line through the eye on an otherwise plain face. It breeds in the Midwest and Northeast, from the Great Lakes south to northern Alabama, and winters on the Atlantic slope of Mexico and in northern Central America. Migration takes place mostly across the Gulf of Mexico; hence the Blue-winged is one of the rarest vagrant “eastern” warblers in the West. Oregon has three records and Idaho one or two; there are none for British Columbia. Washington’s single accepted record occurred at the Anacortes ferry dock (Skagit County) on 17 September 1990.
+
+    *Revised August 2007
+    *
+photos:
+- file: bwwa_gl2_l.jpg
+  caption: 'Male. Note: thin dark eye line, yellow crown, and blue-gray wings.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: bwwamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: buwwar
+  current_common_name: Blue-winged Warbler
+  current_scientific_name: Vermivora cyanoptera
+  clements_sort: 33957
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/blue-winged_warbler
+  archived: '2026-09-12'

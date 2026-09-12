@@ -1,0 +1,52 @@
+slug: allens_hummingbird
+common_name: Allen's Hummingbird
+scientific_name: Selasphorus sasin
+order:
+  name: Apodiformes
+  slug: apodiformes
+family:
+  name: Trochilidae
+  slug: trochilidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: Only state record is of a male collected in Seattle in May 1894.
+photos:
+- file: alhu_tg_l.jpg
+  caption: ''
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: alhu_m_gl_l.jpg
+  caption: 'Adult male. Note: green back (up to 5% of male Rufous Hummingbirds can show a green back)'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: alhumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: allhum
+  current_common_name: Allen's Hummingbird
+  current_scientific_name: Selasphorus sasin
+  clements_sort: 4831
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/allens_hummingbird
+  archived: '2026-09-12'

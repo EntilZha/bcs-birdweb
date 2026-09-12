@@ -1,0 +1,69 @@
+slug: brambling
+common_name: Brambling
+scientific_name: Fringilla montifringilla
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Fringillidae
+  slug: fringillidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    With a population numbering in the tens of millions, this nomadic finch breeds across northern Eurasia in subarctic woodlands and winters farther south in the temperate zone. It reaches Alaska nearly annually in variable numbers and is a casual, erratic winter visitor elsewhere in North America, especially in the West, with records as far south as California. Illustrative of the irruptive nature of this species’ movements, Washington had eight records of Bramblings in three successive winters, 1990–1993, but has only three since then. The state’s 14 accepted records occurred from 6 November to 12 April; all but three were from the Westside, and most were from feeders. Birds typically remained for several days or even occasionally 2–4 months. The pattern of occurrence is similar in Oregon: eight records west of the Cascades and three east, date range 25 October–16 April. Idaho has three well-documented records and there are many from British Columbia.
+
+    The Brambling is a rather plump-looking, brownish finch, about the same size as a longspur. The tail is long and forked. The white rump and orange breast are key field marks. The bill is yellow outside the breeding season. The breeding-plumaged male has a black head and back, but this plumage is not normally seen in our wintering birds.
+
+    *Revised November 2007*
+photos:
+- file: bramsh.jpg
+  caption: ''
+  credit:
+    name: Sherry Hagen
+    url: null
+  hero: false
+- file: bram_w1_ja_l.jpg
+  caption: 'Winter plumage male. Note: darkly marked cheek.'
+  credit:
+    name: John Anderson
+    url: http://www.pbase.com/crail_birder/root
+  hero: true
+- file: bram_f_ja_l.jpg
+  caption: 'Female. Note: clean gray cheek.'
+  credit:
+    name: John Anderson
+    url: http://www.pbase.com/crail_birder/root
+  hero: false
+- file: bram_w2_ja_l.jpg
+  caption: 'Winter plumage male. Note: darkly marked cheek and white rump.'
+  credit:
+    name: John Anderson
+    url: http://www.pbase.com/crail_birder/root
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: brambl
+  current_common_name: Brambling
+  current_scientific_name: Fringilla montifringilla
+  clements_sort: 31974
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/brambling
+  archived: '2026-09-12'

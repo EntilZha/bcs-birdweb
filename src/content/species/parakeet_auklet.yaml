@@ -1,0 +1,46 @@
+slug: parakeet_auklet
+common_name: Parakeet Auklet
+scientific_name: Aethia psittacula
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Alcidae
+  slug: alcidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: About a dozen records, February-April. Probably regular in winter in small numbers well offshore.
+photos:
+- file: paau_w_gt_l.jpg
+  caption: Nonbreeding adult
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: paaumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: parauk
+  current_common_name: Parakeet Auklet
+  current_scientific_name: Aethia psittacula
+  clements_sort: 6391
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/parakeet_auklet
+  archived: '2026-09-12'

@@ -1,0 +1,61 @@
+slug: short-billed_dowitcher
+common_name: Short-billed Dowitcher
+scientific_name: Limnodromus griseus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Common migrant on coast. Rare east.
+species_of_concern: true
+sections:
+  general_description: The Short-billed Dowitcher is very similar in appearance to the Long-billed Dowitcher. Both birds are large shorebirds. In breeding plumage, they are reddish underneath and mottled-brown above. In flight, they show a pale trailing edge on their wings and a distinctive white blaze up their backs, which easily identifies them as dowitchers. The distinction between the two species is not as simple. The female of both species has a longer bill than the male, and the bill of the female Short-billed is the same length of that of the male Long-billed, so bill length can be confusing. Short-billeds in breeding plumage usually have some spotting rather than barring on the sides of their breasts in front of the wings. Long-billeds are usually barred. The belly of the Long-billed is typically reddish all the way back, and the Short-billed often has some white on the belly. Juvenile Short-billeds are brighter than Long-billeds, with light edging and internal rufous markings on the tertial feathers. Long-billed juveniles are drabber and darker than Short-billeds. Non-breeding plumage is very difficult to distinguish. Range, habitat, and vocalizations should all be used to help distinguish between these two species.
+  habitat: During migration and winter, Short-billed Dowitchers are usually found in salt water on mud flats and tidal marshes. They can sometimes be found on fresh water at the muddy edges of ponds, but are less likely on fresh water than Long-billeds. They breed in open marshes and bogs in the boreal forest zone, usually inland, but close to fresh water.
+  behavior: Short-billed Dowitchers can often be found in very large, dense flocks. They feed by probing their long bills into mud or shallow water. Their bills are full of nerve endings, useful for sensing prey. They walk along slowly, lifting their heads up and down like a sewing machine. The call is a sharp, low, two-syllable whistle, easily distinguished from the high peeping of the Long-billed.
+  diet: On the breeding grounds, Short-billed Dowitchers eat insects and insect larvae. On mudflats, they also eat mollusks, crustaceans, marine worms, and other aquatic invertebrates.
+  nesting: Short-billed Dowitchers nest in northern Canada and Alaska. Nests are usually located on the ground near water. The nest is a shallow scrape in a clump of moss or grass, lined with twigs, leaves, or grass. Both parents incubate the four eggs for about 21 days. The young leave the nest within a day of hatching and find their own food. Both parents help tend the young, but the female may abandon the group early. The male probably stays with the young until they are close to fledging.
+  migration_status: Short-billed Dowitchers migrate medium to long distances. Many winter along the US, Central American, and South American coasts. The western race that passes through Washington stays close to the Pacific coast during its travels.
+  conservation_status: Until 1950, Short-billed and Long-bill Dowitchers were considered a single species. The Canadian Wildlife Service estimates the population of Short-billed Dowitchers at 320,000, spread across North America as three subspecies. The same estimate numbers the western subspecies at 150,000 birds. The Short-billed Dowitcher is listed as a species of concern on the Partners in Flight watch list and is reported to be declining.
+  when_where_wa: This common, coastal migrant may number in the tens of thousands in Grays Harbor during the spring migration peak. Willapa Bay is another major stopover point in spring. These two sites are the only spots where large numbers usually congregate in the spring, but smaller numbers may be scattered in other spots along Washington's outer coast as well. The spring influx of birds usually starts with a few birds at the end of March, and lasts into early May. They are common from early April to early May, peaking at the end of April. By mid-May, they have tapered off considerably and are rarely seen. By late June, they start becoming more common as the fall migration begins. The peak southerly movement of adults is from the end of June to mid-July, with numbers tapering off and blending into the August and early September peak migration juveniles. Numbers vary greatly, and in some years, fewer than a thousand birds are counted. The birds that migrate through Washington breed in Alaska and winter on the Pacific Coast south of Washington. Some first-year birds stay on the wintering grounds, or migrate only as far as Washington for the summer. Migrants in eastern Washington are never common. They can be seen occasionally in spring, and rarely in fall, at large wetlands in the Columbia Basin. While some birds summer at Grays Harbor and Willapa Bay, wintering birds are very unusual, and care should be taken not to misidentify Long-billed Dowitchers, which are much more common in Washington in winter.
+photos:
+- file: sbdo_br2_dp_l.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+- file: sbdo_br_dp_l.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+audio:
+  file: sbdo.mp3
+  credit: null
+maps:
+  wa: ligr.jpg
+  north_america: sbdomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', C, C, R, C, C, C, U, '', '']
+  puget_trough: ['', '', '', F, F, R, F, F, U, R, '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', R, '', '', R, R, '', '', '']
+taxonomy:
+  ebird_code: shbdow
+  current_common_name: Short-billed Dowitcher
+  current_scientific_name: Limnodromus griseus
+  clements_sort: 6057
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/short-billed_dowitcher
+  archived: '2026-09-12'

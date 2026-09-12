@@ -1,0 +1,61 @@
+slug: peregrine_falcon
+common_name: Peregrine Falcon
+scientific_name: Falco peregrinus
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Falconidae
+  slug: falconidae
+status: Fairly common winter. Uncommon breeder.
+species_of_concern: true
+sections:
+  general_description: The Peregrine Falcon is considered by many to be the most impressive bird of prey. It is larger than the American Kestrel and Merlin, similar in size to the Prairie Falcon, but smaller than the Gyrfalcon. The Peregrine Falcon is built for speed, with long pointed wings and a narrow tail. Adults have slate-gray upperparts and a gray 'helmet' that extends below their eyes. Their underparts are uniformly and thinly barred, with the exception of their white chins and throats. Juveniles appear similar to adults, but are darker and heavily streaked below, and more brown than gray above.
+  habitat: Peregrine Falcons are typically found hunting in open areas, especially along the coast and near other bodies of water that provide habitat for their prey. They nest on cliffs and cliff-like structures, so during the breeding season they are usually found near mountainous or rocky areas, or man-made structures that substitute as cliffs.
+  behavior: The Peregrine Falcon is the world's fastest bird. These aerial hunters are known for their steep power-dives, or stoops, sometimes reaching speeds up to 200 miles per hour. They dive from above to grab their prey out of the air with their strong talons. They also hunt closer to the ground, or from perches, overtaking their prey in flight.
+  diet: The Peregrine Falcon's diet is composed mostly of other birds. City-dwelling birds consume many Rock Doves (pigeons) and European Starlings, as well as other birds. Coastal birds prey on ducks and shorebirds, and in Washington, many colonial seabirds nesting on islands off the coast fall prey to Peregrine Falcons as well.
+  nesting: Like most birds of prey, Peregrine Falcons are generally monogamous, and may form long-term pair bonds. They usually nest on a cliff near water, but as the species recovers and its range expands, they can also be found nesting on buildings and bridges. They also sometimes nest on tree snags, or an abandoned nest of another large bird, although the Peregrines build no nest of their own. Courtship includes ledge displays with the male and female bowing to each other. The female incubates 3-4 eggs for 28-32 days. She continues to stay on the nest, brooding the young, for the first few weeks after they hatch. During incubation and brooding, the male brings food to the nest. Once the young no longer need brooding, the female also hunts. The young start to fly at 39-49 days, with the males fledging before the females.
+  migration_status: Northern breeders are often long-distance migrants, many traveling as far as South America. In Washington, many are permanent residents, but while some remain on their territories year round, others may shift to areas that sustain large populations of wintering waterfowl or shorebirds, e.g., coastal estuaries. Still others migrate south. Some wintering birds may be migrants from farther north. The full migration range of the species is not clearly known.
+  conservation_status: Peregrine Falcons were severely endangered (and actually extirpated from eastern North America) in the mid-20th Century, mostly due to the pesticide DDT, which softens eggshells and results in widespread nest failure. With the ban of DDT in the United States, the falcons have begun to recover, but have required reintroduction in many areas to regain a foothold where they had disappeared. They are considered a species of special concern by the US Fish and Wildlife Department, and are listed as an at-risk species by the Washington Gap Analysis. In Washington, Peregrine Falcons reached a low of four pairs in 1980. In 2000, 56 pairs were counted, doubling the number counted just seven years prior. Peregrine Falcons can now be found in most parts of the state where there are cliffs or structures for nesting and sufficient prey. The population is still small and is highly vulnerable to disturbance and environmental contaminants, but productivity levels are high and the population continues to increase. As a result of this recovery, the federal government has down-listed them from Endangered to Sensitive. Two subspecies breed in Washington. Peale's Peregrine Falcon is found along the coast and in Puget Sound. The Continental Peregrine Falcon, or Anatum Peregrine, inhabits eastern Washington. It was extirpated from the state but has been reintroduced in a number of locations and seems to be recovering.
+  when_where_wa: The range of the Peregrine Falcon appears to be changing rapidly as new breeding locations are found every year. In western Washington, Peregrine Falcons nest along the coast, in the San Juan Islands, in Puget Sound, and even in downtown Seattle and Tacoma. They are also nesting on the western slope of the Cascades, at Mt. Si. There are few nesting records east of the Cascades, but a pair has nested in Klickitat County for several years, another on the Columbia River cliffs in Kittitas County, and still another on a bridge in Spokane. Birds have been introduced in Skamania, Lewis, Spokane, Asotin, and Yakima Counties. Areas of the Cascades and other mountainous areas below about 4,000 feet, and essentially the length of the Columbia and Snake Rivers, as well as certain stretches of the Okanogan and Spokane Rivers, offer appropriate breeding habitat. In winter, Peregrines can be found in the southwestern portion of Puget Sound (where Thurston and Mason Counties meet), in the Chehalis River valley, in all agricultural and urban areas from Olympia south to Vancouver, and any other similar lowlands in western Washington. Peregrines are found in the major Puget Sound towns and cities (and their industrial waterfronts), including Centralia/Chehalis, Kelso/Longview, Vancouver, Tacoma, Seattle, and others. You can also find them on the Samish Flats, in Grays Harbor, around Sequim, all areas that support significant prey populations in winter.
+photos:
+- file: pefa_fl_gth_l.jpg
+  caption: Juvenile
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: pefa_jp_l.jpg
+  caption: Adult
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+audio:
+  file: PEFA01.mp3
+  credit: null
+maps:
+  wa: fape.jpg
+  north_america: pefamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, U, U, U, U, U, U, U]
+  puget_trough: [U, U, U, U, U, U, U, U, F, F, U, U]
+  north_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  west_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  east_cascades: ['', '', '', R, R, R, R, R, R, R, '', '']
+  okanogan: ['', '', R, R, R, R, R, R, R, R, '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', R, R, R, R, R, R, R, R, '', '']
+  columbia_plateau: [R, R, R, R, R, R, R, R, U, U, R, R]
+taxonomy:
+  ebird_code: perfal
+  current_common_name: Peregrine Falcon
+  current_scientific_name: Falco peregrinus
+  clements_sort: 12114
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/peregrine_falcon
+  archived: '2026-09-12'

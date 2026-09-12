@@ -1,0 +1,79 @@
+slug: yellow-rumped_warbler
+common_name: Yellow-rumped Warbler
+scientific_name: Dendroica coronata
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: Common summer resident. Uncommon winter.
+species_of_concern: false
+sections:
+  general_description: There are two subspecies of Yellow-rumped Warbler, both of which can be seen in Washington. The Audubon form breeds here and is present year round. The Myrtle form is here in migration and winter only. During spring migration and the breeding season, Audubon's Yellow-rumped Warblers are blue-gray streaked with black above, with broken white eye-rings and a yellow spot on their crowns. They have yellow rumps, although the wings can obscure this field mark, and yellow spots on the sides of their breasts, partially tucked under their wings. Audubon's Yellow-rumped Warblers also have yellow throats. Females in breeding plumage have two white wing-bars. Males have a significant amount of white between the wing-bars. Males also have blacker breasts and grayer backs, and are generally much more brightly marked than females. Adults in non-breeding plumage are much duller in color, more brown than gray. In flight, white outer tail corners are noticeable. Immature birds are dull brown with yellow on their rumps and sides, but lack yellow on their throats and heads. Myrtle Yellow-rumped Warblers are similar in appearance to Audubon's, with a few distinctions. Myrtles have white, rather than yellow, throats, and the males do not have white patches between their white wing-bars. Males in breeding plumage also have black masks with slight, white eye-lines above the masks and less black on the breasts. Juveniles look similar, although Myrtles have more extensive pale throats than do Audubon's.
+  habitat: Yellow-rumped Warblers use many types of habitat. They breed high up in conifers, often in small openings within dense, wet, coniferous forests. One notable exception to their breeding habitat is the San Juan Islands, where they nest in Pacific madrone. During migration, they can be found in a variety of habitats, although they can be found at higher elevations in the fall than in the spring. Their winter habitat requirements are also fairly general. They can be found in almost any habitat but are most common in open woods and brushy areas, including gardens, orchards, residential areas, and beaches.
+  behavior: In winter and migration, Yellow-rumped Warblers are found foraging in flocks with their own species. These flocks may be quite large. Yellow-rumped Warblers use a variety of foraging styles, including gleaning prey from twigs, leaves, and occasionally tree trunks, foraging on the ground, and flying out to retrieve prey in midair. During the breeding season, males generally forage higher than females. The chip notes of the races sound different, with the Myrtle having a sharper note.
+  diet: Insects are the main diet of Yellow-rumped Warblers during the breeding season, although they rely heavily on berries when insects are not available. Their ability to digest the wax on wax myrtle and other berries is unique among the warblers and allows them to winter farther north than most other members of the family.
+  nesting: Males arrive on the breeding grounds a few days before the females. Monogamous pairs form shortly after the females arrive. The female builds the nest, usually on a horizontal conifer branch or fork, although broadleaved trees and shrubs are also used. The nest is a small, flat cup of twigs, grass, moss, and rootlets, lined with plant down and feathers that curve over the rim of the nest, partially covering the eggs. The female incubates 4 to 5 eggs for 12 to 13 days. The male feeds the female at the nest, and occasionally helps incubate. Both members of the pair feed the young, which leave the nest 10 to 14 days after hatching. They can make short flights within a few days of leaving the nest. Once the young fledge, the female often starts a second brood, while the male continues to feed the first brood for up to two weeks.
+  migration_status: Yellow-rumped Warblers are short- to medium-distance migrants. They are one of the last warblers to leave their breeding grounds in the fall, and one of the first to return in the spring. In the fall, large waves of migrants leave the Cascades and more northerly habitats and arrive in the eastern Washington lowlands. In winter, flocks may wander in search of food sources.
+  conservation_status: Among the most common warblers in North America, Yellow-rumped Warblers have generalized habitat requirements that help the population remain stable. Myrtle Yellow-rumped Warblers are expanding their range in parts of the northeastern United States. According to the Breeding Bird Survey, the population in Washington has increased (non-significantly) since 1966.
+  when_where_wa: The two subspecies of Yellow-rumped Warbler are present in varying numbers at different times of the year. The Audubon's form breeds in coniferous forests throughout the state. This form is most common in drier forests at higher elevations in eastern Washington, and in the northeast Olympics. Most Audubon's Yellow-rumped Warblers leave Washington in the winter, but they can be very common in winter in the Tri-Cities area (Richland, Pasco, Kennewick), and are uncommon in other lowlands throughout the state. The Myrtle form of Yellow-rumped Warbler is a common migrant and winter resident in Washington. There are no records of this Alaskan breeder nesting in Washington. The Myrtle form is most common in winter on the southern coast of Washington, from Ocean Shores (Grays Harbor County) southward.
+photos:
+- file: yrwa_aud_m_gth_l.jpg
+  caption: Breeding male
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: yrwa_gl_l.jpg
+  caption: 'Male (myrtle race). Note: white throat and dark auriculars.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: yrwa_f_gl_l.jpg
+  caption: 'Female (myrtle race). Note: white throat and dark auriculars.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: yrwa_j_gl_l.jpg
+  caption: 'Juvenile (Audubon race). Note: pale throat extending to just underneath eye, yellow side patches, and yellow rump.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: yrwa_jfl_gl_l.jpg
+  caption: 'Juvenile (Audubon''s race). Note: white in tail.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: YRWA01.mp3
+  credit: null
+maps:
+  wa: decor.jpg
+  north_america: yrwamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, C, C, F, F, F, C, C, F, F]
+  puget_trough: [U, U, U, C, C, F, F, F, F, C, F, U]
+  north_cascades: ['', '', R, C, C, C, C, C, C, F, '', '']
+  west_cascades: [U, U, U, C, C, C, C, C, C, F, U, U]
+  east_cascades: [U, U, U, C, C, C, C, C, C, F, U, U]
+  okanogan: ['', '', '', F, C, C, C, C, C, U, '', '']
+  canadian_rockies: ['', '', '', F, F, F, F, F, C, C, U, '']
+  blue_mountains: ['', '', '', R, F, F, F, F, F, F, U, '']
+  columbia_plateau: [F, F, F, C, C, '', '', U, C, C, F, F]
+taxonomy:
+  ebird_code: yerwar
+  current_common_name: Yellow-rumped Warbler
+  current_scientific_name: Setophaga coronata
+  clements_sort: 34159
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/yellow-rumped_warbler
+  archived: '2026-09-12'

@@ -1,0 +1,55 @@
+slug: black_oystercatcher
+common_name: Black Oystercatcher
+scientific_name: Haematopus bachmani
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Haematopodidae
+  slug: haematopodidae
+status: Uncommon coastal resident.
+species_of_concern: true
+sections:
+  general_description: The Black Oystercatcher is a distinctive, crow-sized, short-tailed, all-black shorebird. It has pale pinkish legs and a long, bright reddish-orange bill and eye-ring.
+  habitat: Black Oystercatchers are found along rocky shorelines in all seasons.
+  behavior: Black Oystercatchers are usually seen in pairs or in small to medium-sized flocks, but may aggregate into larger flocks in sheltered areas. They forage mostly during low tide, moving slowly and deliberately through the rocks in search of food. When alarmed, they take flight with a loud, piercing whistling.
+  diet: Mussels and limpets are their primary food, but Black Oystercatchers prey on a wide range of shellfish and other creatures found along the rocky shore. They locate open mussels and disable them with a quick jab to the adductor muscle. With the mussel stuck in the open position, the oystercatcher can pull out the contents with the tip of its chisel-like bill. Oystercatchers often forage in the wave zone, because mussels that are splashed by waves open more frequently.
+  nesting: Black Oystercatchers nest on non-forested islands with shell or gravel beaches, and will defend territories that encompass both nesting and feeding areas. Males and females appear to form long-term pair bonds, and the pair returns to the same territory year after year. Both male and female help build a small scrape on the ground, well above the high tide mark. The nest is sparsely lined with pebbles or shell pieces. The female lays 2-3 eggs, and both the male and the female incubate for about 3½ -4 weeks. Unlike many other shorebirds, the parents bring food to the young for a prolonged period of time. At the age of about five weeks, the young can fly and begin to forage on their own, but are still provided with food by their parents.
+  migration_status: While there is no regular migration, some movement is seen in the spring and fall. They generally remain near their nesting areas.
+  conservation_status: The Washington population is estimated to be roughly 400 birds. This number is probably not significantly different from the historical population, as these birds require fairly specialized habitat, which is not evenly distributed. Oystercatchers are highly vulnerable to human disturbance, oil spills, and pollution of the intertidal zone. Numbers of Black Oystercatchers on the outer coast may be higher than in the past, in part due to decreased human disturbance resulting from lighthouse automation. Numbers in inland areas, however, have declined in response to increased human activity. The Northern Pacific Coast Regional Shorebird Management Plan has identified the Black Oystercatcher as a regional species of high concern.
+  when_where_wa: The Black Oystercatcher is seen year round in appropriate habitat along most of the outer coast of Washington, but seen only occasionally from Point Grenville, south to the mouth of the Columbia River. It can also be seen in the San Juan Islands and along the coast of Puget Sound, south to Whidbey Island (Island County). It is absent in the southern Puget Sound and in the Strait of Juan de Fuca, from the mouth of the Elwha River (Clallam County) to Protection Island (Jefferson County), due to lack of appropriate habitat. During the breeding season, Black Oystercatchers nest in about 100 different locations. They are typically found on the same islands and rocks as colonial nesting species, although they are not colonial nesters themselves. In winter, the entire population in the San Juan Islands may gather in three or four large flocks.
+photos:
+- file: bloy_a_dp_l.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: bloy.mp3
+  credit: null
+maps:
+  wa: haba.jpg
+  north_america: bloymap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, U, U, U, U, U, U, U]
+  puget_trough: [U, U, U, U, U, U, U, U, U, U, U, U]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: blkoys
+  current_common_name: Black Oystercatcher
+  current_scientific_name: Haematopus bachmani
+  clements_sort: 5806
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black_oystercatcher
+  archived: '2026-09-12'

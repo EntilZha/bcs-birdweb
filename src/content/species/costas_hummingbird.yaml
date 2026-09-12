@@ -1,0 +1,52 @@
+slug: costas_hummingbird
+common_name: Costa's Hummingbird
+scientific_name: Calypte costae
+order:
+  name: Apodiformes
+  slug: apodiformes
+family:
+  name: Trochilidae
+  slug: trochilidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Three recent records of birds frequenting feeders in Puget lowlands one fall and two spring.
+photos:
+- file: cohu_m_gt_l.jpg
+  caption: Male
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: cohu_ffl_tg_l.jpg
+  caption: Female
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: cohumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: coshum
+  current_common_name: Costa's Hummingbird
+  current_scientific_name: Calypte costae
+  clements_sort: 4818
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/costas_hummingbird
+  archived: '2026-09-12'

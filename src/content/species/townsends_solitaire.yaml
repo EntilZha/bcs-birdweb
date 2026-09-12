@@ -1,0 +1,67 @@
+slug: townsends_solitaire
+common_name: Townsend's Solitaire
+scientific_name: Myadestes townsendi
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Turdidae
+  slug: turdidae
+status: Fairly common summer. Uncommon winter.
+species_of_concern: false
+sections:
+  general_description: Gray overall with a tail edged in white on the sides, the Townsend's Solitaire is a nondescript bird. Males and females look alike, and both have white eye-rings and dark wingtips accented with cream. Perching birds show buffy wing-patches. In flight, buffy wing-stripes are evident.
+  habitat: The Townsend's Solitaire requires a combination of steep banks for nest sites, open forests where it catches aerial prey, and tall trees to perch on. This combination is most often found in high-elevation, dry, coniferous forests throughout Washington, and in the mid-elevation dry forests of eastern Washington. Townsend's Solitaires are also found in wetter areas if the terrain is rugged enough to produce a patchy, open forest.
+  behavior: In migration and during dispersal, Townsend's Solitaires may form small flocks. Usually seen alone, defending territories in the winter as well as in the breeding season, the Townsend's Solitaire perches upright high in a tree. From this perch, the male sings to defend his territory. The Townsend's Solitaire flies from a perch to catch flying insects, or pounces on prey on the ground. It also may hover while gleaning food from the surface of leaves and twigs.
+  diet: In winter, the Townsend's Solitaire eats mostly berries. Insects make up the majority of the diet in summer.
+  nesting: Ground-nesters, Townsend's Solitaires nest in a shallow depression in a dirt bank or road cut, in a cliff crevice, under a stump or log, or amid upturned roots--basically any protected spot on the ground with overhanging shelter. The nest is a bulky, loosely made open cup of twigs, grass, pine needles, and bark strips, lined with soft grass. The female incubates the 4 eggs for about 11 days. Both parents feed the young, although only the female broods.
+  migration_status: Some Townsend's Solitaires migrate altitudinally, but most migrate latitudinally. Most of Washington's birds leave the state in the winter. Washington is also the winter home of birds that breed farther north. The winter range varies from year to year based on the berry supply, and can extend far south into Mexico. The seasonal shift takes place in early spring and late fall.
+  conservation_status: Limited human access to the rugged terrain where Townsend's Solitaires make their home renders it difficult to assess the status of the population. This same limited access also protects species that live in such a remote habitat. The species is widespread, and there do not appear to be any obvious population declines. Townsend's Solitaires are not known to be area-sensitive or subject to edge effects, but there has been little study in this area to date, and more data are needed to determine the effects of forestry on the Townsend's Solitaire.
+  when_where_wa: In breeding season, Townsend's Solitaires are common in high-elevation forested areas throughout Washington, including high-elevation alpine parkland areas along the Cascade crest, and near Mount Rainier and other major volcanoes. They can be found in the northeast Olympic Mountains where they nest above 3,500 feet, although they are absent from the wet forests in the western and southern Olympics, which aren't as steep at the northeast part of the range. In eastern Washington, Townsend's Solitaires can also be found in lower-elevation forests, such as the Dishman Hills area near Spokane. They are common in the eastern Blue Mountains, but uncommon in the western Blue Mountains above 2,000 feet. They are fairly common migrants on the San Juan Islands in a very limited window of time each spring. You can see them in the foothills on the west side of the Cascades in early spring, waiting to go up the stream courses.
+photos:
+- file: toso_fl_tg_l.jpg
+  caption: 'In flight. Note: thin white eye-ring, and buffy wing stripe.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: toso_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: toso_ad2_gth_l.jpg
+  caption: 'Note: complete white eye-ring and rufous patches on wing.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio:
+  file: TOSO01.mp3
+  credit: null
+maps:
+  wa: myto.jpg
+  north_america: tosomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', U, U, U, U, U, U, U, '', '']
+  puget_trough: [R, R, R, U, R, '', '', '', '', R, R, R]
+  north_cascades: [R, R, R, F, F, U, U, U, R, R, R, R]
+  west_cascades: ['', '', R, F, F, F, F, F, F, R, R, '']
+  east_cascades: [U, U, U, U, F, F, F, F, U, U, U, U]
+  okanogan: [U, U, U, F, C, C, C, C, C, F, U, U]
+  canadian_rockies: [U, U, U, F, F, F, F, F, F, F, U, U]
+  blue_mountains: [R, R, R, U, U, U, U, U, U, U, U, R]
+  columbia_plateau: [R, R, R, U, U, '', '', R, U, U, R, R]
+taxonomy:
+  ebird_code: towsol
+  current_common_name: Townsend's Solitaire
+  current_scientific_name: Myadestes townsendi
+  clements_sort: 28163
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/townsends_solitaire
+  archived: '2026-09-12'

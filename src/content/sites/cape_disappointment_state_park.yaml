@@ -1,0 +1,23 @@
+slug: cape_disappointment_state_park
+name: Cape Disappointment State Park
+number: 103
+ecoregions:
+- pacific_northwest_coast
+sections:
+  site: Situated at the mouth of the mighty Columbia River in the Pacific Northwest Coast Ecoregion, Cape Disappointment is a place replete with history. Here Lewis and Clark first saw the Pacific Ocean. The cannons of Fort Canby—for which the park was formerly named—once guarded the entrance to the river. The strategic location and varied habitats offer a variety of birding experiences. Visitors can birdwatch from dramatic cliffs pounded by surf, scan inland lakes and marshes, walk out on North Jetty, and hike through old-growth Sitka spruce and western hemlock. Two lighthouses provide dramatic vistas. The relatively mild winter climate attracts a variety of resident passerines and wintering species. Geography makes this a natural migrant trap, as birds gather to cross the Columbia or to head upstream into the interior. Cape Disappointment has been designated a Washington State Important Bird Area.
+  birds: 'There is an impressive list of resident birds, including Bald Eagle, Belted Kingfisher, three species of woodpeckers, Steller''s Jay, Chestnut-backed Chickadee, Red-breasted Nuthatch, and Winter Wren. Virginia Rails and Red Crossbills can be found at any season. Varied Thrushes are often seen feeding in flocks around the campgrounds in winter and early spring. Wintering ducks find shelter and food on the protected lakes and open areas in marshes. Migration brings waves of birds, especially Orange-crowned, Black-throated Gray, and Wilson''s Warblers. Common Yellowthroats abound. The cliffs provide nesting sites for Glaucous-winged Gulls, Brandt''s Cormorants, and Pelagic Cormorants. Three species of swallows breed in the park. Depending on season, six sparrow species can be found: Lincoln''s, Song, Fox, Savannah, White-crowned, and Golden-crowned.'
+  directions: 'To reach Cape Disappointment, head to the southwest corner of the state (via SR-4 or US-101). Once on the Long Beach Peninsula, follow signs to Ilwaco via US-101, and continue through Ilwaco south on SR-100, following signs to the park. There are multiple parking areas and restrooms. Warning: Caution is advised on the jetty and on the steep bluffs.'
+photos:
+- file: site_Cape_Disappointment.jpg
+  caption: ''
+  credit:
+    name: Hal Opperman
+    url: null
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/cape_disappointment_state_park/2
+  archived: '2026-09-12'

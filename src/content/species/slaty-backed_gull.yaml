@@ -1,0 +1,51 @@
+slug: slaty-backed_gull
+common_name: Slaty-backed Gull
+scientific_name: Larus schistisagus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    This rare winter visitor is the same size as the Western Gull, which it also resembles in structure and general appearance. The adult has pink legs and a mantle a shade darker than our local race of Western Gull’s, although mantle color can be tricky to judge under field conditions. The head, neck, and upper breast are streaked in winter, whereas those of the Western Gull remain immaculate white (but beware of Western Gull x Glaucous-winged Gull hybrids, common in western Washington, which may have variable amounts of streaking in winter plumage). The eye of the adult Slaty-backed is usually but not always pale, rather like Herring Gull’s, while that of our northern race of Western Gull is usually but not always dark. In flight, the adult Slaty-backed shows less black, and more white, in the wingtips than Western and a relatively broader white trailing edge of the wing. [N.B.: The above descriptions are oversimplified. Field guides should be consulted—even more so for the immature plumages of the first three years of the bird’s life.]
+
+    A coastal resident of the northwest Pacific, the Slaty-backed Gull breeds from Siberia to northern Japan and winters from Japan south to Taiwan and east through the Bering Sea region to Alaska. Small numbers have bred in Alaska in recent years, and the species now shows up regularly in winter farther south along the West Coast. Washington’s first record was in 1986. The state now has 10 accepted records between mid-December and mid-March. All are from the Puget Lowlands, often at river mouths. Oregon has several records along the lower Columbia River, and Slaty-backed Gull is now annual in British Columbia.
+
+    *Revised June 2007*
+photos:
+- file: sbgu_j_jp_l.jpg
+  caption: Immature (2nd winter)
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: slbgul
+  current_common_name: Slaty-backed Gull
+  current_scientific_name: Larus schistisagus
+  clements_sort: 6602
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/slaty-backed_gull
+  archived: '2026-09-12'

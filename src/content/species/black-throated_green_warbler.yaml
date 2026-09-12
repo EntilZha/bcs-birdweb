@@ -1,0 +1,55 @@
+slug: black-throated_green_warbler
+common_name: Black-throated Green Warbler
+scientific_name: Dendroica virens
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    In Washington, the Black-throated Green Warbler is likely to be confused only with Townsend’s Warbler, its western counterpart. The most obvious differences are the Black-throated Green’s greener back, less contrasting light-olive facial “mask,” and absence or near-absence of yellow on the breast. It is an accidental visitor in Washington, with just three accepted records in June, July, and November, all from east of the Cascades. It breeds in northeastern British Columbia but is only a casual visitor elsewhere in the province. Idaho’s single record is from May 2001. Oregon has ten accepted records, and Black-throated Green Warbler occurs annually in very low numbers in California. Its breeding range extends across Canada from the eastern base of the Rocky Mountains in northern Alberta and British Columbia to Labrador and the midwestern and eastern United States, south to Alabama and the Carolinas. It winters in Mexico, Central America, the West Indies, and locally in southern Florida and along the Gulf Coast of the United States.
+
+    *Revised November 2007*
+photos:
+- file: btnw_gl2_l.jpg
+  caption: 'Male. Note: bright green back and bright yellow face.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: btnw_f_gl_l.jpg
+  caption: 'Female. Note: white sides with black streaks and yellow across vent.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: btnwmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: btnwar
+  current_common_name: Black-throated Green Warbler
+  current_scientific_name: Setophaga virens
+  clements_sort: 34218
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black-throated_green_warbler
+  archived: '2026-09-12'

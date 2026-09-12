@@ -1,0 +1,57 @@
+slug: great-tailed_grackle
+common_name: Great-tailed Grackle
+scientific_name: Quiscalus mexicanus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Icteridae
+  slug: icteridae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    Abundant and highly visible year round in a variety of open, rural and urban landscapes in Mexico, Central America, and coastal northern South America, the Great-tailed Grackle has been extending its range northward and westward for the last hundred years and is now resident in the United States from Texas to Iowa and California. It is annual, and has nested, in Oregon, and is a rare resident breeder in southern Idaho. Washington has four accepted records (earliest 1987) and there are at least two records from British Columbia (earliest 1979).
+
+    The adult male is glossy black with a yellow eye and a bluish-purple sheen on the head and back. The adult female, considerably smaller, is brown with buffy underparts and a pale eye. Both sexes have a keel-shaped tail, which is especially long in the male. The male somewhat resembles a Common Grackle but is much larger and longer-billed, with a purplish rather than a bronzy sheen on the back. The tail is also proportionally longer—as long as the body, or even longer. The female looks a bit like the female Brewer’s Blackbird but is much larger, longer-billed and longer-tailed, with a pale rather than a dark eye.
+
+    *Revised November 2007*
+photos:
+- file: gtgr_f_gt_l.jpg
+  caption: Female
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: gtgr_gt_l.jpg
+  caption: 'Male. Note: long keel-shaped tail.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: gtgrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: grtgra
+  current_common_name: Great-tailed Grackle
+  current_scientific_name: Quiscalus mexicanus
+  clements_sort: 33864
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/great-tailed_grackle
+  archived: '2026-09-12'

@@ -1,0 +1,52 @@
+slug: tennessee_warbler
+common_name: Tennessee Warbler
+scientific_name: Vermivora peregrina
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    In late summer and fall, when 13 of the 16 accepted Washington records have occurred, the Tennessee Warbler is a plain yellowish-green bird with a light eyebrow and a thin, dark line through the eye and can easily be confused with its close relative, the Orange-crowned Warbler—an abundant migrant and summer resident in the state. The most obvious differences are the Tennessee’s shorter tail and white or near-white undertail coverts that contrast with the grayish or greenish breast, and the absence of the Orange-crowned’s streaking on the underparts. The song, although rarely heard in Washington, is also quite different. Tennessee Warblers in breeding plumage are noticeably grayer (less greenish) than fall birds. Confusion with vireos is also possible, but note the warbler’s thin, sharply pointed bill.
+
+    The breeding range of the Tennessee Warbler extends from coast to coast in the forests of Canada, barely grazing the U.S. in Minnesota and New England. The wintering grounds extend from southern Mexico through Central America to Colombia. Although this warbler nests in British Columbia and Alberta south almost to the Montana border, its migration route lies east of the Continental Divide. Vagrant Tennessee Warblers occur with some frequency in the West, predominantly in fall. Idaho has about 30 records and the species is annual in Oregon, where it is no longer on the state review list. Ten of Washington’s records are from west of the Cascades and six from east. One long-staying bird was present into January at Satsop (Grays Harbor County).
+
+    *Revised October 2007
+    *
+photos:
+- file: tewa_f_gl_l.jpg
+  caption: 'Female. Note: pale undertail coverts, greenish back contrasting from gray cap, pale underside (more buffy than male), and pale supercilium.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: tewamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: tenwar
+  current_common_name: Tennessee Warbler
+  current_scientific_name: Leiothlypis peregrina
+  clements_sort: 33972
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/tennessee_warbler
+  archived: '2026-09-12'

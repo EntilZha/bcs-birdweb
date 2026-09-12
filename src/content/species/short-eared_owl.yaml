@@ -1,0 +1,91 @@
+slug: short-eared_owl
+common_name: Short-eared Owl
+scientific_name: Asio flammeus
+order:
+  name: Strigiformes
+  slug: strigiformes
+family:
+  name: Strigidae
+  slug: strigidae
+status: Uncommon summer east. Fairly common winter west.
+species_of_concern: true
+sections:
+  general_description: Short-eared Owls are medium-sized owls with mottled brown and buff plumage. Their facial disks are light, with dark patches at the eyes. They have short ear-tufts that are usually held down, out of view. They are light underneath, with finely streaked chests and bellies. Males are paler than females. Short-eared Owls have dark markings at the wrist on both the underside and upper side of the wings. In flight they can be hard to tell from the closely related Long-eared Owls, except by behavior and habitat.
+  habitat: Short-eared Owls inhabit open terrain in all seasons. They use shrub-steppe, grasslands, agricultural areas, marshes, wet meadows, and shorelines. They are often seen perched on fence posts or pieces of driftwood.
+  behavior: Because they are active during the day, Short-eared Owls are easier to see than most other owls. They are especially active at dawn and dusk, and they perform dramatic courtship flights, complete with vocalizing and wing clapping, during the breeding season. They are chase-predators and hunt by flying low over an open area, with their wings at a slight dihedral, somewhat like Northern Harriers. Their buoyant wing-beats give them a distinctive moth-like appearance.
+  diet: Short-eared Owls eat small mammals, especially voles. They take other small rodents, shrews, rabbits, gophers, bats, and muskrats as well. Occasionally, they prey on birds.
+  nesting: While Short-eared Owls are typically monogamous, they form loose colonies and some polygamy may occur. They nest in open areas on the ground, on dry hummocks or ridges among tall grass or under shrubs. The female builds the nest, a small depression lined with grass and feathers, and incubates 6-8 eggs for 24-37 days. The male brings food while she is on the nest. While the female broods the young, the male continues to bring food. The young may wander off the nest at 12-18 days. They can fly at 27-36 days and hunt on their own 1-2 weeks after their first flight. Family groups remain together for a time, roosting together during the day.
+  migration_status: Short-eared Owls living in cold regions are migratory. Their migration pattern is irregular and nomadic. They appear to concentrate where prey is abundant. Most Short-eared Owls in the western Washington lowlands valleys and along the coast are winter visitors.
+  conservation_status: Fluctuations in the Short-eared Owl population, due most likely to cyclical variation in the population of voles, make it difficult to determine long-term trends. However, declines have been recorded from many parts of the owls' range, and Short-eared Owls are listed as an at-risk species by Partners in Flight. Development and agriculture, which result in loss of habitat, are the most significant threats to the population in Washington.
+  when_where_wa: Short-eared Owls formerly bred at many sites in western Washington, but there are few if any recent breeding records. During winter, they are more abundant and easier to find. During winter and migration, they can be found primarily at coastal sites and in the Vancouver lowlands in Clark County. In eastern Washington, they are uncommon breeders in appropriate habitat. Short-eared Owls are sometimes irruptive, and numbers vary from year to year.
+photos:
+- file: seow_fl_gth1_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: seow_fl_gth2_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: seow_fl_gth3_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: seow_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: seow_fl_gt_l.jpg
+  caption: ''
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: seow_fl_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: seow_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio:
+  file: seow.mp3
+  credit: null
+maps:
+  wa: asfl.jpg
+  north_america: seowmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, R, '', '', '', R, U, U, U]
+  puget_trough: [F, F, F, R, R, '', '', '', R, F, F, F]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: [R, R, R, R, R, R, R, R, R, R, R, R]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: [R, R, R, '', '', '', '', '', '', '', R, R]
+  columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
+taxonomy:
+  ebird_code: sheowl
+  current_common_name: Short-eared Owl
+  current_scientific_name: Asio flammeus
+  clements_sort: 9276
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/short-eared_owl
+  archived: '2026-09-12'

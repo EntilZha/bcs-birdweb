@@ -1,0 +1,53 @@
+slug: leachs_storm-petrel
+common_name: Leach's Storm-Petrel
+scientific_name: Oceanodroma leucorhoa
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Hydrobatidae
+  slug: hydrobatidae
+status: Uncommon pelagic, breeds outer islands.
+species_of_concern: false
+sections:
+  general_description: The Leach's Storm-Petrels found off the coast of Washington are dark, with long, slender wings. They have white rumps, unlike populations farther to the south, which have darker rumps. This storm-petrel appears uniformly dark from below, but from above, some color differentiation is evident. Its tail and flight feathers are black, and its back and head are dark brown. A lighter tan band runs diagonally down the middle of the wing, separating the brown from the black.
+  habitat: During the nesting season, Leach's Storm-Petrels inhabit small, offshore, island colonies in the Pacific and Atlantic Oceans. They nest in burrows, so these islands must offer sufficient soil or rock crevices. Outside the nesting season, they disperse over the open ocean, far from land, concentrating around upwellings and areas where cold and warm water meet. These areas are rich in food.
+  behavior: Unlike many other tube-nosed seabirds, Leach's Storm-Petrels do not regularly follow and scavenge from ships. They fly low over the water with irregular wing-beats and forage by taking food from the water while hovering or skimming the water's surface. They sometimes forage near feeding whales or seals, but seldom sit on the water to feed. They are difficult to observe on their nesting colonies since they enter and leave the colonies only at night.
+  diet: Small crustaceans make up the majority of the diet, although small fish and squid are also taken. Oil and fat slicks from dead marine mammals are also sources of food for storm-petrels. They have a well-developed olfactory sense and can locate food sources by smell.
+  nesting: Long-lived birds, sometimes living more than 24 years, Leach's Storm-Petrels do not breed until they are at least four or five years old. Their nest burrows are situated under grass, rocks, or tree roots. Burrows are typically 1-3 feet long, and can be more than 5 feet long. The male digs the burrow, using his feet and bill. Neighboring burrows may be close together, sometimes sharing a common opening. Natural crevices may also be used. At the end of the burrow is a nest chamber that is lined with twigs, leaves, and grass. Both parents incubate the single egg. Incubation can last from 37-50 days, with an average of 42 days. (Incubation may be interrupted for days at a time, accounting for the large variance.) Both parents feed the young by regurgitating their stomach contents. If the adults do not return regularly with sufficient food, the chick will go into torpor. The ability of the egg to survive with suspended incubation and for the chick to become torpid are important for survival, since the adults spend a lot of time away from the nest looking for food that can be hard to find. After 9-10 weeks, the fledglings leave the island and head to sea on their own.
+  migration_status: The migratory patterns of the Leach's Storm-Petrel are not well known, although they appear to be more migratory than other storm-petrel species. Most of them move south to tropical waters in the fall and winter, but some are reported in northern areas throughout the year. In March the birds begin to return to northern waters. Millions of non-breeders (mostly immature birds) remain at sea year round.
+  conservation_status: The total population of Leach's Storm-Petrel is estimated in the millions, with over 8 million breeding pairs. There are an estimated 50,000 nesting birds in Washington in 11 confirmed colonies, although it is possible that there are as many as 25 colonies. The largest colony in Washington, on Jagged Island, consists of 20,000 birds. A major threat to the population is the introduction of predators, such as rats, to nesting islands. Upon removal of predators, storm-petrels appear to be able to re-colonize former breeding islands. Leach's Storm-Petrels are susceptible to pesticides and oil spills, and El Niño can also significantly reduce breeding productivity. Fishing nets are not a significant risk because Leach's Storm-Petrels rarely dive to catch prey. Annual numbers tend to fluctuate dramatically based on food supply and climate. Although the population at this time appears stable, its inconspicuous nature makes it very difficult to monitor the actual health of the population.
+  when_where_wa: Although far more abundant, the Leach's Storm-Petrel is seen less frequently than the Fork-tailed Storm-Petrel, perhaps because it forages farther out to sea. In April and May, Washington breeders arrive on the breeding colonies, located off the coast of the Olympic Peninsula. Birds are seldom seen on the nesting islands however since their activity is nocturnal. The best way to see these tube-nosed seabirds is on an offshore boat trip. Occasionally a strong wind or storm will force large numbers closer to land, or in some cases, inland. Coastal and inland sightings, while still rare, are most likely in the fall. Boat trip sightings are most likely in July and August, uncommon in the spring (April and May), and rare in fall (September and October). Leach's Storm-Petrels are absent, for the most part, from Washington waters in the winter.
+photos:
+- file: lespdp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio: null
+maps:
+  wa: ocle.jpg
+  north_america: null
+abundance:
+  oceanic: ['', '', '', U, U, U, F, F, U, U, '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: lcspet
+  current_common_name: Leach's Storm-Petrel
+  current_scientific_name: Hydrobates leucorhous
+  clements_sort: 7053
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/leachs_storm-petrel
+  archived: '2026-09-12'

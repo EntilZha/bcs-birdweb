@@ -1,0 +1,71 @@
+slug: northern_shrike
+common_name: Northern Shrike
+scientific_name: Lanius excubitor
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Laniidae
+  slug: laniidae
+status: Uncommon winter resident.
+species_of_concern: false
+sections:
+  general_description: This medium-sized, gray songbird is the larger and paler of the two species of shrike in North America. The Northern Shrike has a light gray underside, and a darker gray back. Its wings are black with white patches, and its tail is black with white corners. It has a large bill that is hooked at the end, and a narrow, black mask across its face. The female is slightly browner with a less distinctive mask than that of the male. Young birds are almost totally brown. Their wings are dark, but when they are folded up on the perched bird, they can be difficult to see and use as a fieldmark. The juvenile also has a less obvious mask, a paler bill, and barred underparts. Northern Shrikes, in comparison with Loggerhead Shrikes, have larger bills and narrower masks. Northern Shrikes occur in Washington only during the non-breeding season; for most of the year, they do not occur in Washington at the same time as Loggerhead Shrikes.
+  habitat: Found all across the Northern Hemisphere, Northern Shrikes breed in northern boreal forests in semi-open areas along streams or edges. They winter in open lowlands, but prefer areas with more tree and shrub cover than those frequented by Loggerhead Shrikes.
+  behavior: Northern Shrikes need large territories and thus are found only in low densities. They hunt by watching from high perches, then flying swiftly down after prey. Shrikes use their hooked bills to break the necks of vertebrate prey. Because their feet are not large or strong enough to hold prey, shrikes find a crotch in a tree, a thorn, or barbed wire to hang their prey on while they eat. Prey may be left on such a site for later consumption. During courtship, males sing to defend their territories and attract mates. Their song is complex and often includes imitated parts of other birds' songs.
+  diet: Northern Shrikes eat mostly small vertebrates, especially voles and other rodents. They also eat small birds and large insects, and can kill prey as large as they are.
+  nesting: Both sexes probably help with nest building. The nest is usually located in a low tree or large shrub, 6-15 feet above the ground. The nest itself is a loose, bulky cup of twigs, grass, bark, and moss, lined with feathers and hair. The female incubates 4-7 eggs for 15-17 days. Both parents feed the young, which leave the nest at 19-20 days. The parents continue to feed and tend the young for another 3-4 weeks.
+  migration_status: Migration occurs in mid-fall and early in spring. Numbers on the wintering grounds can vary considerably from year to year, with large numbers occurring in invasion years.
+  conservation_status: Christmas Bird Count data reveal a decline in wintering birds in Washington. Oregon, however, has seen a slight increase, which may reflect a shift southward. Many populations of Northern Shrikes around the world are in decline, and while there is no clear evidence of decline in North America, this species should be monitored carefully.
+  when_where_wa: Winter visitors, Northern Shrikes can be found in Washington from late October to mid-April in appropriate habitat throughout the state. Their abundance varies, but they are typically more common in eastern than western Washington, and more common early in winter rather than later. In the shrub-steppe zone, Northern Shrikes are one of only a few species of songbird present in winter.
+photos:
+- file: nors_ad_gth_l.jpg
+  caption: 'Adult. Note: thin black mask, light gray cap and back, longer/heavier bill with pale base to lower mandible.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: nshr_j_gt_l.jpg
+  caption: 'Juvenile. Note: brownish overall and scaled breast.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: nshr_jf_gth_l.jpg
+  caption: Juvenile in flight.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: nshr_j_gth_l.jpg
+  caption: 'Juvenile. Note: brown head and scaly flanks.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio: null
+maps:
+  wa: laex.jpg
+  north_america: nshrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, R, '', '', '', '', R, U, U, U]
+  puget_trough: [U, U, U, R, '', '', '', '', '', U, U, U]
+  north_cascades: [R, R, R, R, '', '', '', '', '', U, U, R]
+  west_cascades: [R, R, R, '', '', '', '', '', '', '', R, R]
+  east_cascades: [U, R, R, '', '', '', '', '', '', R, U, U]
+  okanogan: [U, U, U, '', '', '', '', '', '', U, U, U]
+  canadian_rockies: [U, U, U, U, '', '', '', '', '', U, U, U]
+  blue_mountains: [U, U, R, '', '', '', '', '', '', R, R, U]
+  columbia_plateau: [F, F, F, '', '', '', '', '', '', U, F, F]
+taxonomy:
+  ebird_code: norshr4
+  current_common_name: Northern Shrike
+  current_scientific_name: Lanius borealis
+  clements_sort: 21103
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/northern_shrike
+  archived: '2026-09-12'

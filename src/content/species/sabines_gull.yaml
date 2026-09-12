@@ -1,0 +1,67 @@
+slug: sabines_gull
+common_name: Sabine's Gull
+scientific_name: Xema sabini
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Fairly common pelagic migrant. Rare fall inland.
+species_of_concern: false
+sections:
+  general_description: The Sabine's Gull is a small gull with a graceful, tern-like flight. This gull has a slate-gray back, a white belly and tail, and black wingtips. The adult has a black bill with a yellow tip. The middle of the wings is white, giving the bird a distinctive 'M' pattern across its wings in flight. In breeding season, the adult has a dark gray hood, edged in black. The adult in non-breeding plumage has a partially gray and white head. The juvenile is brown across the back, neck, and head, with a white face.
+  habitat: Sabine's Gulls nest in the high Arctic in marshy tundra ponds close to the coast. Outside the breeding season, they spend most of their time at sea, out of sight of land. When at sea, they concentrate over the continental shelf or over upwellings of cold, nutrient-rich water.
+  behavior: The Sabine's Gull often hovers low over the water, dropping down to take food from the water's surface without landing. It also forages while swimming. In summer, this gull often feeds by walking along the tidal flats and picking up food. The Sabine's Gull has been known to spin in circles in shallow water, stirring up food from the bottom.
+  diet: In summer, the Sabine's Gull feeds mostly on insects and aquatic insect larvae. During migration, small crustaceans, fish, and other sea creatures are also part of the diet. Their winter diet is not well known.
+  nesting: Nests are located on the open ground, in small colonies, typically close to the water. Sabine's Gull colonies are often located near or within Arctic Tern colonies. The nest is a shallow depression, sometimes unlined, or lined with seaweed, moss, or feathers. The female typically lays two eggs, which both parents help incubate for about 3½ weeks. Shortly after the young hatch, the parents lead them to water, where they mostly feed themselves.
+  migration_status: Sabine's Gulls nest in the high Arctic, migrate south off the Pacific Coast, and spend the winter as far south as Central Chile. The spring migration lasts from early April to early June. Birds start heading south in late July. The peak of the fall Sabine's Gull migration lasts from late August to mid-September.
+  conservation_status: Their remote breeding range and seagoing nature may have protected the population, however the possibility of oil-drilling in the Arctic threatens the Sabine's Gull's nesting habitat. During migration and winter, they are vulnerable to water pollution and fluctuations of prey abundance. Since their winter diet is not well known, more research is needed to fully understand what is necessary for conservation.
+  when_where_wa: Most records for Sabine's Gulls are offshore, and pelagic birding trips give birders the best chance of spotting them. However, juveniles and adults can both be found inland, and sightings, though rare, are so regular in fall that a small percentage of the population must use an overland migration route. The best time of the year to look for Sabine's Gulls is during migration, when they are common on the open water--May for spring migration and the second half of August and September for fall migration. They are uncommon in June and July, and in October, and very rare or absent the rest of the year. They are occasionally blown towards shore in storms and can sometimes be found in the Strait of Juan de Fuca. Juvenile birds are found inland rarely on both sides of the Cascades.
+photos:
+- file: sagu_wfl_jp_l.jpg
+  caption: 'Adult nonbreeding. Note: partial gray hood. Black bill with yellow tip and wing pattern distinctive.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: true
+- file: sagu_fl_jp_l.jpg
+  caption: 'Adult breeding. Note: dark bill with yellow tip and gray hood.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: sagu_j_jp_l.jpg
+  caption: 'Juvenile. Note: pale face/throat/breast, brownish neck/back, and dark primary tips.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+audio:
+  file: sagu.mp3
+  credit: null
+maps:
+  wa: xesa.jpg
+  north_america: sagumap.gif
+abundance:
+  oceanic: ['', '', '', F, C, U, F, F, C, F, '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', R, '', '', '']
+taxonomy:
+  ebird_code: sabgul
+  current_common_name: Sabine's Gull
+  current_scientific_name: Xema sabini
+  clements_sort: 6455
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/sabines_gull
+  archived: '2026-09-12'

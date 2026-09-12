@@ -1,0 +1,79 @@
+slug: greater_scaup
+common_name: Greater Scaup
+scientific_name: Aythya marila
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common winter resident. Rare summer.
+species_of_concern: false
+sections:
+  general_description: The male Greater Scaup has white flanks, a black rump and breast, and barred gray back. He has a green-black iridescent head and light gray-blue bill. The adult in its second year has a yellow eye. The male in non-breeding plumage has a black head and breast, brown body, and black rump. The female is brownish overall, also with a yellow eye after the age of two. The female also has a white semi-circle at the base of the beak. The Greater and Lesser Scaup can be difficult to distinguish in the field. The Greater Scaup averages about 10% longer and 20% heavier than the Lesser Scaup. The Lesser Scaup has a peaked, angular head that the Greater Scaup lacks. The Greater Scaup has a larger bill with a more pronounced nail (tip of the bill) than the Lesser Scaup. Seen in flight, the white on the wings of the Greater Scaup extends into the primaries, where it is gray on the Lesser Scaup. Habitat, range, and season may help differentiate between the two species, as well as using a field guide and working with experienced observers.
+  habitat: The Greater Scaup is the more northerly of the two species of North American Scaup. In the summer, they breed on marshy, lowland tundra at the northern limits of the boreal forest. In winter, they gather in coastal bays, lagoons, and estuaries, with some wintering on inland lakes. While the Greater Scaup does overlap with the Lesser Scaup in winter, it tends to frequent more open, exposed areas.
+  behavior: Outside of the breeding season, Greater Scaup form large flocks or rafts, numbering in the thousands. In tidal waters, they tend to face up-current. While individuals may drift downstream, birds from the back of the flock fly to the front, maintaining the raft in the same position. A diver, the Greater Scaup catches its food under water, but eats it on the surface. Occasionally scaups forage at or near the water's surface as well.
+  diet: Mollusks and plant material are both important components of the Greater Scaup's diet. In the summer, aquatic insects and crustaceans are also eaten.
+  nesting: While Greater Scaup may nest at one year of age, they are more likely to begin breeding at the age of two. Pair formation begins in late winter or early spring on the wintering grounds and during migration back to the breeding grounds. The pair bond lasts until the female begins to incubate, and then the male leaves. Nests are located close to the water on an island, shoreline, or floating mat of vegetation, often close together in loose colonies. The female makes a shallow depression lined with grass. During incubation, the female adds down to the nest. Incubation of the 6 to 9 eggs lasts for 23 to 28 days. Soon after they hatch, the female leads the young to the water. Multiple broods may form small crèches and be tended by one or more females. The young can swim and find their own food immediately, but can't fly until about 40 to 45 days old.
+  migration_status: Greater Scaups wintering in Washington breed in Alaska, although not all Alaskan scaups migrate down the West Coast. Some migrate along the Mississippi and Eastern flyways.
+  conservation_status: Greater Scaups appear to be abundant, although confusion between the Greater and Lesser Scaup makes it difficult to track changes in population. Estimates of scaup populations across North America put the Greater Scaup at about 11% of the combined continental scaup population, although the majority of the scaup wintering in Puget Sound are Greater Scaups. Their heavy concentration in coastal bays in winter makes the population vulnerable to oil spills and other pollution.
+  when_where_wa: Greater Scaups are found during migration and winter in bodies of water in all lowland areas of Washington, although they are more common in salt water than they are in fresh water habitats. West of the Cascades, Greater Scaups start arriving in August and become common from September to mid-May, when most depart for northern breeding areas. Small numbers regularly summer in sewage ponds in western Washington. East of the Cascades they can be found from mid-October until mid-April before heading north.
+photos:
+- file: grsc_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: grsc_f_dp_l.jpg
+  caption: Female
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+- file: grsc_tg_l.jpg
+  caption: 'Male. Note: green tinge head and large nail on bill.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: grsc_f_tg_l.jpg
+  caption: 'Female. Note: evenly rounded head and broad nail on tip of beak.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: grsc_fl_gl_l.jpg
+  caption: 'In flight. Note: white stripe reach close to wing tip (Lesser Scaup''s show less white).'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: grsc.mp3
+  credit: null
+maps:
+  wa: ayma.jpg
+  north_america: grscmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, F, R, R, U, F, C, C, C]
+  puget_trough: [C, C, C, F, F, '', '', '', U, F, C, C]
+  north_cascades: [R, R, R, R, R, R, '', '', R, R, R, R]
+  west_cascades: [F, F, F, U, R, R, R, R, U, F, F, F]
+  east_cascades: [U, U, U, U, R, '', '', '', R, U, U, U]
+  okanogan: [U, U, U, F, U, R, R, R, U, F, U, U]
+  canadian_rockies: [U, U, F, F, F, '', '', '', '', '', U, U]
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [U, U, U, U, R, '', '', '', R, U, U, U]
+taxonomy:
+  ebird_code: gresca
+  current_common_name: Greater Scaup
+  current_scientific_name: Aythya marila
+  clements_sort: 694
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/greater_scaup
+  archived: '2026-09-12'

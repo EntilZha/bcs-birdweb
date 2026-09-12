@@ -1,0 +1,73 @@
+slug: golden-crowned_sparrow
+common_name: Golden-crowned Sparrow
+scientific_name: Zonotrichia atricapilla
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Common winter resident west. Uncommon east.
+species_of_concern: false
+sections:
+  general_description: The Golden-crowned Sparrow has bright breeding plumage with a bright yellow crown flanked with bold, black bars. The yellow extends to the nape of the neck and then changes to whitish; the black covers the top half of the eye. The back is light brown with bold stripes. The rump is unstreaked and brownish-gray, with the color extending through the long tail. The wings are brightly patterned with two white wing-bars. The breast and belly are not streaked. Non-breeding plumage is more subdued than breeding plumage, with most of the black and white on the head gone, and the yellow a softer shade. Young birds keep an immature plumage with little or no yellow through their first winter.
+  habitat: The subalpine zone, where willow and alder mix with tundra, is the breeding habitat of the Golden-crowned Sparrow. During the non-breeding season, they are often found in brushy thickets and gardens with White-crowned Sparrows, but are also seen in more forested habitats. Compared to White-crowned Sparrows and Dark-eyed Juncos, Golden-crowned Sparrows tend to occur in damper, less open habitats.
+  behavior: During migration and winter, Golden-crowned Sparrows often feed in mixed flocks. They feed on the ground out in the open, and retreat to nearby shrubs for shelter or when disturbed.
+  diet: During the winter they eat the seeds of grasses and weeds, and they may visit birdfeeders. They will also eat buds, flowers, new shoots, and berries. During the summer, insects become a major food source, especially for the young.
+  nesting: The male defends his territory and attracts a mate by singing from an exposed perch. Pairs are monogamous, and paired birds will forage together during the breeding season. Early in the breeding season, when there may still be snow on the ground, the nests are usually built in trees or shrubs. Later nests are usually built on the ground, often dug into the ground, or placed in a depression so their rims are even with the ground. The female probably builds the nest alone. The nest is a bulky cup of twigs, bark, moss, ferns, leaves, and grass, lined with fine grass, hair, and sometimes ptarmigan feathers. The female incubates the 3 to 5 eggs for 11 to 13 days, and the male may bring her food while she is on the nest. Both parents help feed the young, which leave the nest at 9 to 11 days but are fed by the parents for a while longer.
+  migration_status: The entire population of Golden-crowned Sparrows migrates within North America. They leave the breeding grounds late in the fall, most arriving on the wintering grounds throughout California, western Oregon, and western Washington from mid-September through October. Birds begin to return to the breeding grounds in April or May.
+  conservation_status: The Golden-crowned Sparrow was considered a pest early in the 20th Century, because flocks would feed on vegetables and flowers in gardens and cultivated fields. Its actual impact was not as great as was originally thought, and it is no longer considered a pest. Its population has grown in the past 30 years, and the Golden-crowned Sparrow is now a more common Washington winter resident than it was 30-50 years ago. Its far-northern breeding grounds are well protected, with many of them located in national parks, forests, and wildlife refuges in the United States and Canada, although continued protection of these federal lands is important to the Golden-crowned Sparrow's continued success.
+  when_where_wa: Golden-crowned Sparrows are very rare breeders in remote areas of the North Cascades (Harts Pass), although there is only one confirmed nesting record, from 1956. Golden-crowned Sparrows are most commonly considered a migrant and wintering bird in Washington, and are one of the most common wintering sparrows in western Washington, especially on the coast and up the Columbia Gorge as far as Lyle. During migration and in winter, they are occasionally sighted in eastern Washington, usually seen with White-crowned Sparrows. They are rare in the Okanogan Valley and in the lower Columbia Basin, east to the Tri-Cities area.
+photos:
+- file: gcsp_ad_gth_l.jpg
+  caption: 'Adult breeding plumage. Note: thick black cap with gold and white median crown stripe'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: gcsp_w_gth_l.jpg
+  caption: 'Adult winter plumage. Note: limited yellow coloration on forecrown.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: gcsp_w2_gth_l.jpg
+  caption: 'Adult winter plumage. Note: limited yellow coloration on forecrown.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: gcsp_jw_gt_l.jpg
+  caption: '1st winter. Note: gray bill and yellowish forecrown.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: GCSP01.mp3
+  credit: null
+maps:
+  wa: zoat.jpg
+  north_america: gcspmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, U, '', '', '', U, C, C, C]
+  puget_trough: [C, C, C, C, F, '', '', '', F, C, C, C]
+  north_cascades: [C, C, C, C, F, '', '', '', U, C, C, C]
+  west_cascades: [C, C, C, C, U, '', '', '', U, C, C, C]
+  east_cascades: [U, U, U, U, U, '', '', '', R, U, U, U]
+  okanogan: ['', '', '', '', R, '', '', '', U, U, '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', R, '', '', '']
+  columbia_plateau: [R, R, R, U, U, '', '', '', U, U, R, R]
+taxonomy:
+  ebird_code: gocspa
+  current_common_name: Golden-crowned Sparrow
+  current_scientific_name: Zonotrichia atricapilla
+  clements_sort: 33196
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/golden-crowned_sparrow
+  archived: '2026-09-12'

@@ -1,0 +1,73 @@
+slug: red-naped_sapsucker
+common_name: Red-naped Sapsucker
+scientific_name: Sphyrapicus nuchalis
+order:
+  name: Piciformes
+  slug: piciformes
+family:
+  name: Picidae
+  slug: picidae
+status: Fairly common summer resident east. Rare west
+species_of_concern: true
+sections:
+  general_description: Red-naped Sapsuckers are black and white birds with yellow and red accents. Their upperparts are black barred with white, and they have a bold white stripe across each wing. They have yellowish bellies, black breast-bands, and red throats. Their heads are bright red with black stripes through and above the eyes. A bold white stripe crosses their faces above the base of the bill and continues down each side of their necks, becoming yellowish as it flows over the shoulder and onto the breast. Males and females look much alike, but females generally have less red on their throats and napes, which can vary from mostly red to mostly white. Juveniles are mottled brown but have white wing-stripes like adults.
+  habitat: Red-naped Sapsuckers are the most common sapsucker in deciduous and streamside forests, especially in and around aspen, cottonwood, and willow. They also breed in mixed coniferous forests and will use open- and closed-canopy forests, burns, and clear-cuts, if there are some remaining standing trees.
+  behavior: Sapsuckers get their name from their foraging strategy, which consists of drilling neat horizontal rows of holes in tree trunks and then returning to those holes later to feed on the running sap and the insects attracted to it. Unlike most woodpeckers, they forage in healthy trees and can actually kill a tree if they drill too many sap holes around its trunk, although this is quite uncommon. The persistent and conspicuous calls and drumming of Red-naped Sapsuckers are commonly heard in early spring.
+  diet: Red-naped Sapsuckers are omnivores and feed on sap, insects, and fruits. During the nesting season they take more insects, and they feed insects to their young.
+  nesting: Red-naped sapsuckers form monogamous pairs. They typically nest in healthy aspen trees or dead conifers. Both members of the pair excavate the nest cavity. Nest trees are often reused, but a new nest cavity is excavated most years. The nest is lined with woodchips from the excavation but no other lining. Both members of the pair incubate the 5 to 6 eggs for 12 to 13 days. Both feed the young, which leave the nest after 25 to 29 days and are dependent on the parents for about 10 days more. Red-naped Sapsuckers typically raise a single brood each year.
+  migration_status: One of the most strongly migratory woodpeckers, the Red-naped Sapsucker travels as far south as central Mexico for the winter.
+  conservation_status: Red-naped Sapsuckers are considered a keystone species, as many other species feed at the sap wells they drill. They were formerly lumped with Yellow-bellied Sapsuckers as one species, but were split off in 1985. The Breeding Bird Survey has identified a non-significant annual increase in Washington since 1966. In the Cascades, they sometimes hybridize with Red-breasted Sapsuckers.
+  when_where_wa: A summer visitor to eastern Washington, the Red-naped Sapsucker is common from April through mid-August throughout the forested and riparian zones of eastern Washington. A few linger into early September. They are also rare breeders at high elevations just west of the Cascade crest. There are a few questionable winter records from western Washington, and any winter sighting of a Red-naped Sapsucker should be closely scrutinized because the apparent Red-naped Sapsucker may in fact be a Red-breasted Sapsucker hybrid.
+photos:
+- file: rnsa_ad_gth_l.jpg
+  caption: Adult at entrance to nest cavity.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rnsa_m_gth_l.jpg
+  caption: 'Male. Note: red chin (female''s is white).'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: rnsa_f_gl_l.jpg
+  caption: 'Female. Note: white chin.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: rnsa_gth_l.jpg
+  caption: 'Male. Note: all red chin (unlike female) and throat with incomplete black border (unlike Yellow-bellied).'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio:
+  file: rnsa.mp3
+  credit: null
+maps:
+  wa: spnu.jpg
+  north_america: rnsamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', R, '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', R, U, U, U, U, '', '', '', '']
+  west_cascades: ['', '', '', R, R, R, R, R, '', '', '', '']
+  east_cascades: ['', '', '', F, F, F, F, F, F, '', '', '']
+  okanogan: ['', '', '', C, C, C, C, C, U, '', '', '']
+  canadian_rockies: ['', '', '', F, F, F, F, F, '', '', '', '']
+  blue_mountains: ['', '', R, U, U, U, U, U, R, '', '', '']
+  columbia_plateau: ['', '', '', U, U, F, F, U, R, '', '', '']
+taxonomy:
+  ebird_code: rensap
+  current_common_name: Red-naped Sapsucker
+  current_scientific_name: Sphyrapicus nuchalis
+  clements_sort: 11127
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/red-naped_sapsucker
+  archived: '2026-09-12'

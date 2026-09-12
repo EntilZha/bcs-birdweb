@@ -1,0 +1,128 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+import SpeciesCard from "../components/SpeciesCard.astro";
+import SearchBox from "../components/SearchBox.tsx";
+import { buildSearchIndex } from "../lib/search";
+import { ECOREGIONS } from "../config/ecoregions";
+import { MONTHS_LONG } from "../config/abundance";
+
+const base = import.meta.env.BASE_URL;
+const species = await getCollection("species");
+const sites = await getCollection("sites");
+const index = buildSearchIndex(species, sites);
+
+// A handful of familiar, well-illustrated birds as an entry point. Chosen because they
+// are the ones people in Seattle actually ask about, not by any property of the data.
+const FEATURED = [
+  "great_blue_heron", "spotted_towhee", "annas_hummingbird", "varied_thrush",
+  "barred_owl", "bald_eagle", "steller_jay", "stellers_jay", "american_dipper",
+  "harlequin_duck", "rufous_hummingbird", "black-capped_chickadee",
+];
+const bySlug = new Map(species.map((s) => [s.id, s]));
+const featured = FEATURED.map((slug) => bySlug.get(slug)).filter(Boolean).slice(0, 6);
+
+const monthName = MONTHS_LONG[new Date().getMonth()];
+---
+
+<Layout title="BirdWeb — Birds Connect Seattle's Guide to the Birds of Washington">
+  <section class="text-center py-6 sm:py-10">
+    <h1 class="text-3xl sm:text-5xl font-bold text-brand leading-tight">
+      The birds of Washington
+    </h1>
+    <p class="mt-3 text-base sm:text-lg text-black/70 max-w-2xl mx-auto">
+      {species.length} species accounts, {sites.length} birding sites, and month-by-month
+      abundance across the state's ten ecoregions — from Birds Connect Seattle.
+    </p>
+
+    <!-- Search is the landing page. It is the one thing the legacy site got right, and
+         it is the fastest path for both a curious visitor and a staff member mid-
+         conversation with someone holding a phone photo. -->
+    <div class="mt-7 max-w-xl mx-auto text-left">
+      <SearchBox entries={index} base={base} autofocus client:load />
+    </div>
+  </section>
+
+  {
+    featured.length > 0 && (
+      <section class="mt-4">
+        <h2 class="text-xl font-bold text-brand mb-4">Start here</h2>
+        <ul class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4 p-0">
+          {featured.map((entry) => (
+            <SpeciesCard entry={entry!} />
+          ))}
+        </ul>
+      </section>
+    )
+  }
+
+  <section class="mt-12 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+    <a
+      href={`${base}birds/`}
+      class="rounded-2xl bg-brand text-white p-5 shadow-sm transition hover:bg-brand-dark active:scale-[0.99]"
+    >
+      <h2 class="font-bold text-lg">Browse all birds</h2>
+      <p class="mt-1 text-sm text-sage">
+        Every species on the Washington state checklist, by family or alphabetically.
+      </p>
+    </a>
+    <a
+      href={`${base}whats-around/`}
+      class="rounded-2xl bg-pop text-brand p-5 shadow-sm transition hover:brightness-95 active:scale-[0.99]"
+    >
+      <h2 class="font-bold text-lg">What's around in {monthName}?</h2>
+      <p class="mt-1 text-sm text-brand/75">
+        Pick a region and a month to see what you can expect to find.
+      </p>
+    </a>
+    <a
+      href={`${base}sites/`}
+      class="rounded-2xl bg-white ring-1 ring-black/5 p-5 shadow-sm transition hover:shadow-md active:scale-[0.99]"
+    >
+      <h2 class="font-bold text-lg text-brand">Birding sites</h2>
+      <p class="mt-1 text-sm text-black/65">
+        {sites.length} places to go birding across Washington, with directions.
+      </p>
+    </a>
+    <a
+      href={`${base}ecoregions/`}
+      class="rounded-2xl bg-white ring-1 ring-black/5 p-5 shadow-sm transition hover:shadow-md active:scale-[0.99]"
+    >
+      <h2 class="font-bold text-lg text-brand">Ecoregions</h2>
+      <p class="mt-1 text-sm text-black/65">
+        The {ECOREGIONS.length} landscapes that shape where Washington's birds live.
+      </p>
+    </a>
+  </section>
+
+  <section class="mt-12 rounded-2xl bg-white ring-1 ring-black/5 p-5 sm:p-7">
+    <h2 class="text-xl font-bold text-brand">About BirdWeb</h2>
+    <div class="mt-2 space-y-3 text-[0.9375rem] leading-relaxed text-black/80 max-w-3xl">
+      <p>
+        BirdWeb has been Birds Connect Seattle's guide to the birds of Washington since
+        1999, written and maintained by volunteers of the BCS Science Committee. The
+        species accounts, distribution maps and abundance data here are their work.
+      </p>
+      <p>
+        This is a rebuilt edition: the original site's code and database were lost, so the
+        content was recovered from the live site and given a design that works on a phone
+        as well as a desktop. The accounts are preserved as written, with current
+        scientific names noted where taxonomy has changed since they were published.
+      </p>
+    </div>
+    <div class="mt-4 flex flex-wrap gap-3">
+      <a
+        href={`${base}credits/`}
+        class="rounded-full bg-brand text-white px-4 py-2 text-sm font-semibold hover:bg-brand-dark transition"
+        >Credits</a
+      >
+      <a
+        href="https://birdsconnectsea.org/donate/"
+        target="_blank"
+        rel="noopener"
+        class="rounded-full bg-pop text-brand px-4 py-2 text-sm font-semibold hover:brightness-95 transition"
+        >Support Birds Connect Seattle</a
+      >
+    </div>
+  </section>
+</Layout>

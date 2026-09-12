@@ -1,0 +1,67 @@
+slug: pacific_loon
+common_name: Pacific Loon
+scientific_name: Gavia pacifica
+order:
+  name: Gaviiformes
+  slug: gaviiformes
+family:
+  name: Gaviidae
+  slug: gaviidae
+status: Common winter west. Uncommon east.
+species_of_concern: false
+sections:
+  general_description: Formerly considered a subspecies of the Arctic Loon, the Pacific Loon is now classified as a full species. It has a smoothly rounded head and neck and a straight bill. In breeding plumage, the top of the head and back of the neck are pale gray, lighter than the face. The body is black with white markings. Non-breeding plumage is dull black-brown, duller black on the back, and dark brown on the sides. Chins, throats, and breasts are all white, with a dark necklace at the top of the throat. The back of the head is gray, much darker than in breeding plumage.
+  habitat: Pacific Loons winter on the Pacific Coast, spending most of the winter on open water, farther from shore than other loon species. In summer, they nest on large, deep tundra lakes in the far north.
+  behavior: The most gregarious of the loons, Pacific Loons can be found in flocks of several thousand when food is abundant. They repeatedly dip their heads into the water looking for prey before diving. During the breeding season, they aggressively defend their territories.
+  diet: Diet varies with season. When they are on the ocean, they mostly eat small fish. In other habitats, they also eat crustaceans, insects, and other aquatic creatures.
+  nesting: Both sexes build a nest on the shore of the mainland, or on an island. They pull up a heap of vegetation from around the nest site and arrange it into a pile with mud. Occasionally the nests are floating. Both adults incubate the two eggs. Shortly after hatching, the young leave the nest, although for a few days they return periodically to sleep. Both parents feed the young.
+  migration_status: Migration is thought to be coastal, although they have been sighted inland during migration as well. Migrants may travel in flocks several miles offshore, where they fly low over the water.
+  conservation_status: Numbers appear to be stable, but Pacific Loons are vulnerable to pollution in offshore wintering areas, and to the destruction of habitat in their far-northern breeding grounds.
+  when_where_wa: During winter, Pacific Loons can be found off the coast and in inland marine waters, such as the Strait of Juan de Fuca. They are also a common sight during spring and fall migration. September through June is the best time of year to see Pacific Loons in Washington, with numbers peaking during migration in October and again in late May. In summer, non-breeding individuals are occasionally seen in marine waters of western Washington, and rarely, especially during fall migration, on large bodies of water east of the Cascades.
+photos:
+- file: palojim.jpg
+  caption: ''
+  credit:
+    name: Jim Erckmann
+    url: null
+  hero: true
+- file: palo_tg_l.jpg
+  caption: Breeding plumage
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: palo_w_gl_l.jpg
+  caption: 'Winter plumage. Note: sharp contrast and border on neck and thin dark necklace.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: palo.mp3
+  credit: null
+maps:
+  wa: gapa.jpg
+  north_america: palomap.gif
+abundance:
+  oceanic: ['', '', '', '', U, '', '', '', U, U, '', '']
+  pacific_northwest_coast: [F, F, F, C, C, U, U, U, C, C, F, F]
+  puget_trough: [C, C, C, C, C, R, R, R, F, C, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [R, R, R, '', '', '', '', '', '', R, R, R]
+  east_cascades: [R, R, R, '', '', '', '', '', '', R, R, R]
+  okanogan: [R, R, '', '', '', '', '', '', '', R, R, R]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', R, R, '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [R, R, '', '', '', '', '', '', '', R, R, R]
+taxonomy:
+  ebird_code: pacloo
+  current_common_name: Pacific Loon
+  current_scientific_name: Gavia pacifica
+  clements_sort: 6931
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/pacific_loon
+  archived: '2026-09-12'

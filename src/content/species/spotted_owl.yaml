@@ -1,0 +1,61 @@
+slug: spotted_owl
+common_name: Spotted Owl
+scientific_name: Strix occidentalis
+order:
+  name: Strigiformes
+  slug: strigiformes
+family:
+  name: Strigidae
+  slug: strigidae
+status: Rare resident.
+species_of_concern: true
+sections:
+  general_description: Spotted Owls are medium-sized owls with brown eyes and no ear-tufts. They are gray-brown in color, with light spotting on their backs and breasts. They are slightly smaller than the closely-related and similar-appearing Barred Owl.
+  habitat: Spotted Owls are found in to low and mid-elevation mature forests with dense canopy. They prefer forests of Douglas Fir with complex vegetation at multiple levels and are often found near streams or other water sources. Because Spotted Owls typically do not cross brushy or clearcut areas, they prefer large expanses of undisturbed mature forest. A single pair of Spotted Owls requires 2,000-5,000 acres of contiguous forest!
+  behavior: Spotted Owls hunt mostly at night, but during the nesting season may also hunt during the day. They are sit-and-wait predators, watching from perches and then swooping silently down on unsuspecting prey, grasping it with their talons. They also take prey in mid-air and from branches. They react to variations in temperature by moving up and down within the canopy, which may be one of the reasons they require such complex habitat structure.
+  diet: Northern Flying Squirrels are their most common prey, but they also eat rats, mice, voles, rabbits, and bats. To a lesser extent they feed on small birds, reptiles, and large invertebrates.
+  nesting: Spotted Owls are monogamous and form long-term pair bonds. These bonds are maintained throughout the year, and pairs defend their territories year-round. They nest in trees with broken-tops and other natural hollows, in old stick nests of other species, in artificial nest boxes, and, especially in eastern Washington, in mistletoe tangles. The female scrapes a depression in existing debris, but adds no additional material to the nest. Spotted Owls reuse the same nest site for many years. Most pairs do not nest every year. The female typically incubates 2 eggs for 28-32 days, while the male brings her food. Once the young hatch, the female broods for 8-10 days and the male bring food to both the female and the young. The young leave the nest and venture onto nearby branches at 34-36 days. At this time the female joins the male bringing food to the young, which remain with their parents for 60-90 more days.
+  migration_status: Spotted Owls do not migrate but may wander to lower elevations in deep snow or when prey is scarce. Young birds may disperse long distances, which sometimes brings them into inappropriate habitats.
+  conservation_status: The conservation of Spotted Owls and their old-growth habitat is an issue that has sparked fierce debate between environmentalists and the timber industry. In the Pacific Northwest, more than half of former old-growth habitat has already been lost. Most Spotted Owl habitat in Washington is unprotected, and the timber has high economic value. Attempts were made to federally list Spotted Owls, based on their low numbers, historic and projected habitat loss, declining survival rates, and the failure of existing protective measures. After two failed attempts, the Seattle Audubon Society sued to force federal listing. The northern subspecies of Spotted Owl ('Northern Spotted Owl') is now listed as threatened by the United States Fish and Wildlife Service and as endangered by the Washington Department of Fish and Wildlife. It is included on the Washington Gap Analysis Project's at-risk list. A number of recovery and management plans have been proposed and rejected as the debate over Spotted Owls continues. The current management plan requires enough clusters of old-growth forest to be preserved to sustain 1,500-2,000 territories and to allow for dispersal between territories. The dispersal factor is important, as dispersal time is a particularly dangerous stage of life for the Spotted Owl, with 80% of juveniles failing to survive. Increased habitat fragmentation allows Great Horned and Barred Owls to invade habitat that was formerly used exclusively by Spotted Owls. Great Horned Owls prey on Spotted Owls, especially dispersing juveniles. Barred Owls out-compete Spotted Owls for limited nesting sites, and the two species hybridize. Recently the State Public Lands Commissioner has been taking steps to allow logging in Spotted Owl habitat in southwestern Washington to help pay for school construction. Meanwhile, the Spotted Owl population in Washington continues to decline precipitously. Recent surveys have found significantly fewer owls than were found in surveys performed a only decade ago.
+  when_where_wa: Spotted Owls are uncommon residents in appropriate old-growth habitats at low to mid-elevations on both sides of the Cascades and in the Olympic Mountains. The Naches district of the Wenatchee National Forest on the eastern slopes of the Cascades (in Chelan, Kittitas, and Yakima Counties) also holds a significant population.
+photos:
+- file: spow2fws.jpg
+  caption: ''
+  credit:
+    name: US Fish and Wildlife
+    url: null
+  hero: true
+- file: spowfws.jpg
+  caption: ''
+  credit:
+    name: US Fish and Wildlife
+    url: null
+  hero: false
+audio:
+  file: noso.mp3
+  credit: null
+maps:
+  wa: stoc.jpg
+  north_america: spowmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, R, R, R, R, R, R, R, R, R]
+  puget_trough: [R, R, R, R, R, R, R, R, R, R, R, R]
+  north_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  west_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  east_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  okanogan: [R, R, R, R, R, R, R, R, R, R, R, R]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: spoowl
+  current_common_name: Spotted Owl
+  current_scientific_name: Strix occidentalis
+  clements_sort: 9215
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/spotted_owl
+  archived: '2026-09-12'

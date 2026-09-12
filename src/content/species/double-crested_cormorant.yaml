@@ -1,0 +1,61 @@
+slug: double-crested_cormorant
+common_name: Double-crested Cormorant
+scientific_name: Phalacrocorax auritus
+order:
+  name: Pelecaniformes
+  slug: pelecaniformes
+family:
+  name: Phalacrocoracidae
+  slug: phalacrocoracidae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: Adult Double-crested Cormorants are black or dark brown and have an orange-yellow patch of skin at the base of their bills. In breeding plumage, adults have two whitish tufts behind their eyes, hence the description 'double-crested.' First-year birds are pale on the upper breast and darker on the belly. Double-crested Cormorants have slender, hook-tipped bills that are often tipped up at an angle as they swim. They can be distinguished from the other two Washington cormorant species by their thicker bills and by the pronounced kink in their long necks in flight.
+  habitat: Double-crested Cormorants are found on both coastal and inland waters. They often perch on rocks, sandbars, or pilings near fishing sites and forage at ponds, lakes, slow-moving rivers, estuaries, and open coastlines. Their breeding colonies are typically located on small rocky or sandy islands, or on the exposed tops of offshore rocks. They may also nest or roost in trees, especially when predators are present.
+  behavior: Gregarious throughout the year, Double-crested Cormorants nest in colonies, form dense nocturnal roosts, and travel in flocks during migration. They forage in shallow water within sight of land. They dive from the water's surface to pursue prey underwater, propelled by powerful, webbed feet. After a bout of foraging, they may be seen on exposed perches with their wings spread, drying their feathers. Males attract females by performing a conspicuous 'wing-waving display' that emphasizes their colorful head-tufts and neck.
+  diet: Opportunistic feeders, Double-crested Cormorants take a variety of prey species depending on availability. They feed principally on slow-moving or schooling species of fish, and they occasionally consume insects, crustaceans, and amphibians.
+  nesting: Unpaired males begin advertising for females shortly after choosing a nest site. The male brings nest material to the female, and the female does most of the building. The nest, a platform of sticks and debris, may be found on a rocky cliff near water, on the ground on an island, or in a tree. As the breeding season progresses, nest materials become cemented together by droppings. Both parents incubate the 3 to 4 eggs. The altricial young are fed regurgitated food by both parents. After leaving the nest, the young roam the colony in groups called crèches and return to the nest site to be fed. The young are completely independent of their parents at 10 weeks. Second broods are rare.
+  migration_status: Double-crested Cormorants are permanent residents on the coasts and in Puget Sound. Migrants east of the Cascades depart in October and return in March. Some migrants move to the coast from inland areas.
+  conservation_status: Numbers declined dramatically in the 1960s and 1970s due to contaminants acquired from fish. Since the ban of DDT, populations have been increasing. Double-crested Cormorants are sensitive to human disturbance to colonies, and they are often persecuted as predators of commercial fish at hatcheries. El Niño events reduce the number of breeding pairs as well as the reproductive success of breeders. Although the Washington population along the outer coast increased slightly from 1978 to 1994, it has declined since 1995, most likely because of unfavorable ocean conditions.
+  when_where_wa: This is the only Washington cormorant likely to be seen in fresh water. Double-crested Cormorants are common year round, both on the coast and on inland waters of western Washington. They nest on islands in Grays Harbor and on rocky islets along the outer coast. Non-breeding birds can be found at lower elevations throughout western Washington. In eastern Washington, they breed at the Potholes Reservoir, Moses Lake, Winchester and Frenchman Hills Wasteways, Crab Creek (all in Grant County), at the McNary National Wildlife Refuge (Walla Walla County), at Usk (on the Pend Oreille River in Pend Oreille County), and at Cow Lake (Adams County).
+photos:
+- file: dcco_perch_jh_l.jpg
+  caption: Nonbreeding adult, perched
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: dcco_b_jh_l.jpg
+  caption: Breeding adult
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+audio:
+  file: dcco1.mp3
+  credit: null
+maps:
+  wa: phau.jpg
+  north_america: dccomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [F, F, F, F, '', '', '', '', '', '', F, F]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [U, U, U, U, R, R, R, R, U, U, U, U]
+  okanogan: [R, R, R, U, U, U, U, U, F, F, U, R]
+  canadian_rockies: [U, U, F, F, C, C, C, C, C, F, U, U]
+  blue_mountains: ['', '', '', '', R, R, R, R, R, R, '', '']
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: doccor
+  current_common_name: Double-crested Cormorant
+  current_scientific_name: Nannopterum auritum
+  clements_sort: 7424
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/double-crested_cormorant
+  archived: '2026-09-12'

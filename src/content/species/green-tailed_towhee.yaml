@@ -1,0 +1,53 @@
+slug: green-tailed_towhee
+common_name: Green-tailed Towhee
+scientific_name: Pipilo chlorurus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Rare and local summer east.
+species_of_concern: true
+sections:
+  general_description: The Green-tailed Towhee is gray underneath with greenish upperparts. Adults have a rufous crown and a white throat-patch. Juvenile birds are brown-and-white streaked, with a yellowish wash on their wings.
+  habitat: A bird of the dry, shrubby hillsides of far-southeastern Washington, the Green-tailed Towhee breeds in areas with a high diversity of shrub species providing dense, low cover. During migration and winter, it is found in similar habitats, often near streams.
+  behavior: In winter, Green-tailed Towhees can be found in mixed flocks. These secretive birds forage on the ground and in low bushes, scratching leaf litter with both feet.
+  diet: Small insects and seeds make up the majority of the Green-tailed Towhee's diet. They also eat some fruit.
+  nesting: The male defends a territory and attracts a mate by singing from a prominent spot, often a raised perch. Females arrive on the breeding grounds about a week after the males, and monogamous pairs form shortly after that. The female builds a bulky but well-concealed nest on the ground or in a low shrub, within three feet of the ground. The nest is made of twigs, grass, weeds, and bark, and lined with grass, rootlets, and hair. The female lays 3 to 4 eggs and incubates them for about 12 days. Both parents feed the chicks. The young leave the nest at 11 to 14 days of age, but are not yet able to fly. The parents continue to feed and tend the young until they can fly and fend for themselves.
+  migration_status: The Green-tailed Towhee is the only entirely migratory towhee. Staying only briefly in Washington, these birds arrive on the breeding grounds in June and leave for Mexico and the southwestern US in August.
+  conservation_status: Breeding Bird Survey records indicate that there have been no major changes in the Washington population since 1966. Humans have had both positive and negative effects on Green-tailed Towhee populations. Fire suppression may reduce habitat, but logging may provide more habitat. The replacement of sagebrush with non-native grasses has probably had a significant negative impact on Green-tailed Towhee habitat overall. The Washington population is very small and limited in area. This population is at the northern edge of the range and because of this is not likely to ever be widespread or common in Washington.
+  when_where_wa: Green-tailed Towhees are local and uncommon breeders at moderate elevations in steep, shrubby areas of the Blue Mountains in far-southeastern Washington. They breed at the Wenatchee Guard Station, the Asotin Creek Wildlife Area in Asotin County, and along the south slopes of the Blue Mountains, at Biscuit Ridge, near Dixie in Walla Walla County.
+photos:
+- file: gtto_gl_l.jpg
+  caption: 'Note: rufous crown and white throat.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio: null
+maps:
+  wa: pich.jpg
+  north_america: gttomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', R, R, R, R, '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: gnttow
+  current_common_name: Green-tailed Towhee
+  current_scientific_name: Pipilo chlorurus
+  clements_sort: 33385
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/green-tailed_towhee
+  archived: '2026-09-12'

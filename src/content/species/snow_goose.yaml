@@ -1,0 +1,97 @@
+slug: snow_goose
+common_name: Snow Goose
+scientific_name: Chen caerulescens
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common winter west. Uncommon to fairly common east.
+species_of_concern: false
+sections:
+  general_description: A large goose, the Snow Goose occurs in a white or a dark morph. The white morph, the most common, is all white with black primaries. The dark morph, known as the Blue Goose, is extremely rare in Washington and has a dark gray body and white head. Both morphs have orange legs. Juveniles are gray overall with dark legs. The Snow Goose is similar in appearance to the smaller and far less common Ross' Goose, but the Snow Goose has a 'grin-patch' (a dark patch on the side of the beak that makes it appear to be open or grinning) that the Ross' Goose lacks. There are two subspecies of Snow Goose, the Greater and the Lesser Snow Geese, which vary in size.
+  habitat: Snow Geese nest colonially in the Arctic tundra within five miles of the coast. Greater Snow Geese tend to nest in higher, drier areas than Lesser Snow Geese. During migration and in winter, they inhabit coastal and freshwater marshes, estuaries, and agricultural lands, with Greater Snow Geese more likely to be in saltwater habitats than Lessers.
+  behavior: Flocks are especially large in winter and during migration. Snow Geese forage mostly by walking in shallow water or on land, usually in flocks that may include other geese. They rip vegetation from the ground and can cause damage to areas where there are large numbers of geese.
+  diet: Snow Geese feed almost exclusively on plant material. During the breeding season, they eat many seeds, leaves, and roots of aquatic vegetation. The very young birds feed on invertebrates. Berries become more important in the fall. In winter, waste grain from agricultural fields has become a primary food source.
+  nesting: Long-term pair bonds are usually formed in the second year, although breeding doesn't usually start until the third year. Females are strongly philopatric, meaning they will return to the place they hatched to breed. Snow Geese often nest in colonies. The female selects a nest site and builds the nest on an area of high ground. The nest is a shallow depression lined with plant material and may be reused from year to year. After the female lays the first of 3 to 5 eggs, she lines the nest with down. The female incubates for 22 to 25 days, and the young leave the nest within a few hours of hatching. Both parents tend the young, but they feed themselves. After 42 to 50 days they can fly, but they remain with their family until they are 2 to 3 years old.
+  migration_status: Large flocks migrate long distances, flying very high along narrow corridors and stopping at traditional stopover and wintering areas. Washington's population nests on Wrangel Island in Russia, north and west of the Bering Strait.
+  conservation_status: The population was reduced to 2,000 to 3,000 birds in 1900, but has made a strong recovery since then. Many populations have increased to the point that they are causing management concerns. The Snow Goose is now one of the most abundant species of waterfowl in the world, with a population between 6 and 7 million. This recovery can be attributed to their ability to take advantage of previously unexploited food sources on migration and wintering grounds. Because of their practice of tearing vegetation out of the ground, they are destroying their own habitat in some areas. Snow Geese are widely hunted (from October to January in Washington), but more control measures may need to be taken in the future as the population continues to grow beyond an environmentally sustainable number.
+  when_where_wa: Snow Geese are typically seen in large flocks; up to 55,000 winter in western Washington. Most gather in the Skagit River Delta (Skagit County) from mid-October to early May. They can also be seen in eastern Washington during migration (mid-April to mid-May and mid-October to mid-November).
+photos:
+- file: sngo_fl_lb_l.jpg
+  caption: ''
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: sngo_lb_l.jpg
+  caption: ''
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: sngo_fl_dp_l.jpg
+  caption: Adult
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+- file: sngo_gl_l.jpg
+  caption: 'Adult. Note: blocky head and heavy bill with large'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: sngo_j_gl_l.jpg
+  caption: Juvenile
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: sngo_fl_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: sngo_fl2_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: sngo_blue_gl_l.jpg
+  caption: Blue morph
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: sngo1.mp3
+  credit: null
+maps:
+  wa: chca.jpg
+  north_america: sngomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, R, '', '', '', '', '', R, R, R]
+  puget_trough: [C, C, C, C, U, '', '', '', R, C, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [R, R, R, '', '', '', '', '', '', '', R, R]
+  east_cascades: [R, R, R, R, R, '', '', '', R, R, R, R]
+  okanogan: ['', '', R, R, R, '', '', '', '', R, R, R]
+  canadian_rockies: ['', '', R, R, '', '', '', '', '', R, R, '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [F, F, F, U, '', '', '', '', '', U, F, F]
+taxonomy:
+  ebird_code: snogoo
+  current_common_name: Snow Goose
+  current_scientific_name: Anser caerulescens
+  clements_sort: 267
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/snow_goose
+  archived: '2026-09-12'

@@ -1,0 +1,85 @@
+slug: tufted_puffin
+common_name: Tufted Puffin
+scientific_name: Fratercula cirrhata
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Alcidae
+  slug: alcidae
+status: Uncommon summer resident coast.
+species_of_concern: true
+sections:
+  general_description: Tufted Puffins are medium-sized, stocky seabirds with rounded heads. They are solid brown-black overall, except for distinctive facial coloration. The outer wings are wider than the inner wings, giving the outstretched wing a hand-like appearance. The feet and bill are orange. In breeding plumage, a Tufted Puffin has a white mask across its face, ending in a tuft of blonde feathers sweeping back from above the ear. The orange beak is very bright and accented with yellow at the base. Like other puffins, this species has a large, laterally compressed bill. The Tufted Puffin can be distinguished from other puffins by its dark belly.
+  habitat: Tufted Puffins can be found in many coastal habitats adjacent to the Washington coast and elsewhere in the northern Pacific, with the exception of estuaries. They breed in colonies on islands with steep, grassy slopes or on cliff tops. Winter habitat is well offshore, in mid-ocean.
+  behavior: Tufted Puffins are active at their nest colonies during the day and can often be seen sitting on rocks in an upright posture. Once airborne, they fly well but they need a running start to take flight. They dive and swim underwater, using their wings to paddle and their feet to steer their way through schools of small fish, which they catch in their bills. They can be seen carrying fish crosswise in their bills (sometimes 12 or more), which they take back to their young.
+  diet: The diet of Tufted Puffins is mostly small fish. They also eat crustaceans, mollusks, and cephalopods.
+  nesting: Tufted Puffins probably form long-term pair bonds. They nest in burrows at the edges of cliffs, on grassy slopes, or in natural crevices in rocks. The pair spends a great deal of time preparing the nest site, excavating the burrow with their bills and feet. The burrow is 2-7 feet long with a nest chamber at the end. This chamber may be lined with grass or feathers, or sometimes nothing at all. Digging the nest burrow is a time-consuming job, and the birds most likely do not breed in the season in which they dig the burrow, but wait until the following year. When the pair finally breeds, the female lays one egg, which both parents incubate for 6-1/2 to 7-1/2 weeks. Both parents care for the young for another 6-7 weeks, after which time the fledgling leaves its burrow at night and moves to sea. Most young birds are not yet capable of flight at this time, so they walk, or flutter to sea, without parental aid.
+  migration_status: Migratory patterns are not well known, but Tufted Puffins are less likely to be seen near shore in winter than in the breeding season. They are probably the most pelagic of the alcids during their non-breeding season, with many birds wintering 60-120 miles offshore.
+  conservation_status: Tufted Puffin colonies fluctuate in size annually, based in part upon food supply and climatic events, such as El Niño. The Tufted Puffin is one of the most abundant and conspicuous seabirds nesting in the north Pacific. Many California populations, however, have disappeared or significantly declined. In recent years, potentially serious declines have occurred in Washington as well. Oil spills and gill-nets are threats to Tufted Puffins, as is human disturbance. In Washington, most breeding colonies are protected as wildlife refuges or are inaccessible to humans. Populations of large gulls, which prey on young puffins, have been increasing in Washington, which may account for some of the recent decline in numbers.
+  when_where_wa: From boats, Tufted Puffins are easier to see on the breeding colonies than many other alcids, as they are active during the day and can often be seen standing in front of their nesting burrows. However, although the Tufted Puffin is one of the most abundant seabirds breeding in Washington, it is among the least frequently seen, except from boats. During winter, these puffins are seen only occasionally near land. Most of the 29 known nesting colonies in Washington are on the outer coast. Jagged Island and Alexander Island hold the largest colonies, with 7,800 and 4,000 breeding birds, respectively. The five known inland colonies are located on Protection Island, Seal and Sail Rocks, Smith Island, Colville Island, and Bare Island.
+photos:
+- file: tupu_br1_gth_l.jpg
+  caption: Breeding plumage adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: tupu_br2_gth_l.jpg
+  caption: Breeding plumage adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: tupu_brfl_gth_l.jpg
+  caption: Breeding plumage adult bring fish back to its young
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: tupu_b_gt_l.jpg
+  caption: Breeding adult
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: tupu_w_gt_l.jpg
+  caption: Nonbreeding adult; no tufts and gray face
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: tupu_fl_gt_l.jpg
+  caption: Breeding adult in flight
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: tupu1.mp3
+  credit: null
+maps:
+  wa: frci.jpg
+  north_america: tupumap.gif
+abundance:
+  oceanic: [R, R, R, F, F, F, F, F, F, F, R, R]
+  pacific_northwest_coast: ['', '', '', U, U, U, U, U, U, '', '', '']
+  puget_trough: ['', '', '', '', U, U, U, U, U, '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: tufpuf
+  current_common_name: Tufted Puffin
+  current_scientific_name: Fratercula cirrhata
+  clements_sort: 6378
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/tufted_puffin
+  archived: '2026-09-12'

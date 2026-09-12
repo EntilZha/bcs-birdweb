@@ -1,0 +1,46 @@
+slug: yellow_rail
+common_name: Yellow Rail
+scientific_name: Coturnicops noveboracensis
+order:
+  name: Gruiformes
+  slug: gruiformes
+family:
+  name: Rallidae
+  slug: rallidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: Two old records, one in spring from Columbia Basin (Adams County), one in fall on Skagit delta (Skagit County).
+photos:
+- file: yera_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: yeramap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: yelrai
+  current_common_name: Yellow Rail
+  current_scientific_name: Coturnicops noveboracensis
+  clements_sort: 5626
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/yellow_rail
+  archived: '2026-09-12'

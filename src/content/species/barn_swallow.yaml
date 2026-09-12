@@ -1,0 +1,73 @@
+slug: barn_swallow
+common_name: Barn Swallow
+scientific_name: Hirundo rustica
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Hirundinidae
+  slug: hirundinidae
+status: Common summer resident.
+species_of_concern: false
+sections:
+  general_description: Known in Eurasia simply as 'the swallow,' the Barn Swallow is a distinctive bird with bold plumage and a long, slender, deeply forked tail. Barn Swallows are deep blue above, with an orange-buff breast and belly. They have russet throats and forehead patches. The rest of the head is deep blue, extending in a line through the eye, giving the birds a masked appearance. Females are slightly duller and shorter-tailed than males. Juveniles look similar to adults, but have much shorter tails.
+  habitat: Barn Swallows need open areas to forage and suitable sites for nesting, now almost always buildings, bridges, or other man-made structures. They generally avoid unbroken forest and very dry areas. Their original habitat was most likely mountainous areas and seacoasts with caves, hollow trees, and rock crevices for nesting. Now that they have adapted to living with humans, they are found in agricultural areas, suburbs, and along highways--anywhere there are open areas and nesting structures, especially if water is close by.
+  behavior: Barn Swallows can often be seen foraging for insects low over fields or water. In bad weather, they sometimes forage on the ground. They gather mud for their nests from mud puddles, although they do not raise their wings when they do this as Cliff Swallows do.
+  diet: Barn Swallows eat mostly flying insects, especially flies, although they occasionally eat berries, seeds, and dead insects from the ground.
+  nesting: While several Barn Swallows may nest near each other, they do not form dense colonies. They are usually monogamous during the breeding season, but extra-pair copulations are common, and new pairs form each spring. Polygyny sometimes occurs, and helpers not only help build and guard the nest but also incubate the eggs and brood the young, although they generally do not feed the young. A few birds still nest in caves, but 99% of the breeding Barn Swallows in Washington now build their nests on eaves, bridges, docks, or other man-made structures with a ledge that can support the nest, a vertical wall to which it can be attached, and a roof. Both members of the pair build the nest--a mass of mud, straw, feathers, and sticks. Barn Swallow nests are relatively untidy. Both members of the pair incubate the four to five eggs for 12 to 17 days, and both feed the young. The young leave the nest 20 to 21 days after hatching.
+  migration_status: Long-distance migrants, Barn Swallows congregate along canals or field edges before they migrate in flocks, mostly along river valleys, to Central and South America.
+  conservation_status: The killing of Barn Swallows for their feathers was one of the issues that led to the founding of the Audubon Society and the passage of the Migratory Bird Treaty Act. These outlawed the killing of birds without the appropriate license and made it illegal to possess even a single feather of a protected bird. The Barn Swallow's close association with humans in Europe goes back over 2,000 years. In North America, the shift from natural to human-made nest sites was nearly complete by the middle of the 20th Century. The Barn Swallow's range has expanded considerably in North America with European settlement, and Barn Swallows are widespread and abundant across their current range. Although they are still common in Washington, Breeding Bird Census data indicate that Barn Swallows have decreased significantly here since 1980.
+  when_where_wa: Barn Swallows begin to arrive in mid- to late April and continue to arrive into May; most leave by mid-September. They are common at lower to moderate elevations throughout the state in residential and agricultural areas, but in migration they may be seen in the mountains. They have been seen in Washington in the winter, but very infrequently.
+photos:
+- file: bars_f_gl_l.jpg
+  caption: 'Females. Note: paler breast and belly.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: bars_gl_l.jpg
+  caption: 'Male. Note: orange breast and belly.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: bars_fl_gt_l.jpg
+  caption: 'In flight. Note: white band across deeply forked tail'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: bars_j_gt_l.jpg
+  caption: 'Juveniles. Note: short tail and yellow gape.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: basw1.mp3
+  credit: null
+maps:
+  wa: hiru.jpg
+  north_america: barsmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', R, C, C, C, C, C, F, U, '', '']
+  puget_trough: [R, R, R, U, C, C, C, C, F, U, R, '']
+  north_cascades: ['', '', '', U, C, C, C, C, F, '', '', '']
+  west_cascades: ['', '', '', F, C, C, C, C, U, R, '', '']
+  east_cascades: ['', '', '', U, C, C, C, C, F, U, R, '']
+  okanogan: ['', '', '', C, C, C, C, C, C, U, '', '']
+  canadian_rockies: ['', '', '', F, C, C, C, C, C, U, '', '']
+  blue_mountains: ['', '', '', '', R, U, U, U, U, U, '', '']
+  columbia_plateau: ['', '', '', C, C, C, C, C, C, U, '', '']
+taxonomy:
+  ebird_code: barswa
+  current_common_name: Barn Swallow
+  current_scientific_name: Hirundo rustica
+  clements_sort: 24187
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/barn_swallow
+  archived: '2026-09-12'

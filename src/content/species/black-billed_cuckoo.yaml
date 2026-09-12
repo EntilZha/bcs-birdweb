@@ -1,0 +1,51 @@
+slug: black-billed_cuckoo
+common_name: Black-billed Cuckoo
+scientific_name: Coccyzus erythropthalmus
+order:
+  name: Cuculiformes
+  slug: cuculiformes
+family:
+  name: Cuculidae
+  slug: cuculidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: |-
+    Closely related to the Yellow-billed Cuckoo but slighter in build, the Black-billed Cuckoo has a smaller, dark bill, a relatively shorter tail with less obvious white spots, and little or no reddish coloration in the wings. Both species frequent groves of hardwood trees where they tend to remain motionless in dense foliage, and are more often detected by their rather similar, loud vocalizations than by sight.
+
+    The Black-billed Cuckoo breeds east of the Continental Divide, from central Alberta and eastern Montana across southern Canada and the Midwest to the Maritime Provinces, south to Virginia, western North Carolina, Missouri, and Kansas. A long-distance migrant, it winters in South America. There are very few records west of the Rockies. Normally a magnet for “eastern” vagrants, California has seen Black-billed Cuckoos only 16 times, and Oregon has no records. Washington’s four records all occurred in a narrow window between 19 June and 1 July. Three were near the eastern edge of the state (Whitman and Pend Oreille counties) and the fourth was in Bremerton (Whatcom County). The most recent was in 1988. British Columbia has about 20 records from the interior of the province between late May and mid-August. Idaho has about a dozen records, and there is some evidence that breeding may have occurred a few times in the southern part of the state.
+
+    *Revised August 2007*
+photos:
+- file: bbcu_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: bbcumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: bkbcuc
+  current_common_name: Black-billed Cuckoo
+  current_scientific_name: Coccyzus erythropthalmus
+  clements_sort: 3243
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black-billed_cuckoo
+  archived: '2026-09-12'

@@ -1,0 +1,77 @@
+slug: arctic_loon
+common_name: Arctic Loon
+scientific_name: Gavia arctica
+order:
+  name: Gaviiformes
+  slug: gaviiformes
+family:
+  name: Gaviidae
+  slug: gaviidae
+status: Accidental visitor
+species_of_concern: false
+sections:
+  general_description: |-
+    In 1985 the American Ornithologists’ Union split the species formerly known as Arctic Loon *(Gavia arctica)* into two separate species, with the Old World form retaining the former name and the form breeding in North America renamed Pacific Loon *(Gavia pacifica)*. The Arctic Loon as newly redefined breeds across northern Eurasia, with a small population in western Alaska, and winters coastally as far south as China and the Mediterranean. While Pacific Loon is a common winter visitor in the Pacific Northwest, the Arctic Loon was not known to occur in the region prior to the split. The two species are very similar; nonetheless birders soon learned how to tell them apart, and Arctic Loons began appearing in Northwest waters, albeit in tiny numbers.
+
+    The most prominent field mark is the large, arching, white panel on the rear flanks, which is actually the white feathering of the thigh. This feather tract is dark in Pacific Loon, with the result that this species in normal resting posture does not have the flank patch. However, *all* species of loons may occasionally show extensive white on the flanks—for example, when birds roll over in the water to preen, exposing the white underparts—so this feature needs to be carefully assessed. Other corroborating characteristics (compared to Pacific Loon) are the Arctic’s somewhat larger size, thicker neck, larger bill with a slightly uptilted appearance, and more squared-off, flat-topped head.
+
+    The first Washington record was a bird on the Columbia River behind Priest Rapids Dam (Grant and Yakima counties), January–April 2000. Winter 2000–2001 brought several sightings on inland marine waters (Kitsap, Snohomish, and Clallam counties), representing at least two and possibly four or more birds. Oregon has two accepted records from the coast, and there is at least one published record from British Columbia.
+
+    *Revised November 2007*
+photos:
+- file: arlo_ck_l.jpg
+  caption: ''
+  credit:
+    name: Christian Kerihuel
+    url: http://www.numeriscopages.com
+  hero: true
+- file: arlo2_ck_l.jpg
+  caption: ''
+  credit:
+    name: Christian Kerihuel
+    url: http://www.numeriscopages.com
+  hero: false
+- file: arlo_w1_gth_l.jpg
+  caption: Winter plumage adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: arlo_w2_gth_l.jpg
+  caption: Winter plumage adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: arlo_w3_gth_l.jpg
+  caption: Winter plumage adult (left) with Red-throated Loon
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: arcloo
+  current_common_name: Arctic Loon
+  current_scientific_name: Gavia arctica
+  clements_sort: 6928
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/arctic_loon
+  archived: '2026-09-12'

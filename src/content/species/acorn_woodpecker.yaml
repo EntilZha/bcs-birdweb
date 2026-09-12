@@ -1,0 +1,67 @@
+slug: acorn_woodpecker
+common_name: Acorn Woodpecker
+scientific_name: Melanerpes formicivorus
+order:
+  name: Piciformes
+  slug: piciformes
+family:
+  name: Picidae
+  slug: picidae
+status: Rare, very local east.
+species_of_concern: false
+sections:
+  general_description: The Acorn Woodpecker has a black back and chest, white belly with black lateral stripes, white rump, and white wing-patches. Its head is patterned in a striking and distinctive 'clown pattern,' with a white forehead, yellowish to white throat, black about the bill, a stripe of black surrounding the eyes and running down to join the black of the nape and back, and white irises that make its eyes especially prominent. The crown of the male is red, that of the female black and red.
+  habitat: Acorn Woodpeckers' habitat is oak country or country where oaks are interspersed with other types of trees. They are most common where several species of oak occur together.
+  behavior: Acorn Woodpeckers have a complicated social structure. They live in family groups of up to a dozen or more individuals and drill small holes in dead snags, utility poles, or sides of buildings. In the fall, they store acorns or other nuts in these holes to provide food for the winter. They work on these 'granaries' over the years, and trees may have up to 50,000 holes! All members of the group defend their granaries, which would be valuable food sources for many animals. Groups typically have a primary granary and one or more secondary ones.
+  diet: About half of the Acorn Woodpecker's diet is acorns, which are especially important in winter. They also eat sap from sapsucker holes or from holes they themselves have drilled and also some fruit, flower nectar, seeds, and insects, especially flying ants.
+  nesting: Each group of Acorn Woodpeckers has 1 to 7 breeding males and 1 to 3 breeding females. The rest of the group do not breed but help raise the young. All eggs are laid in a single nest, which is excavated by both breeders and helpers. Each female lays about 5 eggs, but clutches with more than one laying female can have up to 17 eggs. If there are several breeding females, a bird may destroy another bird's eggs before beginning to lay eggs herself, but once all females are laying, they do not disturb the communal clutch. At first, only breeding females incubate the eggs, but later other group members also incubate. Incubation lasts about 11 days. All group members help brood and feed the young. The young leave the nest after 30 to 32 days, although fledglings return to the nest to roost and feed. Acorn Woodpeckers typically raise one or two broods each year.
+  migration_status: Acorn Woodpeckers generally do not migrate since they have a site-specific food storage system that they enlarge and defend year after year. However populations may wander if local acorn crops fail.
+  conservation_status: Abundant throughout their range, Acorn Woodpecker populations are limited by the availability of acorns and granary sites. Their populations tend to be highly fragmented, and their most significant current threat is habitat degradation. There are few data on population trends in Washington State.
+  when_where_wa: Washington is at the extreme northern edge of the breeding range of the Acorn Woodpecker. They are currently found only in Klickitat County, and are local and irruptive along the Klickitat River in Lyle. They bred there in 1990, but were last seen at this site in early 1992. Acorn Woodpeckers probably breed near Balch Lake, where they have been present since 1990. They have been seen at Fort Simcoe in Yakima County, but not since 1979.
+photos:
+- file: acwo_f_gl_l.jpg
+  caption: 'Female. Note: white, black and red crown.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: acwo_gl_l.jpg
+  caption: 'Male. Note: white and red crown (no black)'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: acwo_fl_gl_l.jpg
+  caption: 'In flight. Note: white wing patch.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: acwo.mp3
+  credit: null
+maps:
+  wa: mefo.jpg
+  north_america: acwomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: acowoo
+  current_common_name: Acorn Woodpecker
+  current_scientific_name: Melanerpes formicivorus
+  clements_sort: 11146
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/acorn_woodpecker
+  archived: '2026-09-12'

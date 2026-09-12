@@ -1,0 +1,46 @@
+slug: white-rumped_sandpiper
+common_name: White-rumped Sandpiper
+scientific_name: Calidris fuscicollis
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Two spring records (both from Reardan, Lincoln County) and one from Dungeness (Clallam County), in early July.
+photos:
+- file: wrsa_w_dp_l.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: wrsamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: whrsan
+  current_common_name: White-rumped Sandpiper
+  current_scientific_name: Calidris fuscicollis
+  clements_sort: 6221
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/white-rumped_sandpiper
+  archived: '2026-09-12'

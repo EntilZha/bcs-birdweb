@@ -1,0 +1,61 @@
+slug: long-eared_owl
+common_name: Long-eared Owl
+scientific_name: Asio otus
+order:
+  name: Strigiformes
+  slug: strigiformes
+family:
+  name: Strigidae
+  slug: strigidae
+status: Uncommon resident, mostly east.
+species_of_concern: false
+sections:
+  general_description: Long-eared Owls are brownish-gray, medium-sized owls with long ear-tufts, hence the name. They have distinctive rufous-orange facial disks. They are mostly gray above, with dark and russet patches at each wrist, conspicuous in flight. Below, wings are mostly buff, and the patches at the wrists are dark. Long-eared owls are barred and streaked with dark brown and rufous on their breasts and bellies. In flight they can be hard to tell from the closely related Short-eared owls, except by behavior and habitat.
+  habitat: Long-eared Owls breed in dense coniferous or broadleaved woodlands with adjacent open areas where they hunt. They are often found in wooded areas along streams and in planted windbreaks. During the winter, they roost in dense vegetation. East of the Cascades this is often in conifers, willows, Russian olives, or junipers, and west of the Cascades in conifers, willows, or ash trees.
+  behavior: Long-eared Owls are not as vocal as most other owls and are rarely heard outside of the breeding season. They hunt mostly at night, although they are sometimes active before dusk, especially when they are feeding young. They are chase-predators and hunt by flying fly back and forth low over the ground. When they locate prey by sound or sight, they swoop down and seize it with their talons. Males perform a zigzag aerial courtship display with intermittent wing-claps. Outside the breeding season, large roosts often form, and courtship typically begins at these roosts.
+  diet: Long-eared Owls eat a variety of small mammals, especially mice and voles. They sometimes also take small birds and reptiles.
+  nesting: Monogamous pairs often form at winter roosts. Long-eared Owls usually nest in abandoned stick nests, often the nests of magpies, crows, ravens, or hawks. On occasion they nest in cavities or brushy tangles. They do not add nesting material. Females lay 2'10 eggs, usually 5-6, and incubate them 26-28 days. During incubation, the male brings food to the female on the nest. After the young hatch, the male alone brings food to the young and to the brooding mother. When brooding ends, the female begins to hunt and to help feed the young. Young owlets venture out of the nest onto nearby branches at about three weeks, and begin taking short flights at about five weeks. The female generally abandons the young about 6 ½ to 8 weeks after they hatch, but the male continues to feed them until they are 10-11 weeks old.
+  migration_status: Long-eared Owls are sometimes considered resident throughout their breeding range, but it is likely that most birds do migrate, especially those in the northern part of their range. They are nomadic at times, usually in response to food shortages.
+  conservation_status: The conservation status of Long-eared Owls is not well known. Populations appear stable in most of North America, although they have declined in some areas due to habitat loss. In many areas, they may benefit from human-created forest fragmentation, which creates open areas for hunting adjacent to wooded areas for nesting. Protection of wooded river corridors and other isolated tree groves, especially in arid areas, is important for their local survival.
+  when_where_wa: Long-eared Owls are rare breeders and uncommon winter visitors in western Washington, but there are breeding records from Whatcom, Skagit, and King Counties. In eastern Washington, Long-eared Owls are fairly common year round. In winter, they are believed to be most common in the wheat country of southeastern Washington, with roosts of up to 50 birds in Walla Walla County. There is a large winter roost in the Moxee Valley (Yakima County). The Lower Crab Creek area in Grant County is a good place to look for them in breeding season.
+photos:
+- file: leow_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: leow_j_tl.jpg_l
+  caption: Juvenile
+  credit:
+    name: Tiffany Linbo
+    url: null
+  hero: false
+audio:
+  file: leow.mp3
+  credit: null
+maps:
+  wa: asot.jpg
+  north_america: leowmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: [R, R, R, R, R, R, R, R, R, R, R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  east_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  okanogan: [R, U, U, U, U, U, U, U, U, U, R, R]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
+  columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
+taxonomy:
+  ebird_code: loeowl
+  current_common_name: Long-eared Owl
+  current_scientific_name: Asio otus
+  clements_sort: 9253
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/long-eared_owl
+  archived: '2026-09-12'

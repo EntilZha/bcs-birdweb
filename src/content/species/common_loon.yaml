@@ -1,0 +1,61 @@
+slug: common_loon
+common_name: Common Loon
+scientific_name: Gavia immer
+order:
+  name: Gaviiformes
+  slug: gaviiformes
+family:
+  name: Gaviidae
+  slug: gaviidae
+status: Common winter. Uncommon inland breeder.
+species_of_concern: true
+sections:
+  general_description: Common Loons are large water birds with thick necks and sharp bills. In breeding plumage, both sexes have striking black heads with white collars, white breasts, and black backs with white checkering. Adults in non-breeding plumage are brownish gray with white throats and breasts, partial white collars, and white around the eyes. Under-parts are white in all plumages. Juvenile plumage is similar to non-breeding.
+  habitat: In the breeding season, Common Loons can be found on large secluded lakes (at least 49 acres in size) with plenty of room for takeoff, deep inlets and bays, and a good supply of small fish. These lakes can be in forested areas in mountains or lowlands. Islands, logs, and floating debris attract nesting loons. In winter, Common Loons are usually found on salt water, typically in shallow areas close to shore. They occasionally winter on fresh water.
+  behavior: In winter, Common Loons are solitary while feeding, but they congregate in loose flocks at night. Before diving, they sometimes swim along the surface with heads partly submerged, looking for prey. When swimming under water, they use only their feet for propulsion.
+  diet: Common Loons generally eat small fish up to 10" long, and also take crustaceans, mollusks, aquatic insects, leeches, and frogs. They may also occasionally eat aquatic plants. They swallow small prey under water and bring larger prey to the surface.
+  nesting: The male and female build the nest very near the water, on the shore or on a small island. The nest, a mound of grasses, twigs, and reeds, is partly hidden by surrounding vegetation, and is often reused from year to year. Common Loons will also use man-made floating nest-sites. The female lays two eggs, and both parents incubate. The young leave the nest only a few days after hatching and can dive and swim underwater at 2-3 days of age. Both parents continue to feed and tend the young, which sometimes ride on their backs.
+  migration_status: Common Loons are medium-distance migrants. They migrate singly or in small flocks, just offshore low over the water. Over land, they fly higher. Peaks for the fall migration are from late August to late November. In the spring, peaks are from late April to early May.
+  conservation_status: It is not known if the population of Common Loons in Washington is increasing, stable, or decreasing. Common Loons have declined in Washington in the last century, but there are no good data on their historic distribution in the state. Records of known nesting have increased in the past 15 years, but this may be due to increased sampling efforts. Because there are known threats and the species is recognized as vulnerable, Common Loons are classified as a state 'sensitive species' by the Washington Department of Fish and Wildlife. The Gap Analysis Project also lists it as a species at risk. Pesticides, mercury contamination, and lead poisoning are all potential threats. Oils spills are also a threat, especially since loons dive rather than fly when they encounter oil slicks. Common Loons avoid densely populated areas, thus development of lakes and the resulting increase in boat traffic have resulted in a decrease in available habitat. Jet skis are a major disturbance to loons in that they are fast, loud, and can maneuver in shallow areas where loons nest. The decline of Common Loons continent-wide has aroused extensive public concern and action, and breeding conservation programs are in effect over much of their range. Many populations have responded to this effort. In Washington, there are 20 confirmed Common Loon nesting locations, and 8-10 nests were found each year in the 1990s. Common Loons do not breed until they are 5 years old, and often not until 7 or older. This delayed breeding results in low productivity, making it harder for the population to rebound from declines.
+  when_where_wa: In winter, Common Loons can commonly be found on marine bays and inlets along the coast. They can also be found on nearby fresh water, albeit less frequently. During migration they are numerous on Puget Sound, Hood Canal, and Willapa Bay. They can also be found on large bodies of water in eastern Washington during migration, and in smaller numbers in winter. Common Loons have nested recently on lakes and reservoirs in Ferry, Okanogan, Douglas, Chelan, Whatcom, and King Counties. Non-breeding adults can be found in the summer in the north Puget Sound area, on the outer coast, and on lakes and reservoirs of Central Washington.
+photos:
+- file: colo_b_jh_l.jpg
+  caption: Adult breeding
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: colo_w_gt_l.jpg
+  caption: 'Adult nonbreeding. Note: thick bill and notched collar.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: colo.mp3
+  credit: null
+maps:
+  wa: gaim.jpg
+  north_america: colomap.gif
+abundance:
+  oceanic: ['', '', '', '', U, '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, U, U, F, C, C, C, C]
+  puget_trough: [C, C, C, C, C, F, F, F, C, C, C, C]
+  north_cascades: [R, R, R, U, U, U, U, U, U, U, R, R]
+  west_cascades: [U, U, U, U, R, R, R, R, R, U, U, U]
+  east_cascades: [C, C, C, C, F, U, U, U, C, C, C, C]
+  okanogan: [U, U, F, F, U, U, U, U, U, F, U, U]
+  canadian_rockies: [U, U, U, F, U, U, U, U, U, U, F, F]
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [F, F, F, F, U, R, R, R, F, F, F, F]
+taxonomy:
+  ebird_code: comloo
+  current_common_name: Common Loon
+  current_scientific_name: Gavia immer
+  clements_sort: 6933
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/common_loon
+  archived: '2026-09-12'

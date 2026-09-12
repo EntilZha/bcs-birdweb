@@ -1,0 +1,70 @@
+slug: red-throated_pipit
+common_name: Red-throated Pipit
+scientific_name: Anthus cervinus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Motacillidae
+  slug: motacillidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One record, from San Juan Island (San Juan County) in September 1979.
+photos:
+- file: rtpi_op_l.jpg
+  caption: ''
+  credit:
+    name: Otto Plantema
+    url: http://www.pbase.com/otto1
+  hero: false
+- file: rtpi_j_tg_l.jpg
+  caption: 'Note: bold streaks on buffy underparts and striped back.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: rtpi_a_do_l.jpg
+  caption: Note reddish throat and streaked back.
+  credit:
+    name: Daniele Occhiato
+    url: http://www.pbase.com/dophoto
+  hero: true
+- file: rtpi_a2_do_l.jpg
+  caption: Note reddish throat and streaked back.
+  credit:
+    name: Daniele Occhiato
+    url: http://www.pbase.com/dophoto
+  hero: false
+- file: rtpi_a3_do_l.jpg
+  caption: ''
+  credit:
+    name: Daniele Occhiato
+    url: http://www.pbase.com/dophoto
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: retpip
+  current_common_name: Red-throated Pipit
+  current_scientific_name: Anthus cervinus
+  clements_sort: 31870
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/red-throated_pipit
+  archived: '2026-09-12'

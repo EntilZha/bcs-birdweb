@@ -1,0 +1,73 @@
+slug: purple_martin
+common_name: Purple Martin
+scientific_name: Progne subis
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Hirundinidae
+  slug: hirundinidae
+status: Fairly common but local summer west.
+species_of_concern: true
+sections:
+  general_description: The Purple Martin is the largest swallow in North America and one of the largest in the world. Adult males are a solid, glossy, purplish-blue both above and below. Females are colored similarly but less brightly above and have gray napes and foreheads. Below, females have brownish-gray breasts and light gray bellies. Juveniles look much like females, but are streaked underneath. The tails of Purple Martins are slightly forked. In flight, European Starlings can be confused with Purple Martins, but the narrower wings, forked tails, and typical swallow flight of martins distinguish the two. The only other swallow in Washington with a dark chest and light belly like the female Purple Martin is the Cliff Swallow, but the Cliff Swallow is much smaller and has a square tail and more rounded wings.
+  habitat: Open land near water is the main Purple Martin nesting and foraging habitat in Washington State. Purple Martins can be found in developed areas, along waterfronts, and in fields, wetlands, and clearings.
+  behavior: Purple Martins forage almost entirely in flight, both low over water and quite high. In bad weather they occasionally forage on the ground.
+  diet: Although claims of Purple Martins eating 2,000 mosquitoes a day have not been substantiated, Purple Martins do eat flying insects almost exclusively.
+  nesting: Purple Martins form monogamous pairs that last through the nesting season, but not from season to season. They are cavity nesters that historically nested in tree cavities, old woodpecker holes, rotted pilings, and other natural cavities. Now most Purple Martins nest in man-made nest boxes. Eastern colonial populations are well known for nesting in large group nest boxes ('apartment buildings'), but Washington's martins will not use these group boxes and prefer to nest singly in boxes over water. Within the nest box, both members of the pair build a nest cup of leaves, grass, and twigs, with mud at the base of the entrance hole. The female incubates 4 to 5 eggs for 15 to 18 days, possibly with some incubation by the male, and both members of the pair feed the young. The young leave the nest at 28 to 29 days, and the parents continue to feed them for 5 to 7 more days. Some young return to the nest at night.
+  migration_status: Purple Martins are long-distance migrants. Birds gather in large pre-migratory groups in late summer before heading to South America's Amazon Basin. They return to Washington mid-April to May.
+  conservation_status: Purple Martins have a long and close association with humans. Many Native American groups traditionally hung gourds in their villages for martins to nest in. Purple Martins were formerly common and widespread in western Washington, with reports of thousands lining power lines near Seattle's Green Lake in late summer. They are still common in the eastern United States, but Washington's population has declined dramatically in the past 50-60 years. This decline has been attributed to the presence of European Starlings and House Sparrows, both introduced cavity-nesters that compete with Purple Martins for limited nest boxes. Additional threats to the population include insecticides (50,000 were killed by pesticides in Brazil in 1989) and prolonged spring and summer cold spells when insects can't fly. The Purple Martin is listed as a candidate species by the Washington Department of Fish and Wildlife and is on the Washington Gap Analysis at-risk list. Conservationists have put up nest boxes that are resistant to House Sparrows and starlings, placing the nest boxes over water and plugging up entrances to keep invaders out until the martins arrive. Through the dedication of volunteers who closely monitor the species, the small population of Purple Martins in western Washington is slowly growing.
+  when_where_wa: Strictly a western Washington species, the Purple Martin is the state's least common swallow. Purple Martins can be found from mid-April to late August in localized areas, mostly over water. Small populations use nest boxes or pilings around the Puget Sound, for example on Vashon Island (King County), in Tacoma (Pierce County), on Shilshole Bay and the Duwamish River in Seattle (King County), at Port Townsend (Jefferson County), and on Camano Island (Island County). They also can be found nesting in natural cavities on Fort Lewis (Pierce County) and on San Juan Island (San Juan County). Others can be found along the Columbia Estuary (Pacific County).
+photos:
+- file: puma_fl_gl_l.jpg
+  caption: 'Male in flight. Note: dark blue body, and slightly forked tail.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: puma_f_jh_l.jpg
+  caption: 'Female. Note: bluish wings, gray collar, and forehead.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: puma_ffl_gl_l.jpg
+  caption: 'Female in flight. Note: blue on head and dingy underparts.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: puma_gl_l.jpg
+  caption: 'Male. Note: dark blue body.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: puma1.mp3
+  credit: null
+maps:
+  wa: prsu.jpg
+  north_america: pumamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', R, R, R, R, R, '', '', '', '']
+  puget_trough: ['', '', '', U, F, F, F, F, R, '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', R, U, F, F, F, U, '', '', '']
+  east_cascades: ['', '', '', R, R, R, R, R, R, '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: purmar
+  current_common_name: Purple Martin
+  current_scientific_name: Progne subis
+  clements_sort: 24081
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/purple_martin
+  archived: '2026-09-12'

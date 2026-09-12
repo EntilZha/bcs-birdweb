@@ -1,0 +1,67 @@
+slug: red-necked_grebe
+common_name: Red-necked Grebe
+scientific_name: Podiceps grisegena
+order:
+  name: Podicipediformes
+  slug: podicipediformes
+family:
+  name: Podicipedidae
+  slug: podicipedidae
+status: Common winter west. Fairly common inland breeder.
+species_of_concern: true
+sections:
+  general_description: A mid-sized grebe with a long, heavy bill and thick neck, the Red-necked Grebe is the only grebe in Washington with a red neck and a white chin in breeding plumage. Breeding plumage is characterized by a dark body, red neck, white cheeks, and black crown. Juveniles and adults in non-breeding plumage are an overall grayish-brown.
+  habitat: Red-necked Grebes are found in distinctly different habitats at different times of year. During summer they nest on large freshwater lakes, sloughs, and reservoirs. They prefer areas with stable water levels and require emergent vegetation to anchor their floating nests. During winter they are found predominantly on salt water, most commonly in protected bays, marshes, and coasts. However in winter they can also be found miles offshore.
+  behavior: Although large rafts of these birds can be seen in the Atlantic in winter, Washington's wintering Red-necked Grebes are solitary. During the breeding season, Red-necked Grebes are noisy and conspicuous. Like other grebes, Red-necked Grebes have a complex courtship, with many detailed displays. In the breeding season Red-necked Grebes are highly territorial against other species of water birds. They will defend their territories with underwater attack-dives.
+  diet: In the winter small fish make up most of the diet. In summer insects become more important as a food source.
+  nesting: Red-necked Grebes build their nests in shallow water with marsh vegetation. Both male and female help build a floating nest made of plant material and anchored to emergent vegetation. Typically, the female lays two to four eggs. Some nests have many more eggs, but it has been suggested that these large clutches are the product of more than one female. The young are fed by both parents and often ride on their backs. Shortly after hatching, they can swim by themselves.
+  migration_status: When migrating, Red-necked Grebes fly over land at night and over coastlines by day. They arrive on their breeding territories in April and leave in September. Migration is short distance, typically between fresh and salt water. In the fall they stop over at molt sites en route to their wintering areas, where they molt and grow new feathers before they move on.
+  conservation_status: While populations appear stable, status is not well known. Both breeding and wintering habitats have experienced and are vulnerable to degradation and destruction. Red-necked Grebes appear to be sensitive to disturbance during nesting, and stable water levels are preferred over fluctuating ones, such as those regulated by dams. While no clear population trends have been documented, Red-necked Grebes have been listed as a species of special concern in some areas. A positive note is that Red-necked Grebes readily use artificial wetlands.
+  when_where_wa: Red-necked Grebes are common breeders in the northeastern part of the state, especially in the lower river valleys. Valleys with confirmed nesting records include Curlew Creek, Kettle River, Columbia River, Deep Creek, Cedar Creek, Colville River, Sanpoil River, and Pend Oreille River. Throughout these valleys Red-necked Grebes are found on sloughs, ponds, lakes, and reservoirs, not on moving water. During winter they are common along the coast of Washington and in Puget Sound. They are seen fairly frequently in Lake Washington and several weeks annually in Lake Sammamish ((late November through December). Locations are American Lake, O.O. Denny Park, Sand Point, Kirkland, Marymoor Park, and Lake Sammamish State Park. Look for them in these same locations in March and April.
+photos:
+- file: rngr_b2_gth_l.jpg
+  caption: Adult breeding plumage
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: rngr_b_gth_l.jpg
+  caption: Adult breeding plumage
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rngr_b_gt_l.jpg
+  caption: Adult breeding plumage
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: rngr.mp3
+  credit: null
+maps:
+  wa: pogr.jpg
+  north_america: rngrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, R, '', '', R, U, U, U, U]
+  puget_trough: [C, C, C, F, U, '', R, F, F, C, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [R, R, R, '', '', '', '', '', '', R, R, R]
+  east_cascades: [R, R, R, U, U, '', '', U, U, U, R, R]
+  okanogan: [R, R, R, U, U, U, U, U, U, F, U, R]
+  canadian_rockies: ['', '', '', U, U, U, U, U, U, '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', R, R, R, R, R, R, U, U, R]
+taxonomy:
+  ebird_code: rengre
+  current_common_name: Red-necked Grebe
+  current_scientific_name: Podiceps grisegena
+  clements_sort: 6869
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/red-necked_grebe
+  archived: '2026-09-12'

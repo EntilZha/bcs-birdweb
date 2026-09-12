@@ -1,0 +1,64 @@
+slug: redwing
+common_name: Redwing
+scientific_name: Turdus iliacus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Turdidae
+  slug: turdidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: A Redwing wintering in a neighborhood in Olympia (Thurston County) was seen by hundreds of birders between 20 December 2004 and 14 March 2005.
+photos:
+- file: redw_kb_l.jpg
+  caption: ''
+  credit:
+    name: Keith Brady
+    url: http://www.pbase.com/slickslug
+  hero: false
+- file: redw_dg_l.jpg
+  caption: ''
+  credit:
+    name: Denny Granstand
+    url: http://www.granstrand.net/gallery/
+  hero: false
+- file: redw_a_ja_l.jpg
+  caption: ''
+  credit:
+    name: John Anderson
+    url: http://www.pbase.com/crail_birder/root
+  hero: false
+- file: redw_a2_ja_l.jpg
+  caption: ''
+  credit:
+    name: John Anderson
+    url: http://www.pbase.com/crail_birder/root
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: redwin
+  current_common_name: Redwing
+  current_scientific_name: Turdus iliacus
+  clements_sort: 28497
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/redwing
+  archived: '2026-09-12'

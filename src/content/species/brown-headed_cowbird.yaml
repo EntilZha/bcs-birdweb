@@ -1,0 +1,73 @@
+slug: brown-headed_cowbird
+common_name: Brown-headed Cowbird
+scientific_name: Molothrus ater
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Icteridae
+  slug: icteridae
+status: Common summer resident. Uncommon winter.
+species_of_concern: false
+sections:
+  general_description: The Brown-headed Cowbird is well known--and widely disliked--for its practice of laying eggs in the nests of other species. Males are black birds with dull brown heads. Adult males are shiny black, while first-year males are duller black. Females are much smaller and solid brown with a whitish throat and light streaking on their undersides. Juveniles look similar to females, but are more heavily streaked with lighter bellies and light edging on their wing feathers. Cowbirds have more finch-like conical beaks than other blackbirds.
+  habitat: Brown-headed Cowbirds forage in open areas and breed in open woodlands or scattered trees, so they are most common at edge areas where they can be close to both types of habitat. They are particularly common in streamside thickets and woods adjacent to agricultural fields, although they can be found in most habitats with the exception of the forest interior. Historically, they inhabited short-grass prairies, but with development, agriculture, and forest fragmentation, they have been able to expand their range significantly and now prefer human-modified habitats.
+  behavior: Historically, Brown-headed Cowbirds probably followed herds of bison, walking behind them to take advantage of food kicked up in the bison's wake. Now they follow cattle and other large grazers in much the same way. They almost always forage on the ground, but also lurk about in trees and bushes, mostly watching quietly for nests to parasitize.
+  diet: During the summer, about half of the Brown-headed Cowbirds' diet is made up of seeds, and the other half consists of insects and other invertebrates. Their winter diet is made up of more than 90% seeds and waste grain. Females also eat eggshells from the nests where they lay their eggs and mollusk shells, especially during the breeding season. This practice may provide the calcium they need to produce the large number of eggs they lay.
+  nesting: 'Brown-headed Cowbirds have unusual breeding behavior: they never build nests or raise their own young. Males typically arrive on the breeding grounds before the females. Pairs are generally monogamous. Females lay eggs in other birds'' nests and leave the rearing to other species. They find nests to parasitize by looking for birds building nests, either by walking along the ground, perching quietly in shrubs or trees, or making noisy flights back and forth, possibly to flush potential hosts. The female generally chooses an open cup-nest to parasitize, and usually lays one egg per nest. She waits to lay the egg until the host bird has at least one egg in its nest, and often removes one egg from the nest before laying her own. She continues the process over a period of about a month and can lay up to 40 eggs a season. Incubation time is short, 10 to 12 days, which allows the young cowbird to get a head start in the nest. Young cowbirds grow rapidly, giving them a competitive advantage over the other young in the nest. Young cowbirds usually leave the nest after 8 to 13 days, but are not fully independent from the hosts until they are about 25 to 39 days old. Then they typically form small flocks with other juveniles. Over 220 species have been observed with Brown-headed Cowbird eggs in their nests, and at least 144 species have raised Brown-headed Cowbird young to the fledgling stage, often at the expense of their own young.'
+  migration_status: Brown-headed Cowbirds are typically short- to medium-distance migrants, but may be present year-round in some parts of their range, including eastern Washington feedlots. In western Washington, huge numbers are seen in the Kent area (King County). They often migrate in flocks with other blackbird species.
+  conservation_status: Brown-headed Cowbirds are presently far more abundant and widespread in North America than they were historically. They are relative newcomers to Washington. Although they may have been in the state in small numbers, they are generally considered to have arrived in the Columbia Basin in the late 1800s, and were regularly seen in western Washington by 1955. By 1958 they were breeding in western Washington. Development and forest fragmentation have allowed Brown-headed Cowbirds to enter new areas and exploit new host-species. A cowbird in the nest typically means less food for the host's young, as the cowbird chick is larger and more demanding. Some, or all, of the host's own young usually die as a result of lack of resources. This has had a significant impact on some species that are common cowbird hosts. Some species, including Cedar Waxwings, Gray Catbirds, Bullock's Orioles, American Robins, and jays actually recognize and eject cowbird eggs when they appear in their nests. They might instead build a new nest over the top of the old one with the cowbird egg. Many other species are not so fortunate and Brown-headed Cowbirds are considered one of the most important causes of Songbird decline in North America. The Yellow Warbler and the Song Sparrow are the two most often parasitized species in the United States. There has been a significant decline in the cowbird population in Washington between 1966 and 2002, although they are still common and widespread.
+  when_where_wa: Brown-headed Cowbirds are generally summer residents in appropriate habitat throughout Washington, arriving in mid-April. Most leave by September, but some may overwinter in the Puget Trough. You can typically find them at feedlots with flocks of other blackbirds, in coastal areas, or along the Columbia River east of the Cascades.
+photos:
+- file: bhco_jh_l.jpg
+  caption: Male
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: bhco_f_gl_l.jpg
+  caption: 'Female. Note: plain brown head, large bille, and pale throat.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: bhco_j_tg_l.jpg
+  caption: Juvenile (with Dark-eyed Junco)
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: bhco_fl_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: BHCO01.mp3
+  credit: null
+maps:
+  wa: moat.jpg
+  north_america: bhcomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, U, C, C, C, C, C, F, U, R, R]
+  puget_trough: [U, U, U, C, C, C, C, F, F, F, U, U]
+  north_cascades: [R, R, R, F, C, C, C, C, R, R, R, R]
+  west_cascades: [R, R, R, U, C, C, C, C, F, U, R, R]
+  east_cascades: [R, R, R, U, C, C, C, C, C, U, R, R]
+  okanogan: ['', '', '', U, C, C, C, '', '', '', '', '']
+  canadian_rockies: ['', '', '', F, F, F, F, F, '', '', '', '']
+  blue_mountains: ['', '', '', R, F, C, C, C, C, U, R, '']
+  columbia_plateau: [U, U, U, C, C, C, C, U, U, U, U, U]
+taxonomy:
+  ebird_code: bnhcow
+  current_common_name: Brown-headed Cowbird
+  current_scientific_name: Molothrus ater
+  clements_sort: 33833
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/brown-headed_cowbird
+  archived: '2026-09-12'

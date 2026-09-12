@@ -1,0 +1,61 @@
+slug: sooty_shearwater
+common_name: Sooty Shearwater
+scientific_name: Puffinus griseus
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Procellariidae
+  slug: procellariidae
+status: Common pelagic, warmer winter months.
+species_of_concern: false
+sections:
+  general_description: The Sooty Shearwater has a dark body with silvery underwings. It is similar in appearance to the Short-tailed Shearwater. Consult a field guide to distinguish between the two.
+  habitat: Sooty Shearwaters are widespread at sea and concentrate around upwellings, where cold and warm water masses meet, and over the continental shelf in cooler waters. They may come close to shore where the water is deep. They breed in the far Southern Hemisphere, on islands around Australia, New Zealand, and southern South America, where there is diggable soil for burrows, or rock crevices in which to situate nests.
+  behavior: In calm weather, Sooty Shearwaters fly low over the ocean's surface with quick, stiff wing-beats. On windy days, they glide over the waves. They are often found in groups of hundreds or thousands, flying in long lines or grouped tightly together on the water. They plunge into the water from a few feet above the surface and swim under water, using their wings to propel themselves. They also dive from the surface, taking prey at surface level, or just below. They sometimes feed near dolphins, whales, or other seabirds.
+  diet: In the northern Pacific, Sooty Shearwaters feed mostly on small fish, but they also eat crustaceans, shrimp, squid, and jellyfish.
+  nesting: A colony nester, the Sooty Shearwater nests in the far Southern Hemisphere. Birds do not breed until they are 5-9 years old. The breeding season lasts from September to May, and during this time, the birds are most active in the colonies at night. The nest is placed in a burrow dug in the soil by both parents. Alternatively, the nest is built in a natural rock crevice. The burrow can be up to ten feet long with a loose nest of grass and leaves at the end of it. Both parents incubate the single egg for 7-8 weeks. Once the egg hatches, both parents feed the young for almost 14 weeks, after which it leaves the island and heads out to sea.
+  migration_status: While some non-breeders are present off the Pacific Coast in all seasons, the breeding adults head north in April and May, on their way to the north Pacific where they spend the non-breeding season. The migration occurs in waves of age classes, with the sub-adults moving in the first wave, breeding adults next, and finally the non-breeding adults and fledglings last.
+  conservation_status: Along with the Short-tailed Shearwater, the Sooty Shearwater is one of the most numerous shearwaters. The total population is probably in the tens of millions. In recent years however, numbers off parts of the West Coast have declined significantly. It is speculated that this decline may be as a result of the rise in sea surface temperatures.
+  when_where_wa: Found in open ocean and coastal regions, the Sooty Shearwater is the most abundant shearwater, with huge flocks often numbering in the thousands, especially in the fall. It is the only shearwater that can be seen from shore along the Washington Coast. In spring, summer, and fall, Sooty Shearwaters are very common along the outer coast, although they are very rare in the winter. Offshore birding trips are the best way to see Sooty Shearwaters, but during the fall migration or following an onshore storm, they can be seen from shore off the north jetty at the mouth of the Columbia River (Pacific County) or in the Strait of Juan de Fuca.
+photos:
+- file: soshdp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+- file: sosh2dp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+audio:
+  file: SOSH01.mp3
+  credit: null
+maps:
+  wa: pugr.jpg
+  north_america: soshmap.gif
+abundance:
+  oceanic: ['', '', R, C, C, C, C, C, C, C, R, R]
+  pacific_northwest_coast: ['', '', R, U, C, C, C, C, C, C, R, R]
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: sooshe
+  current_common_name: Sooty Shearwater
+  current_scientific_name: Ardenna grisea
+  clements_sort: 7213
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/sooty_shearwater
+  archived: '2026-09-12'

@@ -1,0 +1,61 @@
+slug: spruce_grouse
+common_name: Spruce Grouse
+scientific_name: Falcipennis canadensis
+order:
+  name: Galliformes
+  slug: galliformes
+family:
+  name: Phasianidae
+  slug: phasianidae
+status: Uncommon resident northeast.
+species_of_concern: false
+sections:
+  general_description: The Spruce Grouse is a medium-sized, stocky, chicken-like bird with a short neck and a short tail. The female is overall gray or rufous, and cryptically patterned. The male is similar, but has red eyebrows and a black throat. The male also has a black tail with white spots that are distinctive when the tail is fanned in display. His body is a bolder black than the female's, with white spots on the body and white lines on the face
+  habitat: Spruce Grouse live in dense pine and spruce woods with mossy ground in northern montane environments. They are roughly distributed in an elevational gradient with Ruffed and Blue Grouse, with Spruce Grouse occupying the highest elevations, typically above 4,000 feet in Washington, although there is a wide altitudinal overlap.
+  behavior: They are often found in small flocks, which in summer are usually family groups. They are noted for their boldness with humans, often feeding on berries or spruce needles mere feet from observers, a behavior that has earned them the nickname 'fool-hen.' Males display during the breeding season by beating the air with their wings while walking along a tree trunk or while in flight, resulting in muffled thumping sounds.
+  diet: Spruce Grouse feed on the ground in the summer and in trees in the winter. In the winter they eat conifer needles, mostly from pine or spruce. In other seasons they supplement the diet of needles with fresh, green shoots and leaves, berries, flowers, insects, snails, and fungi. Young birds eat mostly insects.
+  nesting: One male mates with several females, and the females provide all the parental care. The nest is built on the ground, a shallow depression under dense cover, lined with a few needles and leaves. The female lays and incubates 5-7 eggs. The young leave the nest shortly after hatching and find their own food, but the female continues to tend the young, keeping them warm at night and in cool weather.
+  migration_status: Most Spruce Grouse do not migrate, but some do move short distances (fewer than 10 miles) between separate summer and winter ranges. They migrate on foot, and females are more likely to migrate, and go farther, than males.
+  conservation_status: Local populations fluctuate in numbers and may have declined in the southern portions of their range. These fluctuations are primarily in response to forest maturation, with predation pressure also having some influence. Spruce Grouse are adapted to forest fires, which create small patches of habitat at various ages. Clear cuts can mimic this effect, if they are small and interspersed with multiple-aged stands. Large clear cuts and even aged stands can have a significant negative impact on the population.
+  when_where_wa: Spruce Grouse are uncommon in northern Washington east of the Cascade crest. They can be found west of the Cascades in Whatcom County and northern Skagit County. They are rare at high elevations in suitable forests along the Cascade crest, south into Yakima County. Most sightings are in Okanogan, Ferry, Stevens, and Pend Oreille Counties. Many experts claim that they do not occur in the Olympic Mountains, although there is some equivocal evidence to the contrary. They also occur in very low numbers in the southern Cascades, but are easily confused with Blue Grouse which are more common in that region.
+photos:
+- file: spgr_jh_l.jpg
+  caption: 'Male. Note: dark neck and dark tail.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: spgr_f_jh_l.jpg
+  caption: 'Female. Note: strong barring overall.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: spgr.mp3
+  credit: null
+maps:
+  wa: deca.jpg
+  north_america: spgrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: [U, U, U, U, U, U, U, U, U, U, U, U]
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: sprgro
+  current_common_name: Spruce Grouse
+  current_scientific_name: Canachites canadensis
+  clements_sort: 1406
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/spruce_grouse
+  archived: '2026-09-12'

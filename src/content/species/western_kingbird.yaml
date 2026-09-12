@@ -1,0 +1,73 @@
+slug: western_kingbird
+common_name: Western Kingbird
+scientific_name: Tyrannus verticalis
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Tyrannidae
+  slug: tyrannidae
+status: Common summer east. Rare west.
+species_of_concern: false
+sections:
+  general_description: Except for the Tropical Kingbird (a rare visitor in fall), the Western Kingbird is the largest flycatcher in Washington. It is light gray-green above with darker wings and a black tail with white outer edges. Its breast is light gray, and its belly and underwings are bright yellow. It has red feathers in its crown that can be seen only when it displays.
+  habitat: Western Kingbirds inhabit open areas with scattered trees or utility poles for nesting. They are especially common around ranch buildings and corrals where perches are plentiful.
+  behavior: Aggressive and conspicuous, Western Kingbirds can easily be found perching on fence wires all over eastern Washington. They wait on these perches and then make quick flights out to grab prey from the air or off the ground. They commonly hover over a field and then drop to the ground after prey.
+  diet: Insects, both flying and crawling, make up the majority of the Western Kingbird's diet. The birds also eat small berries and other fruit.
+  nesting: In Washington, Western Kingbirds usually nest in a Ponderosa pine or on a utility pole next to a transformer. They also nest on building ledges, in sheds, or in other birds' nests. Unlike Eastern Kingbirds, they do not need water nearby to nest. Monogamous pairs are formed after the male performs an elaborate display flight, twisting and flipping through the air. The female builds a cup of grass, weeds, twigs, and plant fibers, and lines it with feathers, plant down, and hair. She incubates three to four eggs for about two weeks. Both parents feed the young, which leave the nest at 16 to 17 days. The parents continue to feed the young for another two to three weeks.
+  migration_status: Western Kingbirds usually arrive in Washington in late April or early May. They leave for southern Mexico and Central America in August, traveling alone or in small flocks.
+  conservation_status: Western Kingbirds are more widespread across eastern Washington than Eastern Kingbirds because, unlike Eastern Kingbirds, they are not restricted to areas near water. They have adjusted well to increased development in their breeding habitat, making use of man-made structures for perching and nesting. During the 20th Century, they expanded their range eastward and have increased in number across much of their range, including Washington. At one time they were more common in western Washington, but numbers have declined as the prairie habitat has disappeared. Pesticides are a concern across much of their range and have been detected in the blood of many Western Kingbirds. However there have been no signs of eggshell thinning. The Breeding Bird Survey shows a small, not statistically significant decline in Washington between 1980 and 2002.
+  when_where_wa: Western Kingbirds are common from May to August in the open lowlands of eastern Washington, especially in farmland. In western Washington, they are rare breeders, with breeding confirmed in Pierce, Skagit, and Whatcom Counties. Migrants can also be seen rarely throughout western Washington including the outer coast during the spring and fall.
+photos:
+- file: weki_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: weki_gth_l.jpg
+  caption: 'Note: whitish throat and breast.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: weki_gl_l.jpg
+  caption: 'Note: shorter bill, shorter tail and longer wings (compared to Tropical Kingbird)'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: weki_fl_gl_l.jpg
+  caption: 'Note: black tail with white outer tail feathers.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: WEKI01.mp3
+  credit: null
+maps:
+  wa: tyve.jpg
+  north_america: wekimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', R, R, R, R, '', '', '', '', '']
+  north_cascades: ['', '', '', '', R, R, R, '', '', '', '', '']
+  west_cascades: ['', '', '', R, R, R, '', '', '', '', '', '']
+  east_cascades: ['', '', '', R, U, U, U, U, R, '', '', '']
+  okanogan: ['', '', '', U, C, C, C, U, '', '', '', '']
+  canadian_rockies: ['', '', '', U, U, U, U, U, '', '', '', '']
+  blue_mountains: ['', '', '', U, U, U, U, U, '', '', '', '']
+  columbia_plateau: ['', '', '', F, C, C, C, F, R, '', '', '']
+taxonomy:
+  ebird_code: weskin
+  current_common_name: Western Kingbird
+  current_scientific_name: Tyrannus verticalis
+  clements_sort: 17467
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/western_kingbird
+  archived: '2026-09-12'

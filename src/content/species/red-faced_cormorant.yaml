@@ -1,0 +1,52 @@
+slug: red-faced_cormorant
+common_name: Red-faced Cormorant
+scientific_name: Phalacrocorax urile
+order:
+  name: Pelecaniformes
+  slug: pelecaniformes
+family:
+  name: Phalacrocoracidae
+  slug: phalacrocoracidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: One bird seen at mouth of Elwha River in May 1999.
+photos:
+- file: rfco_b_gt_l.jpg
+  caption: Adult breeding plumage
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: rfco_fl_gt_l.jpg
+  caption: Adult breeding plumage in flight
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: rfcomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: refcor
+  current_common_name: Red-faced Cormorant
+  current_scientific_name: Urile urile
+  clements_sort: 7390
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/red-faced_cormorant
+  archived: '2026-09-12'

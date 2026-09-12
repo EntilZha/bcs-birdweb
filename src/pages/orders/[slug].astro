@@ -1,0 +1,63 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import Prose from "../../components/Prose.astro";
+
+export async function getStaticPaths() {
+  const orders = await getCollection("orders");
+  const species = await getCollection("species");
+  const families = await getCollection("families");
+  return orders.map((entry) => {
+    const members = species.filter((s) => s.data.order.slug === entry.id);
+    const familySlugs = [...new Set(members.map((s) => s.data.family.slug))];
+    return {
+      params: { slug: entry.id },
+      props: {
+        entry,
+        // A type predicate, not a plain filter: `.filter(f => f.data !== null)` does not
+        // narrow the element type, so every use of family.data below would be nullable.
+        families: familySlugs
+          .map((slug) => ({
+            slug,
+            data: families.find((f) => f.id === slug)?.data ?? null,
+            count: members.filter((m) => m.data.family.slug === slug).length,
+          }))
+          .filter((f): f is typeof f & { data: NonNullable<typeof f.data> } => f.data !== null),
+        total: members.length,
+      },
+    };
+  });
+}
+
+const { entry, families, total } = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+
+<Layout title={`${entry.data.name} — BirdWeb`} description={entry.data.description.slice(0, 180)}>
+  <nav class="text-xs text-black/55 mb-4">
+    <a href={`${base}birds/`} class="hover:text-brand hover:underline">Birds</a>
+  </nav>
+
+  <h1 class="text-3xl font-bold text-brand">{entry.data.name}</h1>
+  <p class="text-black/65 mt-1">
+    {total} species in Washington, in {families.length} famil{families.length === 1 ? "y" : "ies"}.
+  </p>
+
+  {entry.data.description && (
+    <div class="mt-4 max-w-3xl rounded-2xl bg-white ring-1 ring-black/5 p-5">
+      <Prose text={entry.data.description} />
+    </div>
+  )}
+
+  <ul class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3 p-0 list-none">
+    {families.map((family) => (
+      <li>
+        <a href={`${base}families/${family.slug}/`} class="block h-full rounded-2xl bg-white ring-1 ring-black/5 p-5 shadow-sm transition hover:shadow-md active:scale-[0.99]">
+          <h2 class="font-bold text-brand">{family.data.common_name ?? family.data.name}</h2>
+          <p class="text-sm italic text-black/55">{family.data.name}</p>
+          <p class="mt-2 text-xs text-black/50">{family.count} species</p>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Layout>

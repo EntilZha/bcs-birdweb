@@ -1,0 +1,53 @@
+slug: bar-tailed_godwit
+common_name: Bar-tailed Godwit
+scientific_name: Limosa lapponica
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: occasional spring/fall migrant
+species_of_concern: true
+sections:
+  general_description: A rare migrant in Washington, the Bar-tailed Godwit is distinctive in its breeding plumage. It has an unstreaked, rufous breast, dark legs, and mottled brown back. The head is lighter rufous and black, and the bill is long with a slight up-curve. In winter plumage, the Bar-tailed Godwit is mottled gray-brown overall. Juveniles and adults in non-breeding plumage can be difficult to distinguish from the more common Marbled Godwit. The Bar-tailed has relatively shorter legs and longer wings than the Marbled, and a very pale whitish lower breast and belly. When the Bar-tailed is standing, the wing-tips extend beyond the tail. The female's bill is longer than the male's. Rarely seen spring birds are typically in breeding plumage, while fall birds are usually in non-breeding plumage. Many are juveniles, especially during the latter part of the migration period.
+  habitat: Bar-tailed Godwits nest in rolling tundra with hummocks and low shrubs. During migration and winter, they are found in tidal mudflats along the coast.
+  behavior: Range-wide, Bar-tailed Godwits are typically found in large flocks during migration and winter. In Washington, they are usually seen singly or in flocks with Marbled Godwits. They forage by walking slowly and probing deep in the mud with their long, sensitive bills. The female has a longer bill and can forage in deeper water than the male.
+  diet: On the breeding grounds, insects are the main diet, supplemented at times with seeds and berries. In coastal areas, Bar-tailed Godwits eat crustaceans, mollusks, worms, and other aquatic invertebrates.
+  nesting: Bar-tailed Godwits first breed at the age of two. Males defend territories and attract mates with an aerial display high over their nesting habitat in the tundra. The nest is located on the ground, often on a raised hummock. The nest itself is a shallow scrape lined with grass, moss, and lichen. Both parents help incubate the four eggs for about 21 days. The young leave the nest soon after hatching, and the parents lead them to a marshy area where they find their own food. Both parents tend and protect the young, which fledge at about 30 days.
+  migration_status: Bar-tailed Godwits nest across Europe and Asia, and a population has crossed the Bering Strait and nests in Alaska. They are long-distance migrants, wintering from Southeast Asia south to Australia and New Zealand. During migration some birds may wander to the coasts of North America.
+  conservation_status: The Canadian Wildlife Service estimates the worldwide Bar-tailed Godwit population at 1,345,000 birds, with 100,000 of those nesting in North America. Reports of this rare visitor have been increasing in Washington, but it is not known if this is a true increase, or a reflection of increased observation. (The number of wintering Marbled Godwits also seems to be increasing.)
+  when_where_wa: A rare visitor, the Bar-tailed Godwit is usually found during migration on the outer coast at places such as Ocean Shores (Grays Harbor County) and Tokeland (Pacific County), or sometimes at Blaine, (Whatcom County), or in the Strait of Juan de Fuca at Dungeness Spit (Clallam County). One was sighted on the mudflats at the Lincoln Street wetlands in Tacoma (Pierce County). The first record was in 1931, and the second wasn't until 1972. Sightings now average about two a year in the Pacific Northwest. Bar-tailed Godwits are more likely to be seen in the fall, and are reported three times as often in this season as in spring. Fall records have ranged from August through October, and spring records from late April through mid-June. A Bar-tailed Godwit wintered at Tokeland in 2001-2002.
+photos:
+- file: btgo_w_dp_l.jpg
+  caption: Note pale color, defined supercilium, and long primary projection.
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio: null
+maps:
+  wa: lila.jpg
+  north_america: bargmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, '', '', '', '', '', R, R, R, R, R, '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: batgod
+  current_common_name: Bar-tailed Godwit
+  current_scientific_name: Limosa lapponica
+  clements_sort: 6033
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/bar-tailed_godwit
+  archived: '2026-09-12'

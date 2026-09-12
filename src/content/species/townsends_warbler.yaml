@@ -1,0 +1,67 @@
+slug: townsends_warbler
+common_name: Townsend's Warbler
+scientific_name: Dendroica townsendi
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: Common summer resident. Uncommon winter west.
+species_of_concern: false
+sections:
+  general_description: Townsend's Warblers are distinctive warblers with conspicuous patterns of high contrast. They have greenish backs and gray wings, with two white wing-bars on each wing. Males have alternating black and yellow stripes on their heads. The black stripes across the eyes have yellow spots directly under the eyes. They have black throats and yellow breasts with black streaks on the sides. Their white outer tail feathers are conspicuous in flight. Females look similar to males, but have light throats and olive, rather than black, stripes on their heads. Juveniles look similar to adult females. In parts of Washington, Townsend's Warblers hybridize with Hermit Warblers, resulting in birds with plumage intermediate between the two species.
+  habitat: Townsend's Warblers are primarily birds of coniferous forests, especially mature, dense stands of at least 20 acres. They are more common in the mountains, but also breed in some lowland areas. During winter, they can be found in deciduous forests as well.
+  behavior: Outside of the breeding season, Townsend's Warblers can often be found in mixed flocks with chickadees, kinglets, and other warblers, or rarely in single-species flocks of Townsend's Warblers. Although they usually forage high up in trees, Townsend's Warblers may be lured closer by an imitation of a Pygmy Owl. They forage by gleaning items from foliage, usually by climbing about, but sometimes while hovering. They also occasionally fly out to catch aerial prey.
+  diet: Townsend's Warblers eat primarily insects, although berries and some nectar round out the winter diet.
+  nesting: Males typically arrive on the breeding grounds first and defend their territories by singing. Monogamous pairs form shortly after the females arrive. The female builds the nest on a conifer branch, toward the end of the branch. The nest is typically high up in the canopy, and is well concealed by foliage. It is a bulky cup made of grass, moss, bark strips, and twigs, lined with hair, feathers, and moss. The female incubates 3 to 5 eggs for 11 to 14 days. Both the male and the female feed the young, which leave the nest about 10 days after hatching.
+  migration_status: Washington's breeding Townsend's Warblers leave in late summer or early fall and spend the winter in the highlands of southern Mexico and Central America. Coastal British Columbia breeders make shorter journeys to California, Oregon, or the Washington coast. Both spring and fall migrations are spread over an extended time period, and spring arrivals are fairly late.
+  conservation_status: Townsend's Warblers are at risk from habitat loss on both their breeding and wintering grounds. The mid-elevation conifer habitat where they breed has suffered extensive deforestation in Washington during the past sixty years. Townsend's Warblers have also been identified as highly susceptible to alteration of tropical forest habitats. Thus although the Breeding Bird Survey shows a small, not statistically significant increase in population between 1966 and 2002, care must be taken to protect both northern breeding and tropical wintering habitats. Townsend's Warblers have expanded their range southward in Washington, and as a result now hybridize with Hermit Warblers. For more on the hybrid zone, see Hermit Warbler.
+  when_where_wa: From May through September, Townsend's Warblers are common in appropriate habitat in western Washington and at higher elevations throughout the state, although they are uncommon on the Olympic Peninsula. Townsend's Warblers winter uncommonly in western Washington lowlands. Townsend's Warbler'Hermit Warbler hybrids are common around Mount Adams and Mount St. Helens and the east slopes of the Olympic Mountains.
+photos:
+- file: towa_f_gth_l.jpg
+  caption: 'Female/1st winter Male. Note: auriculars (cheek) same color as crown and back, lacks black throat and bib'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: towa_m_gth_l.jpg
+  caption: 'Male. Note: black bib, throat, and auriculars (cheek)'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: towa_jf_gl_l.jpg
+  caption: 'Female / 1st Year Male. Note: olive auricular patch, yellow face and breast, and white wingbars.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: TOWA01.mp3
+  credit: null
+maps:
+  wa: deto.jpg
+  north_america: towamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, C, C, C, C, C, F, U, R, R]
+  puget_trough: [U, U, U, C, C, C, C, C, C, U, U, U]
+  north_cascades: ['', '', '', U, C, C, C, C, U, R, '', '']
+  west_cascades: ['', '', '', F, C, C, C, C, F, U, '', '']
+  east_cascades: ['', '', '', R, C, C, C, C, F, R, '', '']
+  okanogan: ['', '', '', '', C, C, C, C, U, '', '', '']
+  canadian_rockies: ['', '', '', U, F, F, F, U, U, '', '', '']
+  blue_mountains: ['', '', '', '', C, C, C, C, U, '', '', '']
+  columbia_plateau: ['', '', '', U, F, U, '', F, F, '', '', '']
+taxonomy:
+  ebird_code: towwar
+  current_common_name: Townsend's Warbler
+  current_scientific_name: Setophaga townsendi
+  clements_sort: 34206
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/townsends_warbler
+  archived: '2026-09-12'

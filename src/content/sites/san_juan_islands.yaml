@@ -1,0 +1,26 @@
+slug: san_juan_islands
+name: San Juan Islands
+number: 212
+ecoregions:
+- puget_trough
+sections:
+  site: Situated near the Canadian border, in the rainshadow of the Olympic Mountains and well north of Puget Sound, are the San Juan Islands. Ranging in elevation from sea level to over 2,400 feet, the islands offer a variety of habitats, from dry, open, rocky slopes to more than 300 miles of shorelines battered by heavy surf, to quiet muddy bays. Waters surrounding the islands create moderate air temperatures throughout the year, but arctic fronts and intense winds regularly slam into the islands during the winter. The limited annual rainfall of about 25 inches creates dry-site habitats good for oak and grasslands. Extensive second-growth coniferous forests are mixed with open agricultural fields and home sites. The islands themselves vary from fairly flat, open farmland on Lopez to the steep and hilly landscapes of Orcas.
+  birds: 'Rich marine waters provide abundant food for wintering marine birds, from loons to sea ducks and alcids. The many bays and channels provide protection during poor weather. Migratory birds island-hop through the San Juans to and from Vancouver Island during the spring and fall. Although most of the land is privately owned, large tracts are held by state and federal agencies, and much is open for public use. The islands are a good example of how wide channels stop certain animals from getting to the islands: there are no Black-capped Chickadees on the islands. Low rainfall allows oak woodlands to exist and host House Wrens and, at one time, Mountain Bluebirds. The islands have the highest concentration of nesting Bald Eagles and Peregrine Falcons in the state, and Golden Eagles are known to nest here. Short-eared Owls and Northern Shrikes winter in the short grasses.'
+  directions: |-
+    The Garry oak woodlands are slowly disappearing, but some property owners are working on restoring them. Each spring, wildflowers - especially camas - are blooming, and along the shoreline is prickly-pear cactus. During the summer months, this is the most reliable place in the world to see killer whales.
+
+    Take I-5 northbound from Seattle and exit at #230 (Mt. Vernon) to Route 20 heading west. Continue to Anacortes and the Washington State Ferry dock. Check ahead for scheduled sailings, loading constraints, and fees. Each island has interesting places to visit, and reading about each ahead of time is advised. The Birder's Guide to Washington and Birding in the San Juans are helpful resources. Weekends can be quite busy; ferry traffic is often heavy, and overnight accommodations can be full, so make reservations well in advance. This is a long day-trip, and planning ahead is a must.
+photos:
+- file: SITE_San_Juan_Islands.JPG
+  caption: ''
+  credit:
+    name: Louise Rutter
+    url: null
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/san_juan_islands/3
+  archived: '2026-09-12'

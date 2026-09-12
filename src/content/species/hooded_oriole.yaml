@@ -1,0 +1,69 @@
+slug: hooded_oriole
+common_name: Hooded Oriole
+scientific_name: Icterus cucullatus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Icteridae
+  slug: icteridae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    The adult male is mainly orange but with a black back, tail, face, and bib. The dark wing shows two white wingbars, the upper one stronger. The female is plain olive-green above and yellowish-green below, and is easily confused with the female Orchard Oriole. Hooded is somewhat larger than Orchard overall with a longer bill and a longer tail. See field guides for identification pointers for separating the various oriole species in immature and female plumages.
+
+    The Hooded Oriole breeds from California across the lower Southwest to southern Texas and adjacent parts of northern Mexico, and down both coasts of Mexico. Northern populations move south to Mexico for the winter. Most records from the Pacific Northwest are spring “overshoots” of returning migrants, with a few extending into July. Idaho’s only record, in 2000, stayed right through June and July. Roughly one-third of Oregon’s twenty-plus records have occurred in winter, including several birds that stayed for many weeks. British Columbia has about six records, most in spring and all from coastal sites; one bird remained near Prince Rupert for the entire winter (19 November–2 April). Washington’s seven accepted records are all from the Westside lowlands; six were from spring and the other was in July.
+
+    *Revised November 2007*
+photos:
+- file: hoor_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: hoor_tg_l.jpg
+  caption: 'Male. Note: black face and bright orange body.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: hoor_f_tg_l.jpg
+  caption: 'Female. Note: pale edged coverts and long slightly curved bill.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: hoor_jm_gl_l.jpg
+  caption: '1st year male. Note: black throat.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: hoormap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: hooori
+  current_common_name: Hooded Oriole
+  current_scientific_name: Icterus cucullatus
+  clements_sort: 33682
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/hooded_oriole
+  archived: '2026-09-12'

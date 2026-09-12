@@ -1,0 +1,91 @@
+slug: american_redstart
+common_name: American Redstart
+scientific_name: Setophaga ruticilla
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: Uncommon to locally fairly common summer resident.
+species_of_concern: false
+sections:
+  general_description: The American Redstart is a unique warbler. The male is black with orange patches on each wing, on the sides of its breast, and at the base of its tail on either side. The male's throat is black, but its breast and belly are white. The female is gray where the male is black, and yellow where the male is orange. The female also has a white eye-ring. Juveniles and first-year males look like females, although first-year males generally have some black on the upper breast or head. The American Redstart has a relatively short, wide bill.
+  habitat: Throughout their range, American Redstarts are found in moist, second-growth hardwood forests, with a dense shrub layer. In Washington, they are typically confined to forested streamsides, especially those with willow and alder thickets. During the winter, American Redstarts inhabit a variety of tropical and subtropical lowland wooded habitats.
+  behavior: American Redstarts are very active foragers. They glean some of their prey from foliage, but they capture most of their food in midair, flying or jumping into the air to snag prey. They commonly spread their tails and wings, displaying their orange or yellow spots. These flash-patterns may flush prey from the foliage, and also make American Redstarts relatively easy to find.
+  diet: Small insects and other invertebrates make up most of the American Redstart's diet. In late summer, they may supplement this diet with berries and seeds.
+  nesting: Monogamous pairs are the norm, but some males may have two or three mates at a time. The male shows the female potential nest sites during courtship, and the female makes the final selection. The nest is nestled against a trunk, or attached to vertical stems, from 4 to 70 feet off the ground. The female builds the nest, which is an open cup made of bark, grass, rootlets, and other plant fibers. The lining is usually made of feathers and hair. The outside may be camouflaged with lichen and birch bark, and the whole nest is held together with spider webbing. Sometimes American Redstarts will use old nests of other birds. The female typically incubates 4 eggs for 10 to 13 days. Both members of the pair feed the young. About 9 days after hatching, the young leave the nest, and the parents divide the brood, each taking half, and continue to feed them for at least a few more days.
+  migration_status: Most American Redstarts migrate south through North America and winter in Mexico, Central America, and northern South America. Western breeders appear to migrate to western wintering areas, including southern California, Mexico, and Central America. They migrate at night, generally in the late spring and early fall.
+  conservation_status: Although American Redstarts are still widespread and common throughout their range, they have experienced declines in many regions. Some of these declines may be from habitat loss due to natural maturation of forests, but others may be directly or indirectly related to habitat degradation from fragmentation. Fragmentation creates more edges, which initially attract more American Redstarts because of the increased brush in these areas. Later, however, predators and nest parasites are also attracted to edges, resulting in reduced productivity at forest edges. In a study in British Columbia, over 63% of American Redstart nests were parasitized by Brown-headed Cowbirds. In the West, many streamside forests have been eliminated or degraded, which may account for significant declines seen in western populations. Habitat destruction on the wintering grounds is also a conservation concern. In addition to natural forests, American Redstarts use shade-coffee plantations during the winter; supporting shade-grown coffee may help protect some of their winter habitat.
+  when_where_wa: 'Although American Redstarts breed primarily in northeast Washington, there are a number of western Washington records. They are most common from mid-May to mid-August in the far northeastern corner of the state: eastern Okanogan, Ferry, Stevens, and Pend Oreille Counties. They are found (rarely) in a few spots on the east slope of the Cascades, and in southeastern Washington at the base of the Blue Mountains. Migrants, summer residents, and possibly some breeders are also found infrequently in northwestern Washington. Western Washington American Redstarts are most commonly seen along the Skagit River at the Skagit/Whatcom County line.'
+photos:
+- file: americanredstart_robcahill_l.jpg
+  caption: ''
+  credit:
+    name: Rob Cahill
+    url: null
+  hero: false
+- file: redstart_female_l.jpg
+  caption: Female
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: americanredstart_1_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: americanredstart_3_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: amre_m_gth_l.jpg
+  caption: Breeding male
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: amre_f_gl_l.jpg
+  caption: 'Female / 1st Year Male. Note: yellow sides and gray head.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: amre_jm_gl_l.jpg
+  caption: '1st Year Male. Note: some slight black splotching on head.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: AmericanRedstart.mp3
+  credit: null
+maps:
+  wa: seru.jpg
+  north_america: amremap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', R, U, U, R, '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', R, R, R, '', '', '', '']
+  okanogan: ['', '', '', '', R, R, R, R, '', '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, U, R, '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', R, R, R, R, '', '', '', '']
+taxonomy:
+  ebird_code: amered
+  current_common_name: American Redstart
+  current_scientific_name: Setophaga ruticilla
+  clements_sort: 34058
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/american_redstart
+  archived: '2026-09-12'

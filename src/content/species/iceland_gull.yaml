@@ -1,0 +1,59 @@
+slug: iceland_gull
+common_name: Iceland Gull
+scientific_name: Larus glaucoides
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    The Iceland Gull closely resembles Thayer’s Gull—in fact, the two have often been treated as geographic races of a single, though variable, species. Adults of both have a pale gray mantle. A classic adult Iceland Gull has all-white primaries and yellow eyes, and resembles a smaller, delicately built version of a Glaucous Gull. The “typical” adult Thayer’s Gull has brown eyes and shows some black on the upperside of the primary tips. However, individual birds can and do exhibit much overlap in these characteristics.
+
+    Only one of the two subspecies of Iceland Gull is regularly found in Canada and the United States—*L.g. kumlieni*, commonly known as Kumlien’s Gull. (The other subspecies, *L.g. glaucoides*, breeds in southern Greenland and winters in North Atlantic Europe.) Kumlien’s Gull breeds in the eastern Canadian Arctic, east and south of Thayer’s Gull with which it sometimes hybridizes where their ranges meet. Most Kumlien’s Gulls winter in Atlantic Canada and New England, with some straying down the Atlantic Coast and to the Midwest and small numbers farther west. The pattern is the opposite for Thayer’s Gull, which winters primarily along the West Coast with small numbers ranging across the continent as far as the Atlantic Coast.
+
+    Identification of Iceland Gull is a predictably contentious issue whenever one is claimed to have occurred within the core wintering range of Thayer’s Gull. Objections invariably raised include the difficulty or impossibility of correctly identifying hybrids, pale extremes of Thayer’s Gull, and birds in immature plumage or showing heavy feather wear or fading, as well as possible confusion with small individuals of Glaucous Gull. The Washington Bird Records Committee has accepted 11 records of Iceland (Kumlien’s) Gull—five from the eastside and six from the westside—while denying eight others. Records committees in nearby states and provinces have been more hesitant. Oregon has just two accepted records, as does California. The Idaho committee has accepted none of the ten reports it has received, although several of these remain under review. British Columbia has had many reports of Iceland Gull, but the review status of the species in the province is unclear.
+
+    *Revised June 2007*
+photos:
+- file: icgu_j_gt_l.jpg
+  caption: 'Juvenile. Note: very pale overall with a dove-like head.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: icgu_jfl_gt_l.jpg
+  caption: 'Juvenile. Note: very pale overall.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: icgumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: y00478
+  current_common_name: Iceland Gull
+  current_scientific_name: Larus glaucoides
+  clements_sort: 6606
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/iceland_gull
+  archived: '2026-09-12'

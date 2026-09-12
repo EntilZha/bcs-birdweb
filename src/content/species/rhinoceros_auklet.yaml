@@ -1,0 +1,61 @@
+slug: rhinoceros_auklet
+common_name: Rhinoceros Auklet
+scientific_name: Cerorhinca monocerata
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Alcidae
+  slug: alcidae
+status: Common summer, uncommon winter coast.
+species_of_concern: false
+sections:
+  general_description: Closely related to the Tufted Puffin, the Rhinoceros Auklet is a large alcid with a wedge-shaped head. It is drab-gray overall, darker above than below. In breeding plumage, the Rhinoceros Auklet has a bright orange-yellow bill adorned with a whitish horn. It also has two light feather tufts on each side of its head, going in a line back from the eye and the corner of the mouth. The juvenile appears similar to the non-breeding adult, lacking both the feather tufts and beak horn, although the lower mandible is yellow on the adult and dark on the juvenile.
+  habitat: Rhinoceros Auklets are found both in coastal habitats and far from land. They often feed close to shore, especially where tidal currents near islands create upwellings and concentrations of food. Flocks may over-night in protected bays and forage farther out to sea during the day. Nesting islands have grass, shrubs or trees, with enough soil for the birds to burrow. Nests are typically located on slopes from which the birds can take flight easily.
+  behavior: Behavior on land is difficult to observe because Rhinoceros Auklets are nocturnal at their nesting colonies. On water, the birds are excellent divers, swimming underwater using their wings like flippers. They can remain submerged for up to two minutes.
+  diet: Small fish comprise most of the diet. Crustaceans and cephalopods are also taken.
+  nesting: Rhinoceros Auklets dig burrows in the ground on both forested and non-forested islands. Burrows can be up to 20 feet long and often fork many times. At the end of each burrow is a nest chamber with a shallow cup of moss and twigs. The female lays one egg, and both parents incubate for 5-1/2 to 7-1/2 weeks. Both parents feed the chick, which leaves the nest at the age of 7 or 8 weeks.
+  migration_status: Rhinoceros Auklets are more migratory than most western alcids, but there is still considerable overlap between summer and winter ranges. Most birds leave northern breeding areas to winter in California, although they are present in low numbers in Washington in winter.
+  conservation_status: Although the Rhinoceros Auklet is the second most abundant breeding seabird (excluding gulls) in Washington, making up 23.6% of the breeding seabird population, numbers vary considerably from year to year, as this species is very sensitive to disturbance during the nesting period. Adults will readily desert their nests if disturbed during the incubation or brooding periods. In addition, burrows are often near the surface and collapse easily if trod upon. Rhinoceros Auklets are also vulnerable to gill-nets, oil spills, predators, and climatic events such as El Niño. The population on Protection Island, one of the major colonies in the state, declined dramatically in the early 1990s, perhaps due to increased competition with Double-crested Cormorants. There are some indications that the population is increasing on the West Coast, but there is no evidence of significant new colonies being formed in Washington.
+  when_where_wa: 'Washington''s population of over 60,000 Rhinoceros Auklets nests at three main sites: Protection Island, Destruction Island, and Smith Island. Smaller numbers nest at a few other sites. The major colonies in Washington make up over 90% of the US population south of Alaska. Rhinoceros Auklets are common from February through September around islands of the outer coast of Washington and in inland marine waters. The rest of the year, they can be found in similar habitat, although less commonly. They forage closer to shore than their near-relatives, Tufted Puffins.'
+photos:
+- file: rhau_b_jh_l.jpg
+  caption: 'Adult breeding plumage. Note:'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: rhau_w_jh_l.jpg
+  caption: 'Adult winter plumage. Note: paler bill and no'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: rhau.mp3
+  credit: null
+maps:
+  wa: cemo.jpg
+  north_america: rhaumap.gif
+abundance:
+  oceanic: [C, C, C, C, C, C, C, C, C, C, C, C]
+  pacific_northwest_coast: [R, R, R, F, C, C, C, C, F, U, R, R]
+  puget_trough: [F, F, F, C, C, C, C, C, F, F, F, F]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: rhiauk
+  current_common_name: Rhinoceros Auklet
+  current_scientific_name: Cerorhinca monocerata
+  clements_sort: 6377
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/rhinoceros_auklet
+  archived: '2026-09-12'

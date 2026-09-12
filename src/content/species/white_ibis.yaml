@@ -1,0 +1,64 @@
+slug: white_ibis
+common_name: White Ibis
+scientific_name: Eudocimus albus
+order:
+  name: Ciconiiformes
+  slug: ciconiiformes
+family:
+  name: Threskiornithidae
+  slug: threskiornithidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One record, from Pacific County in late December 2000'January 2001.
+photos:
+- file: whib_gl_l.jpg
+  caption: Adult
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: whib_fl_gl_l.jpg
+  caption: Adult
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: whib_j_gl_l.jpg
+  caption: Juvenile
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: whib_jfl_gl_l.jpg
+  caption: Juvenile
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: whibmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: whiibi
+  current_common_name: White Ibis
+  current_scientific_name: Eudocimus albus
+  clements_sort: 7462
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/white_ibis
+  archived: '2026-09-12'

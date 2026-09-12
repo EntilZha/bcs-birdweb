@@ -1,0 +1,73 @@
+slug: western_gull
+common_name: Western Gull
+scientific_name: Larus occidentalis
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Common resident on coast. Rare east.
+species_of_concern: true
+sections:
+  general_description: The adult Western Gull has a deep gray back and wings, with black wing-tips that blend into the rest of the wing, unlike many species where the black is clearly defined. The underwing is white with a narrow band of gray. The head is mostly white, with a limited amount of brown streaking, especially in non-breeding plumage. The large bill is yellow with a red spot, and the eye is dark yellow. Like the other large gulls in Washington, the Western Gull is a four-4 year gull, meaning that it takes four years to achieve adult plumage. Juveniles are mottled brown, with a dark bill and dark eyes, and pinkish-gray legs. This plumage varies and takes on more of the adult plumage characteristics in each successive year. At the northern extent of their breeding range in Washington, Western Gulls frequently hybridize with Glaucous-winged Gulls and often display intermediate plumage characteristics, leading to identification confusion between these and other large gulls found here. An advanced field guide and assistance from an experienced observer are highly beneficial for descriptions of hybrids and identification of gulls.
+  habitat: Western Gulls are found mostly near the coast, and also found regularly offshore. They are not typically found far inland. Many types of habitats are used, including estuaries, beaches, fields, garbage dumps, and city waterfronts. Nest sites are often located on rocky, sandy, or gravel islands, or inaccessible mainland cliffs.
+  behavior: Opportunistic, the Western Gull will steal unguarded eggs or chicks of other species, near which they often locate their nesting colonies. They will also situate colonies near sea lion breeding colonies and scavenge dead pups. Western Gulls, like many other gull species, drop hard-shelled items from the air to break them on hard surfaces. In very hot weather, adults may cool their eggs with their wet belly feathers.
+  diet: Western Gulls are omnivores and eat a variety of things including fish and other aquatic creatures, eggs, carrion, garbage, and other birds.
+  nesting: Western Gulls nest in colonies on islands, offshore rocks, and abandoned piers. Colonies are often located near nesting seabirds or sea lions. Birds first breed at the age of 4 years. Nests are built on the ground, and the pair often starts as many as three nests, and then chooses one to finish and use. The nest is often located next to a rock or other object that provides protection from the wind and a visual barrier from neighbors. The nest is a substantial mound built from nearby vegetation and debris. The female usually lays 3 eggs. (Nests with more than three eggs are the result of multiple females.) Both members of the pair incubate the eggs for about a month. A few days after hatching, the young may leave the nest but won't go far, often hiding in nearby vegetation. At 6 to 7 weeks of age, they begin to fly, but don't become independent from their parents and depart the colony until they are 10 weeks or older.
+  migration_status: Western Gulls are present year round throughout the breeding range, although birds wander widely within this range.
+  conservation_status: The Western Gull is limited in distribution with a smaller population size than most other North American gulls, with a total population of only 40,000 pairs worldwide, limited to about 200 colonies. The number of Western Gulls in Washington is difficult to determine because of their extensive hybridization with Glaucous-winged Gulls in this state. Some say that the population is stable or increasing. Others claim that the Western Gull is one of the most limited North American Gulls in range and population numbers, and may become a species of concern if the current practice of management decisions favoring other species over Western Gulls continues.
+  when_where_wa: Western Gulls are common in all seasons along the Washington coast. The northern edge of the breeding range of pure Western Gulls is at Tatoosh Island in Washington, and south of Grays Harbor, most of the gulls are pure Western Gulls. Many of the birds breeding in Grays Harbor are hybrids. The hybrid zone extends farther to the north, but not into British Columbia. Large colonies of Western Gulls can be found at Grays Harbor, Willapa Bay, and the mouth of the Columbia River. Western Gulls have been recorded east of the Cascades, but are predominantly seen on the coast.
+photos:
+- file: wegu_tg_l.jpg
+  caption: 'Adult breeding. Note: dark gray mantle, darker primary tips, and pink legs.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: wegu_wfl_tg_l.jpg
+  caption: 'Adult nonbreeding. Note: underwing very dark at tips.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: wegu_j_jp_l.jpg
+  caption: Immature (2nd winter)
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: wegu_jfl_jp_l.jpg
+  caption: Immature (1st winter)
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+audio:
+  file: wegu.mp3
+  credit: null
+maps:
+  wa: laoc.jpg
+  north_america: wegumap.gif
+abundance:
+  oceanic: [C, C, C, C, C, C, C, C, C, C, C, C]
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [U, U, U, U, U, U, U, U, U, U, U, U]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [R, R, '', '', '', '', '', '', '', '', R, R]
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: wesgul
+  current_common_name: Western Gull
+  current_scientific_name: Larus occidentalis
+  clements_sort: 6528
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/western_gull
+  archived: '2026-09-12'

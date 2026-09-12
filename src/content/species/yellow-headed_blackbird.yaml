@@ -1,0 +1,85 @@
+slug: yellow-headed_blackbird
+common_name: Yellow-headed Blackbird
+scientific_name: Xanthocephalus xanthocephalus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Icteridae
+  slug: icteridae
+status: Common summer east. Uncommon west and winter.
+species_of_concern: false
+sections:
+  general_description: Yellow-headed Blackbirds are black birds with golden-yellow heads. Adult males have white wing-patches and black masks. First-year males are duller than mature males, with dark smudging on their yellow heads and less white on their wings. Females are considerably smaller than males and have unstreaked, brownish-black bodies, no wing-bars, and yellowish-brown heads. Birds in all plumages have yellow around their vents.
+  habitat: During the breeding season, Yellow-headed Blackbirds can be found in large wetlands with emergent vegetation. Their habitat requirements are similar to those of Red-winged Blackbirds, but Yellow-headed Blackbirds require larger wetlands with deeper water. Red-winged Blackbirds are often seen with Yellow-headed Blackbirds. When the two do occur together, the larger Yellow-headed Blackbirds generally inhabit the center of the marsh, and the smaller Red-winged Blackbirds inhabit the periphery. In the non-breeding season, they can be found in open fields.
+  behavior: 'Outside of the breeding season, Yellow-headed Blackbirds are commonly found in flocks, often mixed with other blackbird species. In winter, single-species flocks may form, sometimes consisting of all males or all females. Large foraging flocks move in a rolling fashion: birds from the back of the flock fly over the rest of the flock to the front. They forage by walking on the ground or climbing on low marsh vegetation. They often forage beside bodies of water when insects are emerging from aquatic larval stages, and they follow behind farm machinery, taking advantage of food churned up by the equipment.'
+  diet: In the spring and summer and when feeding young, Yellow-headed Blackbirds eat many insects. The rest of the year they eat seeds and waste grains, and probably two-thirds of their annual diet is seeds and grain.
+  nesting: Yellow-headed Blackbirds are polygamous and breed in colonies. Males may have up to 6 mates, but 2 to 3 mates is the norm. Pair bonds last for a single breeding season. The female builds the nest, which is a bulky, open cup made of leaves, stems, and grass, and lashed to cattails, bulrushes, or other plants growing over the water. The female incubates 4 eggs for 12 to 13 days, and broods the young for a few days after hatching. The female provides most of the food for the young, but the male may help feed at one nest. The young leave the nest 9 to 12 days after hatching, but stay nearby, close to the water, until they can fly, about 9 to 12 days later. The female feeds the young for a few days after they fledge. Females typically raise one brood each season but may raise two.
+  migration_status: Yellow-headed Blackbirds migrate during the day in loose flocks. Most Yellow-headed Blackbirds arrive on the breeding grounds from April through May, with males arriving before females. They depart for the wintering grounds from August through September. A few birds winter in Washington but most travel to the southwestern United States and Mexico, and males tend to winter farther north than females.
+  conservation_status: Despite decreases in some areas, Yellow-headed Blackbirds are widespread and common throughout their range. The major threats to the birds are persecution because of crop damage, pesticides used in the agricultural areas they frequent, and loss of habitat. Their preference for larger, deeper wetlands may help Yellow-headed Blackbirds, because these wetlands may be more resistant to draining, development, and agricultural conversion. Wintering birds are currently increasing in numbers in Washington and the breeding range has expanded into western Washington in recent years.
+  when_where_wa: Yellow-headed Blackbirds are common breeders in wetlands within the steppe zone of eastern Washington from early April to September. They are uncommon but becoming more numerous in this area the rest of the year, especially at feedlots in the Columbia Basin and at Moses Lake. In western Washington, they are becoming more common, but are still patchily distributed. They have bred at Fort Lewis (Pierce County), Deer Lagoon on Whidbey Island (Island County), Ridgefield National Wildlife Refuge (Clark County), and Wiser Lake (Whatcom County). Migrants and non-breeders are often seen in western Washington as well, and may occasionally turn up at the Union Bay Natural Area (the Montlake Fill) in Seattle.
+photos:
+- file: yhbl_f_lb_l.jpg
+  caption: Female
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: yhbl_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: yhbl_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: yhbl_fl_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: yhbl_jm_gl_l.jpg
+  caption: 1st year male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: yhbl_j_tg_l.jpg
+  caption: Juvenile
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: YHBL01.mp3
+  credit: null
+maps:
+  wa: xaxa.jpg
+  north_america: yhblmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', R, '', '', '', R, '', '', '']
+  puget_trough: ['', '', '', R, U, U, U, R, R, R, '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', U, U, U, U, U, R, '', '', '']
+  okanogan: ['', '', '', C, C, C, C, U, U, '', '', '']
+  canadian_rockies: ['', '', U, U, F, F, F, F, U, '', '', '']
+  blue_mountains: ['', '', '', '', '', R, R, R, '', '', '', '']
+  columbia_plateau: [F, F, F, F, C, C, C, F, F, F, F, F]
+taxonomy:
+  ebird_code: yehbla
+  current_common_name: Yellow-headed Blackbird
+  current_scientific_name: Xanthocephalus xanthocephalus
+  clements_sort: 33563
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/yellow-headed_blackbird
+  archived: '2026-09-12'

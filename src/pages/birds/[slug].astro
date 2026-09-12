@@ -1,0 +1,349 @@
+---
+import { getCollection, getEntry } from "astro:content";
+import { Image } from "astro:assets";
+import Layout from "../../layouts/Layout.astro";
+import AbundanceGrid from "../../components/AbundanceGrid.astro";
+import Prose from "../../components/Prose.astro";
+import SpeciesCard from "../../components/SpeciesCard.astro";
+import { birdImage, heroImage, mapImage } from "../../lib/images";
+import {
+  SECTION_LABELS,
+  displayName,
+  historicName,
+  scientificName,
+  taxonomicSort,
+} from "../../lib/species";
+
+export async function getStaticPaths() {
+  const species = await getCollection("species");
+  return species.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const data = entry.data;
+const base = import.meta.env.BASE_URL;
+
+const name = displayName(data);
+const historic = historicName(data);
+const latin = scientificName(data);
+
+const hero = heroImage(entry.id, data.photos);
+// The hero is shown large above; the strip below is everything else.
+const gallery = data.photos.filter((p) => p.file !== hero?.photo.file);
+
+const waMap = mapImage(data.maps.wa);
+const naMap = mapImage(data.maps.north_america);
+
+const family = await getEntry("families", data.family.slug);
+const order = await getEntry("orders", data.order.slug);
+
+const allSpecies = await getCollection("species");
+const familyMembers = allSpecies
+  .filter((s) => s.data.family.slug === data.family.slug && s.id !== entry.id)
+  .sort((a, b) => taxonomicSort(a.data, b.data));
+
+const sections = SECTION_LABELS.filter(([key]) => data.sections[key]);
+---
+
+<Layout
+  title={`${name} — BirdWeb`}
+  description={`${name} (${latin}): identification, habitat, behavior, and month-by-month abundance across Washington's ecoregions.`}
+>
+  <nav class="text-xs text-black/55 mb-4 flex flex-wrap items-center gap-1.5">
+    <a href={`${base}birds/`} class="hover:text-brand hover:underline">Birds</a>
+    <span aria-hidden="true">/</span>
+    <a href={`${base}orders/${data.order.slug}/`} class="hover:text-brand hover:underline">
+      {data.order.name}
+    </a>
+    <span aria-hidden="true">/</span>
+    <a href={`${base}families/${data.family.slug}/`} class="hover:text-brand hover:underline">
+      {data.family.name}
+    </a>
+  </nav>
+
+  <article>
+    <!-- Photo-forward: the legacy site led with a 180px thumbnail, which is the single
+         biggest thing holding back the "someone walks in with a photo" conversation. -->
+    <div class="grid gap-6 lg:grid-cols-[minmax(0,1.1fr)_minmax(0,1fr)] lg:items-start">
+      <div>
+        {
+          hero ? (
+            <figure class="overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-black/5">
+              <Image
+                src={hero.image}
+                alt={hero.photo.caption || name}
+                widths={[400, 700, 1000]}
+                sizes="(min-width: 1024px) 46rem, 100vw"
+                class="w-full object-cover"
+                loading="eager"
+              />
+              <figcaption class="px-4 py-3 text-xs text-black/60 flex flex-wrap gap-x-2 gap-y-1 justify-between">
+                <span>{hero.photo.caption}</span>
+                {hero.photo.credit.name && (
+                  <span class="shrink-0">
+                    &copy;{" "}
+                    {hero.photo.credit.url ? (
+                      <a
+                        href={hero.photo.credit.url}
+                        target="_blank"
+                        rel="noopener"
+                        class="hover:text-brand underline decoration-sage underline-offset-2"
+                      >
+                        {hero.photo.credit.name}
+                      </a>
+                    ) : (
+                      hero.photo.credit.name
+                    )}
+                  </span>
+                )}
+              </figcaption>
+            </figure>
+          ) : (
+            <div class="rounded-2xl bg-black/5 ring-1 ring-black/5 aspect-[4/3] flex items-center justify-center text-sm text-black/40">
+              No photograph available
+            </div>
+          )
+        }
+      </div>
+
+      <div class="space-y-4">
+        <div>
+          <h1 class="text-3xl sm:text-4xl font-bold text-brand leading-tight">{name}</h1>
+          <p class="text-lg italic text-black/60 mt-0.5">{latin}</p>
+          {
+            data.taxonomy?.display_historic && data.taxonomy.current_common_name && (
+              <p class="text-sm text-black/55 mt-0.5">
+                Now treated as <strong class="font-semibold">{data.taxonomy.current_common_name}</strong>
+              </p>
+            )
+          }
+          {
+            /* The taxonomy note is shown whenever there is one -- including on accounts
+               that lead with their historic name, where it is the only thing explaining
+               why a page titled "Northwestern Crow" says American Crow underneath. */
+            (data.taxonomy?.note || historic) && (
+              <p class="mt-2 text-xs text-black/70 bg-pop/30 rounded-lg px-3 py-2">
+                {data.taxonomy?.note ? (
+                  data.taxonomy.note
+                ) : (
+                  <>
+                    Published on BirdWeb as <strong>{historic}</strong>.
+                  </>
+                )}
+              </p>
+            )
+          }
+        </div>
+
+        {
+          data.status && (
+            <p class="text-base font-medium text-black/85">{data.status}</p>
+          )
+        }
+
+        {
+          data.species_of_concern && (
+            <p class="inline-flex items-center gap-2 rounded-full bg-brand text-white px-3 py-1 text-xs font-semibold">
+              Species of Concern in Washington
+            </p>
+          )
+        }
+
+        {
+          data.audio && (
+            <div class="rounded-xl bg-white ring-1 ring-black/5 p-3">
+              <p class="text-xs font-semibold text-black/60 mb-2">Song and calls</p>
+              <audio controls preload="none" class="w-full h-10">
+                <source src={`${base}sounds/${data.audio.file}`} type="audio/mpeg" />
+                Your browser does not support audio playback.
+              </audio>
+              <p class="mt-1.5 text-[0.6875rem] text-black/50">
+                Recording licensed for BirdWeb. See <a
+                  href={`${base}credits/`}
+                  class="underline decoration-sage underline-offset-2 hover:text-brand"
+                  >Credits</a
+                >.
+              </p>
+            </div>
+          )
+        }
+
+        <dl class="text-sm space-y-1.5">
+          <div class="flex gap-2">
+            <dt class="text-black/55 w-16 shrink-0">Order</dt>
+            <dd>
+              <a href={`${base}orders/${data.order.slug}/`} class="text-brand hover:underline">
+                {data.order.name}
+              </a>
+            </dd>
+          </div>
+          <div class="flex gap-2">
+            <dt class="text-black/55 w-16 shrink-0">Family</dt>
+            <dd>
+              <a href={`${base}families/${data.family.slug}/`} class="text-brand hover:underline">
+                {data.family.name}
+              </a>
+              {family?.data.common_name && (
+                <span class="text-black/55"> — {family.data.common_name}</span>
+              )}
+            </dd>
+          </div>
+        </dl>
+      </div>
+    </div>
+
+    <!-- Abundance sits high on the page, not buried in a tab at the bottom. It is the
+         densest thing BirdWeb knows and it answers the question most visitors actually
+         have: could I see this bird, here, now? -->
+    <section class="mt-10">
+      <h2 class="text-xl font-bold text-brand mb-1">Where and when to find it</h2>
+      <p class="text-sm text-black/60 mb-4">
+        Abundance by ecoregion, month by month, as recorded by the BCS Science Committee.
+      </p>
+      <div class="rounded-2xl bg-white shadow-sm ring-1 ring-black/5 p-4 sm:p-5">
+        <AbundanceGrid abundance={data.abundance} speciesName={name} />
+      </div>
+    </section>
+
+    <div class="mt-10 grid gap-8 lg:grid-cols-[minmax(0,2fr)_minmax(0,1fr)] lg:items-start">
+      <div class="space-y-7">
+        {
+          sections.map(([key, label]) => (
+            <section>
+              <h2 class="text-xl font-bold text-brand mb-2">{label}</h2>
+              <Prose text={data.sections[key]!} />
+            </section>
+          ))
+        }
+      </div>
+
+      <aside class="space-y-6">
+        {
+          (waMap || naMap) && (
+            <section class="rounded-2xl bg-white shadow-sm ring-1 ring-black/5 p-4">
+              <h2 class="text-base font-bold text-brand mb-3">Range</h2>
+              <div class="space-y-4">
+                {waMap && (
+                  <figure>
+                    <Image
+                      src={waMap}
+                      alt={`Washington range map for ${name}`}
+                      widths={[300, 600]}
+                      sizes="(min-width: 1024px) 20rem, 90vw"
+                      class="w-full rounded-lg"
+                      loading="lazy"
+                    />
+                    <figcaption class="mt-1 text-xs text-black/55">Washington</figcaption>
+                  </figure>
+                )}
+                {naMap && (
+                  <figure>
+                    <Image
+                      src={naMap}
+                      alt={`North American range map for ${name}`}
+                      widths={[300, 600]}
+                      sizes="(min-width: 1024px) 20rem, 90vw"
+                      class="w-full rounded-lg"
+                      loading="lazy"
+                    />
+                    <figcaption class="mt-1 text-xs text-black/55">North America</figcaption>
+                  </figure>
+                )}
+              </div>
+              <p class="mt-3 text-[0.6875rem] text-black/50">
+                Washington distribution maps created for BirdWeb by Kelly Cassidy.
+              </p>
+            </section>
+          )
+        }
+
+        {
+          order?.data.description && (
+            <section class="rounded-2xl bg-white shadow-sm ring-1 ring-black/5 p-4">
+              <h2 class="text-base font-bold text-brand mb-2">About {data.order.name}</h2>
+              <Prose text={order.data.description} class="text-sm" />
+            </section>
+          )
+        }
+        {
+          family?.data.description && (
+            <section class="rounded-2xl bg-white shadow-sm ring-1 ring-black/5 p-4">
+              <h2 class="text-base font-bold text-brand mb-2">About {data.family.name}</h2>
+              <Prose text={family.data.description} class="text-sm" />
+            </section>
+          )
+        }
+      </aside>
+    </div>
+
+    {
+      gallery.length > 0 && (
+        <section class="mt-10">
+          <h2 class="text-xl font-bold text-brand mb-4">More photographs</h2>
+          <ul class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 list-none p-0">
+            {gallery.map((photo) => {
+              const image = birdImage(entry.id, photo.file);
+              if (!image) return null;
+              return (
+                <li class="overflow-hidden rounded-xl bg-white shadow-sm ring-1 ring-black/5">
+                  <figure>
+                    <Image
+                      src={image}
+                      alt={photo.caption || name}
+                      widths={[250, 500]}
+                      sizes="(min-width: 1024px) 16rem, 45vw"
+                      class="w-full aspect-square object-cover"
+                      loading="lazy"
+                    />
+                    <figcaption class="px-3 py-2 text-[0.6875rem] text-black/60 space-y-0.5">
+                      {photo.caption && <span class="block">{photo.caption}</span>}
+                      {photo.credit.name && (
+                        <span class="block text-black/45">&copy; {photo.credit.name}</span>
+                      )}
+                    </figcaption>
+                  </figure>
+                </li>
+              );
+            })}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      familyMembers.length > 0 && (
+        <section class="mt-10">
+          <h2 class="text-xl font-bold text-brand mb-1">
+            Other {family?.data.common_name ?? data.family.name}
+          </h2>
+          <p class="text-sm text-black/60 mb-4">
+            {familyMembers.length} more species in {data.family.name}.
+          </p>
+          <ul class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4 list-none p-0">
+            {familyMembers.slice(0, 15).map((member) => (
+              <SpeciesCard entry={member} />
+            ))}
+          </ul>
+          {familyMembers.length > 15 && (
+            <a
+              href={`${base}families/${data.family.slug}/`}
+              class="mt-4 inline-block text-sm font-semibold text-brand hover:underline"
+            >
+              See all {familyMembers.length + 1} species in {data.family.name} &rarr;
+            </a>
+          )}
+        </section>
+      )
+    }
+
+    <p class="mt-10 text-xs text-black/45">
+      Account text &copy; Birds Connect Seattle, written by BCS volunteers. Archived from
+      <a
+        href={data.source.url}
+        target="_blank"
+        rel="noopener"
+        class="underline decoration-sage underline-offset-2 hover:text-brand">the original BirdWeb</a
+      > on {data.source.archived}.
+    </p>
+  </article>
+</Layout>

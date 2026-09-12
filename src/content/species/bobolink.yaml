@@ -1,0 +1,79 @@
+slug: bobolink
+common_name: Bobolink
+scientific_name: Dolichonyx oryzivorus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Icteridae
+  slug: icteridae
+status: Fairly common summer resident east.
+species_of_concern: true
+sections:
+  general_description: Male Bobolinks in breeding plumage are visually striking birds. Their plumage has been described as looking like a skunk, a backward tuxedo, or a broken egg running down their back. They are solid black below, with black faces, light yellow napes, black and white streaked backs, and white rumps. Females are buff-brown with streaked backs and plain buff underparts. They have plain faces, dark eye-lines, and dark and light head stripes. They could easily be misidentified as a large sparrow, especially because they have thick, short bills and are smaller than most blackbirds. Males in non-breeding plumage look like females.
+  habitat: Bobolinks are generally found in tall-grass prairies, hay fields, and similar open areas. They do not occur in short-grass prairies. In Washington, which has little natural tall-grass prairie habitat, Bobolinks are associated with irrigated hay fields and other agricultural crops that are similar in structure to tall-grass prairies. During migration they can be found in freshwater marshes, especially rice fields, and at coastal areas.
+  behavior: Bobolinks are social throughout most of the year. They sit on high perches in meadows, but forage while walking on the ground. They are very apparent in flight with their dark underparts, and they perform conspicuous flight songs and displays. Their song is a bubbly, metallic series of beeps and twitters.
+  diet: Bobolinks are primarily seedeaters. They feed heavily on rice, weed seeds, and other grains during the fall and winter. During the breeding season they also eat insects and other invertebrates.
+  nesting: Bobolinks are strongly polygamous and nest in small, loose colonies. The female builds a loosely woven nest on the ground in dense, high grass. She plucks away vegetation to create an open spot on the ground and makes a slight depression for the nest. The nest has an exterior wall of leaves and grass with a lining of finer grasses. The female incubates 3 to 7 eggs for 11 to 13 days. The male helps brood and feed the young of his primary mate. Secondary females typically brood and feed their young alone, but sometimes have help from the males. The young leave the nest 10 to 11 days after hatching and can make sustained flights by 16 days.
+  migration_status: Long-distance migrants, Bobolinks winter in southern South America. They migrate in flocks that appear to be sexually segregated in the spring but mixed in the fall. Magnetic cues, which help many bird species migrate, appear to be particularly important to Bobolinks.
+  conservation_status: Bobolinks are common throughout most of their range and were formerly considered to be major predators of rice in the southeastern United States. There is less rice grown in the United States now, and the population of Bobolinks has declined in the past few decades due to loss of habitat, so their predation of rice is less of an issue. Partners in Flight lists them as a species-at-risk. Bobolinks are historically more eastern birds and have expanded their range into Washington because of the habitat created by agriculture. In fact, the Toppenish colony near Yakima is probably the westernmost Bobolink colony in North America. Mowing and livestock grazing are both threats to breeding Bobolinks. Preservation of some uncultivated, wet meadow adjacent to hay fields, along with delayed mowing by farmers until the young have fledged, may help maintain Bobolink populations.
+  when_where_wa: Bobolinks are rare visitors to western Washington during migration, but are primarily birds of eastern Washington. They are present from late May to mid-August and are fairly common in the northeastern corner of the state, primarily in Okanogan (east of the Okanogan River), Ferry, Stevens, and Pend Oreille Counties. A reliable place to find Bobolinks has been Aeneas Valley in Okanogan County. They also breed at Toppenish National Wildlife Refuge near Yakima, which is the only known breeding colony outside of these counties.
+photos:
+- file: bobo_m_gth_l.jpg
+  caption: Male
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: bobo_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: bobo_f_gt_l.jpg
+  caption: 'Female. Note: large pinkish bill.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: bobo_m3_gth_l.jpg
+  caption: Male
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: bobo_m2_gth_l.jpg
+  caption: Male
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio:
+  file: BOBO01.mp3
+  credit: null
+maps:
+  wa: door.jpg
+  north_america: bobomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', U, U, U, R, '', '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, U, U, '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', R, R, R, '', '', '', '', '']
+taxonomy:
+  ebird_code: boboli
+  current_common_name: Bobolink
+  current_scientific_name: Dolichonyx oryzivorus
+  clements_sort: 33564
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/bobolink
+  archived: '2026-09-12'

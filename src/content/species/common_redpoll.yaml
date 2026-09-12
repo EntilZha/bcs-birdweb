@@ -1,0 +1,59 @@
+slug: common_redpoll
+common_name: Common Redpoll
+scientific_name: Carduelis flammea
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Fringillidae
+  slug: fringillidae
+status: Irregular winter visitor.
+species_of_concern: false
+sections:
+  general_description: The Common Redpoll is slightly larger than the American Goldfinch. The male is heavily streaked and has a small, red crown and pink breast. The female is duller than the male and lacks the pink breast, but does have the same red 'poll' as the male.
+  habitat: Redpolls are Arctic and sub-Arctic breeders, and Common Redpolls typically breed in open coniferous forests and shrubby birch and alder thickets. During winter they inhabit various kinds of semi-open country, including woodland edges and brushy or weedy fields. They can often be found in birch, alder, or willow patches.
+  behavior: Busy and acrobatic, Common Redpolls forage in flocks along hedgerows or in catkin-bearing trees. They are well adapted to feeding at the very tips of small branches, hanging upside-down, and using their feet to hold food items. They also forage on the ground, especially in winter, and move in rolling waves across ground-feeding areas. They have pouches in their throats that allow them to gather large amounts of food quickly, and then retreat to a safe place to process the food. In winter, they will drop from a tree into deep snow and make a tunnel about a foot long to a roosting chamber. Like many finches, they have an undulating flight pattern. They are quite vocal, making constant contact calls within their flocks, and are often located by their flight calls.
+  diet: Common Redpolls eat tiny seeds, especially those from willow, birch, and alder trees. They also eat buds, weeds, grasses, and insects. They feed insects and spiders to their young.
+  nesting: Common Redpolls form monogamous pairs. Nests may be placed close together and are well hidden in dense, low shrubs, in clumps of grass, or under brush piles. The female builds an open cup nest of loosely arranged twigs, grass, and moss, lined with ptarmigan feathers, plant down, and hair. The female incubates 4 to 6 eggs for about 11 days. The male brings food to the female while she incubates and while she broods the young. About five days after the young hatch, the female begins to bring food to the nest. She continues to do most of the actual feeding. The young leave the nest 11 to 12 days after hatching. At this point, they can fly weakly and follow the parents around. They are fully independent at about 26 days of age.
+  migration_status: Common Redpolls breed in the sub-Arctic. If enough food is available, many birds will remain on the breeding grounds in winter, but many birds move south. The winter range is variable, based on food supply, but generally encompasses the northern tier of the United States.
+  conservation_status: While there is no reliable information on population trends, Common Redpolls breed in regions and habitats that are not generally subject to habitat degradation. Their wintering range is extensive, and they are flexible, quickly moving on to new areas if others are unsuitable.
+  when_where_wa: Winter visitors, Common Redpolls vary in abundance and location from year to year. They are most regular in the northern portion of the state and in far eastern Washington, where they are generally present every winter. They are rare in western Washington. They are often found with flocks of Pine Siskins and American Goldfinches.
+photos:
+- file: core_gt_l.jpg
+  caption: 'Male. Note: extensive pink on breast.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: core_f_gt_l.jpg
+  caption: Female
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio: null
+maps:
+  wa: cafl.jpg
+  north_america: coremap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: [I, I, I, '', '', '', '', '', '', '', I, I]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: [I, I, I, '', '', '', '', '', '', I, I, I]
+  okanogan: [U, U, U, '', '', '', '', '', '', '', U, U]
+  canadian_rockies: [I, I, I, I, '', '', '', '', '', '', I, I]
+  blue_mountains: [I, I, '', '', '', '', '', '', '', '', I, I]
+  columbia_plateau: [I, I, I, '', '', '', '', '', '', '', I, I]
+taxonomy:
+  ebird_code: redpol1
+  current_common_name: Redpoll
+  current_scientific_name: Acanthis flammea
+  clements_sort: 32483.0
+  historic_common_name: Common Redpoll
+  display_historic: true
+  note: Published on BirdWeb as Common Redpoll. Common, Hoary and Lesser Redpolls were merged into a single species, Redpoll, in 2024. This account describes the form that occurs regularly in Washington.
+source:
+  url: https://birdweb.org/birdweb/bird/common_redpoll
+  archived: '2026-09-12'

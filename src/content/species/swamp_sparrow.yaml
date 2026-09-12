@@ -1,0 +1,55 @@
+slug: swamp_sparrow
+common_name: Swamp Sparrow
+scientific_name: Melospiza georgiana
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Rare winter resident, mostly west.
+species_of_concern: false
+sections:
+  general_description: The Swamp Sparrow with its reddish cap might be confused with the Chipping Sparrow, but the Swamp Sparrow is bigger, bulkier, and occurs in very different habitat. It is a reddish-brown bird with dark stripes down its back. The neck and much of the face are gray, as is the breast. The throat is white and, like the breast, lacks streaks.
+  habitat: Swamp Sparrows are seldom found far from water during the breeding season. They usually breed in marshes and brushy swamps with some open water, dense, low vegetation, and perches for singing. They winter in similar habitat, in grassy, weedy, and brushy areas close to water. During migration, they may be seen in wet, weedy fields.
+  behavior: Swamp Sparrows are generally solitary birds except during migration, when they often join loose, mixed-species flocks. They often hide in dense cover and forage mostly on the ground, especially at or near the water's edge, sometimes wading into the water. The vocalization is a slow trill, slower than the Chipping Sparrow, with the notes slow enough to count.
+  diet: Swamp Sparrows eat both seeds and insects, relying more heavily on insects than do many sparrows. In winter, they eat more seeds and fruits, but more than half of their diet is still composed of insects. In spring and summer, the insect percentage of their diet rises to almost 90%, but then drops in the fall when the majority of their diet may be seeds.
+  nesting: The male defends his territory and attracts a mate by singing from a raised perch, often the top of a cattail. The females arrive on the breeding grounds a few days after the males, and the birds form monogamous pair bonds. Most nests are in marsh-vegetation over ground or water, within five feet of the ground. The female builds a nest with a rough, bulky outer layer made of coarse marsh vegetation, and an inner lining of fine grass, sedge, and hair. Dead cattail blades or other vegetation often arch over the top of the nest, forming a side entrance. The female incubates the 3 to 5 eggs for 12 to 14 days, during which time the male may bring food to her on the nest. Both parents help feed the nestlings, which leave the nest at 10 to 13 days. For the first few days after fledging, the young make short flight-hops in the vegetation. Within a week, they can fly from shrub to shrub. The parents continue to feed the young for a few weeks after fledging. Pairs usually raise one or two broods a year.
+  migration_status: Swamp Sparrows are generally migratory throughout their range. Wintering primarily in the eastern United States, a few winter and spring transients wander into Washington and other locations throughout the West.
+  conservation_status: Destruction of wetlands has resulted in a large loss of habitat for the Swamp Sparrow, but it is still fairly widespread and common across its normal breeding range. Their nests are prone to damage from flooding, often due to nearby development or wetland destruction. Preservation of expansive wetland areas is important to maintain a healthy population of Swamp Sparrows. Until the late 1960s, they were rarely reported in the Northwest. Now they are recorded annually in winter.
+  when_where_wa: Rarely seen from mid-October through March, Swamp Sparrows are reported most often in western Washington at Spencer Island and at the Crescent Lake Wildlife area near Monroe (both in Snohomish County), and the Skagit Wildlife Area (Skagit County). There are some migration and winter records in southeastern Washington and a few other places east of the Cascades.
+photos:
+- file: swsp_gl_l.jpg
+  caption: 'Note: reddish wings, red crown and clean gray on most of face.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio:
+  file: SWSP01.mp3
+  credit: null
+maps:
+  wa: mege.jpg
+  north_america: swspmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, '', '', '', '', '', '', '', '', R, R]
+  puget_trough: [R, R, R, '', '', '', '', '', '', '', R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', R, R, '']
+  okanogan: ['', '', '', '', '', '', '', '', '', R, R, R]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: swaspa
+  current_common_name: Swamp Sparrow
+  current_scientific_name: Melospiza georgiana
+  clements_sort: 33315
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/swamp_sparrow
+  archived: '2026-09-12'

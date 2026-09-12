@@ -1,0 +1,55 @@
+slug: nashville_warbler
+common_name: Nashville Warbler
+scientific_name: Vermivora ruficapilla
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: Common summer resident, mostly east.
+species_of_concern: false
+sections:
+  general_description: The Nashville Warbler is closely related to the Orange-crowned Warbler. The two species are similar in size and shape, but have distinct markings. Nashville Warblers have bright yellow undersides extending from their undertail coverts to their throats, and small white patches on their bellies. They have olive-green wings and light gray heads with distinct, white eye-rings. Males and females look similar, but the adult male has a rufous crown that is less distinct in the female. For both sexes, the patch of color is difficult to see in the field.
+  habitat: Nashville Warblers are usually found in hardwood and shrubby habitats. In Washington, these are often located at openings within coniferous forests, clear-cuts, wetlands, rivers, and along brushy hillsides, at low to middle elevations.
+  behavior: Nashville Warblers can be seen feeding in mixed-species flocks in the fall, before and during migration. They search for food in the foliage, flicking their tails frequently. They usually forage fairly low in trees or bushes, although males generally forage higher up than females. They often find their prey at the tips of twigs, leaves, or catkins.
+  diet: Insects, especially caterpillars, make up the majority of the Nashville Warbler's diet.
+  nesting: Nashville Warblers form monogamous pairs during the nesting season. The female builds the nest on the ground, usually in a low depression in moss, grass, ferns, or under bushes. The nest is an open cup made of leaves, ferns, and bark strips, lined with grass, hair, and needles, often with a rim of moss. The female incubates 4 to 5 eggs for 11 to 12 days. The male feeds the female on the nest while she incubates, and may take a turn at incubation as well. Both parents feed the young, which leave the nest 9 to 11 days after hatching.
+  migration_status: Nashville Warblers migrate, mostly at night, to central and southern Mexico in the fall. Their fall migration is generally spread over a longer period than their spring trip, which is concentrated over a shorter time period.
+  conservation_status: Range-wide, the population appears stable, although much of the Nashville Warbler's wintering range in Mexico is at risk of development. In addition, the wooded area along rivers, a habitat favored by Nashville Warblers, is one of the most commonly human-altered habitats in the western United States. In Washington, however, the Breeding Bird Survey has recorded a non-significant increase since 1966. This increase may be the result of clear-cuts that generate shrubby habitat. Thus the habitat created by logging may counterbalance the habitat lost in riparian areas for this species. Nashville Warblers are especially vulnerable to Brown-headed Cowbird nest parasitism.
+  when_where_wa: The Nashville Warbler is primarily an eastern Washington species. These birds are common in appropriate habitats throughout the eastern part of the state from mid-April to late August. In western Washington, they can be found in scattered pockets in western Clark and Skamania Counties and along the upper Skagit River (Skagit and Whatcom Counties). Some years a small number can be found migrating through western Washington. They were formerly found in the Garry oak woodlands of south Puget Sound (Pierce and Thurston Counties) as well.
+photos:
+- file: nawa_gl2_l.jpg
+  caption: 'Male. Note: blue-gray head, yellow throat, and white eye ring.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio:
+  file: nawa.mp3
+  credit: null
+maps:
+  wa: veru.jpg
+  north_america: nawamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', R, R, '', '', R, '', '', '', '']
+  north_cascades: ['', '', '', U, U, U, U, U, '', '', '', '']
+  west_cascades: ['', '', '', U, F, F, F, F, U, R, '', '']
+  east_cascades: ['', '', '', U, C, C, C, C, U, '', '', '']
+  okanogan: ['', '', '', F, C, C, C, C, '', '', '', '']
+  canadian_rockies: ['', '', '', U, F, F, F, F, U, '', '', '']
+  blue_mountains: ['', '', '', R, U, U, U, U, R, '', '', '']
+  columbia_plateau: ['', '', '', U, U, R, R, U, U, '', '', '']
+taxonomy:
+  ebird_code: naswar
+  current_common_name: Nashville Warbler
+  current_scientific_name: Leiothlypis ruficapilla
+  clements_sort: 33981
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/nashville_warbler
+  archived: '2026-09-12'

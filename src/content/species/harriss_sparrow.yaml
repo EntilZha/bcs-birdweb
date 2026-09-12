@@ -1,0 +1,77 @@
+slug: harriss_sparrow
+common_name: Harris's Sparrow
+scientific_name: Zonotrichia querula
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Rare winter resident, mostly east.
+species_of_concern: true
+sections:
+  general_description: The Harris's Sparrow is the largest sparrow in North America. In breeding plumage, it has a black crown, chin, and upper breast, with gray cheeks and a clear white belly. Its back and wings are heavily streaked, and its bill is pink. Adults in non-breeding plumage have brown rather than gray cheeks. Juveniles are similar in appearance to non-breeding adults, but lack the black face and head.
+  habitat: Harris's Sparrows nest in stunted boreal forests, where the northern forest and tundra meet. In winter, they inhabit brushy areas in open woodlands. During migration, they can be seen at woodland edges, in brushy thickets, hedgerows, and shelterbelts.
+  behavior: Harris's Sparrows will flock in late summer before migration starts. They sometimes flock with other species, especially other sparrows and Dark-eyed Juncos. In winter, these flocks feed on the ground near brushy places and will fly up to the tops of thickets when they are disturbed.
+  diet: During the fall, winter, and spring, Harris's Sparrows eat mostly plant matter, including seeds, berries, flowers, and spruce needles. In summer, they also eat insects and other arthropods.
+  nesting: The male defends a territory and attracts a mate by singing. Males and females generally arrive on the breeding grounds at the same time, and monogamous pairs form soon after their arrival. The nest is located in a small depression on the ground on a small hummock, hidden under a birch, alder, spruce, or other shrub or small tree. The female builds the nest, which is an open cup of lichen, moss, and twigs, lined with fine grass and hair. The female incubates 3-5 eggs for 12-14 days. Both parents help feed the young, which leave the nest 8-10 days after hatching. The young cannot fly when they fledge, but start to fly short distances about four days after fledging. The parents continue to feed the young for about two weeks after fledging.
+  migration_status: Harris's Sparrows leave the nesting area by early September and travel slowly to wintering grounds, arriving mostly in November. They winter in the central Great Plains region from South Dakota to Texas. They start moving north at the end of February, but the bulk of the population doesn't arrive on the breeding grounds until late April or early May.
+  conservation_status: Harris's Sparrows' breeding grounds are very remote; the first nest was not discovered until 1931. This remoteness protects them from human development, and they are quite common within their range. Habitat loss due to fire and the effects of global warming are potential threats. During the 20th Century, they may have expanded their wintering range, perhaps due to feeding stations and the establishment of winter wheat crops in some areas. However, this may actually reflect increased observation levels and more complete information rather than an actual increase. The Harris's Sparrow does not appear in Dawson and Bowles' (1909) book on Washington birds, which may be because they were less common, or because there were fewer people looking for them.
+  when_where_wa: The Harris's Sparrow is a rare but regular wintering bird in Washington. Although they are more common on the Canadian side, they have shown up on about half of the Christmas Bird Counts in the Okanogan Valley and about 20% of the counts in Spokane. About 70% of Bellingham's Christmas Bird Counts have found a few Harris's Sparrows. Throughout the rest of western Washington, they are rare, with a few sightings reported each winter, from October through early May.
+photos:
+- file: hasp_ad_gth_l.jpg
+  caption: Molting into adult breeding plumage.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: hasp_ad2_gth_l.jpg
+  caption: 'Breeding plumage adult. Note: gray cheek and black bib/crown.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: hasp_ad3_gth_l.jpg
+  caption: 'Breeding plumage adult. Note: gray cheek and black bib/crown.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: hasp_j_gth_l.jpg
+  caption: 'Juvenile. Note: tan face and plain white breast.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: hasp_w_gl_l.jpg
+  caption: 'Winter plumage. Note: black face, pink bill, and white belly.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: zoqu.jpg
+  north_america: haspmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: [R, R, R, R, '', '', '', '', '', '', R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', R, R, R, '']
+  okanogan: [R, R, R, R, '', '', '', '', '', '', R, R]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', R, '']
+  columbia_plateau: [R, R, R, R, '', '', '', '', '', '', R, R]
+taxonomy:
+  ebird_code: harspa
+  current_common_name: Harris's Sparrow
+  current_scientific_name: Zonotrichia querula
+  clements_sort: 33198
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/harriss_sparrow
+  archived: '2026-09-12'

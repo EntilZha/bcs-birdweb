@@ -1,0 +1,64 @@
+slug: indigo_bunting
+common_name: Indigo Bunting
+scientific_name: Passerina cyanea
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Cardinalidae
+  slug: cardinalidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Casual in spring and summer, accidental in fall.
+photos:
+- file: idbu_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: inbu_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: inbu_f_gl_l.jpg
+  caption: 'Female. Note: pale throat and lightly streaked breast.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: inbu_j_gl_l.jpg
+  caption: Juvenile
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: inbumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: indbun
+  current_common_name: Indigo Bunting
+  current_scientific_name: Passerina cyanea
+  clements_sort: 34607
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/indigo_bunting
+  archived: '2026-09-12'

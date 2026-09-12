@@ -1,0 +1,73 @@
+slug: hooded_merganser
+common_name: Hooded Merganser
+scientific_name: Lophodytes cucullatus
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common resident west. Uncommon east.
+species_of_concern: true
+sections:
+  general_description: This duck is the smallest merganser commonly found in Washington. Hooded Mergansers have a crest that, like a fan, can be spread or closed. Like other mergansers, it has a narrow, serrate bill. The male in breeding plumage is distinctive, with olive-brown sides and a black back accented with white stripes down the middle of a few long feathers. His breast is white with two black bars on each side. The black border surrounding the white crest extends to the face, which is punctuated with a yellow eye. Females are brown-gray overall, lighter below and darker on the back. The crest of the female is reddish-brown. The juvenile looks like the female, as does the male in non-breeding plumage, although his crest is browner.
+  habitat: Small, forested, freshwater wetlands with emergent vegetation are the preferred breeding habitat of the Hooded Merganser. They have been known to breed in more open habitat when nest boxes are available. Low-elevation freshwater lakes, ponds, sloughs, and slow-moving rivers are all used. During migration, they visit a wider range of habitats, and are often found on open water, along river banks, and in coastal bays and tidal creeks. In winter, they are found in woodland ponds and swamps, as well as coastal estuaries, bays, and inlets. While they are found in brackish and salt water, they generally prefer fresh water.
+  behavior: The dramatic courtship displays of the Hooded Merganser are apparent on the wintering grounds where groups gather in small flocks and most pair formation begins. During these displays, the male fans his crest.
+  diet: Hooded Mergansers have a more diverse diet than that of other mergansers. Small fish, crustaceans--especially crayfish, and aquatic insects are all common prey items. Insects are especially important for the young. Hooded Mergansers have underwater vision, which helps them forage while diving.
+  nesting: Yearling females often prospect for potential nest sites for the following year, and generally start breeding at the age of two. Pair bonds last from winter until incubation begins. It is uncertain whether bonds reform the following year, or if all pairing begins anew. Hooded Mergansers nest in cavities 10 to 50 feet up a tree or in nest boxes. The nest is made from materials found in the cavity and lined with down. The female lays 10 to 12 eggs, and commonly lays eggs in the nests of other Hooded Mergansers and those of other cavity-nesting ducks. Incubation is by the female alone and lasts for 26 to 41 days, averaging 33 days. When incubation starts, the male leaves the nesting area. Within 24 hours of hatching, the young jump to the ground and head to the water. Here they can swim well and find their own food. The female tends them and leads them to food-rich areas for a few weeks, but abandons them before they can fly, at around 70 days.
+  migration_status: Hooded Mergansers migrate short distances. They have usually left coastal wintering areas by April and return in mid-November.
+  conservation_status: Habitat destruction and the loss of nesting cavities have undoubtedly resulted in a decline, although in recent decades numbers have stabilized and appear to be on the increase in many areas with the help of nest boxes and wetland-restoration efforts. Hooded Mergansers have a relatively small population and low productivity rates due to their delayed onset of breeding (not breeding until age two). They are also slow to colonize new breeding areas, making it more important to conserve the areas where this duck is currently breeding.
+  when_where_wa: In the summer, Hooded Mergansers are generally found in wooded lowland areas throughout Washington. They are absent from the flat and sandy southwestern coast of the state, mountains above 3,000 feet, and the Columbia Basin. They are fairly common breeders in suitable habitat in western Washington. In eastern Washington, they are more sporadically distributed along the northern river valleys, particularly along the Okanogan River (Okanogan County), Curlew Creek (Ferry County), Colville River (Stevens County), and Pend Oreille River (Pend Oreille County). In winter, they are common in appropriate habitat in western Washington, along the coast, and in the wetlands of the Columbia Basin.
+photos:
+- file: home_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: home_tg_l.jpg
+  caption: Male
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: home_f_gl_l.jpg
+  caption: 'Female. Note: brown crest'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: home_f2_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: home.mp3
+  credit: null
+maps:
+  wa: locuc.jpg
+  north_america: homemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, R, R, U, U, U, U, U]
+  puget_trough: [F, F, C, F, F, F, F, F, F, F, C, C]
+  north_cascades: [F, F, F, F, F, U, U, U, U, F, F, F]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [C, F, F, F, U, R, R, R, U, F, F, C]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: [F, F, F, U, U, U, U, U, U, U, F, F]
+  blue_mountains: ['', '', '', R, R, '', '', '', '', '', R, '']
+  columbia_plateau: [U, U, U, U, R, '', '', '', U, F, F, F]
+taxonomy:
+  ebird_code: hoomer
+  current_common_name: Hooded Merganser
+  current_scientific_name: Lophodytes cucullatus
+  clements_sort: 754
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/hooded_merganser
+  archived: '2026-09-12'

@@ -1,0 +1,61 @@
+slug: northern_bobwhite
+common_name: Northern Bobwhite
+scientific_name: Colinus virginianus
+order:
+  name: Galliformes
+  slug: galliformes
+family:
+  name: Odontophoridae
+  slug: odontophoridae
+status: Rare resident west
+species_of_concern: false
+sections:
+  general_description: A round-bodied, ground-dwelling bird, the Northern Bobwhite was introduced into Washington from the eastern United States. Highly streaked and cryptic, the Northern Bobwhite is patterned in shades of brown varying from rufous, to chocolate, to tan. A light-colored throat and eyebrow band are distinctive marks. This is the only quail in Washington that is uniformly streaked in brown. Males and females appear similar, but males have less streaking on their breasts, and their eyebrows and throat bands are white instead of tan.
+  habitat: An early-successional species, the Northern Bobwhite lives in shrubby thickets adjacent to open areas such as grasslands, agriculture, roadsides, and wood edges. Bobwhites take advantage of edges created by fire, timber harvesting, and agriculture.
+  behavior: In non-breeding seasons, Northern Bobwhites congregate in coveys of up to 20 birds. During the breeding season, they flock in smaller family groups. As they often stay amid dense cover, they are more often heard than seen. Like most quail, Northern Bobwhites travel primarily on foot, although they will fly short distances when disturbed, often with an explosive takeoff. At night, members of the covey roost on the ground in a circle, tails inward with their heads pointing out.
+  diet: The Northern Bobwhite's diet of plant matter and insects varies with the season. In winter, they eat mostly seeds, while in summer when raising young, they eat mostly insects. The young also eat mostly insect matter.
+  nesting: The male and the female choose a nest site on the ground in dense brush, and both help build a shallow depression lined with grass and leaves. They often weave other materials into an arch over the nest, resulting in a well-hidden entrance. Both sexes incubate a clutch of 12-16 eggs. Shortly after hatching, the young leave the nest. They are tended by both parents, but feed themselves.
+  migration_status: Permanent Resident
+  conservation_status: Three subspecies have been introduced in Washington, with the first introduction probably on Whidbey Island in 1871. They formerly occurred in southeastern Washington, where they were introduced into Walla Walla County in 1920. This population has declined dramatically in recent years, and the last sighting was recorded in 1988. Introductions were made into the Wenas Creek area, but attempts to establish a population there have failed. Bobwhites are continually introduced into agricultural and low-density development areas throughout the state for hunting.
+  when_where_wa: A few Northern Bobwhites can be found in the Puget Trough in grassy habitats, especially in the prairies of southern Puget Sound, where they are established locally. Elsewhere, frequent introductions make their distribution difficult to predict. It is possible to see them anywhere in the state in appropriate habitat, although almost never in the same place from one year to the next.
+photos:
+- file: nobo_tg_l.jpg
+  caption: 'Male. Note: white throat/eyebrow with dark outline.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: nobo_f_tg_l.jpg
+  caption: 'Female. Note: buffy throat and eyebrow.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: nobo.mp3
+  credit: null
+maps:
+  wa: covi.jpg
+  north_america: nobomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: [R, R, R, R, R, R, R, R, R, R, R, U]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: norbob
+  current_common_name: Northern Bobwhite
+  current_scientific_name: Colinus virginianus
+  clements_sort: 1026
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/northern_bobwhite
+  archived: '2026-09-12'

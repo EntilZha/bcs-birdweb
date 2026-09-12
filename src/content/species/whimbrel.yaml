@@ -1,0 +1,61 @@
+slug: whimbrel
+common_name: Whimbrel
+scientific_name: Numenius phaeopus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Fairly common migrant. Rare winter west. Casual migrant east.
+species_of_concern: true
+sections:
+  general_description: Whimbrels are large shorebirds with long, decurved bills. They are smaller in size than the similar-looking Long-billed Curlew, and their bills are shorter. The Whimbrel has a distinct head pattern, with dark-and-light alternating stripes. The rest of its plumage is plain mottled-brown overall, and does not vary season to season. In flight, it appears brown all over, with a white belly. Its bill is solid black in summer and has a pinkish or reddish base during winter.
+  habitat: Whimbrels nest in the tundra, not far from the tree line, in a variety of open habitats from wet lowlands to dry uplands. During migration, they use wetlands, dry, short grasslands, farmland (especially plowed fields), and rocky shores. During winter, they are mostly found in coastal areas, on exposed reefs, sandy or rocky beaches, estuaries, and especially mudflats.
+  behavior: In spring, Whimbrels may congregate in farmlands in groups of up to several hundred. They probe into the mud for their food, and pick food from the surface more often than do other curlews. Whimbrels feed singly or in small groups on mudflats at low tide. Then at high tide, they gather and roost in dense flocks, often flying long distances between roosting and feeding areas.
+  diet: During breeding season, Whimbrels eat primarily insects. Later in summer, they also eat berries. Their migration and wintering diet consists of worms and grubs, crabs, and other small aquatic organisms. Fiddler Crabs are an important food during winter, and the shape of the Whimbrel's bill matches the curve of the crab's burrow.
+  nesting: These monogamous birds nest in loose colonies, but remain territorial during the nesting season. Males use dramatic flight displays and songs to attract females. They nest on the ground, usually in a raised hummock or at the base of a small shrub. The female generally builds the nest, which is a shallow scrape lined with lichen, leaves, moss, or grass. Both parents help incubate the 4 eggs for 24-28 days. The young leave the nest soon after hatching and feed themselves. Both parents tend and defend the young, although the female generally leaves the brood first, and the male stays with them until they can fly, at 4-6 weeks.
+  migration_status: Adults leave the nesting grounds in July, and the young of the year typically follow a month later. Whimbrels are commonly found inland during migration, although they winter coastally. During migration, the population tends to congregate at a few favored spots. The population breeding in North America winters along the Pacific Coast, from southern Oregon to the southern tip of South America. The birds travel northward from March through May.
+  conservation_status: Whimbrels breed around the world at high northern latitudes. The Canadian Wildlife Service estimates the worldwide population at 797,000 birds and the North American population at 57,000. They have a widespread range and can be found on the coasts of six continents in the winter. Hunting in the 19th Century reduced the population. The ban on hunting in North America has resulted in a population rebound, but apparently not back to historic levels. While they are still being hunted for food in parts of South America, Whimbrels are now more seriously threatened by habitat destruction, disturbance, and environmental contaminants. The Western Hemisphere Shorebird Reserve Network is working to identify and protect important shorebird wintering and migration stopover areas, and this may help to protect Whimbrels. The current population trend is uncertain, and more monitoring is needed to understand their current status.
+  when_where_wa: Whimbrels are seen in Washington mostly during migration, but there are a few winter records from the coast. Some non-breeding birds summer on the coast as well. Migrating birds start coming through the Washington outer coast and Puget Sound in early April, are common from mid-April through mid-May, and then taper off through the end of May. The southward migration starts in late June, and they are common on the coast through mid-August. After this, they taper off and are uncommon until the end of October. In eastern Washington, migrating Whimbrels are fairly rare, but can be seen from mid-April to early June, and then again from late June through the end of August. They are more likely to be seen on the trip north than on the trip south. In western Washington, they are more common in spring in the protected waters of Puget Sound and the Strait of Juan de Fuca. Fall migrants are more likely to be found in coastal estuaries such as Grays Harbor (Grays Harbor County) and Willapa Bay (Pacific County), although they do occur along inland marine waters as well.
+photos:
+- file: whim_lb_l.jpg
+  caption: ''
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: whim_a_dp_l.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: whim.mp3
+  credit: null
+maps:
+  wa: nuph.jpg
+  north_america: whimmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, F, C, U, U, F, F, U, R, R]
+  puget_trough: ['', '', '', U, U, '', R, U, U, R, '', '']
+  north_cascades: ['', '', '', '', R, '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: whimbr3
+  current_common_name: Hudsonian Whimbrel
+  current_scientific_name: Numenius hudsonicus
+  clements_sort: 6011.0
+  historic_common_name: Whimbrel
+  display_historic: false
+  note: Published on BirdWeb as Whimbrel (Numenius phaeopus). The Whimbrel was split; Washington's regular migrant is the Hudsonian Whimbrel, while Numenius phaeopus is now the Eurasian Whimbrel, a rare visitor here.
+source:
+  url: https://birdweb.org/birdweb/bird/whimbrel
+  archived: '2026-09-12'

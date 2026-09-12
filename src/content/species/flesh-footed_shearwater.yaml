@@ -1,0 +1,53 @@
+slug: flesh-footed_shearwater
+common_name: Flesh-footed Shearwater
+scientific_name: Puffinus carneipes
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Procellariidae
+  slug: procellariidae
+status: Rare pelagic.
+species_of_concern: false
+sections:
+  general_description: Closely related to the Pink-footed Shearwater, the Flesh-footed Shearwater is solid, dark black-brown in color, with a pinkish beak and feet. The undersides of the wings may appear silver in flight.
+  habitat: In the non-breeding season, the Flesh-footed Shearwater inhabits the open ocean. It prefers to keep to warm waters, not commonly venturing as far north as many other shearwater species found off the coast of Washington. Pink-footed Shearwaters nest on islands with soil suitable for digging burrows for nests.
+  behavior: Although they seldom come close to the boats, they readily follow commercial fishing vessels and will dive after offal thrown overboard.
+  diet: The diet of the Pink-footed Shearwater consists of fish, squid, and crustaceans
+  nesting: Colony nesters, Flesh-footed Shearwaters nest on islands off the coast of Australia and New Zealand. They are active on the colonies mostly at night. They nest in underground burrows that may be over four feet long. The female lays a single egg in December, and both parents incubate. Once the egg hatches, both parents feed the chick, which leaves the island and heads to sea in April or May.
+  migration_status: Like all shearwaters, the Flesh-footed Shearwater breeds in the Southern Hemisphere's summer, from September through April. It spends the non-breeding season in the Northern Hemisphere from May to September.
+  conservation_status: Flesh-footed and Pink-footed Shearwaters are closely related, and some authorities consider them to be the same species. There are two main populations of Flesh-footed Shearwaters, those nesting in western Australia and those nesting in New Zealand. The birds that nest in New Zealand winter in the North Pacific.
+  when_where_wa: Flesh-footed Shearwaters are found uncommonly off the coast of Washington from May to October, almost always near shrimp trawlers. The best way to see them is on a boat trip. Typically only one or two birds are seen at a time, but flocks of up to 60 have been seen off Vancouver Island (British Columbia).
+photos:
+- file: ffsh1.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio: null
+maps:
+  wa: puca.jpg
+  north_america: null
+abundance:
+  oceanic: ['', '', '', R, R, R, R, R, U, U, U, '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: flfshe
+  current_common_name: Flesh-footed Shearwater
+  current_scientific_name: Ardenna carneipes
+  clements_sort: 7206
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/flesh-footed_shearwater
+  archived: '2026-09-12'

@@ -1,0 +1,61 @@
+slug: mountain_quail
+common_name: Mountain Quail
+scientific_name: Oreortyx pictus
+order:
+  name: Galliformes
+  slug: galliformes
+family:
+  name: Odontophoridae
+  slug: odontophoridae
+status: Rare resident.
+species_of_concern: true
+sections:
+  general_description: A chunky, ground-dwelling bird with a short tail, the Mountain Quail is grayish brown in color with bold white bars on its side, rufous under-tail coverts, and a brown throat patch bordered with white. Males and females appear similar, and both have a long, straight feather plume rising from atop their heads.
+  habitat: Mountain Quail are found in dense cover with scattered open areas on slopes in foothills and mountains. They use the dense thickets resulting from fires or clearcuts, and they are seldom found far from this cover. Scotch broom thickets provide ideal cover for Mountain Quail, as do alder thickets along streams. In summer, the quail require a source of water, which may limit their nesting range.
+  behavior: Mountain Quail use a variety of foraging techniques. They pick up items from the ground, scratching among the leaf litter, use their feet to dig for bulbs, climb in shrubs and trees to pick berries and leaves, and jump up on low plants to reach berries and seeds.
+  diet: Diet varies with the season but consists primarily of seeds, bulbs, leaves, berries, and some insects. Insect and other animal matter are a minor source of food, comprising less than 5% of the diet overall.
+  nesting: Mountain Quail nest on the ground in dense cover, usually sheltered by a shrub, log, or clump of grass. Like other quail, their nests are shallow depressions lined with grass, needles, leaves, and feathers. Females lay 9-10 eggs, which both parents incubate. Shortly after hatching, the young leave the nest. Both parents tend and actively defend the young, and lead them to food sources, where they feed themselves.
+  migration_status: Mountain Quail regularly migrate short distances on foot, usually descending to lower elevations for the winter, staying below the snow line. They make these treks in groups called 'coveys.' They return in the spring singly or in pairs. This migration pattern could allow them to exploit higher elevation habitats than other quail, although they are not usually found at very high elevations in Washington.
+  conservation_status: Much is not known about the Mountain Quail, which appears to differ in many ways from other North American quail. In Washington they are at the extreme edge of their range. The populations in the Blue Mountains and near the Columbia River Gorge on the Washington-Oregon border may be native populations, but other Mountain Quail in the state have been introduced. Mountain Quail are the most elusive quail in Washington. They are secretive birds that stay close to dense cover, usually associated with streams. Once this habitat is degraded, they may be quite isolated and unable to move to more suitable habitat. Loss of habitat to development, intensive agriculture, and overgrazing is a major threat to Mountain Quail in Washington. Flooding of riparian areas by dams along the Snake River may have helped wipe them out in southeastern Washington. Timber harvesting does not appear to affect Mountain Quail populations negatively if the cut site is allowed to regenerate naturally, with brushy species invading shortly after the cut. In the dry areas of the Mountain Quail's range, such as southeastern Washington, water appears to be a limiting factor. Thus it is important to conserve habitat near reliable water sources. This habitat should also contain densely vegetated corridors to allow these secretive birds to move under cover.
+  when_where_wa: Mountain Quail are uncommon to rare in shrubby vegetation in the southwestern portion of the Kitsap Peninsula (Kitsap County), and toward Elma (Grays Harbor County) into Thurston and Mason Counties. They have been found on slopes above the Columbia River in Klickitat County (although these populations may by now have been extirpated) and at lower elevations in the Blue Mountains. Formerly, there was a population along the Grande Ronde River (Asotin County), but that population may now be gone. A population in Walla Walla County appears to have been extirpated as well, as there have been no reports since 1993. Mountain Quail have been introduced in a variety of areas along the Puget Trough, the eastern Cascades, the Wenatchee Mountains, and in southwestern Washington as far east as Vancouver. As birds are regularly released in many areas, distribution is difficult to predict.
+photos:
+- file: moqu_m_dm_l.jpg
+  caption: Male
+  credit:
+    name: David R. Moore
+    url: http://www.pbase.com/drmoore/root
+  hero: false
+- file: moqudp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: mouq.mp3
+  credit: null
+maps:
+  wa: orpi.jpg
+  north_america: mouqmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, R, R, R, R, R, R, R, R, R]
+  puget_trough: [R, R, R, R, U, R, R, U, R, R, R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: [R, R, R, R, R, R, R, R, R, R, R, R]
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: mouqua
+  current_common_name: Mountain Quail
+  current_scientific_name: Oreortyx pictus
+  clements_sort: 1013
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/mountain_quail
+  archived: '2026-09-12'

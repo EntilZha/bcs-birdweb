@@ -1,0 +1,67 @@
+slug: brant
+common_name: Brant
+scientific_name: Branta bernicla
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common winter resident on coast.
+species_of_concern: true
+sections:
+  general_description: The Brant is similar in appearance to the Canada Goose, but smaller and darker. The adult has a gray belly and breast, white rump, and black neck and head with a thin white necklace and no chin-strap.
+  habitat: Brant are almost exclusively coastal in their range and are found in shallow bays and saltwater marshes. They nest in the wet, coastal tundra of the high Arctic. Their winter habitat is closely tied to the occurrence of sea grasses and marine algae.
+  behavior: Fast fliers with swept-back wings, Brant are usually found in a flock. They forage while wading, dabbling in shallow water, or while walking on mudflats or the shore. They display strong site-fidelity to both their wintering and nesting areas.
+  diet: Historically, Brant fed almost exclusively on eelgrass, which is still strongly preferred when available. Now they also forage on grasslands and have been able to diversify their diet in the absence of eelgrass, although their range is still closely tied to eelgrass. Brant also eat some aquatic invertebrates.
+  nesting: Long-term pair bonds usually form on the wintering grounds. Nesting occurs in loose colonies, on small islands in tundra ponds. The breeding range of the Brant is typically within five miles of the coast. The nest is similar to those of other North American geese, a shallow bowl of grass and other vegetation, lined with down. The female incubates 3 to 5 eggs for 22 to 24 days. The young leave the nest within a day of hatching, and both parents continue to tend them and lead them to sources of food. During the long days of the high-Arctic summer, the young feed at all hours, and grow quickly. They fledge at 40 to 50 days, but stay with the parents through the first migration.
+  migration_status: No other goose nests as far north as the Brant, and few migrate as far as this long-distance traveler. During this trek, Brant fly at altitudes of several thousand feet. The West Coast population breeds primarily on Melville Island and Prince Patrick Island in the western high Arctic. They then travel to Izembek Lagoon in Alaska where they stage for over a month before heading to wintering grounds in Puget Sound.
+  conservation_status: Because of their strong dependence on certain food (particularly eelgrass) and the harsh breeding environment, Brant are vulnerable to breeding failure and heavy losses from starvation, requiring careful monitoring. Pacific populations have experienced a long-term decline, but that seems to have stabilized within the last decade. Of current concern is the possibility of expansion of petroleum development on Alaska's North Slope, which may affect nesting, molting, and staging areas. There are three distinct races of Brant. Two of those races, the Black Brant and the Gray-bellied Brant, winter in Washington. Black Brant nest mainly in Alaska and winter along the Pacific coast from Alaska to Baja California, with about 90% of the population wintering in Baja. The percentage of the population wintering in Baja has grown in recent years, apparently in response to human harassment in other areas. The entire population of Gray-bellied Brant numbers about 8,000 birds. They nest in the Canadian high Arctic, and most winter in Washington's Skagit County, with a few in southern British Columbia. The small size of the Gray-bellied Brant and its concentrated distribution make it of special concern. Studies to learn more about this bird are under way and should help identify protection priorities.
+  when_where_wa: Black Brant can be found in Washington from November well into May along the outer coast and in Puget Sound. Large concentrations may gather at Dungeness Spit (Clallam County) and Willapa Bay (Pacific County). During the spring migration (February-April), they are widespread and can be found almost anywhere that eelgrass grows, especially at Dungeness and West Sequim Bay (Clallam County). Gray-bellied Brant arrive in Padilla and Samish Bays (Skagit County) in December and stay through the winter.
+photos:
+- file: blbr_jh_l.jpg
+  caption: 'Adult. Note: white necklace.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: blbr_j_tg_l.jpg
+  caption: 'Juvenile. Note: black neck.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: blbr_fl_tg_l.jpg
+  caption: ''
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: blbr1.mp3
+  credit: null
+maps:
+  wa: brbe.jpg
+  north_america: branmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, F, F, F, U, '', '', '', U, F, C, C]
+  puget_trough: [C, F, F, C, U, R, R, R, R, F, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: brant
+  current_common_name: Brant
+  current_scientific_name: Branta bernicla
+  clements_sort: 314
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/brant
+  archived: '2026-09-12'

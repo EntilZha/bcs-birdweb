@@ -1,0 +1,67 @@
+slug: wilsons_snipe
+common_name: Wilson's Snipe
+scientific_name: Gallinago delicata
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Fairly common resident. Breeds mostly east.
+species_of_concern: false
+sections:
+  general_description: Wilson's Snipe is a rather chunky shorebird, with a short neck and short legs. Its straight bill is very long. It is colored cryptically in mottled brown and black, with prominent light buffy longitudinal stripes on both its head and back. Its flanks are heavily barred, and its tail, barely visible when the bird is on the ground, is a rusty orange. Males, females, and juveniles have virtually the same appearance, and there is no seasonal variation in plumage.
+  habitat: Wilson's Snipe breeds in lowland, freshwater marshes and wet meadows with emergent vegetation, especially sedge meadows. During migration and winter, snipes can also be found in salt marshes, estuaries, and other mucky areas.
+  behavior: Wilson's Snipes are relatively solitary, but may form flocks. They move slowly through vegetation, probing deep in the mud with a repetitive up-and-down 'sewing-machine' motion. They are best seen during the breeding season when males sing from the top of perches such as fenceposts. When snipes are approached, they often burst away in a zigzag escape flight. One of the most distinctive sounds of Wilson's Snipe is a winnowing sound made by air rushing through its stiff outer tail feathers as it dives from high in its display flight.
+  diet: Wilson's Snipes eat insects, earthworms, and other creatures that burrow in wet soil. They also eat leaves and seeds.
+  nesting: Males arrive on the breeding grounds 10 to 14 days before females. They establish territories and, once they arrive, attract females with their dramatic flight displays. Females build their nests on grass or sedge hummocks. The nest is a shallow depression lined with moss, leaves, and grass, sometimes with plants from above woven in a canopy. The female lays 4 eggs and incubates them by herself for 18 to 20 days. The young leave the nest shortly after hatching, and both parents tend the brood, often splitting the group and each taking one or two young. The parents feed the young at first, although the young start to probe for their own food at about six days. By ten days of age, they find most of their own food. The parents continue to supplement their diet until they become independent (18 to 20 days).
+  migration_status: Wilson's Snipes are found throughout the US and are partially migratory. Some move north into Canada, Alaska, and the northern US tier and some winter in the central and southern US, Mexico, and Central America. (But see "When and Where To Find in Washington" below.)
+  conservation_status: Both the Christmas Bird Count and the Breeding Bird Survey in Washington have indicated that Washington's Wilson's Snipe population is in decline. This species is difficult to survey, however, and these numbers may not reflect the actual population. The Canadian Wildlife Service estimates the current population at 26,750,000 worldwide and 2,000,000 in North America, although the North American form is often considered to be a separate species. The destruction of wetlands continues to reduce available habitat. Wilson's Snipe is a game bird in Washington. Annual harvest rates vary considerably throughout the state and have ranged from 879 to 164,595 birds taken statewide within the past ten years.
+  when_where_wa: In western Washington, Wilson's Snipes are uncommon and local and, though most are resident birds, breeding records are rare. In eastern Washington, Wilson's Snipe is a common breeding bird and may be found at all elevations where there is appropriate wetland habitat. Most eastern Washington snipes are short distance migrants, leaving by mid-October, but a few usually remain in eastern Washington throughout the winter. Migrants return in April.
+photos:
+- file: wisn_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: wisn_ad2_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: wisn_a_dp_l.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: wisn.mp3
+  credit: null
+maps:
+  wa: gaga.jpg
+  north_america: cosnmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, F, F, U, U, F, F, F, U, U]
+  puget_trough: [U, U, F, F, U, U, U, U, F, F, F, U]
+  north_cascades: [R, R, R, U, U, U, U, U, U, U, R, R]
+  west_cascades: [R, R, U, F, F, F, F, F, U, R, R, R]
+  east_cascades: [R, R, R, U, U, U, U, U, U, U, R, R]
+  okanogan: ['', '', F, C, C, C, C, C, C, C, '', '']
+  canadian_rockies: ['', '', '', F, F, F, F, F, '', '', '', '']
+  blue_mountains: ['', '', '', '', R, R, R, R, R, '', '', '']
+  columbia_plateau: [U, U, F, F, F, F, F, F, F, F, F, U]
+taxonomy:
+  ebird_code: wilsni1
+  current_common_name: Wilson's Snipe
+  current_scientific_name: Gallinago delicata
+  clements_sort: 6104
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/wilsons_snipe
+  archived: '2026-09-12'

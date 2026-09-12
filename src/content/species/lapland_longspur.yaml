@@ -1,0 +1,53 @@
+slug: lapland_longspur
+common_name: Lapland Longspur
+scientific_name: Calcarius lapponicus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Uncommon migrant. Rare winter.
+species_of_concern: false
+sections:
+  general_description: The Lapland Longspur is a streaked bird, larger than most sparrows. Unlike many sparrows, which normally have unstreaked rumps and tails, the Lapland Longspur has streaks that extend from the back down to the tip of the tail. The male's summer plumage is distinctive--a bold black face, crown, and throat, straw-colored bill, and white brow-line that curves down around in front of his wing. Females and males in non-breeding plumage look similar; they are streaky overall with chestnut on the wings and cheeks edged in black. All plumages have white outer tail feathers. The chestnut nape, visible in all adult plumages, is a good field mark, as well. Unlike most birds with different breeding and non-breeding plumages, longspurs molt only once a year. In the fall, they molt into non-breeding plumage. By spring, the outer tips of the feathers have worn off to reveal the breeding plumage underneath.
+  habitat: Lapland Longspurs breed in the high Arctic in a variety of tundra habitats. They prefer wet tundra, thickly vegetated upland areas, sedge-lined stream and pond edges, and sedge marshes. During migration and in winter, they frequent prairies, pastures, and grassy beaches.
+  behavior: Lapland Longspurs are known for forming huge flocks, but in Washington, flocks typically number only 10-50 birds, and single birds are often recorded. They sometimes flock with Horned Larks, Snow Buntings, and American Pipits. When flushed, these ground-foragers will fly a long distance away from the disturbance.
+  diet: Seeds and arthropods make up the Lapland Longspur's diet. During the summer, arthropods make up about half their diet, although the young longspurs eat a far greater proportion. In winter, seeds are an important diet component. In agricultural areas, they consume waste grain in great quantities as well.
+  nesting: Males arrive on the breeding grounds before the females and start to defend and advertise territories. They sing in flight, on the ground, or from a perch (usually a tall weed or wire in their treeless nesting habitat). Once the females arrive, pairing and nesting occurs quickly, as the season is short in these far-northern breeding grounds. The nest, built by the female, is on the ground, usually by a small hummock of sedge, grass, or moss. It is an open cup made from coarse sedge, lined with fine sedge and grass, feathers, or hair. The female incubates the 4 to 6 eggs alone for 10 to 14 days. Both parents help feed the young, which leave the nest at 8 to 10 days of age.
+  migration_status: In late fall, Lapland Longspurs migrate in flocks to their wintering grounds across the middle and northern United States, including Washington. They return to the Arctic in the early spring. Peak passage is in November and March.
+  conservation_status: While not very common in Washington, range-wide the Lapland Longspur is one of the most abundant breeding birds of the far north. Large yearly fluctuations make it difficult to assess population trends, but much of their breeding range is remote from human disturbance. Potential disturbance in the Arctic National Wildlife Refuge could be a threat to the Lapland Longspur population.
+  when_where_wa: Lapland Longspurs are an uncommon winter visitor to Washington. During winter, they can often be found in northern Puget Sound and along the outer coast, and in open prairie of central and southeastern Washington. Mid-September is one of the best times to find migrating Lapland Longspurs, especially in open, grassy areas near Grays Harbor (Grays Harbor County) and Willapa Bay (Pacific County), along the outer coast. They can also be seen moving through the state on their northward migration in April and sometimes into May.
+photos:
+- file: lalo_tg_l.jpg
+  caption: Breeding male plumage.
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+audio: null
+maps:
+  wa: callap.jpg
+  north_america: lalomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, U, U, '', '', '', U, U, R, R]
+  puget_trough: ['', '', '', '', '', '', '', '', R, R, R, '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', R, R, '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [R, R, '', '', '', '', '', '', '', '', R, R]
+taxonomy:
+  ebird_code: laplon
+  current_common_name: Lapland Longspur
+  current_scientific_name: Calcarius lapponicus
+  clements_sort: 32664
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/lapland_longspur
+  archived: '2026-09-12'

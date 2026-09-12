@@ -1,0 +1,61 @@
+slug: osprey
+common_name: Osprey
+scientific_name: Pandion haliaetus
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Accipitridae
+  slug: accipitridae
+status: Common summer resident.
+species_of_concern: true
+sections:
+  general_description: 'The Osprey is a unique bird that is unmistakable when seen at close range. It is the only species in its family, and it is found worldwide. Its breast and belly are mostly white, with some dark streaks. The white extends out the wings, but the primaries, secondaries, and tail feathers are mottled black-and-white. The back is mostly black or dark brown. The head is distinctive with a white crest, a face bisected by a dark eye-stripe, and yellow eyes. While there is much variation, the female tends to have a streakier breast than the male. The Osprey''s talons are uniquely adapted for catching and carrying fish: their surfaces are rough, and their toes can be held with three forward and one back, or with two forward and two back, an arrangement seen in owls but not in other diurnal raptors. In flight, they are most often confused with gulls because of their long wings, which are bent at the wrist. However Ospreys have a bounce to their flight that gulls lack.'
+  habitat: Ospreys live near rivers, estuaries, salt marshes, lakes, reservoirs, and other large bodies of water. They are rare along rivers in the shrub-steppe zone, as they prefer water surrounded by forested habitat. They can be found near fresh or salt water, as long as the water can sustain medium-sized fish.
+  behavior: Ospreys hover over the water, plunging feet first when they spot prey. They fly with slow wing-beats interspersed with glides. Ospreys form pair bonds through aerial flight displays and courtship feeding.
+  diet: The vast majority of the Osprey's diet is fish, typically 5-16 inches in size. Only occasionally, when fish aren't available, will the Osprey eat small mammals, birds, or reptiles. However, the Osprey is highly specialized for eating fish and does not stray from this diet unless necessary. When it catches a fish, the Osprey usually flies with it held headfirst.
+  nesting: Ospreys build large nests near water, on top of dead trees or artificial structures that are similar to dead trees, such as utility or nesting poles. Nests are made of branches, sticks, and twigs, lined with smaller twigs, grasses, bark, moss, fish bones, and other material. They will reuse nests year after year and continue to add sticks each year, ending up with a huge nest. Nests may be more than seven feet across and over five feet deep. The female typically lays 3 eggs, although clutch sizes between 2 and 4 eggs are normal. Both members of the pair incubate the eggs for 38-43 days. After the young hatch, the female stays with them, and the male brings food. Once the young can be left alone, both parents provide food. The young do not fledge until they are 44-59 days old.
+  migration_status: Ospreys are migratory, the majority wintering south of the US border. Most reports of Ospreys wintering in Washington are likely to be misidentifications of sub-adult bald eagles.
+  conservation_status: The Osprey suffered great declines in the past century as a result of DDT and other eggshell-thinning pesticides. Since the ban of DDT in 1972, the Osprey has made, and continues to make, a strong comeback in much of North America. Range expansion into formerly occupied areas has been slow due to their strong philopatry to nesting areas. Artificial nest platforms have significantly increased nesting in many areas. The Breeding Bird Survey has reported a significant increase in the Osprey population in Washington.
+  when_where_wa: Ospreys are common near large bodies of water at lower elevations throughout Washington. They generally return to Washington in late March or early April; most of the population leaves in August or September. They rarely nest in the Columbia Basin, but are found along the Yakima and Walla Walla Rivers. The greatest abundance of nesting Ospreys in Washington is on the Pend Oreille River, where 22 nests were reportedly visible from a single viewing spot in Usk (Pend Orielle County), and the Everett waterfront.
+photos:
+- file: ospr_gl_l.jpg
+  caption: Adult Osprey
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: ospr_jfl_gl_l.jpg
+  caption: 'Juvenile Osprey. Note: buffy tones in belly and underwings'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: ospr1.mp3
+  credit: null
+maps:
+  wa: paha.jpg
+  north_america: osprmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', R, F, F, F, F, F, F, U, '', '']
+  puget_trough: ['', '', R, F, F, F, F, F, F, U, R, '']
+  north_cascades: ['', '', R, F, F, F, F, F, F, R, '', '']
+  west_cascades: ['', '', R, F, F, F, F, F, U, R, '', '']
+  east_cascades: ['', '', R, F, F, F, F, F, F, U, '', '']
+  okanogan: ['', '', U, F, F, F, F, F, F, U, '', '']
+  canadian_rockies: ['', '', '', F, F, F, F, F, U, '', '', '']
+  blue_mountains: ['', '', '', U, U, U, U, U, U, '', '', '']
+  columbia_plateau: ['', '', '', F, F, F, F, F, F, U, R, '']
+taxonomy:
+  ebird_code: osprey
+  current_common_name: Osprey
+  current_scientific_name: Pandion haliaetus
+  clements_sort: 7832
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/osprey
+  archived: '2026-09-12'

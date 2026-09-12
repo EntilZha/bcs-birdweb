@@ -1,0 +1,53 @@
+slug: red-legged_kittiwake
+common_name: Red-legged Kittiwake
+scientific_name: Rissa brevirostris
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    Red-legged Kittiwake
+
+    This small gull breeds on a few islands in the Bering Sea region and winters at sea across the northern Pacific Ocean, west to Japan and east to the Gulf of Alaska. It is a close relative of the widely distributed Black-legged Kittiwake and similar in appearance. Some important differences are Red-legged Kittiwake’s shorter bill, red leg color (pink in juveniles), darker gray mantle, and the absence of the Black-legged’s strong black juvenal wing pattern. See field guides for other distinguishing traits.
+
+    The status of Red-legged Kittiwake in the Pacific Northwest is imperfectly known due to lack of observers in its pelagic habitat. However, it appears to be a rare but probably regular visitor to inshore and offshore waters along the outer coast. Most records are in winter and early spring (December through April): six from Oregon, five from Washington, and one from British Columbia. Eight of these 12 records have been of birds found dead or dying on beaches. The region’s three summer records—two from Washington, one from Oregon—occurred from late June to mid-August.
+
+    *Revised June 2007*
+photos:
+- file: rlki_fl_gt_l.jpg
+  caption: Adult
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: relkit
+  current_common_name: Red-legged Kittiwake
+  current_scientific_name: Rissa brevirostris
+  clements_sort: 6452
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/red-legged_kittiwake
+  archived: '2026-09-12'

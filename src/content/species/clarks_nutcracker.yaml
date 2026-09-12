@@ -1,0 +1,61 @@
+slug: clarks_nutcracker
+common_name: Clark's Nutcracker
+scientific_name: Nucifraga columbiana
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Corvidae
+  slug: corvidae
+status: Fairly common resident.
+species_of_concern: false
+sections:
+  general_description: Clark's Nutcrackers are medium-sized birds with long, sharp bills. The Clark's Nutcracker is the size of a jay but is more like a crow in build and flight. Its body is primarily gray. It has black wings, and black down the center of its tail. The outer tail feathers and the undersides of the tail are white, and there are white wing patches at the trailing edges of the wings.
+  habitat: Clark's Nutcrackers can be found in two distinct types of habitat in Washington. Both types are characterized by dry, open, pine forest. Their primary habitat is high-elevation whitebark pine forest near the upper tree line, and the other, secondary habitat, is ponderosa pine forest at the lower tree line.
+  behavior: Clark's Nutcrackers have excellent spatial memory, which enables them to cache up to 33,000 seeds in the fall, and then locate a large percentage of those during the winter. Caches are generally buried in the soil on exposed slopes. These birds can find their caches up to nine months later. They are not totally efficient at finding their caches, however, so they function as a seed disperser as well. When collecting seeds to cache, a bird can store as many as 90 seeds in a pouch behind its tongue. When full, the pouch forms a large bulge at the throat. The caches allow Clark's Nutcrackers to remain at high elevations year round, and to start their breeding season very early. They are bold around humans, often coming to picnic, camping, and ski areas to beg for handouts.
+  diet: Clark's Nutcrackers are omnivores, although the vast majority of their diet is pine seeds. They also eat other seeds, nuts, berries, insects, eggs and nestlings of other birds, and carrion. The young are fed predominantly seeds.
+  nesting: Clark's Nutcrackers are monogamous and form long-term pair bonds. Pairs stay together on their territories year round. They begin nesting in late winter; relying on the food they have cached to raise their young. They typically nest in a conifer tree, generally in a fork at the outer branches. Both members of the pair help build the nest, which is a platform of twigs and bark, with a well-insulated cup made of bark strips and grass, with pine needles on top. Both members of the pair incubate the 2-5 eggs for about 18 days, and then brood the young for their first 10-11 days. Both parents help feed the young, which leave the nest at about 20 days. The young remain with the parents until they are 3½ -4 months old. Juvenile independence usually corresponds to when the year's seed crop becomes available, and they quickly start building their own caches for the following winter.
+  migration_status: Some elevational migration is common, and irruptions can occur in years when food is less abundant. After the young fledge in late spring, most Clark's Nutcrackers move upslope to sub-alpine zones, and then move back down in the fall.
+  conservation_status: Due to the remote range of Clark's Nutcrackers, their population status is not well understood. Populations fluctuate from year to year, primarily due to food availability. They are a major seed disperser for whitebark pine.
+  when_where_wa: Clark's Nutcrackers are common in the alpine and sub-alpine zone around Mount Rainier, in the Cascades, especially on the eastern slopes, and in the Okanogan Highlands. They can be found as vagrants on the Olympic Peninsula'there is a small, resident population in the northeastern Olympic Mountains. They are found uncommonly in the eastern Blue Mountains.
+photos:
+- file: clnu_gt_l.jpg
+  caption: Adult
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: clnu_j_gl_l.jpg
+  caption: Juvenile
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: clnu1.mp3
+  credit: null
+maps:
+  wa: nuco.jpg
+  north_america: clnumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, R, R, R, R, R, R, R, R, R]
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [U, U, U, U, U, U, U, U, U, U, U, U]
+  blue_mountains: [U, U, C, C, C, C, C, C, C, F, F, F]
+  columbia_plateau: [R, R, R, R, R, R, R, R, R, R, R, R]
+taxonomy:
+  ebird_code: clanut
+  current_common_name: Clark's Nutcracker
+  current_scientific_name: Nucifraga columbiana
+  clements_sort: 21484
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/clarks_nutcracker
+  archived: '2026-09-12'

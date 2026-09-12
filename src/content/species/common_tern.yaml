@@ -1,0 +1,73 @@
+slug: common_tern
+common_name: Common Tern
+scientific_name: Sterna hirundo
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Fairly common coastal migrant. Uncommon fall east.
+species_of_concern: false
+sections:
+  general_description: The Common Tern is a streamlined bird with narrow, pointed wings. The tail extends beyond the wingtips when the bird is perched. In breeding plumage, the Common Tern has a light gray mantle and belly, a white tail, a white face, and a black cap. Unlike many larger terns, the Common Tern does not have a crest. The bill is bright red with a dark tip (the dark tip is often gone by July), and the legs are red. In the non-breeding season, this tern has black legs, a black bill, and a white forehead. A bold, dark bar is visible on the wrist of first-year birds. The outer wing feathers are dark. Juveniles are brownish with orange bills and legs. As they age, they lose the brown wash and look like non-breeding-plumage adults.
+  habitat: Common Terns frequent lakes, rivers, oceans, bays, and beaches. During the summer, they use a wide range of coastal and inland aquatic breeding habitats, but most are found in lowlands, with undisturbed flat islands or beaches surrounded by shallow water. In winter, they are more restricted to warm water coastlines.
+  behavior: The Common Tern forages in flight, flying over the water, hovering, and dropping out of the air to catch prey below the surface. They also occasionally steal food from other terns.
+  diet: Small fish are the mainstay of the Common Tern's diet, along with insects, crustaceans, and other aquatic creatures.
+  nesting: Breeding starts at 3 to 4 years. Most nesting takes place in colonies, but some isolated pairs will breed as well. Both sexes help to make a shallow scrape in soil or sand, which they line with vegetation and other debris. Incubation of the 1 to 3 eggs lasts for about 3 weeks. After a few days, the young leave the nest, but stay nearby. Both parents help feed the young, which first fly at 3 to 4 weeks of age, but stay with the adults for another couple of months.
+  migration_status: After breeding, Common Terns may move short distances north before beginning their southward journey. A few fall migrants may linger in the north until November. Common Terns rarely winter in North America, preferring coasts as far south as Peru and Argentina.
+  conservation_status: Some populations, especially those in northeastern North America, have declined recently due to competition and predation from large gulls. Coastal populations have become more and more concentrated into fewer colonies. Some inland populations have also experienced decline.
+  when_where_wa: The closest Common Tern breeding colonies are in Alberta and central Montana. In Washington, this tern is a common migrant in coastal areas in saltwater and sandy-shore habitats in May through early June, and then again from August through October. It is uncommon in freshwater habitats. In eastern Washington, it is a rare spring migrant and fairly common in small numbers in fall.
+photos:
+- file: cote_w_gth_l.jpg
+  caption: Adult molting into winter plumage.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: cote_bw_gth_l.jpg
+  caption: Adults (left to right) in breeding, molting, and winter plumages.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: cote_fl_gt_l.jpg
+  caption: 'Adult breeding. Note: red bill with black tip and dark upper primaries.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: cote_w_gl_l.jpg
+  caption: 'Adult nonbreeding. Note: dark carpal bar and nape.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: cote.mp3
+  credit: null
+maps:
+  wa: sthi.jpg
+  north_america: cotemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', U, C, '', R, F, F, U, '', '']
+  puget_trough: ['', '', '', '', R, '', R, F, C, U, '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', U, U, R, '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', R, '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', U, F, R, '', '']
+taxonomy:
+  ebird_code: comter
+  current_common_name: Common Tern
+  current_scientific_name: Sterna hirundo
+  clements_sort: 6748
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/common_tern
+  archived: '2026-09-12'

@@ -1,0 +1,52 @@
+slug: northern_hawk_owl
+common_name: Northern Hawk Owl
+scientific_name: Surnia ulula
+order:
+  name: Strigiformes
+  slug: strigiformes
+family:
+  name: Strigidae
+  slug: strigidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Casual winter visitor, mostly east of Cascades. One recent breeding-season record, from Chelan County. Has nested not far from Washington in British Columbia and Idaho panhandle.
+photos:
+- file: nhow_fl_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: nhow_jh_l.jpg
+  caption: ''
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: nhowmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: nohowl
+  current_common_name: Northern Hawk Owl
+  current_scientific_name: Surnia ulula
+  clements_sort: 8999
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/northern_hawk_owl
+  archived: '2026-09-12'

@@ -1,0 +1,61 @@
+slug: great_egret
+common_name: Great Egret
+scientific_name: Ardea alba
+order:
+  name: Ciconiiformes
+  slug: ciconiiformes
+family:
+  name: Ardeidae
+  slug: ardeidae
+status: Fairly common summer east. Uncommon migrant and winter west.
+species_of_concern: true
+sections:
+  general_description: A large, long-necked and long-legged wading bird with pure white plumage, the Great Egret has a long, yellow bill, and dark legs and feet. In breeding plumage, adults have longish plumes descending from their tails, but not their heads.
+  habitat: Great Egrets inhabit freshwater wetlands, usually foraging in open areas of lakes, large marshes, and along large rivers.
+  behavior: Great Egrets can be found feeding in flocks of their own kind or with other herons. When feeding, they stand or walk slowly in shallow water waiting for prey to come by, and then they thrust to catch it with their bills. Sometimes they forage in open fields, occasionally around cattle, but are not likely to be confused with the much smaller Cattle Egret.
+  diet: Fish is their primary food, but Great Egrets also eat crustaceans, frogs, other aquatic creatures, and rodents and grasshoppers from terrestrial feeding areas.
+  nesting: Great Egrets usually nest near water, in trees, shrubs, or thickets. They probably first breed at 2-3 years of age. Although isolated pairs are sometimes seen, colonies--often multi-species--are the norm. In multi-species colonies, the Great Egrets tend to nest higher than other species. The male selects the nest area where he displays to attract the female. Both sexes build the stick nest, and both help incubate the 3-4 eggs for 23-26 days. Both parents feed the young by regurgitation. At the age of three weeks, the young may begin to climb about the nest, but do not fledge until 6-7 weeks.
+  migration_status: Birds breeding in northern areas where water freezes migrate in the winter. In milder climates, the birds remain through the winter. Wanderers are not uncommon in northern areas after the breeding season.
+  conservation_status: Great Egrets were nearly wiped out in the United States in the late 1800s when their plumes were fashionable on women's hats. The enactment of the International Migratory Bird Treaty in 1914 put a stop to the slaughter of these and many other species in peril. The Great Egret has made a rapid recovery, and the breeding range has been expanding gradually northward. The first record of Great Egrets nesting in Washington was in 1979 at Potholes Reservoir in Grant County. Since then, they have expanded their nesting in Washington, and their expansion into southwestern Washington continues rapidly.
+  when_where_wa: Great Egrets are mainly found in wetlands in the central arid steppe of eastern Washington. Nesting occurs at the north and south ends of Potholes Reservoir (Grant County) and along the Columbia River between Benton and Franklin Counties. Great Egrets are found in large numbers in this area in late summer. In the winter, a few may be found at the mouth of the Columbia River, and small numbers are seen along the Washington coast. They are generally not found in Puget Sound in the winter. Numbers can remain high near Ridgefield National Wildlife Refuge throughout the winter, and breeding has occurred at this site for the last two years.
+photos:
+- file: greg_gl_l.jpg
+  caption: 'Note: black legs and long neck.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: greg_fl_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: greg.mp3
+  credit: null
+maps:
+  wa: casal.jpg
+  north_america: gregmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, R, R, U, U, U, U, U, R, R]
+  puget_trough: [U, U, U, U, U, U, F, F, F, F, F, F]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [R, R, R, '', '', '', '', U, U, U, R, R]
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', F, C, C, C, C, C, C, F, U, R]
+taxonomy:
+  ebird_code: greegr
+  current_common_name: Great Egret
+  current_scientific_name: Ardea alba
+  clements_sort: 7729
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/great_egret
+  archived: '2026-09-12'

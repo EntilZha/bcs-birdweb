@@ -1,0 +1,61 @@
+slug: eared_grebe
+common_name: Eared Grebe
+scientific_name: Podiceps nigricollis
+order:
+  name: Podicipediformes
+  slug: podicipediformes
+family:
+  name: Podicipedidae
+  slug: podicipedidae
+status: Fairly common breeder east. Uncommon winter.
+species_of_concern: false
+sections:
+  general_description: The smallest grebe in Washington, the Eared Grebe is similar in appearance to the Horned Grebe, but is somewhat smaller and lighter-weight. This grebe has a slightly upturned bill and a peak over the eye. In the breeding season, its upperparts are dark, and its underparts are rufous. The head and neck are black with a yellow spray of feathers radiating across the cheek. (Outside of North America, this bird is known as the Black-necked Grebe.) Adults in non-breeding plumage are dark above, with a light, gray-white belly and dirty gray neck. The top half of the head is dark, the bottom half light, with a white crescent at the ear. Juvenile plumage is buff-gray with a white chin.
+  habitat: Eared Grebes breed in large freshwater lakes and reservoirs in eastern Washington in areas with open water and emergent vegetation. They are quick to take advantage of temporary or man-made bodies of water. During migration and throughout the winter, they are often found in high-saline lakes and certain coastal bays. Most of the population moves in winter to a few large hypersaline lakes in the West and Southwest (chiefly the Great Salt Lake and Mono Lake) to exploit the abundant brine shrimp and alkali flies that thrive in those waters.
+  behavior: Eared Grebes are typically gregarious in nesting season, living in colonies that sometimes number thousands of individuals. Like other grebes, they participate in elaborate courtship displays. They experience vast fluctuations in weight and muscle mass throughout the year, going through a number of flightless periods. In fact, it is possible that Eared Grebes spend a total of as much as ten months of the year unable to fly.
+  diet: Insects and crustaceans make up the majority of the diet. When Eared Grebes are on hypersaline lakes, brine shrimp are an important food source for them.
+  nesting: Eared Grebes nest in dense colonies. Both parents help build the well-concealed nest, which is a floating platform of weeds anchored to emergent vegetation in shallow water. Both male and female birds incubate the three to four eggs for about 21 days. As soon as all the young have hatched, the family leaves the nest. Both adults feed and tend the young, sometimes splitting the workload about 10 days post-hatching, with each parent taking half of the brood. The young are generally independent after 21 days.
+  migration_status: Immediately after the breeding season, Eared Grebes migrate in huge numbers to a few large, hypersaline lakes (Great Salt Lake in Utah and Mono Lake in California) where they stop to molt and take advantage of abundant food. They stay at these stopover points until food runs out, which can be months later. As a result of this long stay, Eared Grebes are the latest North American migrant to move to their wintering grounds in Southern California, Mexico, and the Gulf Coast. In March and early April, they begin their northward migration, often up the Pacific Coast, back to the breeding grounds
+  conservation_status: The Eared Grebe is currently the most abundant species of grebe in North America and the world. The population is generally stable, although it is vulnerable because such a high percentage of the birds rely on so few lakes. Protection of breeding grounds is equally important. Since colony locations change frequently, protection of wetlands that currently have a breeding colony isn't enough; protection must extend to all suitable habitat, no matter whether such habitat currently has a nesting colony.
+  when_where_wa: Eared Grebes are commonly found nesting in large ponds and lakes at lower elevations in eastern Washington. They can also be found on the east side of the Okanogan River. In the Columbia Basin, colonies occur in suitable ponds and lakes up to the Ponderosa pine zone in Spokane County and throughout the Channeled Scablands. They are not found breeding in the south-central part of the Columbia Basin. They are found fairly commonly as migrants and occasionally as winter residents on open fresh water and less commonly on salt water in western Washington and the Columbia Basin. When found wintering on the west side of Washington, they usually in ones or twos. However, staging locations such as Soap Lake and nesting colonies in Kahlotus Lake often have hundreds of individuals.
+photos:
+- file: eagr_b_jh_l.jpg
+  caption: Pair of breeding adults
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: eagr_w_gl_l.jpg
+  caption: Adult nonbreeding; paler winter variation.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: eagr.mp3
+  credit: null
+maps:
+  wa: podni.jpg
+  north_america: eagrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, R, R, '', '', R, R, R, R, R]
+  puget_trough: [U, U, U, U, R, '', '', '', U, U, U, U]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [R, R, R, '', '', '', '', '', '', R, R, R]
+  east_cascades: [R, R, R, U, U, '', '', U, U, R, R, R]
+  okanogan: [R, R, F, F, U, U, U, U, U, F, U, U]
+  canadian_rockies: ['', '', '', U, U, U, U, U, '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [F, F, C, C, C, C, C, C, C, C, F, F]
+taxonomy:
+  ebird_code: eargre
+  current_common_name: Eared Grebe
+  current_scientific_name: Podiceps nigricollis
+  clements_sort: 6876
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/eared_grebe
+  archived: '2026-09-12'

@@ -1,0 +1,67 @@
+slug: rock_pigeon
+common_name: Rock Pigeon
+scientific_name: Columba livia
+order:
+  name: Columbiformes
+  slug: columbiformes
+family:
+  name: Columbidae
+  slug: columbidae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: Rock Pigeons, more commonly known simply as just "pigeons," are familiar birds in any developed area. Chunky birds with sharply pointed wings, Rock Pigeons are found in a variety of colors and patterns, although all gray is most common. Rock Pigeons have black bills with white fleshy bases, red eyes, red fleshy eye-rings, and salmon-colored feet.
+  habitat: Rock Pigeons are found in a wide variety of habitats, especially suburban, urban, and agricultural environments. Their original native habitat is cliff-sides, and Rock Pigeons can be found in eastern Washington nesting on cliffs.
+  behavior: Rock Pigeons are fast fliers and are usually seen in flocks. They forage mostly on the ground, but occasionally forage in trees as well. Unlike their agile, native cousin, the Band-tailed Pigeon, Rock Pigeons move about only clumsily in trees. Large groups often congregate along utility wires, window ledges, and rooftops.
+  diet: Seeds and grain make up most of the Rock Pigeons' diet on farms, but in cities, popcorn, bread, and other human food is usually part of their diet.
+  nesting: In urban and suburban areas, Rock Pigeons nest on a variety of covered, flat surfaces, including ledges and beams in bridges and buildings. In natural areas, they nest on sheltered cliff-ledges. Pairs may form long-term bonds. The male supplies nesting material, and the female builds the nest, a platform of twigs and grass. Nest sites are used repeatedly and nesting material is added for each new brood. A pair may raise 5 or more broods a year. Both parents incubate the 2 eggs for 16-19 days, and both feed the young 'pigeon milk," a protein and fat-rich liquid produced in their crops. At about 4 weeks of age, the young leave the nest.
+  migration_status: Rock Pigeons do not migrate. However if displaced from a nesting area, they have a good homing ability and can return from long distances. It is thought that this ability evolved to help them find their own nests on cliffs covered with large colonies of similar looking nests.
+  conservation_status: Originally from Europe, Northern Africa, and India, the Rock Pigeon was domesticated and raised for food and trained for homing. Early European settlers at Jamestown and Plymouth introduced it to North America in the 1600s. All of the birds in North America and most of the European populations are descended from domestic stock. Numbers have increased significantly as more and more of our country is urbanized. While Rock Pigeons can be a nuisance, they do not negatively affect native species, since they are predominantly found in disturbed environments. In fact, since Peregrine Falcons living in urban areas prey predominantly on them, the abundance of Rock Pigeons has assisted the comeback of the falcon .
+  when_where_wa: Rock Pigeons are widespread and common year round at lower elevations throughout Washington, especially in cities and farms. In eastern Washington they are also found on basalt cliffs along the Columbia River in the Columbia National Wildlife Refuge (Grant County). They are absent from heavily forested areas.
+photos:
+- file: ropi_fl_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: ropi_gt_l.jpg
+  caption: ''
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: ropi2_gt_l.jpg
+  caption: Rock Pigeon (brown variation)
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: ropi1.mp3
+  credit: null
+maps:
+  wa: coli.jpg
+  north_america: rodomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [F, F, F, F, F, F, F, F, F, F, F, F]
+  blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: rocpig
+  current_common_name: Rock Pigeon
+  current_scientific_name: Columba livia
+  clements_sort: 1853
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/rock_pigeon
+  archived: '2026-09-12'

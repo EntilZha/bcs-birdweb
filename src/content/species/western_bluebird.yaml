@@ -1,0 +1,67 @@
+slug: western_bluebird
+common_name: Western Bluebird
+scientific_name: Sialia mexicana
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Turdidae
+  slug: turdidae
+status: Fairly common summer, mostly east. Rare winter.
+species_of_concern: true
+sections:
+  general_description: The deep blue on the head, wings, and tail of the male Western Bluebird contrast with the bold rufous coloring on its breast and between its shoulders. The female is a faded version of the male and has a white eye-ring that the male lacks.
+  habitat: Western Bluebirds are found in open coniferous forests, farmlands, and steppe habitats, often eastern Washington at the edges where the forest meets the steppe zone. Forest openings and clearings and agricultural areas are also good habitat for the Western Bluebird. In winter, they inhabit a wider variety of open and semi-open terrain, especially piñon-juniper forests, farmlands, and deserts.
+  behavior: Western Bluebirds are often seen perching alone on fence wires, posts, snags, or tree branches by open meadows, pouncing on the ground to catch insects. They also fly out to catch aerial prey and grab insects from twigs and leaves.
+  diet: In summer, Western Bluebirds eat primarily insects. In winter, berries and small fruits become more important parts of the diet, with mistletoe, juniper, and elderberry all important food items.
+  nesting: The male arrives on the breeding grounds before the female, and defends the nesting territory by singing. They are cavity-nesters, finding a natural hollow in a tree, an old woodpecker hole, a hole in a building, or a man-made nest box. Preferred nest-holes are fairly low, less than 50 feet from the ground. The female builds the nest, although the male may help. The nest is a loose cup of twigs and weeds, lined with finer plant materials. The female incubates the 4 to 6 eggs, while the male brings her food. Once the eggs hatch, she broods the young while he continues to bring food. They both feed the young, which fledge at 2 to 3 weeks, The adults then have a second brood.
+  migration_status: The Western Bluebird is the least migratory of the bluebirds, and much of its migration is altitudinal rather than latitudinal. In eastern Washington, most birds migrate south in the fall to locations throughout the southwestern United States and central Mexico. Small flocks occasionally remain through the winter in valleys, especially in mild winters. To the west of the Cascades, most of the population retreats to lower elevations in the winter. On both sides of the mountains, the winter range varies with food sources. In any case, they are very uncommon in winter.
+  conservation_status: In recent decades, the Western Bluebird has declined over much of its range. This decline is well documented in western Washington where it is attributed to a combination of competition with House Sparrows and European Starlings for nesting cavities, a reduction of natural cavities, and regional climactic changes that have resulted in reduced numbers of prey. An intense nest box program has helped a population in the Fort Lewis area to rebound, and helped with the re-establishment of breeding pairs in other areas of western Washington where Western Bluebirds once were present.
+  when_where_wa: Western Bluebirds can be found in eastern Washington at the edges where the forest meets the steppe. They are also found in open coniferous forest, especially Ponderosa pine. They are especially common in areas where nest box projects have provided them with adequate cavities. Nest boxes are in place in Kittitas, Yakima, Klickitat, Walla Walla, Columbia, and Garfield Counties. In western Washington, Western Bluebirds are now regular, but uncommon, in the Fort Lewis area, and rare in forest clearings in King, Pierce, Thurston, and Mason Counties, and in prairie areas near Port Townsend (Jefferson County), at the mouth of the Naselle River (Pacific County), Forks (Clallam County), and other sites on the eastern Olympic Peninsula. They can also be found year round in Skamania County.
+photos:
+- file: webl_fe_gth_l.jpg
+  caption: 'Female. Note: light gray back and head with blue wings.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: webl_m_gth_l.jpg
+  caption: 'Male. Note: dark blue head, back and wings.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: webl_j_tg_l.jpg
+  caption: 'Juvenile. Note: spotted back and brownish wash to upperparts.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: webl1.mp3
+  credit: null
+maps:
+  wa: sime.jpg
+  north_america: weblmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, R, R, R, R, R, R, R, R, R]
+  puget_trough: [R, R, U, U, U, U, U, U, U, R, R, R]
+  north_cascades: ['', '', '', R, R, R, R, R, R, '', '', '']
+  west_cascades: [R, R, U, U, U, U, U, U, U, R, R, R]
+  east_cascades: [R, R, U, F, F, F, F, F, U, U, R, R]
+  okanogan: ['', U, C, C, C, C, C, C, C, C, U, '']
+  canadian_rockies: ['', U, U, F, F, F, F, F, F, U, '', '']
+  blue_mountains: ['', '', R, F, F, C, C, C, C, U, R, '']
+  columbia_plateau: [R, R, U, U, U, U, U, U, U, U, R, R]
+taxonomy:
+  ebird_code: wesblu
+  current_common_name: Western Bluebird
+  current_scientific_name: Sialia mexicana
+  clements_sort: 28136
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/western_bluebird
+  archived: '2026-09-12'

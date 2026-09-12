@@ -1,0 +1,46 @@
+slug: mountain_plover
+common_name: Mountain Plover
+scientific_name: Charadrius montanus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Charadriidae
+  slug: charadriidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: Two late-fall records from outer coast (Pacific County), one spring record from Turnbull NWR (Spokane County).
+photos:
+- file: mopl_w_gth_l.jpg
+  caption: Winter plumage
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: moupmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: mouplo
+  current_common_name: Mountain Plover
+  current_scientific_name: Anarhynchus montanus
+  clements_sort: 5934
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/mountain_plover
+  archived: '2026-09-12'

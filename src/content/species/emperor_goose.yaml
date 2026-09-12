@@ -1,0 +1,55 @@
+slug: emperor_goose
+common_name: Emperor Goose
+scientific_name: Chen canagica
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Casual winter visitor. Washington Bird Records Committee review list species.
+species_of_concern: true
+sections:
+  general_description: |-
+    A handsome, gray-bodied goose with white head and black throat, the Emperor Goose is intermediate in size between Snow Goose and Ross’s Goose, its close relatives. A short, thick neck, smallish head, and short bill contribute to its heavy-bodied appearance. The Emperor Goose breeds along the Bering Sea coastline in Alaska and Siberia and winters south to Kamchatka, the Aleutians, and the Gulf of Alaska, with small numbers regularly straying farther south along the Pacific Coast as far as California. In Washington it is a frequent, though not annual, winter visitor, most often on sheltered waters along the Pacific and North Olympic coasts but also near Puget Sound and on the Columbia River floodplain near Vancouver, often in the company of other geese.
+
+    *Revised June 2007*
+photos:
+- file: emgo_a_gth2_l.jpg
+  caption: Juvenile molting into breeding plumage.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: emgo_gth_l.jpg
+  caption: Juvenile molting into breeding plumage.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: emgomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: empgoo
+  current_common_name: Emperor Goose
+  current_scientific_name: Anser canagicus
+  clements_sort: 266
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/emperor_goose
+  archived: '2026-09-12'

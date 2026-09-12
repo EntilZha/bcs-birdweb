@@ -1,0 +1,73 @@
+slug: black-legged_kittiwake
+common_name: Black-legged Kittiwake
+scientific_name: Rissa tridactyla
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Fairly common outer coast. Casual inland.
+species_of_concern: false
+sections:
+  general_description: The Black-legged Kittiwake is a medium-sized gull, with the typical 'gull-like' appearance of white head and body, slate-gray back and wings, black wingtips, and a yellow bill. The legs are black. The juvenile has bold, black edgings on its wings and the nape of its neck, and a black bill. Black-legged Kittiwakes fly with stiffer wing-beats than other gulls.
+  habitat: A pelagic gull, this kittiwake spends most of the year at sea. The Black-legged Kittiwakes gather in areas of upwellings, sometimes over the edge of the continental shelf. They can be found from the coast to over a hundred miles offshore. They breed on narrow cliff ledges in the far north.
+  behavior: Black-legged Kittiwakes are surface feeders, dropping from flight to take items off the surface of the water, or plunging into the water for prey just below the surface, but not diving deeply. They also forage while swimming. They are generally silent when seen in Washington, but on their breeding grounds, Black-legged Kittiwakes are very vocal, repeating a call that sounds like their name.
+  diet: Small surface-schooling fish make up the majority of the Black-legged Kittiwake's diet. When these fish aren't available, the kittiwakes eat krill and other sea creatures. They occasionally feed on waste from ships. Black-legged Kittiwakes do not feed at garbage dumps as do many other gull species.
+  nesting: Black-legged Kittiwakes are monogamous during the breeding season, but do not maintain their pair bonds during the non-breeding season. Many will, however, re-pair with the same mate in the following year. They first breed at 3-5 years of age. On a narrow cliff edge, both parents help build a nest of mud, seaweed, and grass with a shallow depression in the middle. The female lays 1-3 eggs, and both sexes help incubate for about 4 weeks. The young stay in the nest for 5-8 weeks, and both parents provide food. After fledging, the young may return to the nest for a few more weeks. The nest ledges are so narrow that the birds must face towards the cliff, with tails pointed out, to fit.
+  migration_status: Most migration takes place offshore. Numbers moving through Washington during migration are highly variable from year to year. Since Black-legged Kittiwakes do not breed in Washington, migration is when we are most likely to see them. The fall movement begins in August and peaks in September. The highly variable spring migration may be more conspicuous than fall and runs from early April to early June.
+  conservation_status: Atlantic populations have experienced growth in recent years. Pacific populations of Black-legged Kittiwakes fluctuate dramatically. They are relatively insensitive to the direct effects of oil spills, but they are indirectly affected by a reduction in prey species. In years when food is scarce, their nesting success is significantly reduced. In addition to the obvious effects of lack of food, when prey is scarce, the adults range farther from the nest and are away for longer periods of time, leaving the eggs and the young exposed, and thus more vulnerable to predators. Years of near-total breeding failure for colonies have been observed in years when the diving birds in the same area do not experience a similar decline, indicating that surface feeders may be responding to different environmental disturbances than diving birds. For this reason, Black-legged Kittiwakes have been proposed as a good indicator species of marine health.
+  when_where_wa: Seldom seen over land in Washington, Black-legged Kittiwakes may be seen from shore, especially after storms. The largest numbers can be seen on offshore boating trips, but these kittiwakes can be seen off the jetties at Westport (Grays Harbor County) and Ilwaco (Pacific County), and at the mouth of the Columbia River (Pacific County). In recent years, they have been found perched on the jetties and even on mudflats around Grays Harbor (Grays Harbor County). Offshore, they are common from September through April and uncommon the rest of the year, although abundance varies greatly from year to year. Most birds seen in the summer months are immature.
+photos:
+- file: blki_gt_l.jpg
+  caption: Adult breeding
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: blki_wfl_gt_l.jpg
+  caption: 'Adult nonbreeding. Note: yellow unmarked bill,'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: blki_jw_jp_l.jpg
+  caption: Immature
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: blki_jwfl_jp_l.jpg
+  caption: 'Immature. Note:'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+audio:
+  file: blki.mp3
+  credit: null
+maps:
+  wa: ritr.jpg
+  north_america: blkimap.gif
+abundance:
+  oceanic: [C, C, C, F, '', '', '', '', '', U, C, C]
+  pacific_northwest_coast: [F, F, F, F, F, U, U, U, U, U, F, F]
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: bklkit
+  current_common_name: Black-legged Kittiwake
+  current_scientific_name: Rissa tridactyla
+  clements_sort: 6449
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black-legged_kittiwake
+  archived: '2026-09-12'

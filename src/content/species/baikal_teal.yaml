@@ -1,0 +1,51 @@
+slug: baikal_teal
+common_name: Baikal Teal
+scientific_name: Anas formosa
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Accidental visitor. Washington Bird Records Committee review list species.
+species_of_concern: false
+sections:
+  general_description: |-
+    The head of the breeding-plumaged male Baikal Teal is arrestingly patterned in green, buff, black, and white. Vertical white bands separate the gray sides from the dull rosy-brown breast and black undertail. Colorful pointed scapulars overhang the rear flanks and tail. Females, juveniles, and non-breeding-plumaged males are rather similar to the comparable plumages of the somewhat smaller Green-winged Teal, but more reddish-brown overall and with a distinctive white spot on the face at the base of the bill.
+
+    The Baikal Teal breeds on tundra and taiga in central and eastern Siberia, winters in southern and eastern China and southern Japan, and is a casual vagrant to Alaska and down the coast to California. This highly decorative duck has long been popular in waterfowl collections, which complicates the question of birds found in the wild. In the past most records were assumed to be escaped birds. Such was the case of a male Baikal Teal shot from a flock of Green-winged Teal at Dungeness (Clallam County) in January 1920. A more recent record of a long-staying visitor near Kent (King County) in winter 2004–2005 has been accepted by the Washington Bird Records Committee. Oregon and British Columbia each have one record as well.
+
+    *Revised June 2007*
+photos:
+- file: bate_m_ma_l.jpg
+  caption: Male
+  credit:
+    name: Ruben Vlot
+    url: http://www.pbase.com/ruben_jorrit
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: baitea
+  current_common_name: Baikal Teal
+  current_scientific_name: Sibirionetta formosa
+  clements_sort: 478
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/baikal_teal
+  archived: '2026-09-12'

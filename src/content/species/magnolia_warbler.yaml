@@ -1,0 +1,72 @@
+slug: magnolia_warbler
+common_name: Magnolia Warbler
+scientific_name: Dendroica magnolia
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    The Magnolia Warbler breeds in moist coniferous and mixed forest from Yukon and British Columbia to Newfoundland and the Maritimes, mostly in Canada but also in the upper Midwest, New England, and the Appalachians. It migrates east of the Great Plains, crossing the Gulf of Mexico to and from its wintering grounds in southeastern Mexico and Central America, but is also one of the more common vagrant “eastern” warblers seen in the western United States. Oregon and Idaho both have more than 20 records. Washington has 12 accepted records, seven east of the Cascades and five from westside coastal lowlands. Nine are from fall (September–October), while two occurred in late May at Ione (Pend Oreille County) and near Dixie (Walla Walla County). The other record was of a male singing on territory near Twisp (Okanogan County) for nearly a month, 8 June–4 July 1996.
+
+    In fall, when it is most likely to be seen in Washington, this species has greenish upperparts, a gray head with a prominent white eye-ring, two white wingbars, yellow underparts from chin to belly, streaked sides (sometimes weakly), and white undertail coverts. Key field marks are the yellow rump, white underside of the front half of the tail, and wide white band visible on the spread tail. There is considerable variation in plumage by age, sex, and season. In particular, breeding birds are much more strongly patterned: consult a good field guide for details.
+
+    *Revised October 2007
+    *
+photos:
+- file: mawa_gl_l.jpg
+  caption: 'Male. Note: white supercilium, black mask, and thick black streaks on throat.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: mawa_w_gl_l.jpg
+  caption: 'Juvenile. Note: thin white wing bars, white eye ring, and gray head.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: mawa_fl_gl_l.jpg
+  caption: 'Note: yellow rump, white banded pattern on tail, and white wing coverts.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: mawa_jf_gl_l.jpg
+  caption: 'Juvenile. Note: faint gray neckband and plain greenish back.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: MAWA01.mp3
+  credit: null
+maps:
+  wa: null
+  north_america: mawamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: magwar
+  current_common_name: Magnolia Warbler
+  current_scientific_name: Setophaga magnolia
+  clements_sort: 34079
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/magnolia_warbler
+  archived: '2026-09-12'

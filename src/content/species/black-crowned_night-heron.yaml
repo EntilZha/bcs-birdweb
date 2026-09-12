@@ -1,0 +1,79 @@
+slug: black-crowned_night-heron
+common_name: Black-crowned Night-Heron
+scientific_name: Nycticorax nycticorax
+order:
+  name: Ciconiiformes
+  slug: ciconiiformes
+family:
+  name: Ardeidae
+  slug: ardeidae
+status: Common resident east. Rare winter west.
+species_of_concern: true
+sections:
+  general_description: Adult Black-crowned Night-Herons have pale gray bellies and wings and black backs. Their faces are white with a black cap, topped by a white plume. They have black bills and red eyes. Juveniles are mottled in gray, brown, and white coloring and have streaked breasts. One-year-old birds have an intermediate plumage somewhat between that of juveniles and adults. Black-crowned Night-Herons have short necks that are often pulled in, giving the birds a somewhat thick-set appearance for a heron.
+  habitat: Black-crowned Night-herons inhabit a variety of fresh and saltwater wetlands. In Washington, they breed primarily in freshwater areas. In spring and fall, they can be found in wetlands flanking large river basins. Winter habitat is varied, but these herons frequent forested swamps.
+  behavior: Black-crowned Night-herons are gregarious at all times of the year, and are often seen in very large groups. As their name implies, they are mostly nocturnal, roosting during the day in trees or marshes, and foraging at night, especially at dusk and dawn. They have also been seen feeding during the day, a practice most common during the demanding nesting season. When foraging, they usually stand still or walk slowly at the edge of shallow water, waiting for their prey. They will also perch above the water to fish. Birds return year after year to traditional winter roost sites.
+  diet: Although the diet of the Black-crowned Night-heron is varied, fish are the predominant prey. Squid, crustaceans, aquatic insects, frogs, snakes, birds, rodents, and carrion round out the diet.
+  nesting: Black-crowned Night-herons typically nest on islands or in groups of trees. Young birds start to breed at two years of age. Like most herons, they nest in colonies, often mixed with other species. Their nesting season begins earlier than that of other herons, but is highly variable. The male picks a site and displays to attract a female. Once paired, the male brings nesting material to the female, and she builds the stick nest. Both parents incubate the 3 to 5 eggs for 24 to 26 days. Once the young hatch, both male and female feed them by regurgitation. For the first 10 days of the chicks' lives, they are brooded almost continuously by one of the parents. At the age of four weeks, the young climb about around the nest. First flight occurs at about 5 weeks, and the young will follow the adults to foraging areas and beg for food for another few weeks.
+  migration_status: After the breeding season, some birds wander northward. Northern populations migrate south to milder climates in the winter. In much of Washington, they are permanent residents.
+  conservation_status: Black-crowned Night-Herons are a cosmopolitan species, nesting on every continent except Australia and Antarctica. Declines in the mid-20th Century have been attributed to habitat loss and pesticide contamination. Since the ban of DDT in this country, populations have increased although water pollution and habitat loss continue to be a problem in some areas. Still considered widespread and common in North America, the population is now probably stable or increasing, but their nocturnal and inconspicuous nature makes it difficult to survey the population.
+  when_where_wa: As a breeding bird, the Black-crowned Night-Heron is mostly limited to the central and southern Columbia Basin, where it is common in appropriate habitat. Breeding is common at Potholes and McNary National Wildlife Refuges and uncommon along the Walla Walla, Touchet, and other rivers and creeks flowing through Walla Walla County. Although a rare occurrence, Black-crowned Night-herons have been known to breed in western Washington's eastern Puget Trough lowlands. In the winter, they are reported occasionally at Grays Harbor and around Olympia. Winter roosts are also found in the Tri-Cities area and along the Columbia River. They also winter in small numbers on Fir Island (Skagit County). For many years there has been one aberant regular winter roost within the town of Stanwood (Snohomish County), but it has not been occupied for several years.
+photos:
+- file: bcnh_ad_gth_l.jpg
+  caption: Adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: bcnh_gl_l.jpg
+  caption: 'Adult. Note: stocky and short-necked.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: bcnh_fl_gl_l.jpg
+  caption: 'Adult. Note: black back and gray wings.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: bcnh_j_tg_l.jpg
+  caption: 'Juvenile. Note: blurry streaks on breast and yellowish bill with dark tip.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: bcnh_jfl_gl_l.jpg
+  caption: Juvenile in flight.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: bcnh.mp3
+  credit: null
+maps:
+  wa: nyny.jpg
+  north_america: bcnhmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: [R, R, R, R, R, R, R, R, R, R, R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: [R, U, U, U, U, R, U, U, U, R, R, R]
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [F, F, F, F, F, F, F, F, F, F, F, F]
+taxonomy:
+  ebird_code: bcnher
+  current_common_name: Black-crowned Night Heron
+  current_scientific_name: Nycticorax nycticorax
+  clements_sort: 7600
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black-crowned_night-heron
+  archived: '2026-09-12'

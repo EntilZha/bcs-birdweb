@@ -1,0 +1,73 @@
+slug: sora
+common_name: Sora
+scientific_name: Porzana carolina
+order:
+  name: Gruiformes
+  slug: gruiformes
+family:
+  name: Rallidae
+  slug: rallidae
+status: Fairly common summer. Rare winter west.
+species_of_concern: false
+sections:
+  general_description: The Sora has a stubby yellow bill, a black facial mask, and a black throat. Its body is grayish-brown with white speckles. Males and females have similar plumage, but females are slightly smaller. In flight, their long wings have a pale trailing edge.
+  habitat: Sora habitat ranges from cattail marshes at lower elevations to moist sedge meadows in cooler, higher areas. Soras also occur in brackish marshes, especially in winter and during migration.
+  behavior: Soras spend much of their time hidden in dense emergent vegetation, but may occasionally be seen walking about in full view. They forage by pecking at the surface of the ground or water with their chicken-like bills. Soras exhibit a variety of threat displays, and will aggressively defend breeding territories against other Soras and Virginia Rails. During courtship, a male and female preen each other while bowing and turning toward and away from one another. Soras give a loud, descending whinny call.
+  diet: Soras eat seeds from smartweeds, sedges, and grasses. In the spring, their diet includes a higher proportion of invertebrates such as insects and snails.
+  nesting: Both the male and female build the nest, which consists of dead cattails and grasses loosely woven into a basket. The nest is suspended above the water, with a ramp made of plant material leading up to it. The pair shares incubation of the 10-12 eggs. The young leave the nest 3-4 days after hatching and are fed by both parents.
+  migration_status: Soras begin to arrive at their breeding grounds in late March. They gather in large wetlands with abundant food in August and early September before migrating south. Peak fall migration lasts from September to early October. Timing of migration, especially fall, may depend partly on the timing of frosts. Soras winter from the southern United States to northern South America.
+  conservation_status: Although the Sora is still widespread and common, loss of wetlands has led to population decline in many parts of its range. Soras are legally hunted in many states.
+  when_where_wa: Soras are a common migrant and summer resident in marshes and wet meadows both east and west of the Cascades. They are rare in winter.
+photos:
+- file: sora_lb_l.jpg
+  caption: Adult
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: sora_gl_l.jpg
+  caption: 'Breeding adult. Note: dark face, gray breast, and yellow bill.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: sora_gl2_l.jpg
+  caption: Nonbreeding adult.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: sora_fl_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: sora2.mp3
+  credit: null
+maps:
+  wa: porca.jpg
+  north_america: soramap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, U, U, U, U, U, U, R, R, R]
+  puget_trough: [R, R, R, U, U, U, U, U, U, U, R, R]
+  north_cascades: ['', '', '', U, U, U, U, U, U, '', '', '']
+  west_cascades: [R, R, R, U, U, U, U, U, U, U, R, R]
+  east_cascades: ['', '', '', U, U, U, U, U, U, '', '', '']
+  okanogan: ['', '', '', U, F, F, F, F, U, U, '', '']
+  canadian_rockies: ['', '', '', U, U, U, U, U, U, '', '', '']
+  blue_mountains: ['', '', '', '', R, R, R, R, '', '', '', '']
+  columbia_plateau: ['', '', R, F, F, F, F, F, F, U, '', '']
+taxonomy:
+  ebird_code: sora
+  current_common_name: Sora
+  current_scientific_name: Porzana carolina
+  clements_sort: 5455
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/sora
+  archived: '2026-09-12'

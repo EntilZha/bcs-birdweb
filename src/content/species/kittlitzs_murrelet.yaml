@@ -1,0 +1,46 @@
+slug: kittlitzs_murrelet
+common_name: Kittlitz's Murrelet
+scientific_name: Brachyramphus brevirostris
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Alcidae
+  slug: alcidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: Single January record, from Friday Harbor (San Juan County).
+photos:
+- file: kimu_b_gt_l.jpg
+  caption: Breeding adult
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: kitmur
+  current_common_name: Kittlitz's Murrelet
+  current_scientific_name: Brachyramphus brevirostris
+  clements_sort: 6394
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/kittlitzs_murrelet
+  archived: '2026-09-12'

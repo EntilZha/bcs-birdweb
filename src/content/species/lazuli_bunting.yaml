@@ -1,0 +1,79 @@
+slug: lazuli_bunting
+common_name: Lazuli Bunting
+scientific_name: Passerina amoena
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Cardinalidae
+  slug: cardinalidae
+status: Fairly common summer east, uncommon west.
+species_of_concern: true
+sections:
+  general_description: 'Male Lazuli Buntings in breeding plumage are striking, blue birds with rufous breasts. They have black wings and tails, and white bellies. They look similar to Western Bluebirds, but are smaller, and have two white wing-bars on each wing. They also have thicker bills than bluebirds. First-year males look similar to mature males, but have a brownish wash. Females look like unstreaked sparrows: they are buffy-brown all over, with two narrow, white wing-bars on each wing.'
+  habitat: Lazuli Buntings typically inhabit shrubby areas in forested zones. In Washington, they are often found along dry hillsides, at the lower edge of the ponderosa pine zone, or in streamside thickets, but can also be found occasionally at high elevations. Recently burned areas, agricultural hedgerows, and residential gardens all may provide shrubby habitats for Lazuli Buntings as well.
+  behavior: When foraging, Lazuli Buntings glean food from the foliage, hop along the ground, or fly out to catch aerial prey. They also come to bird feeders. Males tend to fly-catch from exposed perches, while females typically fly-catch from lower, more sheltered perches. Although Lazuli Buntings forage on the ground or in low growth, they sing from prominent perches. Males are persistent singers, and each develops an individual song as a yearling that it will sing for the rest of its life. Many males learn their songs by listening to nearby males, resulting in 'song neighborhoods,' where the males in close proximity sing a similar song, but may sound very different from males in a different 'neighborhood.'
+  diet: Lazuli Buntings eat seeds and invertebrates. They feed invertebrates to their young, and more than half of their spring and summer diet is insects and other invertebrates. Weed seeds, waste grain, berries, and millet from bird feeders make up the vegetable portion of their diet.
+  nesting: Monogamous, Lazuli Buntings nest in thick shrubs, vines, or low trees, 2-4 feet off the ground. The female picks the site and builds the nest, which is an open cup of grass, weeds, bark, and leaves, lined with fine grass, rootlets, and hair. Tent-caterpillar silk is often wrapped around the outside of the nest. The female incubates 3-4 eggs for about 12 days, and broods the young when they first hatch. The male brings food. The young leave the nest after 9-11 days, but stay close-by in thick undergrowth for several days. The parents feed the young for at least two weeks after they leave the nest, although the male may take on much of the post-fledging feeding burden if the female starts a second brood.
+  migration_status: Lazuli Buntings winter in western Mexico. They begin to molt after the breeding season. Then they stop molting and travel in flocks to stopover areas (in southern Arizona, New Mexico, and the southern tip of Baja) where they complete their molt, and then continue on to the wintering grounds.
+  conservation_status: Although Lazuli Buntings have increased significantly in Washington since 1966, there is some concern that habitat degradation has allowed Brown-headed Cowbirds to become more prominent in Lazuli Bunting breeding areas, and this may have a negative impact on the population.
+  when_where_wa: Lazuli Buntings are common in eastern Washington in the ponderosa pine zone and along major rivers, from mid-May through September. They are local and uncommon at higher elevations east and west of the Cascade crest. The Lazuli Bunting is mostly an eastern Washington bird, but can be found locally west of the Cascades at Fort Lewis (Pierce County), in the Vancouver area (Clark County), along the Skagit and Cowlitz Rivers, and in south King County on the Muckleshoot Prairies around Enumclaw.
+photos:
+- file: labu_m_gth_l.jpg
+  caption: Male.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: labu_m2_gth_l.jpg
+  caption: Male.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: labu_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: labu_f_jh_l.jpg
+  caption: 'Female. Note: buffy breast and grayish throat.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: labu_tg_l.jpg
+  caption: Male
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: LAZB01.mp3
+  credit: null
+maps:
+  wa: paamo.jpg
+  north_america: lazbmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', R, R, R, '', '', '', '', '']
+  puget_trough: ['', '', '', '', U, U, U, R, '', '', '', '']
+  north_cascades: ['', '', '', '', U, U, U, U, '', '', '', '']
+  west_cascades: ['', '', '', '', F, F, F, U, '', '', '', '']
+  east_cascades: ['', '', '', '', F, F, F, F, U, '', '', '']
+  okanogan: ['', '', '', '', C, C, C, U, '', '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, U, U, '', '', '']
+  blue_mountains: ['', '', '', '', F, F, F, F, U, '', '', '']
+  columbia_plateau: ['', '', '', R, U, U, U, U, '', '', '', '']
+taxonomy:
+  ebird_code: lazbun
+  current_common_name: Lazuli Bunting
+  current_scientific_name: Passerina amoena
+  clements_sort: 34606
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/lazuli_bunting
+  archived: '2026-09-12'

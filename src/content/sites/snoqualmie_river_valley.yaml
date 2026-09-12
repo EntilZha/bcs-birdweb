@@ -1,0 +1,23 @@
+slug: snoqualmie_river_valley
+name: Snoqualmie River Valley
+number: 218
+ecoregions:
+- puget_trough
+sections:
+  site: Despite its proximity to the eastern Seattle suburbs, only in the last 20 years has the Snoqualmie River Valley begun receiving much birding attention. This area is roughly encircled by the towns of Carnation, Fall City, and Duvall. It offers birders farmland (often flooded in the winter), deciduous forest, hemlock/cedar/Douglas Fir forest, and riparian and freshwater wetland habitats, making it a prime location throughout the year. Within its confines is the Carnation Marsh, a Washington Important Bird Area owned and maintained by Seattle Audubon.
+  birds: The Snoqualmie River Valley is an important site for many species. Pied-billed Grebes, Bald Eagles, Osprey (Carnation Marsh), Red-tailed Hawks, accipiters, Killdeer, woodpeckers (Downy, Hairy, Pileated, Northern Flickers, Red-breasted Sapsucker), wrens, blackbirds, some ducks, chickadees, and others are resident here. During spring and summer, warblers (Orange-crowned, MacGillivray's, Common Yellowthroats, Yellow-rumps, Nashville, Black-throated Gray, etc.), rails (Virginia and Sora), American Bittern, and sparrows can be quite common. Wintertime brings hundreds of geese (including Cackling, White-fronted, and an occasional Snow), many duck species (including Eurasian Wigeon), gulls, swans (mostly Trumpeter), Northern Shrikes, Peregrine Falcons, and occasionally, Rough-legged Hawks. Uncommon and rare sightings in the valley include Prairie Falcon, Harris's Sparrow, Clay-colored Sparrow, Yellow-headed Blackbird, Tri-colored Blackbird, Lazuli Bunting, Vesper Sparrow, Western Grebe, Solitary Sandpiper, Wilson's Phalarope, Glaucous Gull, and a possible Alder Flycatcher.
+  directions: From Seattle, take Route 520 across Lake Washington, to Redmond. From Redmond, head east on NE Novelty Hill Road until its terminus. NE Ames Lake Road and NE Tolt Hill Road off Route 202 will also take you there. (NE Tolt Hill Road will take you to the Carnation Marsh.) If you are coming from the north on Route 522, take Woodinville-Duvall Road east until you reach West Snoqualmie Valley Road NE. From the south, take I-90 to North Bend, then take Route 202 to Fall City where you can get on Route 203 going north to Carnation.
+photos:
+- file: site_snoqualmie_valley_pond.jpg
+  caption: ''
+  credit:
+    name: Mike Hamilton
+    url: http://home1.gte.net/mikeham
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/snoqualmie_river_valley/3
+  archived: '2026-09-12'

@@ -1,0 +1,67 @@
+slug: black-throated_gray_warbler
+common_name: Black-throated Gray Warbler
+scientific_name: Dendroica nigrescens
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: Fairly common summer resident, mostly west.
+species_of_concern: true
+sections:
+  general_description: The Black-throated Gray Warbler is a small bird with a gray back and white to off-white undersides with black streaks. It has two white wing-bars and alternating black and white stripes on its head. The male has a black throat, and the female and juvenile have gray or whitish throats. Both sexes have a small, yellow spot in front of each eye, although this marking is very difficult to see in the field.
+  habitat: Throughout most of their range, Black-throated Gray Warblers inhabit a variety of deciduous or mixed deciduous-coniferous woodlands, often with oak present. In Washington, which does not have a significant amount of oak, they are more generalized. They do breed in the remaining oak groves in southwestern Washington, but they also use mixed and coniferous forests, where they are often found in second-growth and edge areas.
+  behavior: Black-throated Gray Warblers associate with mixed feeding flocks, especially during migration. They spend much of their time in the treetops, although when they are found lower down, they are not extremely wary and can be observed closely. They use a variety of foraging styles; most commonly they glean food from foliage while they climb about on tree limbs.
+  diet: Black-throated Gray Warblers eat insects, especially small caterpillars.
+  nesting: Much of the breeding biology of Black-throated Gray Warblers is unknown. They are most likely monogamous, and nests are typically situated on horizontal branches from 7 to 35 feet off the ground. Nests are open cups made of weeds, grass, plant fibers, and moss, with a lining of fur and feathers. The female builds the nest and incubates 4 eggs, although the incubation period is not known. Once the young hatch, both sexes feed them. It is not known when the young fledge, or for how long the parents feed them. In some areas, as soon as the young can fly and find their own food, they leave the breeding grounds for higher elevations.
+  migration_status: Most Black-throated Gray Warblers winter in Mexico, although some remain in southern California.
+  conservation_status: The population of Black-throated Gray Warblers appears stable. Breeding Bird Survey data indicate some decline in Washington, although it is not significant. They are parasitized by Brown-headed Cowbirds, but the rates of parasitism seem relatively low. Settlement and forest management in western Washington may have benefited Black-throated Gray Warblers, because this development has increased the amount of hardwood growing in these historically coniferous zones. More study is needed on the status of the Black-throated Gray Warbler population range-wide and in Washington.
+  when_where_wa: These common, summer visitors are found throughout western Washington from mid-April to mid-September, with smaller numbers remaining through September. They are also abundant in the Garry oak habitat in Klickitat County. They are relatively rare in eastern Washington, but can be found locally in a few spots in Kittitas and Yakima Counties.
+photos:
+- file: btyw_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: btyw_gl2_l.jpg
+  caption: 'Male. Note: gray back, black throat, and yellow lores.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: btyw_jf_gt_l.jpg
+  caption: 'Female / 1st Year Male. Note: broad white supercilium and whitish belly.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: BTYW01.mp3
+  credit: null
+maps:
+  wa: deni.jpg
+  north_america: btywmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', F, C, C, C, C, U, '', '', '']
+  puget_trough: ['', '', '', U, C, C, C, C, C, R, '', '']
+  north_cascades: ['', '', '', F, C, C, C, C, U, R, '', '']
+  west_cascades: ['', '', '', U, F, F, F, F, U, R, '', '']
+  east_cascades: ['', '', '', '', U, U, U, U, U, '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: btywar
+  current_common_name: Black-throated Gray Warbler
+  current_scientific_name: Setophaga nigrescens
+  clements_sort: 34200
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black-throated_gray_warbler
+  archived: '2026-09-12'

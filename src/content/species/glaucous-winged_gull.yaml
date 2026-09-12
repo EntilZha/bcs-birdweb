@@ -1,0 +1,79 @@
+slug: glaucous-winged_gull
+common_name: Glaucous-winged Gull
+scientific_name: Larus glaucescens
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Common resident west. Uncommon east.
+species_of_concern: false
+sections:
+  general_description: The typical large gull of the Pacific Northwest, the Glaucous-winged Gull frequently hybridizes with other gulls and often displays intermediate plumage characteristics. During the non-breeding season, the adult Glaucous-winged Gull has a solid gray-blue mantle (back and wings), a white tail, and a white head streaked with brown. The bill is very large. The wingtips are gray or gray-black, not deep black like many gull species. The underwings are white with a band of blue-gray. The legs are pink, and the beak is yellow with a red spot. The eye is dark brown, or rarely yellowish. During the breeding season, the head is pure white, and the eye has a fleshy pink eye-ring. Like the other large gulls in Washington, the Glaucous-winged Gull is a 'four-year gull,' in that it takes four years to reach adult plumage. The juvenile is mottled brown with a dark eye and bill. This plumage varies and takes on more of the characteristics of adult plumage in each successive year. Identification of these gulls can be confusing, thus an advanced field guide and assistance from an experienced observer are highly beneficial for descriptions of hybrids and identification of gulls.
+  habitat: Glaucous-winged Gulls are commonly found in bays and estuaries, and on beaches and rocky shorelines. They also frequent freshwater lakes, agricultural fields, cities, and garbage dumps in coastal areas. They are sometimes found far offshore, well out of sight of land, but are less common far inland. Nesting habitat is mainly low, flat islands, with sandy, rocky, or gravel substrates. Building roofs in cities along Puget Sound have also been used as nesting habitat. Nests within Puget Sound are usually located in human-altered habitats, while nests along the coast are typically in natural settings.
+  behavior: Glaucous-winged Gulls forage in a variety of styles--while walking, flying, or swimming. Like other large gulls, they have been observed dropping shellfish onto rocks and other hard surfaces from far above in order to crack them open. They steal food from other seabirds and prey on young birds, especially those nesting nearby. Very bold, they will approach picnic tables and other human-occupied areas, scavenging and looking for handouts.
+  diet: Omnivores, Glaucous-winged Gulls will eat most anything, but items most often ingested include fish and other marine creatures, small birds, eggs, small mammals, invertebrates from waterlogged fields, and refuse from dumps, sewage ponds, trash cans, and parking lots.
+  nesting: Glaucous-winged Gulls breed all along the coast of Washington (and less commonly in eastern Washington) in monogamous pairs that typically last for multiple breeding seasons. Nesting is usually in colonies, and birds first breed at four years of age. Nests are usually on the ground. The spot is scraped clean, and a ring of vegetation and nearby debris is built up. Sometimes more than one nest is started, but only one is completed and used. Both parents incubate the 2-3 eggs for about four weeks. Newborn chicks are covered in down and may leave the nest as soon as two days post-hatching, although they stay near the nest. Both parents feed the young, which first begin to fly at 5-7 weeks old, and leave the colony about 2 weeks afterwards.
+  migration_status: In Washington, the Glaucous-winged Gull is present year round, although the young birds disperse farther than older birds after the breeding season. Some birds breeding in British Columbia and Alaska disperse southward along the coast in the winter.
+  conservation_status: The Glaucous-winged Gull is the most abundant and widespread gull in Washington. It is part of a complex of closely related gull species that interbreed readily. Western Gulls, Glaucous Gulls, Slaty-backed Gulls, and Herring Gulls all hybridize with Glaucous-winged Gulls, making the population of individual species somewhat difficult to determine. In Washington, Glaucus-winged Gulls most frequently hybridize with Western Gulls, and population estimates in the state include pure forms of both, as well as hybrids. The population in 1989 was estimated to be almost 37,000 birds. Population numbers have steadily increased in the last few decades around urban areas. Much of this increase has been attributed to the availability of garbage and fish waste. These population increases may be suppressing populations of many other seabirds on which Glaucous-winged Gulls prey. This issue needs more study and may require management of Glaucous-winged Gulls in the future.
+  when_where_wa: The largest breeding colonies in the state are at Protection, Tatoosh, and Carroll Islands in Clallam County, Gunpowder Island in Pacific County, East Sand Island in the Columbia River estuary, Colville, Smith, and Minor Islands in San Juan County, and Destruction Island in Jefferson County.
+photos:
+- file: gwgu_gt_l.jpg
+  caption: 'Adult breeding. Note: gray primary tips same color as mantle.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: gwgu_w_jp_l.jpg
+  caption: Adult nonbreeding
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: gwgu_wfl_gt_l.jpg
+  caption: Adult nonbreeding
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: gwgu_j_jp_l.jpg
+  caption: Immature, 1st winter
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: gwgu_j2_jp_l.jpg
+  caption: Immature, 2nd winter
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+audio:
+  file: gwgu1.mp3
+  credit: null
+maps:
+  wa: lagl.jpg
+  north_america: gwgumap.gif
+abundance:
+  oceanic: [C, C, C, C, C, C, C, C, C, C, C, C]
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, U, R, F, C, C, C, C]
+  west_cascades: [F, F, F, F, R, R, R, R, U, F, F, F]
+  east_cascades: [U, U, U, U, R, '', '', R, U, U, U, U]
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [U, U, U, R, R, R, R, R, U, U, U, U]
+taxonomy:
+  ebird_code: glwgul
+  current_common_name: Glaucous-winged Gull
+  current_scientific_name: Larus glaucescens
+  clements_sort: 6596
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/glaucous-winged_gull
+  archived: '2026-09-12'

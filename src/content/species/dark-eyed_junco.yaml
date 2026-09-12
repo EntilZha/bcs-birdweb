@@ -1,0 +1,79 @@
+slug: dark-eyed_junco
+common_name: Dark-eyed Junco
+scientific_name: Junco hyemalis
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: The Dark-eyed Junco is commonly found in Washington in two forms, the Oregon and the Slate-colored. It is unclear whether other races of Dark-eyed Junco occur in the state. In Washington, the Oregon form is by far the more common. All forms in Washington have distinctive white outer tail feathers, white bellies, and pink bills. Oregon Juncos have dark hoods, which are bold black in males and gray in females and juveniles. They have rufous sides, brown backs, and gray wings. Slate-colored Juncos may have a brownish tinge on their backs, but for the most part are dark gray all over except for the white belly.
+  habitat: During the breeding season, Dark-eyed Juncos use a variety of forested habitat, but prefer moist conifer or mixed forests with dense understory and forest openings. During the winter, they can be found in open woodlands and brushy areas including towns, gardens, and shrub-steppe habitat.
+  behavior: Dark-eyed Juncos are flocking birds with a distinct social hierarchy. They forage on the ground in these groups, scratching with their feet to find food. The flash of white tail feathers serve as a signal that alerts members of the flock when one is alarmed.
+  diet: During the summer, about half of the Dark-eyed Junco's diet is made up of insects and other arthropods, the other half consists of seeds. The young eat mostly arthropods. In winter, the diet shifts more to seeds and berries.
+  nesting: The male Dark-eyed Junco sings from a high perch to defend his territory and attract a mate. During courtship, both members of a pair hop about on the ground with their wings drooped and their tails spread, showing off their white outer tail feathers. The nest, which the female builds, is almost always on the ground. It is often in a depression, hidden under grass, a log, a rock, or an upturned tree root. The nest is a cup made of grass, moss, lichen, rootlets, twigs, and bark fiber, and is lined with fine grass, hair, or feathers. The female incubates 3 to 5 eggs for 11 to 13 days. Both parents feed the chicks, which leave the nest at 9 to 11 days. Pairs typically raise 1 or 2 broods per year.
+  migration_status: Most Dark-eyed Juncos are migratory, following the food supply south, but many will winter over, given an adequate food supply. Males winter farther north than females. Some Washington birds are resident, but most migrate either north-south, or up and down in elevation.
+  conservation_status: Until 1973, the five different forms of the Dark-eyed Junco were considered five separate species. Dark-eyed Juncos are widespread and abundant in Washington.
+  when_where_wa: Dark-eyed Juncos are among the most abundant winter birds in Washington, present in almost all habitats with the exception of high altitudes and dense forests. They are most common in winter in the western lowlands, but many can also be found in eastern Washington, where they are patchily distributed but often form flocks of up to 100 birds. As breeders, they are common and widespread in appropriate habitat in forested zones, even in city parks.
+photos:
+- file: deju_f_gth_l.jpg
+  caption: 'Female. Note: lighter hood.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: deju_tg_l.jpg
+  caption: 'Male Oregon race. Note: dark hood.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: deju_gl_l.jpg
+  caption: Male Slate-colored race
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: deju_f_gl_l.jpg
+  caption: Oregon race.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: deju_j_tg_l.jpg
+  caption: Juvenile
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: deju2.mp3
+  credit: null
+maps:
+  wa: juhy.jpg
+  north_america: dejumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [C, C, C, C, C, C, C, C, C, C, C, C]
+  blue_mountains: [F, F, F, F, F, C, C, C, C, C, C, C]
+  columbia_plateau: [C, C, C, C, F, '', '', '', C, C, C, C]
+taxonomy:
+  ebird_code: daejun
+  current_common_name: Dark-eyed Junco
+  current_scientific_name: Junco hyemalis
+  clements_sort: 33124
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/dark-eyed_junco
+  archived: '2026-09-12'

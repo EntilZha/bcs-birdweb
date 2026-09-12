@@ -1,0 +1,46 @@
+slug: whiskered_auklet
+common_name: Whiskered Auklet
+scientific_name: Aethia pygmaea
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Alcidae
+  slug: alcidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One record, from Penn Cove (Whidbey Island, Island County) in May 1999.
+photos:
+- file: whau_b_gt_l.jpg
+  caption: 'Breeding plumage. Note: white tip on bill and conspicuous white plumes.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: whaumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: whiauk
+  current_common_name: Whiskered Auklet
+  current_scientific_name: Aethia pygmaea
+  clements_sort: 6389
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/whiskered_auklet
+  archived: '2026-09-12'

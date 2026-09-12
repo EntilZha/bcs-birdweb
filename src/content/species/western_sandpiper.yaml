@@ -1,0 +1,55 @@
+slug: western_sandpiper
+common_name: Western Sandpiper
+scientific_name: Calidris mauri
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Common migrant. Uncommon winter coast.
+species_of_concern: true
+sections:
+  general_description: The most abundant shorebird in Washington, the Western Sandpiper is a member of the group known as peeps or stints. In breeding plumage, it has a deep rufous crown and cheek patch, and rufous on the wings. It is heavily streaked and spotted on the breast and back. By fall, much of this color has faded or worn off. Its slightly drooping bill, black legs, and bright rufous patches in breeding plumage help distinguish it from the other Washington peeps, the Least and Semipalmated Sandpipers. The adult in non-breeding plumage is drab gray with a white breast. Juveniles look similar to adults in breeding plumage, but their breasts are not streaked. They have rufous on their backs, but not on their heads or cheeks. Their plumage is not sexually dimorphic, but females have slightly longer bills than males. In flight, they show a white stripe down their wings and white on either side of their tails.
+  habitat: Most of the population of Western Sandpipers breeds in Alaska, in dry tundra areas with low shrub cover and nearby marshes. During migration, they are mostly coastal, but some migrate across land and stop over at inland wetlands. During coastal migration and in winter, they occur in most shoreline habitats, but prefer mudflats and sandy beaches.
+  behavior: Western Sandpipers form huge flocks in the spring. Typically found walking with their heads in the water, Western Sandpipers mostly probe for food, but will also pick food from the surface. Because of their long bills, they can feed in deeper water than other peeps.
+  diet: During the breeding season, insect larvae are the food of choice. The migration and winter diet is primarily crustaceans, mollusks, marine worms, and other aquatic invertebrates.
+  nesting: Males typically arrive on the breeding grounds first and establish territories. Monogamous pair bonds form after the females arrive. The male starts several nest scrapes, and the female selects one and lines it with leaves, lichen, and sedge. Both parents incubate the four eggs for 21 days. The young leave the nest within a few hours of hatching and find their own food. The female often deserts the group within a few days of hatching, and joins other post-breeding females in a flock. The male tends the young, and broods them in cold weather until they can fly, at 17 to 21 days.
+  migration_status: Most Western Sandpipers migrate along the Pacific Coast, but many migrate across the continent to winter on the East and Gulf Coasts. Some birds winter as far away as northern South America. Fall migration is early but prolonged. Adults begin heading south at the end of June, and juveniles follow in early August. Migration continues into fall.
+  conservation_status: The Canadian Wildlife Service estimates the population at 3,500,000 birds, but other estimates are of 6,500,000 birds. Although Western Sandpipers are abundant, they are vulnerable because such a large percentage of the population gathers in so few spots during migration. Development, human disturbance, and oil spills near these stopover sites could dramatically affect the population. The Western Hemisphere Shorebird Reserve Network identifies Grays Harbor (Grays Harbor County) as a stop-over site of 'hemispheric significance.' Much of the information on population trends for Western Sandpipers in Washington is difficult to interpret due to suspected mis-identification of birds resulting in earlier counts being artificially high. Thus, some negative trends in population may be a reflection of more accurate current counts, rather than a true decline, although this should not diminish the importance of habitat protection.
+  when_where_wa: Western Sandpipers may be found year round along Washington's coast, although they are most common during migration. They are rare from late May to late June, when fall migrants start to arrive. They become common in July, and remain common through mid-May, when they start tapering off as they head to northern breeding grounds. Juveniles are very widespread in the fall, often occurring in a wider range of habitats, including southern Puget Sound. Wintering birds are usually found at Grays Harbor (Grays Harbor County), Willapa Bay (Pacific County), and Drayton Harbor (Whatcom County). Most of these are first-year males. Grays Harbor hosts hundreds of thousands of migrating Western Sandpipers in April. Eastern Washington also sees migrating Western Sandpipers, although they are far more common in the fall than in the spring. They are uncommon from mid-April to late May in the spring, and common from July through September in the fall. Birds are also seen on either end of these ranges, although they are rare.
+photos:
+- file: wesa_br_dp_l.jpg
+  caption: 'Breeding plumage. Note: rufous cap and cheek patch.'
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: wesa1.mp3
+  credit: null
+maps:
+  wa: calmau.jpg
+  north_america: wesamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, C, C, U, F, C, C, F, U, U]
+  puget_trough: [U, U, U, C, C, R, C, C, C, F, U, U]
+  north_cascades: ['', '', '', '', R, '', R, U, '', '', '', '']
+  west_cascades: ['', '', R, F, U, '', F, F, F, U, R, '']
+  east_cascades: ['', '', '', R, '', '', U, U, R, '', '', '']
+  okanogan: ['', '', '', '', R, '', R, U, '', '', '', '']
+  canadian_rockies: ['', '', '', '', U, '', F, F, U, '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', F, F, '', C, C, C, U, '', '']
+taxonomy:
+  ebird_code: wessan
+  current_common_name: Western Sandpiper
+  current_scientific_name: Calidris mauri
+  clements_sort: 6231
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/western_sandpiper
+  archived: '2026-09-12'

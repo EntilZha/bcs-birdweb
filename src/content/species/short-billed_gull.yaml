@@ -1,0 +1,67 @@
+slug: short-billed_gull
+common_name: Short-billed Gull
+scientific_name: Larus canus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Common winter west, rare east.
+species_of_concern: false
+sections:
+  general_description: The smallest North American white-headed gull, the Short-billed Gull is commonly described as having a 'gentle' or 'dove-headed' look. The Short-billed Gull has typical gull-like plumage--slate-gray back and wings, a white head, tail, and body, and black wingtips with white spots. The beak and legs are yellow. In breeding plumage, the Short-billed Gull has a clean white head, a dark eye, and a solid yellow bill without markings. In non-breeding plumage, its head is smudged with brown, the red eye-ring is absent, and the bill is partially dark. Juveniles are varying degrees of mottled brown interspersed with white and gray.
+  habitat: In winter, the Mew Gull inhabits coastal waters, and is commonly found in estuaries, river mouths, and freshwater ponds close to the shore. Summer habitat is concentrated around northern lakes. This species is not common at garbage dumps in any season and is seldom found offshore.
+  behavior: Mew Gulls can be found with other gulls at abundant food sources, such as spawning areas and along tidal convergence zones. Like many gulls, the Mew Gull uses a variety of foraging techniques, obtaining food while walking, wading, swimming, or flying. It often feeds in fields and at sewage ponds. The Mew Gull sometimes carries a hard-shelled mollusk into the air and drops it on rocks or pavement to break it open.
+  diet: Mew Gulls are omnivores whose diet varies with the season. On their breeding grounds, Mew Gulls eat mostly insects, which they often catch in mid-air. In coastal areas during the non-breeding season, small fish, crustaceans, and mollusks make up the majority of the diet. Other marine creatures, earthworms, small rodents, young birds, eggs, carrion, refuse, grain, and berries round out the diet of this opportunistic species.
+  nesting: Breeding in small colonies or isolated pairs, Mew Gulls nest on high ground near water, or on top of a stump, or in a dense spruce up to 20 feet off the ground. Mew Gulls in Europe have been known to nest on gravel rooftops. When the nest is on the ground, it is a shallow scrape lined with grass. Nests built in trees are usually shallow cups of twigs and grasses. Both sexes help build the nest and incubate the 3 eggs for about 4 weeks. The young from nests built on the ground may leave the nest after a few days, but stay close by. The young in nests built in trees stay in the nest for a longer period. Both parents help feed the young, which fledge at about 4 weeks of age.
+  migration_status: Inland breeders, Mew Gulls migrate directly to the coast, and disperse south from there. They first start appearing along the coast in late July, and numbers increase gradually through the fall. The height of the migration in the Northwest is from October to December. Migration back to the breeding grounds in the spring begins in March and continues through May.
+  conservation_status: Numbers appear to be stable since Mew Gulls seem to benefit from human activities.
+  when_where_wa: Mew Gulls are not known to breed in Washington, but breeding records exist from southern British Columbia, so breeding in Washington is a possibility. They are common all along the Pacific Coast from August to early May, and a rare visitor to eastern Washington from mid-September to mid-November. Groups of Mew Gulls can be found in agricultural fields along the lower Columbia River, and at the mouth of the River during the spring smelt runs in March.
+photos:
+- file: megu_fl_gt_l.jpg
+  caption: 'Adult breeding. Note: small, unmarked yellow bill and large white mirror on wing.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: megu_w_tg_l.jpg
+  caption: 'Adult nonbreeding. Note: smudgy head (compare to breeding)'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: megu_j_jp_l.jpg
+  caption: 'Immature (1st winter). Note: small pink bill with dark tip, pink legs, dove-like head.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+audio:
+  file: megu.mp3
+  credit: null
+maps:
+  wa: laca.jpg
+  north_america: megumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, U, '', '', U, C, C, C, C]
+  puget_trough: [C, C, C, C, U, '', R, U, C, C, C, C]
+  north_cascades: [R, '', '', '', '', '', '', '', '', R, R, R]
+  west_cascades: [U, U, U, U, R, '', '', '', R, U, U, U]
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', R, '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [R, R, '', '', '', '', '', '', '', R, R, R]
+taxonomy:
+  ebird_code: mewgul2
+  current_common_name: Short-billed Gull
+  current_scientific_name: Larus brachyrhynchus
+  clements_sort: 6519
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/short-billed_gull
+  archived: '2026-09-12'

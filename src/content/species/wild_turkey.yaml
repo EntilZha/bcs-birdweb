@@ -1,0 +1,79 @@
+slug: wild_turkey
+common_name: Wild Turkey
+scientific_name: Meleagris gallopavo
+order:
+  name: Galliformes
+  slug: galliformes
+family:
+  name: Phasianidae
+  slug: phasianidae
+status: Uncommon resident, mostly east.
+species_of_concern: false
+sections:
+  general_description: One of the largest birds found in North America, the Wild Turkey is the only bird from the Western Hemisphere to gain worldwide importance through domestication. Its large body is a dark brownish-gray with iridescent black and green barring. Its small, unfeathered head and thin neck appear disproportional to its large body. The flesh on the male's head is blue and red.
+  habitat: Three subspecies of Wild Turkey have been introduced in different areas of Washington. All three use slightly different habitats, but all depend on a combination of trees and grasslands for survival. Forest patches with oak and Ponderosa pine produce food and cover for adults. Nearby grasslands provide an open area where the young can forage for insects. In this arrangement, the young stay hidden while the adults watch for predators.
+  behavior: Wild Turkeys are most commonly found in flocks and are often seen walking across open fields. They typically get around by walking although they can fly and often roost overnight in tall trees. During his courtship display, the male puffs up his body and fans his tail.
+  diet: A large proportion of the Wild Turkey's diet consists of corns, seeds, leaves, grains, and berries. Insects and other invertebrates make up the remainder of their diet. Young birds primarily eat insects for the first few weeks of life, and then shift to a diet similar to that of the adults.
+  nesting: In the spring, the male attracts females by gobbling, puffing his feathers, spreading his tail, swelling his face wattles, and drooping his wings. Using this display, one male attracts several females. The female builds a shallow nest at the base of a tree or other dense vegetation, lining it with a small amount of grass or leaves. She lays 10-15 eggs and incubates them on her own. The young leave the nest shortly after hatching and feed themselves, although the female still tends them and broods them at night.
+  migration_status: Wild Turkeys are not migratory. During the fall, however, they may wander to areas with larger trees and a more closed canopy for increased warmth and more abundant winter food.
+  conservation_status: Wild Turkeys were introduced in Washington from the eastern United States by the Washington Department of Fish and Wildlife. Since the 1960s, they have been released on state wildlife areas and have spread out into neighboring areas where suitable. The Washington Department of Fish and Wildlife continues to trap and relocate Wild Turkeys within the state to expand the population.
+  when_where_wa: The distribution of Wild Turkeys throughout Washington is spotty due to introductions. The Washington State Department of Fish and Wildlife can provide more detailed information about release sites. The Rio Grande subspecies can be found in Asotin, Columbia, Garfield, Kittitas, Lincoln, Okanogan, Walla Walla, and Whitman Counties. The eastern subspecies has been released west of the Cascades in Cowlitz, Grays Harbor, Lewis, Mason, Pacific, Thurston, and Wahkiakum Counties. The Merriam's subspecies can be found in Ferry, Klickitat, Pend Oreille, Skamania, and Stevens Counties, and is well established and numerous in the northeast corner of the state (Ferry, Pend Oreille, and Stevens Counties).
+photos:
+- file: witu_m_lb_l.jpg
+  caption: Displaying male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: witu_tg_l.jpg
+  caption: Displaying male
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: witu_tg2_l.jpg
+  caption: Male
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: witu_f_tg_l.jpg
+  caption: Female
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: witu_j_gl_l.jpg
+  caption: Chicks
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: witu.mp3
+  credit: null
+maps:
+  wa: mega.jpg
+  north_america: witumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, R, R, R, R, R, R, R, R, R]
+  puget_trough: [R, R, R, R, R, R, R, R, R, R, R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  east_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  okanogan: [F, F, F, F, F, F, F, F, F, F, F, F]
+  canadian_rockies: [F, F, F, F, F, F, F, F, F, F, F, F]
+  blue_mountains: [C, C, C, C, C, C, C, C, C, C, C, C]
+  columbia_plateau: [R, R, R, R, R, R, R, R, R, R, R, R]
+taxonomy:
+  ebird_code: wiltur
+  current_common_name: Wild Turkey
+  current_scientific_name: Meleagris gallopavo
+  clements_sort: 1274
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/wild_turkey
+  archived: '2026-09-12'

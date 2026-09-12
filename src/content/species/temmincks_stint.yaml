@@ -1,0 +1,46 @@
+slug: temmincks_stint
+common_name: Temminck's Stint
+scientific_name: Calidris temminckii
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: The first state record remained for several days at the sewage treatment ponds in Ocean Shores (Grays Harbor County) in November 2005.
+photos:
+- file: test_rs_l.jpg
+  caption: male
+  credit:
+    name: Ruth Sullivan
+    url: http://www.pbase.com/godwit/root
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: temsti
+  current_common_name: Temminck's Stint
+  current_scientific_name: Calidris temminckii
+  clements_sort: 6184
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/temmincks_stint
+  archived: '2026-09-12'

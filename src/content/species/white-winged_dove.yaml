@@ -1,0 +1,57 @@
+slug: white-winged_dove
+common_name: White-winged Dove
+scientific_name: Zenaida asiatica
+order:
+  name: Columbiformes
+  slug: columbiformes
+family:
+  name: Columbidae
+  slug: columbidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    This rare visitor from the Southwest is brownish-gray like a Mourning Dove but bulkier and shorter-tailed. The best field marks are the large, white upperwing patches readily visible on the folded wing and in flight, and the memorable, cooing “who cooks for you” song.
+
+    White-winged Dove is resident from the southern U.S. border and Gulf Coast states through the Bahamas, Greater Antilles, and Mexico to Panama. In recent years it has been extending its range northward and also into the Lesser Antilles. The first Washington record was from the Puyallup River valley (Pierce County) in 1907. The next one occurred ninety years later, at Cypress Island (Skagit County) in 1997, quickly followed by four more from 1999 to 2002. British Columbia shows a similar pattern, with the first record in 1918, then a long gap until the next nine records that fall from 1994 to 2006. Oregon’s first three records occurred from 1976 to 1986; the next seven were from 1995 to 2005. Idaho has a single accepted record, from 1994; six other, later reports are still under review by the state’s bird records committee. In the Pacific Northwest, White-winged Doves have been found on both sides of the Cascades and in all months except March and April, but the great majority have occurred in the western lowlands from May to November, frequently along the coast.
+
+    *Revised July 2007*
+photos:
+- file: wwdo_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: wwdo_fl_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: wwdomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: whwdov
+  current_common_name: White-winged Dove
+  current_scientific_name: Zenaida asiatica
+  clements_sort: 2389
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/white-winged_dove
+  archived: '2026-09-12'

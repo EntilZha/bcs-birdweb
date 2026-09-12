@@ -1,0 +1,58 @@
+slug: siberian_accentor
+common_name: Siberian Accentor
+scientific_name: Prunella montanella
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Prunellidae
+  slug: prunellidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One record, at Indian Island (Jefferson County) in October 1983.
+photos:
+- file: siac_dp_l.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+- file: siac_w_ma_l.jpg
+  caption: ''
+  credit:
+    name: Mark Andrews
+    url: http://web.mac.com/s.m.andrews/smandrews.com_/HOME.html
+  hero: true
+- file: siac_w2_ma_l.jpg
+  caption: ''
+  credit:
+    name: Mark Andrews
+    url: http://web.mac.com/s.m.andrews/smandrews.com_/HOME.html
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: sibacc
+  current_common_name: Siberian Accentor
+  current_scientific_name: Prunella montanella
+  clements_sort: 31498
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/siberian_accentor
+  archived: '2026-09-12'

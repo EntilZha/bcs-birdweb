@@ -1,0 +1,61 @@
+slug: song_sparrow
+common_name: Song Sparrow
+scientific_name: Melospiza melodia
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: Washington's Song Sparrows are large, dark, heavily streaked, chunky birds. The face has dark streaks through each eye and on either side of the crown, with gray between the dark streaks. Both upperparts and underparts are also streaked. The streaks on the breast often converge into a central breast spot, but many other streak-breasted sparrows can also have a central spot like this, and thus this field mark is not diagnostic. The tail is long and often held cocked up, and is pumped up and down in flight.
+  habitat: Song Sparrows live in a variety of dense, brushy thickets. In eastern Washington, they are limited to shrubby habitats close to water.
+  behavior: Song Sparrows are solitary and highly territorial during the breeding season, but are found in loose flocks during migration and winter. They forage mostly on the ground, sometimes scratching the soil. They will come to bird feeders with adequate cover close by. These birds sing almost all year, and respond to 'pishing.'
+  diet: Typical of the family, Song Sparrows eat insects and seeds, with a greater proportion of seeds in the fall and winter, and a greater proportion of insects in the spring and summer.
+  nesting: Song Sparrow nesting territories are often small, so nests may be close together resulting in high densities. Nest sites are highly variable, usually on the ground under a clump of grass, or in a shrub within four feet of the ground. In marshy areas, nests are often over water. The nest, built by the female, is an open cup of weeds, grass, leaves, and bark, lined with fine grass, rootlets, and hair. Nest materials vary greatly depending on materials available. The female incubates the 3 to 5 eggs for 12 to 14 days. Both parents feed the young, which leave the nest at 10 to 12 days. Young birds stay near their parents for another three weeks until they learn to fly well and find their own food.
+  migration_status: Song Sparrows are resident throughout much of their range, although the northernmost populations are migratory. Resident populations extend as far north as coastal Alaska. The wintering range stretches across the southern United States and dips into northern Mexico. Birds at high altitudes may also descend into the lowlands during the winter. Western Washington breeders are year-round residents, but some eastern Washington breeders migrate. Interior British Columbia breeders also winter in western Washington.
+  conservation_status: Four subspecies of Song Sparrow are found in Washington, three of which breed in the state. One subspecies breeds from western Washington over the Cascades and into the Columbia Basin. A second breeds in eastern Washington, east of the Columbia River. A third subspecies breeds in south-central Washington. Breeders in far-eastern Washington are smaller and paler than the western breeders. In winter, a small, pale subspecies comes into western Washington from breeding grounds in interior British Columbia. Song Sparrows are widespread and abundant in North America and in Washington. Logging and suburban sprawl have increased the amount of shrubby habitat in many forests and suburban areas. Song Sparrows are one of Washington's most common birds, and the Breeding Bird Survey has indicated a small, not statistically significant increase in Washington from 1980 to 2002.
+  when_where_wa: Song Sparrows can be found in almost any shrubby habitat below 4,000 feet, with the exception of the arid shrub steppe in eastern Washington. They can easily be found breeding in cities, wetlands, clearcuts, and most farmed areas, although they are limited to urban areas and wetlands in the Columbia Basin. Above 4,000 feet, they are generally replaced by Fox and Lincoln's Sparrows, although there is some overlap. In winter, they can be found below the snow zone throughout the state where there is brushy cover, although they are more abundant west of the Cascades. Numbers east of the mountains vary from year to year.
+photos:
+- file: sosp_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: sosp_jh_l.jpg
+  caption: ''
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: sosp2.mp3
+  credit: null
+maps:
+  wa: melme.jpg
+  north_america: sospmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [F, F, F, C, C, C, C, C, C, F, F, F]
+  blue_mountains: [F, F, F, F, C, C, C, C, C, C, C, F]
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: sonspa
+  current_common_name: Song Sparrow
+  current_scientific_name: Melospiza melodia
+  clements_sort: 33277
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/song_sparrow
+  archived: '2026-09-12'

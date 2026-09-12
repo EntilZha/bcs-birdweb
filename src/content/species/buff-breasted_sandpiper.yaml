@@ -1,0 +1,53 @@
+slug: buff-breasted_sandpiper
+common_name: Buff-breasted Sandpiper
+scientific_name: Tryngites subruficollis
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Rare fall migrant.
+species_of_concern: true
+sections:
+  general_description: This upland shorebird has an unstreaked buff-colored breast, yellow legs, and a brown and buff mottled back. It has a dark tail and rump, streaked like the rest of the back. Its short, narrow bill and round head give it a plover-like appearance. Its underwings are silvery-white. Breeding and non-breeding adults look quite similar. Juveniles are darker and grayer, and have a scaly pattern on their backs. Almost all birds seen in Washington are juveniles.
+  habitat: Buff-breasted Sandpipers breed in dry Arctic tundra. Outside of the breeding season, they are seen in short-grass prairie and other grassland habitats. They winter in the grasslands of southern South America. In migration, they can be found on grassy areas such as golf courses, cemeteries, mowed lawns, and airfields. They are often seen in the baked mud around drying rivers, lakes, and reservoirs. They can also be seen along sandy beaches and open, weedy meadows.
+  behavior: Buff-breasted Sandpipers roost in large flocks, although their numbers in Washington are not large enough for single-species flocks. While foraging, they walk steadily along with a high-stepping gait, bobbing their elevated heads looking for prey on the ground. They may run and stop, making quick directional changes like plovers do.
+  diet: Buff-breasted Sandpipers eat mostly insects.
+  nesting: Groups of males form leks, or display grounds in the tundra breeding areas. Leks are typically fairly dense, but these birds have large display territories, up to 8 acres in size, so the entire lek may spread across a large area. Typical Buff-breasted Sandpiper leks are made up of 10 or fewer males. Females come to the leks where the males display their light underwings, one wing at a time. They mate on the lek, and the female leaves. The male provides no parental care. The female finds a spot on the ground, often on a moss hummock near water. There, she scrapes out a shallow depression and lines it with leaves, sedge, moss, or lichen. She incubates four eggs for 23-25 days. The young leave the nest within a day of hatching. They feed themselves, but the female tends them. The young begin to fly at 16-20 days.
+  migration_status: Most Buff-breasted Sandpipers migrate from Arctic breeding grounds across the Great Plains, to the Pampas of southern South America and back. Juveniles spread out across the country, many reaching the East Coast and some spreading west to the Pacific.
+  conservation_status: The Canadian Wildlife Service estimates the current population of Buff-breasted Sandpipers at only 15,000 birds. Although they were formerly abundant, hunting brought the population close to extinction in the early 20th Century. This species' restricted range, with much of the population remaining in vulnerable areas, leaves it at risk. Human development in its range has increased disturbance and brought more predators, both of which are significant threats to this species. Habitat loss on the wintering grounds in Argentina and Bolivia has also contributed to their decline. The Buff-breasted Sandpiper is on the watch list of Partners in Flight.
+  when_where_wa: Buff-breasted Sandpipers are a rare sighting in Washington. Adult Buff-breasted Sandpipers do not migrate through Washington, but juveniles are seen on the coast, in Grays Harbor and at Willapa Bay, from mid-August to mid-September. There are very few records from eastern Washington, which may seem surprising at first, but grasslands are very dry in eastern Washington by late summer and early fall, and may not provide good habitat.
+photos:
+- file: bbsadp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio: null
+maps:
+  wa: trsu.jpg
+  north_america: bbsamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', R, R, '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: bubsan
+  current_common_name: Buff-breasted Sandpiper
+  current_scientific_name: Calidris subruficollis
+  clements_sort: 6188
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/buff-breasted_sandpiper
+  archived: '2026-09-12'

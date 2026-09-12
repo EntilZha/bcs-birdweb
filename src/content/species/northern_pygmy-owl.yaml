@@ -1,0 +1,55 @@
+slug: northern_pygmy-owl
+common_name: Northern Pygmy-Owl
+scientific_name: Glaucidium gnoma
+order:
+  name: Strigiformes
+  slug: strigiformes
+family:
+  name: Strigidae
+  slug: strigidae
+status: Uncommon resident.
+species_of_concern: false
+sections:
+  general_description: The Northern Pygmy-Owl is a small, long-tailed owl, with yellow eyes and feet. It has only small and inconspicuous ear-tufts, which are seldom seen in the field. Its plumage is reddish-brown spotted with white. Like all members of its genus, it has false eye-spots, black outlined in white, on the back of its neck. Its belly is white, with dark streaks. It usually perches in a diagonal rather than upright position.
+  habitat: Northern Pygmy-Owls breed in coniferous and mixed woodlands. They prefer areas with scattered openings rather than large tracts of unbroken forest.
+  behavior: While they are most active at dawn and dusk, Northern Pygmy-Owls are often seen during the day, especially when it is overcast. They usually perch in the open at the very top of a conifer or snag or in a small tree. When perched, they commonly bob their heads and flick their tails up and down, often holding their tails to one side. Northern Pygmy-Owls are aggressive hunters, fast enough to chase prey in flight. Small songbirds often mob them, and imitating the call of a Northern Pygmy-Owl will often bring songbirds close in for observation.
+  diet: Northern Pygmy-Owls eat rodents, large insects, and small birds, which make up to one third of their diet in some places.
+  nesting: Monogamous pairs form in the spring. Northern Pygmy-Owls nest in natural tree cavities or old woodpecker holes. They do not add nest material. The female incubates 3 to 4 eggs for about 28 days, waiting for all the eggs to be laid before beginning incubation, a behavior unique among North American owls. While she is brooding, the male brings her food. The female stays on the nest and broods the young for the first week or so after they hatch. During this time, the male continues to bring food to the nest. The young begin to fly at 27 to 28 days.
+  migration_status: While Northern Pygmy-Owls do not undertake a regular seasonal migration, birds at higher altitudes may wander down-slope in fall and winter, as they follow the movement of their prey. During this time they may be seen at the lower edges of forests, along streams in the shrub-steppe region, and even in hay fields and pastures.
+  conservation_status: Northern Pygmy-Owls are uncommon but widespread. There is no evidence of range-wide decline. There is little information as to their abundance in Washington, which may reflect either a small population, a low rate of detection, or both. As long as some large nesting trees are left standing, Northern Pygmy-Owls probably benefit from logging, as they are well adapted to using a combination of young forests and open areas. There are two subspecies in Washington, one on each side of the Cascades.
+  when_where_wa: Northern Pygmy-Owls are fairly common year round in Washington, in forested areas in and on both sides of the Cascades. They avoid urbanized areas and are more common east of the Cascades. They are often seen east of the Cascades in winter at forest edges up to the snow line.
+photos:
+- file: nopo_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+audio:
+  file: NOPO01.mp3
+  credit: null
+maps:
+  wa: glgn.jpg
+  north_america: nopomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, U, U, U, U, U, U, U]
+  puget_trough: [U, U, U, U, U, U, U, U, U, U, U, U]
+  north_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  west_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: [U, U, U, U, U, U, U, U, U, U, U, U]
+  blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
+  columbia_plateau: [U, U, R, R, R, R, R, R, U, U, U, U]
+taxonomy:
+  ebird_code: nopowl
+  current_common_name: Northern Pygmy-Owl
+  current_scientific_name: Glaucidium gnoma
+  clements_sort: 9011
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/northern_pygmy-owl
+  archived: '2026-09-12'

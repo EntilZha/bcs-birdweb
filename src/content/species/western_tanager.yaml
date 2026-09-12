@@ -1,0 +1,97 @@
+slug: western_tanager
+common_name: Western Tanager
+scientific_name: Piranga ludoviciana
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Thraupidae
+  slug: thraupidae
+status: Common summer resident.
+species_of_concern: false
+sections:
+  general_description: Western Tanagers are distinctive summer visitors to our area and are the only tanagers found regularly in Washington. Their bills are of medium thickness, thinner than those of seed-eaters and thicker than those of insectivores. Adult males are bright yellow and black, with orange-red heads. It would be difficult to mistake an adult male for any other bird in Washington. All plumages are mostly yellow, with dark tails and two wing-bars on each wing. The dark markings are solid black on mature males and gray to brown on females and juveniles. Males have one white and one yellow wing-bar on each wing. Both wing-bars may be white, or one may be pale yellow on females, which are duller yellow than males. First-year males have little or no red on their heads.
+  habitat: Western Tanagers are typically found in open coniferous or mixed coniferous and broadleaved forests, although they are very wide-ranging in different habitats. They are common in forest openings, and they seem most at home in the dry Douglas-fir forests of eastern Washington, but they are much more widely distributed than that. They are least at home in dense, coastal rain forests. During migration they can be seen in a wide variety of habitats, including suburban yards, grasslands, shrub-steppe, and orchards. In winter, Western Tanagers inhabit tropical pine-oak woodlands, and will frequent shade-coffee plantations.
+  behavior: Treetop-foragers, Western Tanagers glean food from foliage and branches, and fly out to catch aerial prey. Although they are brightly colored, they are often inconspicuous and difficult to observe. They are most easily seen during migration when they may be found in atypical habitats.
+  diet: Although Western Tanagers are adapted for eating fruit, they eat mostly insects during the breeding season. During winter, they eat many fruits and berries. They may also eat flower nectar.
+  nesting: Western Tanagers are monogamous breeders. Pairs may form on the wintering grounds or during migration. They often nest in conifers, but will sometimes nest in aspen, oak, or other broadleaved trees. The female builds the nest, which is a shallow, open cup, usually placed in a horizontal fork, well out from the trunk. The nest is typically made of twigs and grass, lined with hair and rootlets. The female incubates 3 to 5 eggs for about 13 days, and broods the young for the first few days after hatching. Both parents feed and tend the young, which leave the nest after about 11 days, but stay close to the parents for about two more weeks.
+  migration_status: Western Tanagers are Neotropical migrants that winter in Mexico and Central America. They migrate at night and travel at high altitudes. They are usually alone or in pairs, but occasionally migrate in flocks. They tend to be relatively late-spring and early-fall migrants.
+  conservation_status: Western Tanagers do not seem to require large patches of forest, but do appear to prefer large patches to small fragments, and may prefer old growth in some areas. They use a wide range of winter habitats, and the protection of shade-coffee plantations provides increased wintering grounds. The Breeding Bird Survey has recorded a significant increase in Western Tanagers in Washington since 1966.
+  when_where_wa: Western Tanagers are widespread throughout Washington between May and September. They are quite common in forested areas of eastern Washington, especially in Ponderosa-pine and Douglas-fir forests. They are uncommon in highly developed areas as breeders. They are common in the Puget Trough lowlands during migration. Some rarely linger into early winter, apparently more in recent years.
+photos:
+- file: GregLavaty215.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: weta_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: weta_jh_l.jpg
+  caption: Male
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: weta_1_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: weta_2_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: weta_3_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: weta_w_gl_l.jpg
+  caption: Male winter plumage
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: weta_f_gl_l.jpg
+  caption: 'Female. Note: wing bars.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: WesternTanager.mp3
+  credit: null
+maps:
+  wa: pilu.jpg
+  north_america: wetamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', R, C, C, C, C, U, '', '', '']
+  puget_trough: ['', '', '', R, C, C, C, C, F, R, '', '']
+  north_cascades: ['', '', '', R, C, C, C, C, U, '', '', '']
+  west_cascades: ['', '', '', R, C, C, C, C, F, R, '', '']
+  east_cascades: ['', '', '', F, C, C, C, C, F, '', '', '']
+  okanogan: ['', '', '', U, C, C, C, U, '', '', '', '']
+  canadian_rockies: ['', '', '', U, F, F, F, F, U, '', '', '']
+  blue_mountains: ['', '', '', '', F, C, C, C, C, '', '', '']
+  columbia_plateau: ['', '', '', '', F, R, R, U, F, '', '', '']
+taxonomy:
+  ebird_code: westan
+  current_common_name: Western Tanager
+  current_scientific_name: Piranga ludoviciana
+  clements_sort: 34439
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/western_tanager
+  archived: '2026-09-12'

@@ -1,0 +1,65 @@
+slug: tricolored_blackbird
+common_name: Tricolored Blackbird
+scientific_name: Agelaius tricolor
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Icteridae
+  slug: icteridae
+status: ''
+species_of_concern: true
+sections:
+  general_description: |-
+    The Tricolored Blackbird looks much like its near relative, the Red-winged Blackbird. The glossy-black male’s shoulder patch is a deeper red and is bordered in white rather than yellow, while the female is dark blackish-brown, not reddish-brown. It nests in various types of wetland habitats, forming dense breeding colonies that may relocate from one year to the next if local conditions change.
+
+    The arrival and establishment of Tricolored Blackbird in Washington is a story that is still unfolding. There had been no prior state records, even of isolated wandering birds, when a nesting colony was discovered near the town of Wilson Creek (Grant County) in July 1998. This colony has persisted ever since, although the birds depart for points unknown after breeding. Beginning in spring 1999 and continuing every year since then good numbers of Tricolored Blackbirds have been observed outside the breeding season (September–May, peak February–April) at ponds near Othello (Adams County), but there are almost no summer records from this location. Another large assembly was first found near Texas Lake (Whitman County) in May 2002; breeding was confirmed there in 2005. Beginning in 2000, birds have also been observed at an increasing number of other locations in Adams, Douglas, Grant, Klickitat, Lincoln, Spokane, and Walla Walla counties, usually of just one or a few birds at a time. The only records west of the Cascades have occurred sporadically in the Vancouver Lowlands (Clark County) during late fall and winter, always of small numbers of Tricoloreds mixed with flocks of other blackbirds. The earliest of these was from November 2000.
+
+    The historic breeding range of Tricolored Blackbird is the Central Valley of California, extending south into northern Baja California and north into the Klamath Basin of south central Oregon. Pushing northward over the past century, it has nested in several places not far from the Columbia River boundary with Washington, mostly east of the Cascades but also in the Willamette Valley as far north as Portland. Most Oregon birds are believed to move south to California for the winter, although some remain, especially in the Klamath Valley.
+
+    *Revised November 2007*
+photos:
+- file: trbl_tg2_l.jpg
+  caption: Male
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: trbl_tg_l.jpg
+  caption: 'Male. Note: dark red lesser coverts and white median coverts.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: trbl_f_gt_l.jpg
+  caption: Female
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: trblmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
+taxonomy:
+  ebird_code: tribla
+  current_common_name: Tricolored Blackbird
+  current_scientific_name: Agelaius tricolor
+  clements_sort: 33807
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/tricolored_blackbird
+  archived: '2026-09-12'

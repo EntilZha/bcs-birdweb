@@ -1,0 +1,73 @@
+slug: northern_flicker
+common_name: Northern Flicker
+scientific_name: Colaptes auratus
+order:
+  name: Piciformes
+  slug: piciformes
+family:
+  name: Picidae
+  slug: picidae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: 'Northern Flickers are unusual among North American woodpeckers in that their general coloration is brown rather than black and white. Their backs are brown with black barring, and their chests and bellies are light tan with prominent clear black spots. Their tails are black, and they have white rumps. There is a broad, black band across the upper chest. Two forms occur in Washington: the Red-shafted, and less commonly, the Yellow-shafted. The flight feathers of Red-shafted Flickers have reddish-orange shafts, and their wings and tail are reddish-orange below. Red-shafted Flickers have gray heads, throats, and napes, and their foreheads are brown. Male Red-shafted Flickers have red moustaches; the moustaches of females are pale brown. Typically, neither sex has a colored nape crescent (but see below). The flight feathers of Yellow-shafted Flickers have yellow shafts, and their wings and tail are yellow below. The heads of Yellow-shafted Flickers are gray above, and their faces and throats are brown. Males have black moustaches; females have none. Both males and females have red nape crescents. Intergrades between the two forms are common, and some Red-shafted birds in Washington have red nape crescents.'
+  habitat: Northern Flickers can be found throughout most wooded regions of North America, and they are familiar birds in most suburban environments. They need some open area and do not nest in the middle of dense forests, but they breed in most other forest types. Outside of the breeding season, they also frequent other open areas, including suburban lawns and parks, grassland, sagebrush, and even sand dunes.
+  behavior: Unlike most other woodpeckers, Northern Flickers are principally ground feeders, though they also forage on tree trunks and limbs. They have a strongly undulating flight pattern, and they can be easily identified in flight by this pattern and their prominent white rumps. Their whinny call sounds somewhat like laughter. They also give a distinctive call that is often transcribed as klee-yer.
+  diet: Northern Flickers feed principally on ants but also take other insects and some fruit, seeds, and berries.
+  nesting: Northern Flickers typically excavate nesting cavities in dead or diseased pine, cottonwood, or willow trees. Males do most of the excavation with some help from females. Both incubate the 5 to 8 eggs for about 11 days, then brood the newly hatched young for about 4 days more. Both sexes feed the young, which leave the nest after 24 to 27 days. The parents continue to feed the young once they fledge, and soon the young begin to follow the adults to foraging sites and gather their own food.
+  migration_status: Northern Flickers are partially migratory. Red-shafted Flickers tend to over-winter on their breeding grounds or migrate shorter distances than Yellow-shafted Flickers, but both tend to withdraw from higher elevations and winter in the western Washington lowlands. Yellow-shafted Flickers, which are strongly migratory, become more common in Washington, especially along the outer coast, in winter. This increase is probably due largely to Yellow-shafted Flickers that have migrated to Washington from Alaska and the northern Rocky Mountains.
+  conservation_status: Northern Flickers play an important role in forested ecosystems by excavating nesting and roosting holes that are subsequently used by other birds, animals, and reptiles that cannot make their own. They are abundant and widespread throughout their range and are the most common woodpecker in Washington. The spread of residential development, roads, and the increasing fragmentation of the forest have increased the amount of habitat for Northern Flickers. However slight declines have been observed recently, which may be due to competition with European Starlings for nest holes .
+  when_where_wa: Common and widespread throughout Washington, Northern Flickers breed across most of the state, especially in residential areas, city parks, and gardens. Starting in September, they tend to concentrate in the lowlands on both sides of the Cascades, especially in areas with abundant berries. Winter is when the Yellow-shafted form is most likely to be seen, particularly on the outer coast.
+photos:
+- file: nofl_ys_pb_l.jpg
+  caption: ''
+  credit:
+    name: Paul Bannick
+    url: http://www.paulbannick.com
+  hero: false
+- file: nofl_f_gl_l.jpg
+  caption: Female
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: nofl_jh_l.jpg
+  caption: Male
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: nofl_intergrade_jh_l.jpg
+  caption: Male intergrade
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: nofl4.mp3
+  credit: null
+maps:
+  wa: coau.jpg
+  north_america: noflmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [F, F, F, F, F, F, F, F, F, F, F, F]
+  blue_mountains: [U, U, U, C, C, C, C, C, C, C, C, U]
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: norfli
+  current_common_name: Northern Flicker
+  current_scientific_name: Colaptes auratus
+  clements_sort: 11900
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/northern_flicker
+  archived: '2026-09-12'

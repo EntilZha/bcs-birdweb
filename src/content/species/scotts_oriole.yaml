@@ -1,0 +1,69 @@
+slug: scotts_oriole
+common_name: Scott's Oriole
+scientific_name: Icterus parisorum
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Icteridae
+  slug: icteridae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    The adult male Scott’s Oriole cannot be confused with any other bird likely to be seen in Washington. A large oriole—the size of a Bullock’s—it has a black head, back, and breast; vivid yellow underparts; a black wing with a yellow shoulder patch and white wingbar; and a black tail with a yellow base. The adult female resembles the male but with less extensive black. However, immature birds can be easily misidentified, especially when they occur in unexpected places. Grayish above and dirty yellow below, they look rather like certain plumages of the somewhat smaller Hooded Oriole. In Washington, any oriole that appears to be outside the norms for Bullock’s Oriole should be studied attentively. Consultation of a good field guide is advised.
+
+    Scott’s Oriole is a bird of the deserts of the American Southwest and of northern and central Mexico. Breeding populations of the northern part of the range, including the United States, move south for the winter. Scott’s Oriole breeds locally in southeastern Idaho at the northern extremity of its breeding range. Otherwise it is an exceptionally rare vagrant in the Pacific Northwest. Oregon has two spring records. Washington’s lone record is of an adult male that frequented a feeder in Chehalis (Lewis County) from 11 February to 13 April 1980. There are no records from British Columbia.
+
+    *Revised November 2007*
+photos:
+- file: scor_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: scor_tg_l.jpg
+  caption: 'Male. Note: black breast and back and bright yellow belly.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: scor_f_tg_l.jpg
+  caption: Female
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: scor_jf_tg_l.jpg
+  caption: Juvenile female
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: scormap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: scoori
+  current_common_name: Scott's Oriole
+  current_scientific_name: Icterus parisorum
+  clements_sort: 33776
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/scotts_oriole
+  archived: '2026-09-12'

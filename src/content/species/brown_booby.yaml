@@ -1,0 +1,52 @@
+slug: brown_booby
+common_name: Brown Booby
+scientific_name: Sula leucogaster
+order:
+  name: Pelecaniformes
+  slug: pelecaniformes
+family:
+  name: Sulidae
+  slug: sulidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: One bird seen at Protection Island for several days in October 1997.
+photos:
+- file: brbo_br_lb_l.jpg
+  caption: Breeding plumage adult.
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: brbo1.jpg
+  caption: ''
+  credit:
+    name: Seattle Audubon
+    url: http://seattleaudubon.org/sas/
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: brnboo
+  current_common_name: Brown Booby
+  current_scientific_name: Sula leucogaster
+  clements_sort: 7342
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/brown_booby
+  archived: '2026-09-12'

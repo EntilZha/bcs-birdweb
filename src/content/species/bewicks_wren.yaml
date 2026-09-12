@@ -1,0 +1,55 @@
+slug: bewicks_wren
+common_name: Bewick's Wren
+scientific_name: Thryomanes bewickii
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Troglodytidae
+  slug: troglodytidae
+status: Common resident west. Fairly common east.
+species_of_concern: false
+sections:
+  general_description: Bewick's Wrens are slender with long-tails, gray bellies, and brown backs. Their plumage is less mottled than that of many other wrens. Their tails are barred with a small amount of white at the outer tips. The most distinctive field mark of the Bewick's wren is its bold white eye-line, extending from just over the eye back to the neck.
+  habitat: Shrubby areas along clearcuts, rivers, wetlands, and parks, especially in residential and agricultural areas, are the favored habitat of the Bewick's Wren. A mixture of shrub vegetation and open woodland is ideal for this species.
+  behavior: An active forager, the Bewick's Wren often climbs about on branches and trunks, probing into crevices to find food. It also feeds on the ground, turning leaves with its bill. Paired birds often forage together in the breeding season. They are usually solitary the rest of the year, although some may remain paired throughout the year.
+  diet: Bewick's Wrens eat mainly insects and spiders.
+  nesting: The male Bewick's Wren sings to defend his nesting territory and to attract a mate. He starts one or more nests in various cavities, usually natural crevices, old woodpecker holes, nest boxes, or other artificial structures. The female will select one nest and add a soft cup of moss, leaves, hair, feathers, and sometimes snakeskin to the foundation of twigs and bark built by the male. The female incubates the 5 to 6 eggs for 14 to 16 days. The male feeds the female while she is on the eggs, and both parents feed the young. The young leave the nest after about two weeks, but stay together and are fed by the parents for another couple of weeks. The monogamous pair usually stays together through the first brood, and will often raise a second brood, although sometimes they will find new mates for the second brood.
+  migration_status: Most Bewick's Wrens in Washington are permanent residents. Some birds from west of the Cascades move east into southeastern Washington, eastern Oregon, and western Idaho in the fall, perhaps in a post-breeding dispersal.
+  conservation_status: Bewick's Wren populations are at risk in many parts of the United States, and populations in the eastern part of their range are considered scarce and declining. Much of the population east of the Mississippi is endangered. Most of this decline is blamed on the expansion of House Wrens, who out-compete Bewick's Wrens for nesting sites. Throughout the western part of their range, including western Washington, Bewick's Wrens are widespread and common. Their population has probably increased since the arrival of European settlers due to the resulting forest fragmentation and increased edge habitat. In eastern Washington, they have been expanding their range eastward and northward since 1953.
+  when_where_wa: Bewick's Wrens are common year round at lower elevations throughout western Washington. In southeastern Washington, they are found along major rivers. They can also be found around Spokane. Their population is increasing in eastern Washington, but is still fairly scattered.
+photos:
+- file: bewr_tg_l.jpg
+  caption: 'Note: white eyebrow and cocked tail.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+audio:
+  file: bewr1.mp3
+  credit: null
+maps:
+  wa: thbe.jpg
+  north_america: bewrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: ['', '', '', '', '', R, R, R, '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: [R, R, R, R, R, R, R, R, R, R, R, R]
+  columbia_plateau: [F, F, F, F, F, F, F, F, F, F, F, F]
+taxonomy:
+  ebird_code: bewwre
+  current_common_name: Bewick's Wren
+  current_scientific_name: Thryomanes bewickii
+  clements_sort: 27362
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/bewicks_wren
+  archived: '2026-09-12'

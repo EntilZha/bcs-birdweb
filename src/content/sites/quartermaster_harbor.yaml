@@ -1,0 +1,27 @@
+slug: quartermaster_harbor
+name: Quartermaster Harbor
+number: 219
+ecoregions:
+- puget_trough
+sections:
+  site: Quartermaster Harbor is formed by Vashon Island on the west and Maury Island on the east. It is sheltered and has no commercial marine traffic. The narrow strip of land between the two islands contains a small saltwater marsh. The harbor is part of the Washington State Department of Natural Resources Maury Island Environmental Aquatic Reserve. It is shallow, with a maximum depth of about ten meters at high tide. The bottom is sand and mud with abundant shellfish. It hosts the largest spawning population of Pacific herring in south Puget Sound, and is also a major spawning area for surf smelt.
+  birds: Due to the high concentration of forage fish and shellfish, the harbor is a major wintering area for 35 species. The most abundant bird is the Western Grebe, which totals eight percent of Washington's wintering population. There are hundreds of scoters and other diving sea ducks that feed on the shellfish during the winter. The grebes, loons, mergansers, diving sea ducks, gulls, and dabbling ducks, in addition to other species, make a total of about 3,000 individuals wintering here annually.
+  directions: |-
+    The best time to visit is from September to April.
+    The islands can be reached by ferry from Fauntleroy in West Seattle, Southworth on the Kitsap Peninsula, or Point Defiance in Tacoma. Vashon Highway SW runs the length of Vashon Island and passes by the west side of Quartermaster Harbor. The best viewing areas on Vashon Island are along Shawnee Road, Quartermaster Drive, Jenson's Point Park, and Portage. On Maury Island, Dockton Park and Manzanita will allow good views. Scopes are essential for all areas.
+
+    The Washington Road and Recreation Atlas is helpful for exploring Vashon. Quartermaster Harbor appears on p. 122, C-5.
+photos:
+- file: SITE_Quartermaster_Harbor.jpg
+  caption: ''
+  credit:
+    name: Richard Sedgley
+    url: http://www.flickr.com/photos/rsedgley/
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/quartermaster_harbor/3
+  archived: '2026-09-12'

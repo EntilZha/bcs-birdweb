@@ -1,0 +1,91 @@
+slug: heermanns_gull
+common_name: Heermann's Gull
+scientific_name: Larus heermanni
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Summer, fall visitor on coast.
+species_of_concern: true
+sections:
+  general_description: The Heerman's Gull is the size of a Ring-billed Gull, but stockier. It is unique in that its plumage is mostly dark. The Heerman's Gull has a dark gray back and wings with a lighter gray body. The head is white with a black-tipped red bill and a dark eye. The tail is black with a white terminal band. The wing has a white trailing edge and black tips. Some individuals have a white patch at the wrist. The feet are black. The Heerman's Gull is often mistaken for a jaeger. Non-breeding adults appear similar to breeding adults, but have a dark streaked head. Juveniles are solid brown overall in their first year and solid gray in their second year. They reach maturity in their fourth year.
+  habitat: A Pacific species, the Heerman's Gull nests in western Mexico, and spends the non-breeding season in marine areas. A variety of coastal habitats, including rocky shores, bays, small offshore islands, kelp beds, sandy beaches, and estuaries, are all potential roosting sites. They seldom spend time at garbage dumps or on fresh water.
+  behavior: While large roosting flocks are seen, Heerman's Gulls are rarely seen flying in large flocks. These gulls are aggressive, chasing other seabirds, especially Brown Pelicans, and stealing food from them.
+  diet: Fish and other small marine creatures make up the majority of the diet. Eggs, other birds, refuse, and carrion are also eaten, although Heerman's Gulls eat less refuse and carrion than do most other gull species.
+  nesting: Heerman's Gulls breed in early spring in large colonies on islands off the west Mexican coast. Nests are located on level ground, a shallow scrape in the soil lightly lined with feathers, grass, or weeds. Both parents incubate the 2-3 eggs for about 4 weeks, and both feed the young. Age at first flight is not known.
+  migration_status: In late May, after their early breeding season, Heerman's Gulls migrate north along the Pacific Coast. Their migration coincides with that of the Brown Pelican, from whom they often steal food. They arrive in the Northwest in mid-summer and stay through the fall, when they return to Mexico to breed. Some may also disperse south from the breeding grounds along the Mexican Coast.
+  conservation_status: Heerman's Gulls are vulnerable to disturbance on their nesting islands, and fishermen sometimes harvest their eggs. Recently, it has been observed that they migrate to the Northwest earlier.
+  when_where_wa: Common in coastal areas from June through October, Heerman's Gulls frequently congregate at the mouths of large rivers, and there are often large flocks at the mouth of the Columbia River. They can also be found in the Strait of Juan de Fuca and the San Juan Islands. They are fairly regular in Puget Sound in small numbers.
+photos:
+- file: heeg_ad_gth_l.jpg
+  caption: Adult breeding plumage
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: heeg_adfl_gth_l.jpg
+  caption: Adult breeding plumage
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: heeg_jfl_gth_l.jpg
+  caption: 1st winter
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: heeg_tg_l.jpg
+  caption: Adult breeding
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: heeg_fl_jp_l.jpg
+  caption: Adult breeding
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: heeg_wfl_jp_l.jpg
+  caption: Adult nonbreeding in flight.
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: heeg_jfl_jp_l.jpg
+  caption: 'Immature. Note: uniformly dark with bicolored bill.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+audio:
+  file: hegu.mp3
+  credit: null
+maps:
+  wa: lahe.jpg
+  north_america: heegmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', R, U, C, C, C, F, R, '']
+  puget_trough: [R, '', '', '', '', '', U, F, F, F, U, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: heegul
+  current_common_name: Heermann's Gull
+  current_scientific_name: Larus heermanni
+  clements_sort: 6512
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/heermanns_gull
+  archived: '2026-09-12'

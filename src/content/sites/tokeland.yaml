@@ -1,0 +1,34 @@
+slug: tokeland
+name: Tokeland
+number: 108
+ecoregions:
+- pacific_northwest_coast
+sections:
+  site: 'Two Washington State Important Bird Areas: Tokeland Flats and North Willapa Bay'
+  birds: |-
+    Tokeland is known for its long-legged shorebirds, such as Marbled Godwit, Bar-tailed Godwit (rare in the fall), and in the fall and winter, the Long-billed Curlew and Willet.
+
+    Leaving Route 105, go south toward Tokeland and at 1.7 miles turn onto 7th Street and park in a small turnout where the street makes a right turn. Walk out to the beach and search the shore and off-shore sand spit for shorebirds and gulls. This can be a good spot in fall and winter for Long-billed Curlew and Willet.
+
+    Continue east on Kindred Avenue and turn right onto Emerson Avenue. Park at the end of the road, and scan the beach, rocks, and pilings for cormorants, Willet, Whimbrel, Black Turnstones, and gulls.
+
+    Continue on Kindred Avenue to the public fishing dock. Check the open bay for Common Loon, Brown Pelican (summer and fall), Double-crested Cormorant, and Brant (winter and spring), gulls, and alcids (winter).
+
+    Check the nearby Tokeland Marina on Front Lane and the long off-shore rock breakwater for large flocks of shorebirds. Hundreds of Marbled Godwit often congregate at the marina or breakwater at high tide. Watch for an occasional Bar-tailed Godwit (rare in fall). Fall and winter long-legged shorebirds include Long-billed Curlew and small numbers of Willet.
+
+    White-winged Dove and Tropical Kingbird have turned up here (early October to late November). Other Tokeland area vagrants have included Northern Parula, Black-and-white Warbler, Lark Bunting, Chestnut-collared Longspur, and Hooded Oriole.
+  directions: 'From I-5, exit at #104 and take Route 101 west to Route 8. The road name changes from Route 8 to Route 12. At Montesano, take Route 107 southwest to Route 101 and continue south into Raymond. From Raymond, take Route 105 west (18+ miles) to its junction with Tokeland Road, opposite the Shoalwater Casino. Turn left, and follow Tokeland Road and Kindred Avenue into Tokeland.'
+photos:
+- file: SITE_Tokeland.JPG
+  caption: ''
+  credit:
+    name: Louise Rutter
+    url: null
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/tokeland/2
+  archived: '2026-09-12'

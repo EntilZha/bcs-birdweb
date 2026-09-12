@@ -1,0 +1,55 @@
+slug: bairds_sandpiper
+common_name: Baird's Sandpiper
+scientific_name: Calidris bairdii
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Uncommon fall migrant. Rare spring.
+species_of_concern: false
+sections:
+  general_description: Baird's Sandpipers are brown shorebirds with black legs and very long wings. Their medium-length bills are fine-tipped and straight. Adults in breeding plumage are light brown, and have black spots on their wings. Non-breeding adults are gray-brown, and lack spots. The juvenile, the most common form found in Washington, is brown with white-edged feathers that give it a scaly appearance. In flight, it shows white wing-stripes and a dark line down the middle of its tail, with white on either sides of the rump.
+  habitat: Breeding habitat is dry upland tundra. During migration, Baird's Sandpipers can be found along sandy shores and sometimes mudflats. They prefer higher, drier habitat than most other small sandpipers. They are also likely to be found in alpine areas, at high-elevation lakes, or even on snow banks. Wintering grounds are southern South American grasslands.
+  behavior: Baird's Sandpipers are generally found individually or in small flocks. Flock size can be greater mid-continent where they are more common. Baird's Sandpipers typically forage along the upper edge of mudflats, or up on sandy beaches, often in vegetation. They will sometimes forage in the water, but not regularly. Birds in the mountains will feed on snow banks. They move quickly with heads up, picking up surface prey.
+  diet: Baird's Sandpipers are primarily insect-eaters.
+  nesting: The nest is located on the ground among rocks and perhaps in low ground cover, sometimes well hidden in a grass clump. The male builds most of the nest, which is a shallow scrape lined with lichen, grass, and leaves. Both parents help incubate the four eggs for 19 to 22 days. The young leave the nest soon after hatching and feed themselves. Both parents brood and tend the young at first, but the female usually abandons the brood before they fledge. The male stays with the brood until they begin to fly, at 16 to 20 days.
+  migration_status: These long-distance migrants travel up and down the interior of North America. Females head south slightly ahead of the males, and many birds congregate in the Great Plains and the central valleys of Mexico before flying nonstop to southern South America.
+  conservation_status: The Canadian Wildlife Service estimates the population of Baird's Sandpipers at 300,000 birds. This species' use of the Arctic National Wildlife Refuge, as well as major migration staging areas, makes it vulnerable if these areas are lost or degraded.
+  when_where_wa: Baird's Sandpipers are uncommon migrants in Washington, usually seen during fall migration. They are rare from mid-April to late May; those that do pass through in spring are more common east of the Cascades. Most of the Baird's Sandpipers in Washington, however, are juveniles seen in fall. Fall birds may be seen in Washington as early as late June, but they are rare until early August. On the coast, at places such as Ocean Shores, they are most likely from early August through September, although some late stragglers may be seen into October. Inland, they are uncommon as early as July, but are more common from August through mid-September. They become less common through the end of September, and are rarely seen through October. Good inland spots are the Walla Walla River delta and Rock Lake.
+photos:
+- file: basa_ad_dp_l.jpg
+  caption: Note long primary projection, black legs, and medium sized black bill.
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: basa.mp3
+  credit: null
+maps:
+  wa: caba.jpg
+  north_america: basamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', R, U, U, R, '', '']
+  puget_trough: ['', '', '', '', '', '', '', R, R, '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', R, R, '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', U, U, '', '', '']
+  east_cascades: ['', '', '', '', '', '', R, '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', U, U, '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', F, F, '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', R, F, R, '', '', '']
+taxonomy:
+  ebird_code: baisan
+  current_common_name: Baird's Sandpiper
+  current_scientific_name: Calidris bairdii
+  clements_sort: 6217
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/bairds_sandpiper
+  archived: '2026-09-12'

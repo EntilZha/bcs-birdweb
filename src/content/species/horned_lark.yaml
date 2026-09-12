@@ -1,0 +1,67 @@
+slug: horned_lark
+common_name: Horned Lark
+scientific_name: Eremophila alpestris
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Alaudidae
+  slug: alaudidae
+status: Common resident east, uncommon west.
+species_of_concern: true
+sections:
+  general_description: 'The Horned Lark is a small songbird with a dark facial mask and a dark breast band. The ''horns'' are two little tufts of black feathers on the head. Horned Larks are found around the world, with a great number of subspecies. Three subspecies with distinct coloration and markings breed in Washington: the Streaked Horned Lark, the Pallid Horned Lark, and the Dusky Horned Lark. Horned Larks have reddish-brown upperparts streaked with dark brown, pale underparts, and a yellow face and breast. Females are duller in coloration. Immatures are dark with light spots. Overhead, the dark tail with narrow white edges is evident.'
+  habitat: Horned Larks inhabit open ground with short grass or scattered bushes. The three subspecies that breed in Washington are ecologically distinct. The Streaked Horned Lark is found on prairies, sandbars, and grassy ocean dunes in western Washington. The Pallid Horned Lark nests in dry alpine habitats. In eastern Washington, the Dusky Horned Lark occurs in low-elevation steppe and agricultural habitats such as wheat fields. Other subspecies migrate through Washington and may be found in other open habitats.
+  behavior: Horned Larks often join mixed flocks of Lapland Longspurs, Snow Buntings, Dark-eyed Juncos, and American Pipits. In the non-breeding season, they forage in large nomadic flocks. They feed while walking and running on the ground. Males perform a flight-song display high above the ground. During the breeding season, courtship, nesting, and feeding take place on territories. The song is a high-pitched tinkling made while in flight.
+  diet: Horned Larks eat mostly seeds of grasses, weeds, and waste grain but feed insects to their young. Adults consume some insects as well.
+  nesting: Male residents establish and defend territories as early as January and February. The female selects the nest site, usually on open ground next to a clump of grass or other low feature. She also builds the nest, a slight depression lined with plant material such as grass. The nest often has a flat 'doorstep' of pebbles. The female incubates 3-4 eggs. Both parents feed the young. The young walk, run, and leave the nest well before they can fly. Pairs in lowland areas may have 2-3 broods per year, but high altitude/latitude pairs have only a single brood.
+  migration_status: Some of the more northerly subspecies of Horned Lark winter in Washington, arriving in mid-November to early December and leaving in late winter or early spring. Pallid Horned Larks winter in the lowlands that surround their alpine breeding habitat. Dusky and Streaked Horned Larks move south in the winter but arrive back on the breeding grounds in early spring.
+  conservation_status: Populations of this species appear to be relatively stable across the continent. However, the Streaked Horned Lark subspecies has declined sharply in western Washington. Urbanization, conversion of prairies to agriculture, and the introduction of exotic plants have played a role in its decline.
+  when_where_wa: The Streaked Horned Lark is local and uncommon along coastal beaches of western Washington and on sandbars in the Lower Columbia River. It can also be found locally on western Washington prairies, such as at McChord Air Force Base and Fort Lewis (Pierce County). The Pallid Horned Lark breeds only in the Cascade and Olympic Mountains (Mt Adams, Mt Rainier, and Glacier Peak). It winters in the surrounding lowlands. The Dusky Horned Lark is abundant and widespread during the breeding season in the sagebrush flats and wheat fields of eastern Washington.
+photos:
+- file: hola_f_gth_l.jpg
+  caption: 'Female. Note: faint coloration on head.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: hola_m_gth_l.jpg
+  caption: Male.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: hola_m2_gth_l.jpg
+  caption: Male.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+audio:
+  file: HOLA01.mp3
+  credit: null
+maps:
+  wa: eral.jpg
+  north_america: holamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, U, U, U, U, U, U, U]
+  puget_trough: [R, R, R, R, R, R, R, R, R, R, R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [R, R, R, R, U, U, U, U, R, R, R, R]
+  east_cascades: [R, R, R, R, U, U, U, U, R, R, R, R]
+  okanogan: [F, F, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [F, F, F, U, U, U, U, F, F, F, F, F]
+  blue_mountains: [U, U, U, R, R, '', '', '', '', R, U, U]
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: horlar
+  current_common_name: Horned Lark
+  current_scientific_name: Eremophila alpestris
+  clements_sort: 22710
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/horned_lark
+  archived: '2026-09-12'

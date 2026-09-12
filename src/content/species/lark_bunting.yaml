@@ -1,0 +1,64 @@
+slug: lark_bunting
+common_name: Lark Bunting
+scientific_name: Calamospiza melanocorys
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Casual spring and fall migrant, mostly in southeastern Washington or along the coasts.
+photos:
+- file: larb_j_tg_l.jpg
+  caption: 'Juvenile. Note: large bluish bill and white wing patch.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: larb_gl_l.jpg
+  caption: Adult breeding.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: larb_f_gl_l.jpg
+  caption: 'Female. Note: large head and white wing bar.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: larb_w_gl_l.jpg
+  caption: 'Winter plumage. Note: black smudged face.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: larbmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: larbun
+  current_common_name: Lark Bunting
+  current_scientific_name: Calamospiza melanocorys
+  clements_sort: 33032
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/lark_bunting
+  archived: '2026-09-12'

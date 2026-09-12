@@ -1,0 +1,61 @@
+slug: bushtit
+common_name: Bushtit
+scientific_name: Psaltriparus minimus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Aegithalidae
+  slug: aegithalidae
+status: Common resident west. Uncommon east.
+species_of_concern: false
+sections:
+  general_description: The Bushtit is a tiny, gray bird with a long tail. It has a brownish wash on its forehead and a tiny, thin bill. Adult females have white eyes. Adult males and juveniles have dark eyes.
+  habitat: Bushtits inhabit mixed coniferous and deciduous areas with shrubby growth. They commonly use suburban areas and city parks, as well as young coniferous forests with an open canopy. They are mostly found west of the Cascades. In eastern Washington, they can be found in developed areas, irrigated pastures, orchards, wetlands, and other shrubby areas, although their range is very limited.
+  behavior: Highly social birds, Bushtits are usually found in flocks of 40 individuals or more. When flying from shrub to shrub, they often fly in a straggling line. In cold weather, the group may huddle together at communal roosts to stay warm. They glean food from leaves and twigs, often hanging upside-down to get at the undersides of leaves.
+  diet: Bushtits eat predominantly tiny insects and spiders. They also eat some berries and seeds, and readily come to suet feeders.
+  nesting: There is some evidence of communal nesting by Bushtits, but it is limited to southeastern Arizona. Helpers at the nest are usually adult males. During nesting season, flocks break up, and pairs establish loose territories, although they appear to tolerate other Bushtits within their territories. Both members of the pair help build the nest. The nest is an impressive, woven, hanging basket with a hole high up on the side of the nest and a passageway to the nest chamber at the bottom. It can be up to a foot long, and is generally built of spider webs, moss, lichen, and other plant material. Inside, the nest is lined with plant down, fur, and feathers. If the pair is disturbed during the early stages of nest-building, they will abandon the nest and find a new location, sometimes finding a new mate as well. Both parents incubate the 4-10 eggs for 12-13 days, sometimes at the same time. Both brood the young and bring them food until shortly after they leave the nest at about 18 days. They generally raise two broods a year.
+  migration_status: Bushtits are mostly permanent residents, although they may move from mountainous areas to lower elevations in winter.
+  conservation_status: In Washington, Bushtits were formerly limited to the central Puget Sound area, but as conifer forests have been converted into residential areas full of shrubby habitat, their range has expanded northward and eastward. There are small populations east of the Cascades. These populations may have moved across the mountains via areas with extensive clear-cutting which created a corridor of shrubby habitat across the Cascade Crest, or they may have come from populations farther south. The first Bushtits in Yakima County were recorded in 1947, but the first nest in Kittitas County was not recorded until 1989. Given this expansion and adaptability to suburban environments, it is surprising to note that the Breeding Bird Survey has recorded a significant decline of Bushtits in Washington since 1966. Disturbance may be a factor, as Bushtits will abandon their nests in the early stages of building, although they seem to tolerate disturbance later in the nesting cycle. An increase in the crow population may also be a factor, as they often rip up Bushtits' nests in urban areas.
+  when_where_wa: Bushtits are common in appropriate habitat, especially suburban areas, throughout the Puget Trough, west to Ocean Shores and south to Vancouver, Washington. East of the Cascades, there are isolated populations of Bushtits along the Columbia River in Klickitat County, near Toppenish in Yakima County, and near Cle Elum in Kittitas County.
+photos:
+- file: bush_f_tg_l.jpg
+  caption: 'Female. Note: yellow eye.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: bush_tg_l.jpg
+  caption: 'Male. Note: dark eye.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: bush1.mp3
+  credit: null
+maps:
+  wa: psmi.jpg
+  north_america: bushmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, F, F, F, F, F, F, F, F, F]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  west_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  east_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [R, R, R, R, R, R, R, R, R, R, R, R]
+taxonomy:
+  ebird_code: bushti
+  current_common_name: Bushtit
+  current_scientific_name: Psaltriparus minimus
+  clements_sort: 25253
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/bushtit
+  archived: '2026-09-12'

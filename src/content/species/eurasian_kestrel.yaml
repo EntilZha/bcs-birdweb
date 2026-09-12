@@ -1,0 +1,46 @@
+slug: eurasian_kestrel
+common_name: Eurasian Kestrel
+scientific_name: Falco tinnunculus
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Falconidae
+  slug: falconidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One bird discovered in late October 1999 on Samish Flats (Skagit County), seen irregularly into December.
+photos:
+- file: euke_gt_l.jpg
+  caption: ''
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: eurkes
+  current_common_name: Eurasian Kestrel
+  current_scientific_name: Falco tinnunculus
+  clements_sort: 11993
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/eurasian_kestrel
+  archived: '2026-09-12'

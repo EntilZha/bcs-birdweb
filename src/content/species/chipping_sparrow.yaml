@@ -1,0 +1,79 @@
+slug: chipping_sparrow
+common_name: Chipping Sparrow
+scientific_name: Spizella passerina
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Common summer east. Fairly common west.
+species_of_concern: true
+sections:
+  general_description: The Chipping Sparrow is a small sparrow with a slightly notched tail and--during the breeding season--a distinctive russet cap. Gray underparts and a gray rump contrast with streaked wings with two white wing bars. A clear, gray band runs across the nape of its neck, splitting the brown- and black-streaked head and back. In breeding plumage, the Chipping Sparrow has a white stripe over its eye with a dark stripe below it, a gray cheek, and a lighter throat patch. Juveniles are streaked and, while some molt earlier, most Washington birds keep their juvenile plumage through the fall migration. In non-breeding plumage, the closely related Clay-colored Sparrow is similar in appearance. The Clay-colored can be distinguished from the Chipping by a brown, rather than gray, rump, a darker face pattern, and the absence of a moustache. The two species also use different habitats, but are sometimes found in mixed flocks in the non-breeding season.
+  habitat: A sparrow of dry, open forests, the Chipping Sparrow is well adapted for suburban environments, although they are less common in the suburbs in Washington than in other parts of the country. In Washington, they are found in open forest edges and clearings (especially Ponderosa pine), wooded parks, orchards, gardens, and in Ponderosa pine patches in steppe zones. They are also common in trees near agricultural fields, although in these areas, their productivity is reduced by Brown-headed Cowbird parasitism.
+  behavior: Chipping Sparrows forage in flocks, except during the breeding season. They usually forage on or near the ground in open areas near cover. When foraging, they run or hop, stopping often to scratch the ground for seed. The Chipping Sparrow's song is a uniform trill. Its call is a hard chip.
+  diet: The Chipping Sparrow eats mostly seeds, especially in the fall and winter. During the breeding season, they eat a number of crawling insects as well.
+  nesting: Males return to the breeding area a week or so before the females, and begin to establish territories. When the females return, pair bonds form. Although monogamy is common, some males may have more than one mate. The male and female choose a nest site together, usually in a conifer, within 15 feet of the ground. The female builds the nest, a loose, open cup made of grass, weeds, and rootlets, lined with hair and fine grass. It is often situated at the outer end of a branch in a clump of needles or leaves. The female incubates 4 eggs for 10 to 12 days. The male feeds the female while she incubates. Both parents feed the young, which leave the nest 9 to 12 days after hatching. The young can make sustained flights within three days of leaving the nest, although the parents continue to feed them for about three more weeks. Second broods are not uncommon, but most pairs raise only one brood a season.
+  migration_status: Northern populations of Chipping Sparrows (including those that breed in Washington) migrate, wintering across the southern US into Mexico. Migration is often in flocks and usually spread out over a long period in both the fall and spring. Birds leave in August on the west side, and in early September on the east side of the Cascades. Returning birds arrive in April.
+  conservation_status: Although the Chipping Sparrow is still common and widespread across its range, its population has ebbed and flowed as a result of human influences. Originally, the Chipping Sparrow was probably not a common species, but may have benefited from European settlement. The population peaked in the 1850s, when it was the most common city sparrow. Since the 1900s, Chipping Sparrow populations have been declining due to habitat loss, Brown-headed Cowbird parasitism, and competition with House Sparrows and House Finches. The population is still likely to be greater than it was before European settlement. In Washington, Chipping Sparrows are common east of the Cascades, but declining in the San Juan Islands and on the Olympic Peninsula due to loss of prairie habitat and increase in Brown-headed Cowbird parasitism. According to the Breeding Bird Survey, Chipping Sparrows have experienced a significant decline statewide since 1966. The Washington Gap Analysis Project considers them an at-risk species in this state.
+  when_where_wa: Chipping Sparrows are common in open pine forests and other appropriate habitat throughout eastern Washington. They are uncommon in western Washington, with a patchy distribution often closely tied to stands of oak (Quercus spp.). In western Washington, they are most commonly found around Fort Lewis and other forest clearings in Pierce, Thurston, and southwest King Counties. The open, grassy farmlands in southwest Washington provide good habitat, and some Chipping Sparrows can be seen in Clark County. Similar habitat in the San Juan Islands sustains a population that is currently common, but declining. On the Olympic Peninsula, they are uncommon from Hurricane Ridge to Dungeness. They are also found in the western Cascades at higher elevations. In other parts of western Washington, they are rare.
+photos:
+- file: chsp_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: chsp_ad2_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: chsp_j_gl_l.jpg
+  caption: Juvenile
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: chsp_w_gl_l.jpg
+  caption: 'Adult nonbreeding plumage. Note: pink bill and rufous tinged crown.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: chsp_jh_l.jpg
+  caption: 'Adult nonbreeding plumage. Note: drab reddish crown and large bill.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+audio:
+  file: CHSP01.mp3
+  credit: null
+maps:
+  wa: sppa.jpg
+  north_america: chspmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', R, U, U, U, R, '', '', '', '']
+  puget_trough: ['', '', '', F, F, F, F, U, '', '', '', '']
+  north_cascades: ['', '', '', R, F, F, F, R, R, '', '', '']
+  west_cascades: ['', '', '', F, F, F, F, U, '', '', '', '']
+  east_cascades: ['', '', '', U, C, C, C, C, C, U, '', '']
+  okanogan: ['', '', '', U, C, C, C, C, F, '', '', '']
+  canadian_rockies: ['', '', '', U, F, F, F, F, F, U, '', '']
+  blue_mountains: ['', '', '', R, F, C, C, C, C, R, '', '']
+  columbia_plateau: ['', '', '', U, C, C, C, C, U, '', '', '']
+taxonomy:
+  ebird_code: chispa
+  current_common_name: Chipping Sparrow
+  current_scientific_name: Spizella passerina
+  clements_sort: 32990
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/chipping_sparrow
+  archived: '2026-09-12'

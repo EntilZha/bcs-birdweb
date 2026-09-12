@@ -1,0 +1,61 @@
+slug: greater_yellowlegs
+common_name: Greater Yellowlegs
+scientific_name: Tringa melanoleuca
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Common migrant. Winter uncommon west, rare east.
+species_of_concern: false
+sections:
+  general_description: The Greater Yellowlegs is a mottled gray wading bird with long, bright yellow legs. It is similar in appearance to its smaller relative, the Lesser Yellowlegs. The bill of the Greater Yellowlegs is slender and longer than the diameter of its head, in contrast to the bill of the Lesser Yellowlegs, which is not significantly longer than its head. In breeding plumage, the bill is solid black, whereas in non-breeding plumage it may be lighter gray at the base. The bill may appear slightly upturned. The Greater Yellowlegs' cryptic plumage is mottled brownish-gray and white, with the breeding plumage brighter and more heavily barred. An important field mark of the bird in flight is its white tail, which is barred at the end. Relative to its size, the legs of the Greater Yellowlegs are shorter than those of the Lesser, with the result that the toes do not project as far behind the tail in flight.
+  habitat: Greater Yellowlegs breed in muskeg bogs in the northern boreal forest. Their wintering and migration habitats are more general; they can be found in many fresh and saltwater wetland habitats, including open marshes, mudflats, estuaries, open beaches, lakeshores, and riverbanks. In comparison to Lesser Yellowlegs, Greaters are typically found in more open areas, on larger bodies of water, and on more extensive mudflats.
+  behavior: Greater Yellowlegs are less social than many shorebirds, and small flocks form during migration. Outside of the breeding season, most foraging takes place in shallow water. They often feed actively, running after fish or other fast-moving aquatic prey. Greater Yellowlegs swing their heads back and forth with the tips of their bills in the water, stirring up prey, but are less likely to use this foraging technique than are Lesser Yellowlegs. The Greater Yellowlegs bobs the front half of its body up and down, a characteristic behavior of this genus. Greater Yellowlegs are wary, often the first species to sound an alarm when a perceived threat approaches. Greater Yellowlegs are known for their piercing alarm calls that alert all the birds in the area. Their flight call consists of a series of 3 or 4 notes.
+  diet: During the breeding season, insects and insect larvae are the primary sources of food. During winter and migration, small fish, crustaceans, snails, and other aquatic animals round out the diet.
+  nesting: Due to its low densities and remote nesting areas, the breeding biology of the Greater Yellowlegs is not well studied, and much is unknown about it. They are presumed to be monogamous, and pairs form shortly after they arrive on the breeding grounds. The nest is on the ground, close to the water. It is well concealed in a shallow depression, under a low shrub or next to a moss hummock. The nest is sparsely lined with grass, leaves, lichen, and twigs. Both parents probably help incubate the 4 eggs for 23 days. The young leave the nest soon after hatching and find their own food. The parents appear to tend the young at least until they are capable of fluttering flight, at 25 days, and may stay until they are strong flyers, at 35-40 days. Pairs raise a single brood a season.
+  migration_status: A long-distance migrant, Greater Yellowlegs begin moving south from the breeding grounds in late June. During migration, they are found in appropriate habitat from coast to coast. While some stay in Washington through winter, most continue on to the southern US and Central and South America. In spring, they leave South America by March and start heading back to the breeding grounds.
+  conservation_status: Hunting led to population declines in the 19th Century, but protection in the form of the Migratory Bird Treaty Act of 1918 has helped the population recover. Christmas Bird Count data suggest that Greater Yellowlegs are becoming more common in Washington in winter. The Canadian Wildlife Service estimates the population to number 100,000 birds in North America. Throughout their range, Greater Yellowlegs are common and widespread, but their low density, remote breeding grounds, and lack of major stopover or wintering areas make the population difficult to survey. Fortunately, these traits also protect the population from many threats, and their flexibility in migration and wintering habitat will help the population in the face of increased wetland habitat destruction. Protection of this habitat remains important to maintain numbers of this and other shorebird species.
+  when_where_wa: Greater Yellowlegs are common migrants throughout Washington's lowland wetlands. Greatest densities are seen from mid-March through mid-May, and again from late June through October. Some birds remain in Washington through winter, along the coast or in the Puget Trough, and occasionally east of the Cascades along the Columbia River.
+photos:
+- file: grye_lb_l.jpg
+  caption: 'Note: thick, long bill with pale base.'
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: grye_a_dp_l.jpg
+  caption: Note large bill with pale base.
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: grye.mp3
+  credit: null
+maps:
+  wa: trme.jpg
+  north_america: gryemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, F, F, F, R, F, F, F, U, U, U]
+  puget_trough: [U, U, U, C, F, R, U, C, C, F, F, U]
+  north_cascades: ['', '', '', U, U, '', '', R, U, U, '', '']
+  west_cascades: ['', '', U, F, U, '', U, F, U, R, '', '']
+  east_cascades: ['', '', R, U, R, '', U, U, U, R, '', '']
+  okanogan: ['', '', U, C, C, R, F, C, U, '', '', '']
+  canadian_rockies: ['', '', '', F, U, R, F, F, U, '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', R, R, '', '', '']
+  columbia_plateau: [R, U, F, C, C, R, F, F, C, F, R, R]
+taxonomy:
+  ebird_code: greyel
+  current_common_name: Greater Yellowlegs
+  current_scientific_name: Tringa melanoleuca
+  clements_sort: 6154
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/greater_yellowlegs
+  archived: '2026-09-12'

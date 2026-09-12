@@ -1,0 +1,91 @@
+slug: red-tailed_hawk
+common_name: Red-tailed Hawk
+scientific_name: Buteo jamaicensis
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Accipitridae
+  slug: accipitridae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: Red-tailed Hawks, especially in the West, have highly variable plumage, including dark and rufous phases. They have long, broad wings and short, wide tails. Most have light breasts and dark streaks forming a mottled 'belly-band.' Most have dark brown heads. The underwings are mottled dark and light. All plumages of Red-tailed Hawks have a darkish band on the leading edges of the inner underwings, known as the 'patagial' markings. The upper side of the tail of most adult birds is deep rufous, although the Harlan's Red-tailed Hawk, a subspecies occasionally seen in Washington, has a light gray or banded tail. Light birds often have a faint white 'V' on their back-feathers that can be seen when they are perched. Juveniles lack the red tail.
+  habitat: Red-tailed Hawks are found in almost every type of habitat, as long as there are open areas interspersed with patches of trees or other elevated perches. They can often be seen perched in trees or on poles near open fields or agricultural areas, and along roads.
+  behavior: Red-tailed Hawks are adapted for soaring and will spend long periods riding thermals, looking for prey or migrating. They also use a sit-and-wait style of hunting, scanning for prey from high perches. They are commonly seen along roadsides or soaring over open fields.
+  diet: Red-tailed Hawks eat many small mammals, especially rodents and rabbits. Birds, reptiles, and sometimes fish or large insects all fall prey to Red-tailed Hawks on occasion. They have also been known to steal prey from other raptors and to eat fresh carrion.
+  nesting: Red-tailed Hawks are monogamous and may remain paired throughout the year. At the beginning of the breeding season, they perform impressive aerial courtship flights, accompanied by shrill screams. The nest is built in a tall tree, often the tallest tree in a cluster, or on cliff ledges, towers, nest platforms, and occasionally buildings. In western Washington, the nest is usually in a hardwood tree, especially black cottonwood or red alder. Both sexes help build the nest, a bulky collection of sticks lined with bark and other fine material. Greenery is often added. Both help incubate the 2 to 3 eggs for 28 to 32 days. The female stays on the nest and broods the young for the first 30 to 35 days after they hatch. During this time the male brings food, which the female tears up and feeds to the young. At 42 to 46 days, the young leave the nest, but can't fly for another 2 to 3 weeks. The majority of juveniles don't start catching their own food until 6 to 7 weeks after they leave the nest, although some start sooner. Some juveniles may continue to associate with their parents for up to six months after they leave the nest.
+  migration_status: Most Red-tailed Hawks at the northern extent of their range (mostly in Canada and the northern Great Plains) migrate, while the rest of the population, including Washington's breeders, is resident. Those that migrate do so late in the fall and early in the spring, and typically winter throughout the United States and northern Mexico.
+  conservation_status: Red-tailed Hawks are the most common and widespread hawk in North America. Red-tail numbers have increased significantly as a result of forest fragmentation that creates the mosaic of interspersed wooded and open areas they prefer. In some areas, this increase has been at the expense of Red-shouldered, Ferruginous, and Swainson's Hawks. Harlan's Red-tailed Hawks seem to have increased in number.
+  when_where_wa: Red-tailed Hawks can be found year round throughout most of Washington, including in developed areas such as the city of Seattle. One species, the Harlan's Red-tailed Hawk, winters regularly in small numbers near Bellingham (Whatcom County) and is found regularly in Skagit and Snohomish Counties, but rarely in other areas either side of the Cascades.
+photos:
+- file: rtha_j_gth_l.jpg
+  caption: Young at nest.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rtha_fl2_gl_l.jpg
+  caption: 'Adult (light morph). Note: dark upperwing with red tail.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: rtha_gl_l.jpg
+  caption: Adult (light morph)
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: rtha_fl_gl_l.jpg
+  caption: 'Adult (light morph). Note: dark leading edge to wing.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: rtha_j_tg_l.jpg
+  caption: 'Juvenile (light morph). Note: pale eye.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: rtha_inter_gt_l.jpg
+  caption: Adult (intermediate morph)
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: rtha_fl_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio:
+  file: rtha1.mp3
+  credit: null
+maps:
+  wa: buja.jpg
+  north_america: rthamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, F, F, F, F, F, F, F, F, F]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [F, F, F, F, F, F, F, F, F, F, F, F]
+  blue_mountains: [F, F, C, C, F, F, F, F, C, C, C, F]
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: rethaw
+  current_common_name: Red-tailed Hawk
+  current_scientific_name: Buteo jamaicensis
+  clements_sort: 8506
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/red-tailed_hawk
+  archived: '2026-09-12'

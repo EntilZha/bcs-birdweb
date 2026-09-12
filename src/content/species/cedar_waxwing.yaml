@@ -1,0 +1,61 @@
+slug: cedar_waxwing
+common_name: Cedar Waxwing
+scientific_name: Bombycilla cedrorum
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Bombycillidae
+  slug: bombycillidae
+status: Common summer resident. Irregular winter.
+species_of_concern: false
+sections:
+  general_description: Cedar Waxwings are sleek, masked birds with unusual red, waxy deposits at the tips of their secondary feathers. They are cinnamon-colored, with grayish wings and tails and yellow terminal tail-bands. They have distinctive crested heads, black throats, and black masks lined with white. Their bellies have a yellowish tinge, and their undertail coverts are white. Juveniles are mottled gray-brown, and have black masks and yellow tail-bands. The red feather-tips increase in number and size as the birds age. The only bird in Washington that could be confused with a Cedar Waxwing is a Bohemian Waxwing. Bohemians are larger and grayer than Cedars, without the yellow tinge underneath. They have rufous undertail coverts and white-and-yellow wing markings that Cedar Waxwings lack.
+  habitat: Cedar Waxwings inhabit open, lowland woodlands with shrubs and small trees, especially when berry-producing shrubs are present. They are often found in streamside woods and avoid the forest interior. They are common in forest clearings, wetlands, edges, residential areas, orchards, and stands of Russian olive.
+  behavior: Flocks are common in all seasons, but reach their greatest density (into the thousands) during fall and winter. There may be Bohemian Waxwings mixed in with Cedar Waxwing flocks during winter. They often perch atop dead or defoliated trees, from which they fly out to catch aerial insects.
+  diet: Cedar Waxwings eat some insects, but are primarily fruit-eaters, a trait that dictates much of their behavior. They eat almost exclusively fruit in the winter, relying on the berries of mountain ash, juniper, dogwood, and others. They also forage on fruit crops in orchards, especially cherries. Waxwings are susceptible to alcohol intoxication, and even death, from eating fermented fruit. Like most songbirds, they feed insects to their young at first, but switch to feeding the young berries within a few days.
+  nesting: Cedar Waxwings are among the latest nesting birds in North America, and this enables them to capitalize on the abundance of fruit in late summer and early fall. They are monogamous, and may nest in small colonies. During courtship, the male and female pass food items back and forth with their bills. Both members of the pair help build the nest, which is usually on a horizontal branch or fork of a deciduous tree. The nest is a loose, open cup, made of grass and twigs, lined with moss, rootlets, fine grass, bark, and hair. The female incubates 4 to 5 eggs for about 12 days, and then broods the young for about 3 days. The male brings food to the nest during this time, and afterwards, both parents feed the young. The nestlings fledge at about 15 days, but stay close to the nest and are fed by the parents for another 6 to 10 days. After that they may join a flock of other juvenile birds.
+  migration_status: Cedar Waxwings are nomadic and irruptive, and wander in search of food sources, rather than undertake a typical migration. Fruit availability may be a more important predictor of winter presence than temperature or latitude. Most populations do move south for the winter, but some Washington breeders may be year-round residents.
+  conservation_status: Populations fluctuate considerably from year to year, but the long-term trend appears to be stable or increasing. Cedar Waxwings seem to be expanding their range and increasing in residential areas perhaps due to an increase in edge habitat and the planting of ornamental fruit trees.
+  when_where_wa: Cedar Waxwings are common breeders in open woodlands, edge habitat, and wetland sites all over Washington. During winter, they are fairly common, but patchily distributed, east of the Cascades, especially in Spokane (Spokane County). They are present, but fairly uncommon, in western Washington in winter.
+photos:
+- file: cedw_gl_l.jpg
+  caption: 'Note: brownish yellow body, white undertail coverts, and yellow tip to tail.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: cedw_j_tg_l.jpg
+  caption: Juvenile.
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: cewa1.mp3
+  credit: null
+maps:
+  wa: boce.jpg
+  north_america: cedwmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, U, C, C, C, C, C, F, R, R]
+  puget_trough: [R, R, R, U, C, C, C, C, C, C, U, R]
+  north_cascades: ['', '', '', R, C, C, C, C, C, R, '', '']
+  west_cascades: ['', '', '', F, C, C, C, C, F, U, '', '']
+  east_cascades: [F, F, F, F, C, C, C, C, F, F, F, F]
+  okanogan: [U, U, U, F, C, C, C, C, C, U, U, U]
+  canadian_rockies: [U, U, U, F, F, F, F, F, F, U, U, U]
+  blue_mountains: [R, R, R, U, F, F, F, F, F, U, U, R]
+  columbia_plateau: [C, C, C, C, C, F, F, F, F, C, C, C]
+taxonomy:
+  ebird_code: cedwax
+  current_common_name: Cedar Waxwing
+  current_scientific_name: Bombycilla cedrorum
+  clements_sort: 29888
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/cedar_waxwing
+  archived: '2026-09-12'

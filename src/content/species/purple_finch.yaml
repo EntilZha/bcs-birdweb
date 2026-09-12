@@ -1,0 +1,61 @@
+slug: purple_finch
+common_name: Purple Finch
+scientific_name: Carpodacus purpureus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Fringillidae
+  slug: fringillidae
+status: Fairly common resident, mostly west.
+species_of_concern: false
+sections:
+  general_description: The Purple Finch is closely related to the Cassin's Finch and the House Finch, and in fact, there are places in Washington where all three species can be found. All three species are streaked, and the males of all three have red plumage. Male Purple Finches typically have brown undertones on their backs and wings, but are reddish-purple overall (with the exception of their white bellies), with the brightest coloring on their breasts and heads. Female Purple Finches are heavily marked with short, blurry streaks on their breasts and have white markings on their faces. The breast streaks do not converge in a central spot as on many sparrows. Unlike the House and Cassin's Finches, Purple Finches typically lack streaks on their undertail coverts. Purple Finches have short, notched tails and straight bills, although not as straight as those of the Cassin's Finch. Males take two years to reach mature plumage, and first-year males look like females.
+  habitat: Purple Finches are generally found in moist coniferous and mixed-forest lowlands, especially those with many openings and edges, and an abundant understory. They are often found in revegetating clear-cuts, on farmland, and in rural residential areas. They tend to avoid large mature forests and are outcompeted by House Finches in suburban and urban areas. In wetter western Washington, they can be found in most forest types, but in eastern Washington they are mostly restricted to wetlands and irrigated orchards. During migration and winter, they use a broad range of forested and semi-open habitats.
+  behavior: Small flocks form in late summer and early fall, and groups may visit bird feeders regularly in winter, when those feeders are not dominated by House Sparrows or House Finches. They usually forage on the outer portion of tree branches at various heights, and occasionally on the ground.
+  diet: Purple Finches eat mostly seeds, buds, and berries. In summer, they will also eat insects, but feed their young mostly seeds.
+  nesting: Monogamous pairs usually nest on a horizontal branch or in the fork of a conifer tree, typically well out from the trunk. The female builds the nest, which is a compact, open cup made of twigs, weeds, and rootlets, and lined with fine grass, hair,and moss. The female incubates 3 to 5 eggs for 12 to 13 days. The male brings food to the female while she incubates, and both adults bring food to the chicks. The young leave the nest after 13 to 16 days. The young can fly weakly when they first fledge and stay close to the nest for at least two more weeks before dispersing. Pairs generally raise two broods each season.
+  migration_status: Flocks of Purple Finches undertake a drawn out migration in both the fall and spring. In much of the eastern United States, Purple Finches are short-distance migrants, wintering in points south of their breeding range. Western Purple Finches are very uncommon in winter in Puget Sound, but large numbers move through in spring. They undergo almost cyclical irruptions across portions of their winter range, which may be associated with conifer seed crops.
+  conservation_status: The introduction of House Finches in the eastern United States in the early 20th Century appears to have caused a decline in Purple Finch populations in that part of the country. House Finches have also replaced Purple Finches in many developed areas of Washington, and Purple Finches have experienced significant annual declines statewide since 1980. They were formerly common in Seattle, but have rarely been recorded in Seattle's Christmas Bird Count in recent years.
+  when_where_wa: Purple Finches are primarily a western Washington species, where they are common and widespread in undeveloped areas. They can also be found in smaller numbers on the east slope of the Cascades and along central Washington river valleys.
+photos:
+- file: pufi_jh_l.jpg
+  caption: 'Male. Note: unstreaked reddish flanks.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: pufi_f_jh_l.jpg
+  caption: 'Female. Note: triangular bill, dark streaks on underparts, and whitish'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: PUFI01.mp3
+  credit: null
+maps:
+  wa: carpu.jpg
+  north_america: pufimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, F, F, F, F, F, F, F, F, F]
+  puget_trough: [F, F, F, F, F, F, F, F, F, F, F, F]
+  north_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  okanogan: [R, R, R, R, R, R, R, R, R, R, R, R]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [R, R, R, R, R, R, R, R, R, R, R, R]
+taxonomy:
+  ebird_code: purfin
+  current_common_name: Purple Finch
+  current_scientific_name: Haemorhous purpureus
+  clements_sort: 32324
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/purple_finch
+  archived: '2026-09-12'

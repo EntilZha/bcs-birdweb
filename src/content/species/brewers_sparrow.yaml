@@ -1,0 +1,55 @@
+slug: brewers_sparrow
+common_name: Brewer's Sparrow
+scientific_name: Spizella breweri
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Common summer resident east.
+species_of_concern: true
+sections:
+  general_description: A plain, small, pale gray bird, the Brewer's Sparrow blends in well with its sagebrush surroundings. It is the smallest of Washington's sparrows, and has a streaked back, unstreaked breast, and a long tail. The head markings are subtle. It has a slightly darker eye-line and streaked crown and a white eye-ring. Young birds are streaked overall and maintain this plumage through August of their first year.
+  habitat: The Brewer's Sparrow is restricted to the shrub-steppe zone of Washington, where it prefers higher elevations (usually above 2600 feet) with higher precipitation levels, and therefore more grass cover than the drier bottomlands. Areas with abundant bluebunch wheatgrass and other native grasses along with scattered threetip sage are preferred breeding habitats. After the young fledge, Brewer's Sparrows spread across the shrub-steppe zone and can be found anywhere throughout the shrub-steppe until they migrate south.
+  behavior: Brewer's Sparrows are sometimes found in flocks, especially after the young fledge. They forage on the ground and in low shrubs. The song is beautiful and distinctive.
+  diet: Brewer's Sparrows can survive for an extended period of time with no supplemental water, getting all the water they need from their diet of seeds and arthropods. In the spring and summer, they eat and feed their young many insects. In late summer and through the winter, seeds become more important.
+  nesting: The male sings to defend his territory and attract a mate. The pair forms a monogamous bond that lasts through the breeding season. Nests are well hidden in the shrub canopy, usually within four feet of the bare ground. The male may help gather material, but the female builds the nest, which is a compact, open cup made of grasses, weeds, twigs, and rootlets, lined with fine plants and hair. The female incubates the 3-4 eggs for 10-12 days. Both parents brood and feed the young, who leave the nest at 7-9 days old. The parents continue to feed the young for a few days after they fledge. Many pairs raise two broods a year.
+  migration_status: Brewer's Sparrows arrive in Washington in early April. By early September, virtually all have departed for desert scrub in the southwestern US and northern Mexico.
+  conservation_status: This species is adapted to fire climax ecosystems, that is, areas that depend on forest fires to maintain ecological balance. Brewer's Sparrow populations decrease immediately after a fire, but increase about three seasons later. They used to be regular breeders in eastern Washington in the Palouse region, but conversion of much of this land to agriculture has eliminated most of the habitat suitable for Brewer's Sparrows. The habitat that remains is highly fragmented. Throughout the species' range, it has been in significant decline for the past two decades. Numbers are highly variable from year to year, making it difficult to track population trends. Brewer's Sparrows are included as an at-risk species on the National Audubon watch list, the Partners in Flight watch list, and the Washington Gap Analysis at-risk list.
+  when_where_wa: Brewer's Sparrows are common in the Columbia Basin and Okanogan Valley, especially on north slopes of east-west ridges such as Yakima, Umtanum, and Horse Heaven Ridges. They are present, but less common, in the Methow Valley and southern Columbia Basin. A small breeding population exists in remnant patches of habitat in Asotin County. They are local and rare in isolated grassland patches in the Spokane Valley (Spokane County) and Little Pend Oreille National Wildlife Refuge (Stevens County).
+photos:
+- file: brsp_w_gl_l.jpg
+  caption: 'Note: white eye ring, pale stubby bill, and light gray collar.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio:
+  file: brsp1.mp3
+  credit: null
+maps:
+  wa: spbr.jpg
+  north_america: brspmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', R, R, R, R, R, '', '', '']
+  okanogan: ['', '', F, C, C, C, C, C, F, '', '', '']
+  canadian_rockies: ['', '', '', R, R, R, R, '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', R, R, '', '', '']
+  columbia_plateau: ['', '', '', C, C, C, F, U, U, '', '', '']
+taxonomy:
+  ebird_code: brespa
+  current_common_name: Brewer's Sparrow
+  current_scientific_name: Spizella breweri
+  clements_sort: 33007
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/brewers_sparrow
+  archived: '2026-09-12'

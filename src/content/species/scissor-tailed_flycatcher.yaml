@@ -1,0 +1,58 @@
+slug: scissor-tailed_flycatcher
+common_name: Scissor-tailed Flycatcher
+scientific_name: Tyrannus forficatus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Tyrannidae
+  slug: tyrannidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One May and one September record, both from Potholes (Grant County).
+photos:
+- file: stfl_gl_l.jpg
+  caption: 'Note: whitish head and long tail.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: stfl_fl2_gl_l.jpg
+  caption: 'Note: faint pink belly and underwing coverts.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: stfl_fl_gl_l.jpg
+  caption: 'Note: long black and white tail.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: stflmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: sctfly
+  current_common_name: Scissor-tailed Flycatcher
+  current_scientific_name: Tyrannus forficatus
+  clements_sort: 17489
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/scissor-tailed_flycatcher
+  archived: '2026-09-12'

@@ -1,0 +1,59 @@
+slug: northwestern_crow
+common_name: Northwestern Crow
+scientific_name: Corvus caurinus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Corvidae
+  slug: corvidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Northwestern Crows are large, shiny, black birds with long, solid bills. They can be distinguished from Common Ravens by their smaller size, straight or slightly rounded tails, and higher-pitched voices. Ravens also have more massive bills and longer, shaggier feathers at their throats. Northwestern Crows are smaller than the closely related American Crows and have lower, huskier voices. Many authorities believe that the Northwestern Crow is not a true species, but a subspecies of the American Crow.
+  habitat: Northwestern Crows are typically associated with tidal areas. They are generally found in semi-open habitats such as rocky beaches, forested shorelines, tidal estuaries, and coastal ponds, around seabird colonies and garbage dumps, and in towns, cities, and campgrounds. They often nest near intertidal flats.
+  behavior: Outside the breeding season, Northwestern Crows are quite sociable, roosting and foraging in large flocks. They are intelligent and opportunistic, and quickly take advantage of new sources of food. They generally feed on the ground or in shallow water. They drop hard-shelled items onto hard surfaces, such as rocks and roads, to break them open. Northwestern Crows foraging in intertidal areas often store extra food during low tide, when it is plentiful, and consume it during the following high tide, when the intertidal zone is under water.
+  diet: Northwestern Crows are omnivores. Because they live in coastal areas, much of their diet is aquatic creatures, shellfish, fish, seabird eggs, and various aquatic invertebrates. They also eat carrion and garbage.
+  nesting: Northwestern Crows are monogamous and form long-term pair bonds. Sometimes one of the offspring from a previous year stays with the pair to help feed the nestlings. Both members of the pair help build the nest, which is a bulky, stick platform, lined with mud, moss, grass, rootlets, and cedar bark. The nest is usually in the canopy of a tree, but can also be in a shrub or on the ground. The female incubates 3-6 eggs (usually four) for 17-20 days. The female broods the young constantly for about four days, and then helps the male and helper bring food. The young start venturing out of the nest onto nearby branches at 26-33 days, and then begin to fledge about three days later (typically at 29-35 days). The young stay on the parents' territory for another couple of weeks, and are fed by the parents for a few weeks after leaving the territory.
+  migration_status: Northwestern Crows are not considered to migrate.
+  conservation_status: Northwestern Crows are common, and the population is most likely stable. Their historic range has expanded due to the clearing of coastal forests. Many authorities in Washington consider the Northwestern Crow to be a subspecies of the American Crow, not a separate species. (Genetic work will be published soon.) Size and vocalizations are typically considered to be the distinguishing factors between the two species, and there are considerable overlaps between the two species on both factors. The main threat is that Northwestern Crows intergrade freely with American Crows wherever the two come into contact. Thus Northwestern Crows get swamped and are not distinguishable.
+  when_where_wa: Northwestern Crows can be found year round in coastal Washington and Puget Sound.
+photos:
+- file: nocrdp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+- file: nocr2.jpg
+  caption: ''
+  credit:
+    name: Seattle Audubon
+    url: http://seattleaudubon.org/sas/
+  hero: false
+audio: null
+maps:
+  wa: coca.jpg
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: amecro
+  current_common_name: American Crow
+  current_scientific_name: Corvus brachyrhynchos
+  clements_sort: 21557.0
+  historic_common_name: Northwestern Crow
+  display_historic: true
+  note: Published on BirdWeb as Northwestern Crow. Genetic work showed the coastal Northwestern Crow to be part of a continuum with American Crow, and the two were merged in 2020. This account describes the coastal birds of the Puget Sound region.
+source:
+  url: https://birdweb.org/birdweb/bird/northwestern_crow
+  archived: '2026-09-12'

@@ -1,0 +1,59 @@
+slug: american_black_duck
+common_name: American Black Duck
+scientific_name: Anas rubripes
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Accidental visitor. Washington Bird Records Committee review list species.
+species_of_concern: false
+sections:
+  general_description: The American Black Duck is a large duck that closely resembles a female Mallard. The Black Duck's body color is darker than that of a Mallard, and the head color is slightly lighter. In flight, the Black Duck can be distinguished by the solid purplish-blue patch on its wing (lacking the white edges found on the Mallard) and the contrast between the dark body and upperwings and the light underwing linings. Black Ducks are unusual among dabbling ducks in that males and females are almost identical, distinguishable in the breeding season only by the bright yellow bill of the male.
+  habitat: American Black Ducks are historically found in forested wetlands, tidewater areas, and coastal marshes of eastern North America.
+  behavior: Black Ducks congregate in large groups in the fall and winter, when pair bonds form. Pairs remain together through the winter and into the breeding season. Once the eggs are laid and the female begins incubation, the pair dissolves. At this time the males molt their feathers and go through a month-long period of flightlessness while their new feathers grow in. Once the young fledge, the females go through the same flightless molt. By August, both sexes are able to fly again.
+  diet: Black Ducks dabble for food, tipping their bodies up and dunking their heads to forage under water. They occasionally forage on land. When in coastal marshes, they are more omnivorous than most dabbling ducks, with mollusks, crustaceans, and arthropods making up nearly half of their diet. The other half is seeds, tubers, and other vegetable matter more typical of the group
+  nesting: American Black Ducks nest on or near the ground, generally close to water. Dense clumps of vegetation help to obscure shallow depressions lined with plant material and feather down. The female incubates 9 to 10 eggs, rarely leaving the nest during the final few days before hatching. Immediately after hatching, chicks can swim and find food on their own.
+  migration_status: Black Ducks winter farther north and migrate later than most dabbling ducks. Throughout their range, they migrate varying distances, although the small population formerly in Washington was resident year round.
+  conservation_status: A small, feral population was present in Washington from the late 1960s through the mid-1990s. This population appears to have been extirpated in recent years due to competition and hybridization with Mallards, a factor that also contributes to their decline in their traditional range. Since American Black Ducks are not native to Washington, this decline is not of major conservation concern in our state.
+  when_where_wa: A few remnant birds may still be present near the Everett sewage ponds (Snohomish County), where the feral population once was. Vagrants also turn up occasionally in various locations. It is usually difficult to determine whether these birds are escapees from captive populations or true vagrants, wandering from their traditional range.
+photos:
+- file: abdu_gt_l.jpg
+  caption: 'Male. Note: yellowish bill (female has a greenish bill)'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: abdu_fl_gt_l.jpg
+  caption: 'Note: dark belly.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: abdumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: ambduc
+  current_common_name: American Black Duck
+  current_scientific_name: Anas rubripes
+  clements_sort: 571
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/american_black_duck
+  archived: '2026-09-12'

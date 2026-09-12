@@ -1,0 +1,59 @@
+slug: northern_mockingbird
+common_name: Northern Mockingbird
+scientific_name: Mimus polyglottos
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Mimidae
+  slug: mimidae
+status: Rare resident.
+species_of_concern: false
+sections:
+  general_description: Northern Mockingbirds are primarily gray with long legs, long tails, and pale eyes. Their undersides are light buff to white, and their upperparts are plain gray. Their tails are black with white outer tail feathers, and their wings are black with white wing-bars and patches. Young juveniles have light spotting on their breasts.
+  habitat: Northern Mockingbirds typically inhabit dense, low shrubs and areas with open ground. Throughout their range, they are common in suburban areas and parks with short grass. They avoid the forest interior, but can often be found at forest edges. In Washington, they often inhabit sagebrush habitat.
+  behavior: Northern Mockingbirds are ground foragers and are commonly seen running across mowed lawns, with their wings lifted to flash their white wing-patches. Both sexes sing complex and variable songs, with each phrase often repeated many times. They are accomplished mimics and incorporate parts of other birds' songs into their own.
+  diet: The Northern Mockingbird's diet is split evenly over the course of the year into fruit and invertebrates. Invertebrates, especially beetles, grasshoppers, spiders, snails, and worms, make up most of the diet during the breeding season, while berries and other fruits round out the winter diet.
+  nesting: Northern Mockingbirds are typically monogamous, but polygamy does occur. Some birds may remain paired year round, but pair bonds typically last a single breeding season. They nest in dense shrubs or low trees. The male builds a bulky foundation of twigs, and the female adds an open cup of weeds, grass, and leaves, lined with rootlets, moss, hair, and plant down. The female incubates 3-4 eggs for 12-13 days, and then broods the young for about 6 days after they hatch. Both parents help feed the young, which leave the nest at about 12 days. The young cannot fly well for another week or so, and the adults continue to feed the fledglings for up to 3 weeks after they leave the nest. Northern Mockingbirds can raise up to 4 broods in a season. A few days after the young fledge, the male begins building the foundation for the next nest, while the female continues feeding the fledglings. Once the foundation is built, they switch, and the female builds the rest of the nest while the male feeds the fledglings.
+  migration_status: The migration of Northern Mockingbirds is not well understood. They are resident in some parts of their range, but in others, they undertake some southward movement in the fall. Still others travel north in the fall and winter, complicating the issue even more.
+  conservation_status: Northern Mockingbirds have declined in some southern parts of their range in recent decades, while at the same time expanding northward into other areas. They were captured and sold as caged birds from the late 1700s through the early 1900s, a practice that significantly reduced northern populations. Since the International Migratory Bird Treaty Act outlawed their capture, Northern Mockingbirds have been expanding back into their former range, and into new areas. This expansion is likely to continue with the spread of suburban and second-growth habitat, and ornamental plantings that provide food and cover. Northern Mockingbirds were formerly considered only vagrants in Washington, but have been recorded annually in Washington since the mid-1980s, and have nested a few times in the Columbia Basin.
+  when_where_wa: Northern Mockingbirds can be found rarely at any time of year in Washington, but they are most often found in winter. Winter sightings have come from both sides of the Cascades, although they are more common in western Washington. Northern Mockingbirds have, however, nested in eastern Washington's central Columbia Basin at least three times (in Benton and Grant Counties).
+photos:
+- file: nomo_gl_l.jpg
+  caption: 'Note: dark eyeline and long tail.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: nomo_fl_gl_l.jpg
+  caption: 'Note: bold white wing patch.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: mipo.jpg
+  north_america: nomomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', R, R, R, R, R, '', '', '', '', '']
+taxonomy:
+  ebird_code: normoc
+  current_common_name: Northern Mockingbird
+  current_scientific_name: Mimus polyglottos
+  clements_sort: 28114
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/northern_mockingbird
+  archived: '2026-09-12'

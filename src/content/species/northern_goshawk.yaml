@@ -1,0 +1,55 @@
+slug: northern_goshawk
+common_name: Northern Goshawk
+scientific_name: Accipiter gentilis
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Accipitridae
+  slug: accipitridae
+status: Rare resident.
+species_of_concern: true
+sections:
+  general_description: The largest of the three North American accipiters and a resident of the Old World, the adult Goshawk is solid gray above, with finely barred, lighter gray below. It has a distinctive white bar over its red eyes. The juvenile is mottled-brown above with brown and buff streaking below. The juvenile has light lines over its eyes, which are yellow. The goshawk's tail is long, but wider than those of the other accipiters; this is the best way to distinguish a Goshawk from a Cooper's Hawk. The juvenile's tail is more darkly banded than that of the adult. The Goshawk is similar in shape to the Sharp-shinned and Cooper's Hawk, with short round wings, and a long narrow tail.
+  habitat: Northern Goshawks inhabit mature coniferous forests, often on moderate slopes, especially at mid- to high elevations. They are often found along the forest edge, and will use mixed coniferous and deciduous forests as well.
+  behavior: This aggressive predator is built to move quickly and quietly. It approaches its prey stealthily, moving unnoticed through dense cover, until it is close enough to overcome its prey in mid-air with a burst of speed, or drop out of a tree and swoop down on ground-dwelling prey. Northern Goshawks also hunt in open areas. The goshawk takes its prize to a perch and plucks the feathers or hair.
+  diet: Northern Goshawks are opportunistic, eating a wide variety of prey. Squirrels, snowshoe hares, grouse, corvids, woodpeckers, and other medium to large songbirds are all potential prey of the goshawk.
+  nesting: The birds are monogamous, and the pair bonds often long-term. The nest, a platform made from thin sticks, lined with bark and greenery, is typically placed at a major crotch in a tree, 25-50 feet off the ground. The female does most of the nest construction, and the nest may be reused from year to year, growing quite large. The male feeds the female before she begins to lay eggs. The female incubates the 2-4 eggs for around 32 days. The male continues to bring food, and may take over incubation for short stints while the female eats. Once the young hatch, the female broods constantly for 9-14 days. The male provides food, and the female generally feeds the young. Nestlings venture out of the nest to nearby branches at 34-35 days, and take their first flights shortly after that. The parents continue to feed the young until they are about 70 days old. Both birds aggressively defend the nest, attacking any interloper, including humans.
+  migration_status: Northern Goshawks are, for the most part, non-migratory. Some birds move to lower elevations in the winter, and irruptive movements into more southern areas occur occasionally, generally in response to the collapse of prey populations.
+  conservation_status: While Northern Goshawks have been expanding their range in some areas of the Northeast in recent decades, many populations are still considered threatened or endangered. Logging is the largest threat to Northern Goshawks in Washington. The Northern Goshawk is listed as a species of concern by the US Fish and Wildlife Service and is a candidate for listing by the Washington Department of Fish and Wildlife.
+  when_where_wa: The Northern Goshawk is uncommon year round. It is most common along the eastern slope of the Cascades. It is less common in the Olympic Mountains, but can be seen occasionally in the higher points of this range.
+photos:
+- file: nogo_gth_l.jpg
+  caption: 'Juvenile Northern Goshawk. Note: white supercilium'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+audio:
+  file: nogo.mp3
+  credit: null
+maps:
+  wa: acge.jpg
+  north_america: nogomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, R, R, R, R, R, R, R, R, R]
+  puget_trough: [R, R, R, R, R, R, R, R, R, R, R, R]
+  north_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  west_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  east_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: [R, R, R, R, R, R, R, R, R, R, R, R]
+  blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
+  columbia_plateau: [R, R, R, '', '', '', '', '', '', R, R, R]
+taxonomy:
+  ebird_code: norgos
+  current_common_name: American Goshawk
+  current_scientific_name: Astur atricapillus
+  clements_sort: 8292.0
+  historic_common_name: Northern Goshawk
+  display_historic: false
+  note: Published on BirdWeb as Northern Goshawk (Accipiter gentilis). The Northern Goshawk was split in 2023; the North American bird is now American Goshawk, in the genus Astur.
+source:
+  url: https://birdweb.org/birdweb/bird/northern_goshawk
+  archived: '2026-09-12'

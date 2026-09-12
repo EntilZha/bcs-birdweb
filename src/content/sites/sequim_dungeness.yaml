@@ -1,0 +1,27 @@
+slug: sequim_dungeness
+name: Sequim/Dungeness
+number: 217
+ecoregions:
+- puget_trough
+sections:
+  site: Located on the north Olympic Peninsula in the rainshadow of the Olympic Mountains, the Sequim-Dungeness area provides excellent birding opportunities. The region actually includes two Washington Important Bird Areas, the Lower Dungeness River Riparian Corridor and Dungeness Bay. Habitats range from alpine peaks and subalpine forests of the northeastern Olympics to the intertidal and near-shore habitats of the Strait of Juan de Fuca. The Dungeness River, one of the shortest, steepest rivers in the country, bisects the region from south to north, eventually flowing into Dungeness Bay, an expansive estuary separated from the Strait of Juan de Fuca by Dungeness Spit, one of the longest sand spits in the world. Dungeness Bay, along with adjacent Sequim and Discovery Bays, provides rich coastal habitats for birds, including extensive sandflats and mudflats, large eelgrass beds, sand and cobble beaches, and small islands. Terrestrial habitats around Sequim and Dungeness, renowned for having the least amount of rainfall in Western Washington, include oak woodlands, prairies, and madrona forests.
+  birds: Over 350 species of birds have been seen on the north Olympic Peninsula, including many vagrants. During much of the year, the best birding occurs along the coast, concentrating on shorebirds, waterfowl, seabirds, and raptors found in or near bays, estuaries, and offshore. Breeding populations of Rhinoceros Auklets, Glaucous-winged Gulls, Tufted Puffins, and cormorants occur on Protection Island, visible just offshore. Large concentrations of Ancient Murrelets, Pacific Loons, Long-tailed Ducks, and other waterfowl occur in the strait during fall and winter. During the breeding season, riparian forests along the lower Dungeness River and other coastal streams are alive with birds, including specialties like Red-eyed and Cassin's Vireos, Black-throated Gray Warblers, Western Tanagers, and Bullock's Orioles. Mountain specialties include Northern Pygmy-Owls, Hammond's Flycatchers, Varied Thrushes, Horned Larks, American Pipits, Townsend's and Hermit Warblers, plus occasional sightings of Black Swifts soaring over high peaks, and Gray-crowned Rosy-Finches picking insects off alpine snowfields.
+  directions: |-
+    Sequim lies on the northeastern side of the Olympic Peninsula, accessible by Route 101 from east and west. The town of Dungeness lies about four miles north of Sequim; take Sequim-Dungeness Way from downtown Sequim. Wonderful birding occurs year round. Railroad Bridge Park can be reached by exiting Route 101 at Sequim's River Road Exit, then going north on River Road, turning right and then left onto Priest Road, and west (left) on Hendrickson Road. From Sequim, go west on Washington and then go north (right) on Priest Road, and west (left) on Hendrickson Road.
+
+    Check in at the Dungeness River Audubon Center at Railroad Bridge Park, on the shores of the Dungeness River, for information about birds and other wildlife of the area, including recent sightings. Join a weekly bird walk through the riparian forest of the Dungeness River at the Audubon Center every Wednesday at 8:30AM.
+    To reach the Dungeness NWR, go north on Kitchen-Dick Road from Route 101. In about three miles, the road will bend to the right, becoming Lotzgesell Road. In .25 miles, turn left onto Voice of America Road, the entrance to the Dungeness Recreation Area and National Wildlife Refuge.
+photos:
+- file: site_SequimDungeness_la.jpg
+  caption: ''
+  credit:
+    name: Loren Alhadeff
+    url: null
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/sequim_dungeness/3
+  archived: '2026-09-12'

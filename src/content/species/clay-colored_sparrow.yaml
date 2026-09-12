@@ -1,0 +1,61 @@
+slug: clay-colored_sparrow
+common_name: Clay-colored Sparrow
+scientific_name: Spizella pallida
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Rare summer east, winter west.
+species_of_concern: false
+sections:
+  general_description: A small sparrow with a slightly notched tail, the Clay-colored Sparrow is seen regularly in only a few spots in eastern Washington. Buff-gray underparts and a brown rump contrast with streaked wings with two white wing-bars. A clear, gray band runs across the nape of the neck, splitting the streaked head and back. In breeding plumage, the Clay-colored Sparrow has a white stripe over its eye, dark cheek lined with a distinctive black moustache, and white throat-patch with dark bars dividing the patch into three segments. In non-breeding plumage, the closely related Chipping Sparrow is similar in appearance. The Clay-colored can be distinguished from the Chipping by a brown rather than gray rump, lighter face pattern, and a moustache, absent from the Chipping Sparrow. The two species also have distinctive songs and use different habitat, but are sometimes found in mixed flocks in the non-breeding season.
+  habitat: This typical summer bird of northern-prairie brushlands is generally found in more open areas than Chipping Sparrows. Clay-colored Sparrows are often found in open grassland and moist steppe zones, in stands of bushes or forest edges.
+  behavior: Males often perch atop low thickets, singing. Outside of the nesting season, they forage on the ground in flocks, often mixed with Chipping and other sparrows. Unlike most songbirds, Clay-colored Sparrows forage outside of their nesting territory, leaving them with smaller territories to defend than most songbirds their size. They can occasionally be found with other sparrows, including White-crowned and Golden-crowned Sparrows. The Clay-colored Sparrow has a buzzy, insect-like song that is easily distinguished from the Chipping Sparrow's dry trill.
+  diet: The Clay-colored Sparrow primarily eats the seeds of weeds and grasses. In the summer, the young birds especially favor insects.
+  nesting: Males arrive and start establishing territories on the nesting grounds a few days before females return. The males sing to defend their territories and attract females. The birds form monogamous pairs that last through the breeding season. Nests are generally located on the ground or in a low shrub, within five feet of the ground. The female builds an open-cup nest of grass, weeds, and twigs, lined with rootlets, fine grass, and hair. Each clutch typically has four eggs, and the female does most of the incubation. The male does some incubating and feeds the female during the 10 to 14 days of incubation. Once the young hatch, both parents help feed them. After 7 to 9 days, the young leave the nest. Unable to fly, they hop to the ground and immediately run for cover. The parents continue to feed and tend the young for about another week, after which the young can fly and find their own food.
+  migration_status: Clay-colored Sparrows are complete migrants, meaning there is no overlap between summer and winter ranges. They typically migrate in flocks through the Great Plains to southern Texas and Mexico. Wanderers are found in the fall from the Atlantic to the Pacific Coasts. In these cases, the wandering Clay-colored Sparrows are usually found with Chipping or Brewer's Sparrows.
+  conservation_status: The Breeding Bird Survey suggests that Clay-colored Sparrows are the most numerous low-shrub songbird of the northern prairies, especially in Canada. In the past 20 years, however, there has been a small, but significant decline in breeding populations across much of their range, which is most likely due to the increased development in many of these areas. They are also often parasitized by Brown-headed Cowbirds. Range-wide, Clay-colored Sparrows are a species of special concern and are included on the Partners in Flight watch list.
+  when_where_wa: The first recorded Clay-colored Sparrow in Washington was near Spokane (Spokane County) in 1960. Between 1964 and 1986 there was evidence of breeding at that location during at least eight seasons, and between 1994 and 1996, one or two breeding pairs were found each year, sometimes with fledglings. The Clay-colored Sparrow is a rare and local breeder east of Spokane. While Spokane is the only area with confirmed breeding, Clay-colored Sparrows are also found in a few scattered places in the northern part of the state, in Okanogan and Ferry Counties. There is one breeding-season record in western Washington, from 1995 in Olympia (Thurston County). Fall and winter sightings (mostly winter) in western Washington are becoming more common, with one or two birds seen each year with flocks of White-crowned and Golden-crowned Sparrows.
+photos:
+- file: ccsp_gl_l.jpg
+  caption: 'Adult nonbreeding. Note: buffy wash to flanks and back.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: ccsp_w_gl_l.jpg
+  caption: 'Adult nonbreeding. Note: buffy supercilium, gray collar, and median crown stripe.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: CCSP01.mp3
+  credit: null
+maps:
+  wa: sppal.jpg
+  north_america: ccspmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', R, R, R, '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', R, R, R, '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: clcspa
+  current_common_name: Clay-colored Sparrow
+  current_scientific_name: Spizella pallida
+  clements_sort: 32996
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/clay-colored_sparrow
+  archived: '2026-09-12'

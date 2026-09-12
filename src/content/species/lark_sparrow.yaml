@@ -1,0 +1,67 @@
+slug: lark_sparrow
+common_name: Lark Sparrow
+scientific_name: Chondestes grammacus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Fairly common summer resident east.
+species_of_concern: false
+sections:
+  general_description: The Lark Sparrow is a distinctive bird with a number of bold features that distinguish it from other sparrows. The long tail has white triangles at the corners that are conspicuous in flight. The rump is gray-brown and unmarked, and the back is a similar color with dark streaks. The clear, white breast is punctuated with an eye-catching black dot. The most distinguishing feature, however, is the alternating chestnut, white, and black head pattern. The top of the head is chestnut, bisected by a white stripe. Birds in their first winter have the same pattern, but the patches at each cheek and on the head are drab gray-brown rather than chestnut.
+  habitat: In the shrub-steppe zone, Lark Sparrows select grassland habitat with a scattered shrub layer. They are often found at the edge between grasslands and shrub lands, in degraded shrub-steppe, or in open forests and grasslands.
+  behavior: By mid-July, adults and recently fledged young form small, loose flocks. Lark Sparrows forage while walking out in the open. When flushed, Lark Sparrows will fly long distances, much farther than most sparrows, indicating that they may not be highly territorial, they have large territories, or they are not packed very tightly on the breeding grounds. During the breeding season, males sing from perches within their territories, from the ground, and even in flight. They display on the ground to attract females, strutting back and forth with tails spread and wings drooped. During copulation, the male will pass a twig to the female.
+  diet: Lark Sparrows feed heavily on seeds in the winter. During summer, they eat both arthropods and seeds, but appear to feed their young only arthropods.
+  nesting: The male Lark Sparrow displays on the ground in front of the female, and places twigs at potential nest sites. When the female approves of a site, she builds the nest there, on the ground near the base of a tall weed or up in a shrub or in a rocky crevice. Nests are often located in sandy or poor soils, or on elevated sites. The nest is an open cup of grass, weeds, twigs, and bark, lined with fine grass, rootlets, and hair. The female incubates the 4 to 5 eggs for 11 to 12 days. Both parents feed the young, which leave the nest at 9 to 12 days after hatching and go to protective shrubby areas. The pair may have up to two broods a season.
+  migration_status: Lark Sparrows arrive in Washington in early May and start leaving in August. Wintering grounds are found throughout the southwestern US into Mexico, up the coast of California, and in small pockets of Oregon and Idaho.
+  conservation_status: A widespread but uncommon species, the Lark Sparrow has declined in some of its eastern range, due in part to urbanization and reduction of grassland habitat and to reversion of agricultural area to forests. In the western United States, it is still fairly common and widespread. Eastern Washington is at the western edge of its range. Lark Sparrows are common hosts for Brown-headed Cowbirds. Pesticides, especially those used to control grasshoppers, are also a potential threat. The tendency of Lark Sparrows to occupy disturbed sites and edges between two habitat types has helped their numbers remain stable throughout the West.
+  when_where_wa: During the breeding season, Lark Sparrows are fairly common but local in eastern Washington below the lower treeline in the central Columbia Basin, and in agricultural areas in northeastern Washington at the edge of the Ponderosa pine zone. In Okanogan County, they can be found in the grassland and sagebrush in Brewster, and at Bridgeport State Park. In Douglas County, they can be found breeding at Jameson Lake. Sun Lakes State Park and Potholes Lakes are spots in Grant County where Lark Sparrows breed. In eastern Yakima County, they are common around ranch pastures and open shrub-steppe in eastern Moxee Valley, north of Sunnyside, and along the easterly margin of the Yakima Training Center, north along the Columbia through Kittitas and Chelan Counties to Wenatchee.
+photos:
+- file: lasp_gl_l.jpg
+  caption: 'Note: bold face pattern.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: lasp_gl2_l.jpg
+  caption: 'Note: bold face pattern and white breast with central dark spot.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: lasp_j_gl_l.jpg
+  caption: Juvenile.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: LASP01.mp3
+  credit: null
+maps:
+  wa: chgr.jpg
+  north_america: laspmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', U, U, U, U, U, R, '', '', '']
+  okanogan: ['', '', '', R, U, U, U, U, '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', U, U, '', '', '']
+  columbia_plateau: ['', '', '', '', F, F, F, U, R, '', '', '']
+taxonomy:
+  ebird_code: larspa
+  current_common_name: Lark Sparrow
+  current_scientific_name: Chondestes grammacus
+  clements_sort: 33029
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/lark_sparrow
+  archived: '2026-09-12'

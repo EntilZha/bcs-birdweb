@@ -1,0 +1,61 @@
+slug: macgillivrays_warbler
+common_name: MacGillivray's Warbler
+scientific_name: Oporornis tolmiei
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: Fairly common summer resident.
+species_of_concern: true
+sections:
+  general_description: MacGillivray's Warblers are olive above and bright yellow below, with distinctive gray hoods extending to their breasts. Males' hoods are dark charcoal gray, and females' hoods are lighter gray. Both sexes have white crescents above and below their eyes. Males have dark areas in front of their eyes. Immature birds have less distinct hoods and resemble females.
+  habitat: MacGillivray's Warblers are found in dense thickets and are a characteristic species of the low, dense undergrowth found in riparian areas and clear-cuts within northern coniferous forests. In western Washington, they are usually in areas that have been clear-cut, burned, or otherwise disturbed. As succession proceeds to the point that trees start to take over from shrubs, MacGillivray's Warblers leave the area. In eastern Washington, they are usually in dense, low vegetation found along streams, especially willow and alder thickets. During winter, they inhabit similar areas in the foothills and mountains of the Neotropics.
+  behavior: MacGillivray's Warblers generally stay in the understory or on the ground, although males sometimes sing from higher perches. They flick their tails from side to side while they forage in the foliage, up the trunk of trees, or on the ground. These shy, secretive birds are often hard to see, but are easily located by their loud vocalizations.
+  diet: MacGillivray's Warblers eat mostly insects. Immature birds have been observed eating sap from sapsucker holes in trees.
+  nesting: Both members of the pair help build a well-concealed nest in dense shrubs, often in an upright fork. The nest is a loose, open cup made of weeds, bark strips, and grass, and lined with rootlets, hair, and other soft material. The female incubates 3 to 5 eggs for 11 to 13 days and broods the young for the first few days after they hatch. Both parents feed the young, which leave the nest 8 to 9 days after hatching. The parents continue to feed the young after they fledge, and it is not known how soon the young are fully independent.
+  migration_status: MacGillivray's Warbler migration is spread out over an extended period in both the spring and fall, although most leave before fall actually begins (September 21). They are not seen in October at all. They are highly migratory and winter in Central and South America. Much of the population is concentrated in the Rocky Mountains, and their primary route is along those ridgelines, although vagrants are seen throughout North America during migration. They generally migrate at night.
+  conservation_status: MacGillivray's Warblers are common within their range, but have experienced recent declines. In Washington, the Breeding Bird Survey has reported a significant, statewide decline in population since 1966. Widespread logging in this area has created habitat appropriate for MacGillivray's Warblers, so the information is confusing. It is possible that replanting may adversely affect quality habitat for MacGillivray's Warblers, but more study is needed. Livestock grazing at migration stopover sites and on the wintering grounds degrades habitat and may have a negative impact on the population.
+  when_where_wa: MacGillivray's Warblers are found in appropriate habitats on both sides of the Cascades and up into the mountains from late April to mid-August, and to a lesser extent through mid-September. They are found breeding at fairly high elevations, especially in willow or alder thickets. They are rare along the outer coast and avoid developed areas.
+photos:
+- file: mgwa_gl_l.jpg
+  caption: 'Male. Note: bold white eye arcs and black lores.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: mgwa_f_gl_l.jpg
+  caption: 'Female. Note: grayish hood and faint eye arcs.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: mawa.mp3
+  credit: null
+maps:
+  wa: opto.jpg
+  north_america: mgwamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', U, C, C, C, C, U, '', '', '']
+  puget_trough: ['', '', '', U, C, C, C, C, U, '', '', '']
+  north_cascades: ['', '', '', R, C, C, C, F, R, '', '', '']
+  west_cascades: ['', '', '', '', F, F, F, F, U, '', '', '']
+  east_cascades: ['', '', '', U, F, F, F, F, F, U, '', '']
+  okanogan: ['', '', '', '', C, C, C, C, U, '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, F, U, '', '', '']
+  blue_mountains: ['', '', '', '', F, C, C, C, C, '', '', '']
+  columbia_plateau: ['', '', '', '', U, R, R, U, U, '', '', '']
+taxonomy:
+  ebird_code: macwar
+  current_common_name: MacGillivray's Warbler
+  current_scientific_name: Geothlypis tolmiei
+  clements_sort: 34005
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/macgillivrays_warbler
+  archived: '2026-09-12'

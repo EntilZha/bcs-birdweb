@@ -1,0 +1,58 @@
+slug: painted_bunting
+common_name: Painted Bunting
+scientific_name: Passerina ciris
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Cardinalidae
+  slug: cardinalidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Well-photographed male visiting Seattle feeders in February'March 2002 (King County). Under review by WBRC.
+photos:
+- file: pabu_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: pabu_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: pabu_f_gl_l.jpg
+  caption: Female. Note; greenish yellow body.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: pabumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: paibun
+  current_common_name: Painted Bunting
+  current_scientific_name: Passerina ciris
+  clements_sort: 34621
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/painted_bunting
+  archived: '2026-09-12'

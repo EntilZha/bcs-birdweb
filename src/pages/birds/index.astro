@@ -1,0 +1,72 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import SpeciesCard from "../../components/SpeciesCard.astro";
+import SearchBox from "../../components/SearchBox.tsx";
+import { buildSearchIndex } from "../../lib/search";
+import { taxonomicSort } from "../../lib/species";
+
+const base = import.meta.env.BASE_URL;
+const species = (await getCollection("species")).sort((a, b) => taxonomicSort(a.data, b.data));
+const sites = await getCollection("sites");
+const families = await getCollection("families");
+const index = buildSearchIndex(species, sites);
+
+// Group by family, in taxonomic order, using the plain-English family heading the legacy
+// /birds index used ("Waterfowl" rather than "Anatidae") as the section label.
+const familyInfo = new Map(families.map((f) => [f.id, f.data]));
+const groups: Array<{ slug: string; name: string; common: string | null; members: typeof species }> = [];
+for (const entry of species) {
+  const slug = entry.data.family.slug;
+  let group = groups.find((g) => g.slug === slug);
+  if (!group) {
+    group = {
+      slug,
+      name: entry.data.family.name,
+      common: familyInfo.get(slug)?.common_name ?? null,
+      members: [],
+    };
+    groups.push(group);
+  }
+  group.members.push(entry);
+}
+---
+
+<Layout title={`All birds — BirdWeb`} description={`All ${species.length} bird species on the Washington state checklist, with photographs, accounts and abundance data.`}>
+  <h1 class="text-3xl font-bold text-brand">Birds of Washington</h1>
+  <p class="mt-1 text-black/65">
+    {species.length} species in {groups.length} families, in taxonomic order.
+  </p>
+
+  <div class="mt-5 max-w-xl">
+    <SearchBox entries={index} base={base} client:load />
+  </div>
+
+  <nav class="mt-7 rounded-2xl bg-white ring-1 ring-black/5 p-4">
+    <h2 class="text-xs font-semibold uppercase tracking-wide text-black/50 mb-2">Jump to family</h2>
+    <ul class="flex flex-wrap gap-1.5 p-0 list-none">
+      {groups.map((group) => (
+        <li>
+          <a href={`#${group.slug}`} class="inline-block rounded-full bg-black/5 px-2.5 py-1 text-xs text-brand hover:bg-pop transition">
+            {group.common ?? group.name}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </nav>
+
+  {groups.map((group) => (
+    <section id={group.slug} class="mt-10 scroll-mt-32">
+      <div class="flex flex-wrap items-baseline gap-x-3 gap-y-1 mb-4">
+        <h2 class="text-xl font-bold text-brand">{group.common ?? group.name}</h2>
+        <a href={`${base}families/${group.slug}/`} class="text-sm italic text-black/55 hover:text-brand hover:underline">
+          {group.name}
+        </a>
+        <span class="text-xs text-black/45">{group.members.length} species</span>
+      </div>
+      <ul class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4 p-0 list-none">
+        {group.members.map((entry) => <SpeciesCard entry={entry} />)}
+      </ul>
+    </section>
+  ))}
+</Layout>

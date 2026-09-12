@@ -1,0 +1,61 @@
+slug: horned_grebe
+common_name: Horned Grebe
+scientific_name: Podiceps auritus
+order:
+  name: Podicipediformes
+  slug: podicipediformes
+family:
+  name: Podicipedidae
+  slug: podicipedidae
+status: Common winter. Rare inland breeder.
+species_of_concern: true
+sections:
+  general_description: The Horned Grebe is a small grebe with a straight bill, thick neck, and squarish head. In breeding plumage, Horned Grebes have rufous necks and bellies, gray backs, and black heads with a solid yellow patch from each eye to the back of the head. Juveniles are gray-buff, with the lower half of the face white. Non-breeding adults are gray-black with white on the lower half of the face and neck.
+  habitat: In winter Horned Grebes are usually found on salt water in coastal bays and exposed shores, and far less commonly on fresh water. During the nesting season they inhabit lakes with a mix of open water and wetland vegetation.
+  behavior: Less gregarious than the similar Eared Grebe, Horned Grebes are intensely territorial on their nesting grounds. Like other grebes, Horned Grebes engage in elaborate courtship displays.
+  diet: In summer Horned Grebes feed mostly on insects and crustaceans, which they catch under water. In winter they eat fish, crustaceans, mollusks, and some insects.
+  nesting: Together males and females build a nest in marsh vegetation. The nest is a floating pile of wet plant material, anchored to emergent vegetation. The female lays four to five eggs, and both parents help incubate the eggs for 22 to 25 days. Both parents feed the young, which can swim shortly after hatching and often ride on the parents' backs. The young can fly at 55 to 60 days.
+  migration_status: Horned Grebes migrate singly over land by night and along the coast by day. They leave inland freshwater nesting sites and travel medium distances to coastal marine sites.
+  conservation_status: Since most populations of Horned Grebes breed in low densities at high latitudes, data on population numbers are inconclusive. Threats to the population include oil spills, pesticide contamination, and degradation of breeding habitat due to agriculture. Also of concern is the contraction of the North American breeding range toward the northwest for unknown reasons. This range contraction may signal a decline in overall numbers.
+  when_where_wa: North-central Washington is the extreme southwestern limit of the summer range of this species, which is typically considered a more northern, boreal breeder. Breeding records in Washington are few and infrequent, but there have been records of breeding birds in northeastern Washington. During winter Horned Grebes are a very common visitor on the coast, in Puget Sound, and in other inland marine waters. They are uncommon in winter in the interior valleys west of the Cascades but have been found occasionally in the slackwater sections of the Columbia River in summer.
+photos:
+- file: hogr_b_gt_l.jpg
+  caption: Adult breeding
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: hogr_w_jh_l.jpg
+  caption: Adult nonbreeding
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: hogr.mp3
+  credit: null
+maps:
+  wa: poau.jpg
+  north_america: hogrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, F, '', '', U, F, C, C, C]
+  puget_trough: [C, C, C, C, R, '', '', R, F, C, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [F, F, F, U, '', '', '', '', U, F, F, F]
+  east_cascades: [C, C, C, C, U, '', '', U, F, F, C, C]
+  okanogan: [U, U, U, U, '', '', '', '', U, F, F, U]
+  canadian_rockies: [U, U, U, U, R, '', '', '', U, U, U, U]
+  blue_mountains: ['', '', R, R, '', '', '', '', '', R, R, '']
+  columbia_plateau: [F, F, F, U, R, '', '', '', U, F, F, F]
+taxonomy:
+  ebird_code: horgre
+  current_common_name: Horned Grebe
+  current_scientific_name: Podiceps auritus
+  clements_sort: 6866
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/horned_grebe
+  archived: '2026-09-12'

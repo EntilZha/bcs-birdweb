@@ -1,0 +1,57 @@
+slug: king_eider
+common_name: King Eider
+scientific_name: Somateria spectabilis
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    This large seaduck resides all around the northern hemisphere, breeding on tundra near coasts north of the Arctic Circle and wintering far enough south to escape winter ice, often at sea. It is a rare winter visitor along the West Coast outside Alaska. Washington has 11 accepted records ranging from late October to mid-May, all but one of them from inland marine waters; the other is from Westport (Grays Harbor County). British Columbia has about 30 records, California close to 40, and Oregon, 13. King Eiders are often found in the same places as other diving seaducks, especially Surf and White-winged Scoters.
+
+    The male in spectacular breeding plumage cannot be mistaken for any other bird. However, nearly all sightings of King Eider outside its normal range are of females and subadult males, which are much plainer and readily confused with Common Eider (an excessively rare bird along the West Coast). The main distinction is the latter’s larger head and longer, more extensively feathered bill.
+
+    *Revised June 2007*
+photos:
+- file: kiei_gt_l.jpg
+  caption: Male breeding plumage.
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: kiei_f_gt_l.jpg
+  caption: Female
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: kieimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: kineid
+  current_common_name: King Eider
+  current_scientific_name: Somateria spectabilis
+  clements_sort: 713
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/king_eider
+  archived: '2026-09-12'

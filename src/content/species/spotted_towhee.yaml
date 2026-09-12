@@ -1,0 +1,67 @@
+slug: spotted_towhee
+common_name: Spotted Towhee
+scientific_name: Pipilo maculatus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Common resident. Uncommon winter east.
+species_of_concern: false
+sections:
+  general_description: The Spotted Towhee is a distinctive bird that is often heard before it is seen, scraping about in the brush. The deep chestnut flanks and sides combined with the male's solid black head, red eye, and black upperparts are distinctive. The belly is white, and the white spots on the wings give this bird its name. The white at the corners of the long tail is visible in flight. Females appear similar to males, but are dark brown while males are black. Juvenile towhees are heavily streaked. Towhees in Eastern Washington are more heavily spotted than their western counterparts, with larger spots and more white on their tails.
+  habitat: Spotted Towhees are found in shrubby habitats in forested lowlands throughout Washington. They often use shrubby thickets in residential areas, on clear-cuts, and around wetlands. In eastern Washington, they use edges and riparian areas near shrub-steppe.
+  behavior: Mainly a ground-forager, the Spotted Towhee uses a two-footed scratching method, kicking both feet backward at the same time to locate food under the litter. This movement is often quite loud, and when the birds are in thick cover, the sound of them foraging is one of the best ways to locate them. Towhees prefer to forage in areas with a thick layer of leaf litter and a screen of foliage and twigs low to the ground. These birds sometimes forage in trees as well, a practice that is most common in spring. Spotted Towhees occasionally sun themselves, lying down on the grass with feathers spread. They have several distinctive calls and songs, and readily respond to 'pishing.'
+  diet: Spotted Towhees are primarily seedeaters, although in the breeding season they eat and feed their young many insects and other arthropods.
+  nesting: Males defend their territories by singing, and pairing begins as early as February. In April, the female picks a nest site on the ground, or close to it. Nests are usually well concealed by adjacent plants but are not typically inside thickets. When built on the ground, the nest is sunk into the leaf litter so that the rim of the nest cup is even with the litter surface. The female builds the nest of bark, grass, and leaves and lines it with pine needles, hair, and other fine material. She lays 3 to 5 eggs and incubates them for 12 to 14 days. Both parents feed the young. They leave the nest at 9 to 11 days, but do not fly for another six days. The parents continue to feed the young, which stay in the parents' territory for about 30 days after they leave the nest. Each pair usually raises only one brood per season.
+  migration_status: Spotted Towhees vary in their migration patterns. Western Washington birds are resident. Although some eastern Washington birds remain at lower elevations, most leave the area for wintering grounds in the western and southwestern United States.
+  conservation_status: In 1995, the Rufous-sided Towhee was split into two species, the Eastern Towhee and the Spotted Towhee. Spotted Towhees found on either side of the Cascades are considered two different subspecies. Spotted Towhees were formerly rare in western Washington, especially along the coast. The clear-cutting of extensive forests has provided additional shrubby habitat and enabled the Spotted Towhee population to increase in this part of the state. Throughout Washington, Breeding Bird Survey data have detected a significant increase since 1966.
+  when_where_wa: Spotted Towhees are common on both sides of the Cascades during the breeding season. In eastern Washington, they are common in appropriate habitat from late April to mid-September, and uncommon the rest of the year. Those that stay through the winter in eastern Washington may be found in lowland riparian areas and developed towns. They are common year round in western Washington, although less common in coastal forests than in other parts of the region.
+photos:
+- file: spto_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: spto_j_gl_l.jpg
+  caption: Juvenile
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: spto_rom_l.jpg
+  caption: ''
+  credit:
+    name: Ramona Delerme
+    url: http://flickr.com/photos/11339106@N03/
+  hero: false
+audio:
+  file: spto1.mp3
+  credit: null
+maps:
+  wa: pier.jpg
+  north_america: sptomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [U, U, U, C, C, C, C, C, C, U, U, U]
+  okanogan: [U, U, C, C, C, C, C, C, C, U, U, U]
+  canadian_rockies: ['', '', U, F, F, F, F, F, F, U, '', '']
+  blue_mountains: ['', '', R, U, C, C, C, C, C, U, '', '']
+  columbia_plateau: [U, U, U, F, F, F, F, F, F, U, U, U]
+taxonomy:
+  ebird_code: spotow
+  current_common_name: Spotted Towhee
+  current_scientific_name: Pipilo maculatus
+  clements_sort: 33386
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/spotted_towhee
+  archived: '2026-09-12'

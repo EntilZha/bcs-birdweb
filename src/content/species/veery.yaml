@@ -1,0 +1,61 @@
+slug: veery
+common_name: Veery
+scientific_name: Catharus fuscescens
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Turdidae
+  slug: turdidae
+status: Fairly common resident east.
+species_of_concern: false
+sections:
+  general_description: There are three species of spot-breasted thrushes found in Washington. All three'the Veery, the Hermit Thrush, and the Swainson's Thrush'have solid brownish upperparts (back, wings, and tail), light-colored bellies, whitish eye-rings, and varying degrees of spotting on their breasts. All are similar in shape to a robin, but smaller. Males and females appear similar in most species. Of the three Washington thrushes, the Veery has the palest flanks (gray) and is the most faintly spotted. The eye-ring is less distinct than that of the Swainson's or Hermit Thrush.
+  habitat: The Veery's habitat is more restricted than that of the other two spot-breasted thrushes in Washington. They are found in eastern Washington in hardwood and mixed forests with a dense, leafy understory near water, especially creek bottoms. Willow, alder, and cottonwood stands bordering streams or beaver ponds are prime Veery habitat. In other parts of the US, they use a wider variety of moist habitats.
+  behavior: Spending much of their time on the ground, Veeries forage by flipping over dead leaves with their bills and looking for food underneath. They hover to glean insects from foliage and make short flights to catch flying insects.
+  diet: Berries and insects make up the majority of the Veery's diet. Insects are the primary food source during the breeding season. In late summer and fall, the diet shifts to berries, and consequently, the birds move higher to forage.
+  nesting: The male chooses a nesting territory which he defends from other males, and attracts females by singing. The female builds a nest either on the ground, or low to the ground at the base of a shrub or sapling, less than 5 feet high. If the nest is on the ground, it is usually built against a stump or a log or in a clump of grass or weeds. The nest is an open cup, built on a foundation of dead leaves. It is built from weeds, twigs, and bark fibers. The female incubates the 4 eggs alone. Once the young hatch, she continues to brood them. The male gathers food, which he passes to the female who feeds the young. The young grow quickly, and leave the nest 10-12 days after hatching.
+  migration_status: Veeries are Neotropical migrants, spending the winters in South America in tropical rainforest undergrowth. They migrate mostly at night, and the males arrive on the breeding territory ahead of the females, ranging from the end of April and early May to early June. Veeries begin to leave the breeding territory in mid-August, and most birds are gone by the end of August. Washington birds appear to migrate east before turning south and migrating across the Gulf of Mexico.
+  conservation_status: Loss of habitat on wintering grounds in South America is of concern for the future of the Veery. In Washington, habitat loss is also a concern. Veeries are susceptible to nest parasitism by Brown-headed Cowbirds, and forest fragmentation increases the likelihood of this parasitism. In British Columbia, nearly 25% of Veery nests found had been parasitized by cowbirds.
+  when_where_wa: Although they can be hard to find, and are most often heard and not seen, Veeries are common in hardwood riparian areas at low elevations in eastern Washington. These areas include south to central Yakima County and Klickitat County. They are also found in the Blue Mountains, and the Methow and Okanogan Valleys along the east central Cascades, and in the northeast portion of the state. In western Washington, they nest in small numbers along the Skagit River in Whatcom County.
+photos:
+- file: veer_tg_l.jpg
+  caption: ''
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: veer_gl_l.jpg
+  caption: 'Note: pale weak eye-ring, ruddy uppersides, and weakly spotted breast.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio:
+  file: VEER01.mp3
+  credit: null
+maps:
+  wa: cafu.jpg
+  north_america: veermap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', R, R, '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', F, F, F, R, R, '', '', '']
+  okanogan: ['', '', '', '', C, C, C, U, '', '', '', '']
+  canadian_rockies: ['', '', '', U, U, U, U, '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', R, R, R, R, '', '', '']
+  columbia_plateau: ['', '', '', '', F, F, F, U, '', '', '', '']
+taxonomy:
+  ebird_code: veery
+  current_common_name: Veery
+  current_scientific_name: Catharus fuscescens
+  clements_sort: 28313
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/veery
+  archived: '2026-09-12'

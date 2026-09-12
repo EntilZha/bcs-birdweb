@@ -1,0 +1,53 @@
+slug: sharp-tailed_sandpiper
+common_name: Sharp-tailed Sandpiper
+scientific_name: Calidris acuminata
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Rare fall migrant, mostly coast.
+species_of_concern: false
+sections:
+  general_description: Similar in size and shape to the more common Pectoral Sandpiper, the rare Sharp-tailed Sandpiper can be distinguished by its rufous cap and distinctive white eye-line. Adults in breeding plumage are heavily spotted overall. Non-breeding plumage is lighter gray and less boldly streaked. Juveniles, the form most often seen in Washington, are redder than adults, with a buff-colored, lightly streaked breast, which often serves as their most distinctive field mark.
+  habitat: Sharp-tailed Sandpipers breed in wet Siberian tundra. During migration, they usually stop at grassy, coastal salt marshes, although they can also be found in coastal lagoons and mudflats, especially those adjacent to salt marshes.
+  behavior: In areas where they are more abundant, Sharp-tailed Sandpipers are typically seen in large flocks. In Washington, they are often seen with Pectoral Sandpipers. They feed by moving steadily along in dense grass, heads down, picking up surface prey and probing lightly. They are seen on mudflats slightly more often than are Pectorals.
+  diet: On their breeding grounds, Sharp-tailed Sandpipers eat primarily mosquito larvae. Other invertebrates, including mollusks and crustaceans, are also part of the diet.
+  nesting: Sharp-tailed Sandpipers are polygynous. Males with good territories mate with more than one female. Each female builds a nest out of grass on the wet, peaty tundra, or on a drier hummock. She incubates the clutch. After 19-23 days of incubation, the young hatch and leave the nest within a day or so. They find their own food immediately, but the female protects and tends them. The young birds begin to fly at 18-21 days.
+  migration_status: Sharp-tailed Sandpipers are long-distance migrants. Many birds cross the Bering Strait into Alaska, where they are seen in large numbers. They then migrate down the coast, but before long veer out into the Pacific Ocean and head to wintering grounds in Australia and New Zealand. Birds seen in Washington are usually those that have not yet veered out to sea on their migration southward.
+  conservation_status: The Canadian Wildlife Service estimates the worldwide population at 166,000 birds, with 1,000 birds traveling down the Pacific Coast south of Alaska each year. Because such a small percentage of the population ever makes it to the Pacific Northwest, local conservation issues involving the Sharp-tailed Sandpiper are few. Population trends are unknown. The species is listed by the Convention on the Conservation of Migratory Species, a global conservation effort, as 'a species that requires or would benefit significantly from international cooperative agreements under CMS.'
+  when_where_wa: Sharp-tailed Sandpipers are rare visitors to Washington every year, and can sometimes be found in salt marshes and mudflats on the coast, from mid-August to mid-November. They are most likely seen in October. Eastern Washington wetlands are also rare, fall stopover points for migrating Sharp-taileds, from early September into mid-October. The salt marshes at Ocean Shores (Grays Harbor County) are the best spots for locating them.
+photos:
+- file: stsadg.jpg
+  caption: ''
+  credit:
+    name: Denny Granstrand
+    url: http://granstrand.net/gallery/
+  hero: true
+audio: null
+maps:
+  wa: caac.jpg
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', R, R, R, '']
+  puget_trough: ['', '', '', '', '', '', '', '', R, R, '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: shtsan
+  current_common_name: Sharp-tailed Sandpiper
+  current_scientific_name: Calidris acuminata
+  clements_sort: 6181
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/sharp-tailed_sandpiper
+  archived: '2026-09-12'

@@ -1,0 +1,57 @@
+slug: kentucky_warbler
+common_name: Kentucky Warbler
+scientific_name: Oporornis formosus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: |-
+    A resident of damp, shady deciduous forests, the Kentucky Warbler hops on the ground on long legs, foraging in leaf litter and usually staying close to cover in dense undergrowth, although it may sing from exposed branches. It is a rather plain-looking bird with olive upperparts, bright yellow underparts all the way to the chin, dark face, yellow “spectacles” rather like some vireos, and no wingbars or tail spots; adults have a dark crown. It may suggest certain plumages of other warblers of the genus *Oporornis* or of Common Yellowthroat, although these should be readily separable with careful attention and a decent view.
+
+    The Kentucky Warbler nests east of the Great Plains throughout much of the lower Midwest, the Middle Atlantic states, and the Southeast. Most winter from southern Mexico to Panama, taking a trans-Gulf migration route. This species is relatively less common as a vagrant in the West than most other “eastern” warblers. Oregon has four records, all of them between May and July in the south central interior of the state. Washington has only one, on 14 June 1992 near Darrington (Snohomish County), and there are no records for Idaho or British Columbia.
+
+    *Revised November 2007*
+photos:
+- file: kewa_gl_l.jpg
+  caption: 'Male. Note: dark auriculars and dusky cap.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: kewa_jf_gl_l.jpg
+  caption: 'Juvenile. Note: greenish olive above and yellow below.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: kewamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: kenwar
+  current_common_name: Kentucky Warbler
+  current_scientific_name: Geothlypis formosa
+  clements_sort: 34011
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/kentucky_warbler
+  archived: '2026-09-12'

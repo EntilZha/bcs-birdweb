@@ -1,0 +1,52 @@
+slug: eastern_yellow_wagtail
+common_name: Eastern Yellow Wagtail
+scientific_name: Motacilla tschutschensis
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Motacillidae
+  slug: motacillidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Two records (late July, mid-September), both from Ocean Shores (Grays Harbor County).
+photos:
+- file: eywa_gt_l.jpg
+  caption: 'Note: dark cheek and white supercilium.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: eywa_a2_gt_l.jpg
+  caption: Adult
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: ywagmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: eaywag
+  current_common_name: Eastern Yellow Wagtail
+  current_scientific_name: Motacilla tschutschensis
+  clements_sort: 31700
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/eastern_yellow_wagtail
+  archived: '2026-09-12'

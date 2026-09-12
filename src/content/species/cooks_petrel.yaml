@@ -1,0 +1,46 @@
+slug: cooks_petrel
+common_name: Cook's Petrel
+scientific_name: Pterodroma cookii
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Procellariidae
+  slug: procellariidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One bird found dead on Pacific beach in December 1995.
+photos:
+- file: cope_ep_l.jpg
+  caption: ''
+  credit:
+    name: Eric Preston
+    url: http://www.ericwpreston.com/index.html
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: coopet
+  current_common_name: Cook's Petrel
+  current_scientific_name: Pterodroma cookii
+  clements_sort: 7145
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/cooks_petrel
+  archived: '2026-09-12'

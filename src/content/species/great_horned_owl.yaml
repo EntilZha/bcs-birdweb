@@ -1,0 +1,61 @@
+slug: great_horned_owl
+common_name: Great Horned Owl
+scientific_name: Bubo virginianus
+order:
+  name: Strigiformes
+  slug: strigiformes
+family:
+  name: Strigidae
+  slug: strigidae
+status: Fairly common resident.
+species_of_concern: false
+sections:
+  general_description: Great Horned Owls are large, powerful owls with prominent ear-tufts, prominent facial disks, and bold yellow eyes. Their plumage is a mix of mottled brown with white-and-black barring, with some white at the throat. There is much variation in the darkness and shade of these colors across their range.
+  habitat: Great Horned Owls are supreme generalists. They are found in more varied habitats than any other owl in North America. They often use wooded habitats, especially during the breeding season when trees or heavy brush provide cover. However they also nest in cliffs in arid areas far from trees. Their preferred habitat is open or fragmented woodland with treeless areas nearby.
+  behavior: Like most owls, Great Horned Owls have keen hearing and keen vision in low light, both adaptations for hunting at night. These aggressive and powerful hunters most commonly use a sit-and-wait approach, watching from a perch and swooping down on passing prey to seize it with their talons.
+  diet: Great Horned Owls are opportunistic generalists, taking advantage of whatever prey is available. They have the widest prey base of any North American owl. In most places, most of their food consists of mammals such as rabbits, skunks, and large rodents. They also eat a variety of birds, including grouse, coots, and several other species of owl. To a lesser extent, Great Horned Owls also take reptiles, amphibians, fish, and even large insects.
+  nesting: Great Horned Owls are early nesters and begin calling in courtship in early winter. Monogamous pairs form long-term bonds. Though they sometimes nest in caves or on cliff ledges, they most often nest in deciduous trees. Great Horned Owls do not build their own nests, but use nests built by hawks, crows, magpies, herons, or other large birds. Most are abandoned nests from previous years, but Great Horned Owls also take over active nests. They add no new nest material. Since nesting typically begins in late January or February, before trees begin to leaf out, Great Horned Owls on the nest can often be seen easily. The female incubates 1-4 eggs for 30-37 days while the male brings her food. The young remain in the nest for about 6 weeks, then climb out onto nearby branches. They begin taking short flights at 7 weeks, and can fly well at 9-10 weeks. Both parents feed and tend the young for several months, often as late as September or October.
+  migration_status: Great Horned Owls are not considered migratory. Northern birds, however, may wander long distances in the fall and winter.
+  conservation_status: Great Horned Owls are widespread and common. They adapt well to change and are doing well in most areas. The Breeding Bird Survey recorded a significant increase in Washington since 1966. As more of Washington's forests are fragmented by logging, more area becomes available for Great Horned Owls, sometimes at the expense of endangered Spotted Owls, which not only require old-growth forest but also are preyed upon by Great Horned Owls. The Spotted Owl is not the only Washington owl that has been affected by expanding Great Horned Owl populations. In eastern Washington, Great Horned Owls displace Barn Owls in old buildings and barns.
+  when_where_wa: Great Horned Owls are common throughout most of Washington year round. Two subspecies of Great Horned Owl nest in Washington, one on each side of the Cascade Mountains.
+photos:
+- file: ghow_j_tl.jpg_l
+  caption: Juvenile
+  credit:
+    name: Tiffany Linbo
+    url: null
+  hero: false
+- file: ghow_lb_l.jpg
+  caption: ''
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: true
+audio:
+  file: ghow1.mp3
+  credit: null
+maps:
+  wa: buvi.jpg
+  north_america: ghowmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, F, F, F, F, F, F, F, F, F]
+  puget_trough: [F, F, F, F, F, F, F, F, F, F, F, F]
+  north_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [F, F, F, F, F, F, F, F, F, F, F, F]
+  blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
+  columbia_plateau: [F, F, F, F, F, F, F, F, F, F, F, F]
+taxonomy:
+  ebird_code: grhowl
+  current_common_name: Great Horned Owl
+  current_scientific_name: Bubo virginianus
+  clements_sort: 8910
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/great_horned_owl
+  archived: '2026-09-12'

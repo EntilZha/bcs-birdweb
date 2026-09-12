@@ -1,0 +1,61 @@
+slug: gyrfalcon
+common_name: Gyrfalcon
+scientific_name: Falco rusticolus
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Falconidae
+  slug: falconidae
+status: Rare winter resident.
+species_of_concern: true
+sections:
+  general_description: The Gyrfalcon is the largest falcon in the world. Despite its size, it maintains a falcon-like profile with a long tail and long wings. Its wings are broader and more blunt at the tips than many other falcons. The plumage of the Gyrfalcon can take three main forms, white, gray, and dark, with many intermediate plumages. White adults have almost pure white breasts and bellies. The rest of their bodies are white mottled with brown. They have dark wingtips. Gray adults have gray upperparts with subtle darker mottling, and white underparts mottled with gray. Dark adults are dark-brownish overall above and brown streaked with white below. There is extreme sexual size dimorphism among Gyrfalcons, with males being only about 65% the size of females.
+  habitat: The Gyrfalcon's distribution is circumpolar. Gyrfalcons inhabit Arctic regions, from the northern coastal tundra to the edge of the boreal forest. They are often found in open areas with cliffs, and along rocky coasts and rivers. Wintering habitat tends to be more wide open.
+  behavior: Gyrfalcons are powerful flyers and pursue their prey in flight until overtaking them. They also locate prey while perched or in flight.
+  diet: Large birds including ptarmigan and waterfowl are the most common prey item of the Gyrfalcon. They also eat rabbits, voles, small birds, and other mammals.
+  nesting: Monogamous pairs nest on the ground or on cliff ledges, sometimes in old nests of other birds. They do not build a nest of their own. Both adults incubate the 3-4 eggs for about 35 days, although the female incubates more than the male. The female broods the young for the first few weeks after hatching, while the male brings food. After the brooding period is over, the female also hunts. The young begin to fly at 45-50 days and become independent shortly thereafter.
+  migration_status: Many Gyrfalcons remain in the far north year round, but the most northerly breeders are migratory. Immatures tend to move south in winter more than adults, and more of the birds seen in Washington are immature. The same may be true for females, as most of the birds banded in Washington (adult and immature) have been female.
+  conservation_status: In some parts of the world, Gyrfalcons are threatened by the falconry trade. While populations in some regions are considered threatened, the Gyrfalcon appears stable in North America where its range is fairly remote from human disturbance. In Washington, numbers have increased in newly irrigated farmlands in the Columbia Basin, but this may be a result of newly created habitat rather than an increase in population.
+  when_where_wa: Gyrfalcons are rare visitors to open Washington lowlands from mid-October through March. In western Washington, the Samish Flats (Skagit County) is a good place to see them.
+photos:
+- file: gyrf_j_jp_l.jpg
+  caption: Juvenile Gyrfalcon (dark morph)
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: true
+- file: gyrf_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio:
+  file: gyrf.mp3
+  credit: null
+maps:
+  wa: faru.jpg
+  north_america: gyrfmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, '', '', '', '', '', '', R, R, R]
+  puget_trough: [R, R, R, '', '', '', '', '', '', '', R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [R, R, R, '', '', '', '', '', '', '', R, R]
+taxonomy:
+  ebird_code: gyrfal
+  current_common_name: Gyrfalcon
+  current_scientific_name: Falco rusticolus
+  clements_sort: 12113
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/gyrfalcon
+  archived: '2026-09-12'

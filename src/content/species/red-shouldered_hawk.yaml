@@ -1,0 +1,60 @@
+slug: red-shouldered_hawk
+common_name: Red-shouldered Hawk
+scientific_name: Buteo lineatus
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Accipitridae
+  slug: accipitridae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Expanding northward from Oregon. Rare in winter in lowlands in southwestern Washington; annual for the last decade at Ridgefield National Wildlife Refuge (Clark County); probably increasing elsewhere along lower Columbia River. Scattered recent records both north and east from there.
+photos:
+- file: rsha_tg_l.jpg
+  caption: Adult
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: rsha_j_tg_l.jpg
+  caption: 'Juvenile. Note:'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: rsha_fl_gl_l.jpg
+  caption: Adult
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: rsha.mp3
+  credit: null
+maps:
+  wa: null
+  north_america: rshamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: [R, R, R, '', '', '', '', R, R, R, R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: reshaw
+  current_common_name: Red-shouldered Hawk
+  current_scientific_name: Buteo lineatus
+  clements_sort: 8487
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/red-shouldered_hawk
+  archived: '2026-09-12'

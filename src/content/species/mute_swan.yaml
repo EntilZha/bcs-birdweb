@@ -1,0 +1,65 @@
+slug: mute_swan
+common_name: Mute Swan
+scientific_name: Cygnus olor
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Invasive (controlled).
+species_of_concern: false
+sections:
+  general_description: The Mute Swan is a very large, completely white bird with a long neck held in an S-curve. The bill is orange with a black knob at its base. Juveniles are gray or white, with the white morph more common.
+  habitat: A native of Eurasia, the adaptable Mute Swan inhabits fresh- and saltwater ponds, coastal lagoons, and bays. It is often found in close association with people, but occasionally lives in remote areas as well.
+  behavior: Mute Swans graze while walking on land, and feed on submergent, aquatic vegetation by reaching under the water with their long necks. They also adapt to feeding by humans. Highly territorial, males will aggressively defend their large territories against their own and other species, including humans, displaying, hissing, and attacking when provoked.
+  diet: Mute Swans eat aquatic plant material, grasses, and waste grain. They also eat insects, snails, and other small aquatic creatures.
+  nesting: Mute Swans usually form pairs at the age of two, but do not start breeding until their third or fourth year. The male gathers nesting material, and the female builds a shallow mound on a shoreline. The nest is large, five to six feet in diameter, and made of grasses and reeds with a shallow depression. The female performs most of the incubation of the four to six eggs, although the male will step in and allow the female to take breaks for foraging. Incubation lasts for about 36 days, and both adults tend the young, which sometimes ride on their parents' backs. The young begin to fly at 4 to 5 months but usually remain with the parents through the first winter.
+  migration_status: Non-migratory in North America, Mute Swans may make short-distance, seasonal movements dictated by the weather.
+  conservation_status: Domestic swans were first brought from Europe in the mid-1800s as an ornament for parks and estates. Feral populations have been established in much of the Northeast and in some parts of the Pacific Northwest. In the Northeast, many consider the Mute Swan a pest because it overgrazes ponds and excludes native waterfowl. Others consider it a beautiful addition to the avifauna, and much controversy has surrounded control efforts. Mute Swan populations in the Pacific Northwest—closely monitored by wildlife agencies—do not seem to be growing or expanding quickly, and thus have not yet become a management issue.
+  when_where_wa: Mute Swans are very rare in Washington, but birds are occasionally sighted. These birds may be from populations in British Columbia. While no Mute Swans have bred in Washington in recent years, there are both captive and feral populations in southwestern British Columbia, and expansion into Washington is certainly possible. Mute Swans were first introduced in Vancouver around 1889, but the population did not become established until the 1950s. Winter-feeding and mild winters may be necessary for their survival. The only established feral population is on southern Vancouver Island from Duncan to Sooke. Humans providing food and shelter maintain other populations in the area, including Vancouver's Stanley Park and other urban ponds.
+photos:
+- file: musw_a_dp_l.jpg
+  caption: Adult on nest.
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+- file: musw_tg_l.jpg
+  caption: 'Adults. Note: orange bill with black knob.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: musw_j_tg_l.jpg
+  caption: Adult with juveniles.
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio: null
+maps:
+  wa: cyol.jpg
+  north_america: muswmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: mutswa
+  current_common_name: Mute Swan
+  current_scientific_name: Cygnus olor
+  clements_sort: 377
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/mute_swan
+  archived: '2026-09-12'

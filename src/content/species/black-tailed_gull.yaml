@@ -1,0 +1,69 @@
+slug: black-tailed_gull
+common_name: Black-tailed Gull
+scientific_name: Larus crassirostris
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    This very rare visitor from East Asia is about the same size as a Ring-billed Gull. In adult plumage, which it attains in four years, the mantle is a bit darker than that of the Western Gull and the tail shows a prominent dark band just above the white tail tip. The yellow bill has a red ring close to the tip with a black ring behind it. The eye and the legs are yellow. The head is strongly streaked with brown in winter. Immature birds are more difficult to identify; consult a good field guide.
+
+    Black-tailed Gull is found along coastlines from far eastern Russia south to China, Japan, and Korea. It is a vagrant to Alaska and also farther south along the coasts of North America as far as the U.S.–Mexico border, mostly on the Atlantic side. Washington’s only accepted record was from the mouth of Willapa Bay (Pacific County), where it was seen intermittently from August to October 2004. California also has a single record, as does British Columbia. There are none for Oregon.
+
+    *Revised June 2007*
+photos:
+- file: btgu_a1_gth_l.jpg
+  caption: 'Adult. Note: pale eye, sooty nape, and dark tail band.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: btgu_a2_gth_l.jpg
+  caption: 'Adult. Note: pale eye, sooty nape, dark bill band with red tip, and yellow legs.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: btgu_a3_gth_l.jpg
+  caption: 'Adult. Note: pale eye, sooty nape, and dark bill band with red tip.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: btgu_afl_gth_l.jpg
+  caption: 'Adult in flight. Note: black band on tail.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: bktgul
+  current_common_name: Black-tailed Gull
+  current_scientific_name: Larus crassirostris
+  clements_sort: 6510
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black-tailed_gull
+  archived: '2026-09-12'

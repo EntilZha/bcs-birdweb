@@ -1,0 +1,25 @@
+slug: federation_forest_state_park
+name: Federation Forest State Park
+number: 401
+ecoregions:
+- west_cascades
+sections:
+  site: Federation Forest State Park (FFSP) was a gift to Washington State by the Washington State Federation of Women's Clubs. The park contains virgin (“old-growth”) forest with trees of majestic proportions (Douglas fir, western hemlock, Sitka spruce, and western red cedar). Snags, nurse logs, and abundant mosses and lichens give a dramatic feel to the trails. There is plentiful precipitation in fall, winter, and spring. Situated on the western shoulder of the Cascades (elevation about 1,500 feet), the habitat is typical of the coniferous forests that blanketed this region before development and timber harvest dramatically changed the landscape. The park parallels the White River. The southern part of FFSP occupies the river terrace with some deciduous trees along the shoreline. There is a visitor center with displays on habitat and a native plant garden. There are 12 miles of trails through various habitats. The park is closed in winter, but hiking is permitted.
+  birds: 'The bird life of FFSP is characteristic of Western Washington mature conifer forests. Great Horned and Saw-whet Owls have been seen. Other birds typical of this habitat type are often present, including Chestnut-backed Chickadees, Red-breasted Nuthatches, Golden-crowned Kinglets, and Brown Creepers. Other coniferous forest species inhabit the park: Varied Thrushes, Townsend''s Warblers, Winter Wrens, and Hairy Woodpeckers. In the “edge” habitats along the White River, Black-capped Chickadees, Downy Woodpeckers, Song Sparrows, Black-throated Gray Warblers, Dark-eyed Juncos, Northern Flickers, and Wilson''s Warblers are found. American Dipper, Spotted Sandpiper, and Belted Kingfisher are frequently seen along the White River.'
+  directions: |-
+    Spring and summer are the best seasons to visit.
+    From I-5, exit #142, take Route 18 east to Auburn. Take Route 164 southeast to Enumclaw and exit onto Route 410. Go 18 miles to the park entrance on the right (milepost 41). There is a parking area at the visitors' center.
+photos:
+- file: site_federation_forest.jpg
+  caption: ''
+  credit:
+    name: Hal Opperman
+    url: null
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/federation_forest_state_park/5
+  archived: '2026-09-12'

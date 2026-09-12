@@ -1,0 +1,46 @@
+slug: blue-headed_vireo
+common_name: Blue-headed Vireo
+scientific_name: Vireo solitarius
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Vireonidae
+  slug: vireonidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Two fall records, one east and one west.
+photos:
+- file: bhvi_gl_l.jpg
+  caption: 'Note: dark cap contrasting with grayish/green back, and very strong contrast between gray cheek and white throat.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: bhvimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: buhvir
+  current_common_name: Blue-headed Vireo
+  current_scientific_name: Vireo solitarius
+  clements_sort: 19226
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/blue-headed_vireo
+  archived: '2026-09-12'

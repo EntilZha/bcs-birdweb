@@ -1,0 +1,55 @@
+slug: dusky_flycatcher
+common_name: Dusky Flycatcher
+scientific_name: Empidonax oberholseri
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Tyrannidae
+  slug: tyrannidae
+status: Fairly common summer resident east, rare west.
+species_of_concern: true
+sections:
+  general_description: The Dusky Flycatcher is very similar in appearance to the Hammond's Flycatcher, with only a few subtle differences. Like other Empidonax flycatchers, the Dusky usually has two white wing-bars, a white eye-ring, olive upperparts, and yellowish-cream underparts. Dusky Flycatchers have longer tails and bills and shorter wings than the Hammond's. It is best to use range, habitat, and song, along with an advanced field guide, to identify this Empidonax group. The range of the Dusky Flycatcher overlaps with two other, closely related flycatchers (Gray and Hammond's). When the three species come into contact, they defend territories from one another and do not interbreed.
+  habitat: In Washington, Dusky Flycatchers are found primarily in dry, open, conifer forests with a shrubby understory, Ponderosa pine, and clear-cuts. During migration they are less restricted than during the breeding season and can be found in brushy areas, along streams, and in shady, broadleaved woodlands. Look for them in the Ponderosa pine zone east of the Cascade crest, flying out from the low to middle branches.
+  behavior: Dusky Flycatchers view their prey from exposed perches and fly out from the perch to catch the insects in the air. Sometimes birds hover near foliage or bark to catch flying insects. Occasionally they pounce on prey on the ground. Both Dusky and Hammond's Flycatchers flick their tails in an up-down motion, while the Gray Flycatcher flicks its tail down and then up. This behavior may help narrow down the choices when trying to distinguish between the Empidonax flycatchers.
+  diet: Dusky Flycatchers catch insects in the air, perching on dead branches between foraging flights.
+  nesting: Dusky Flycatchers nest in Ponderosa pine areas where there is dense cover above and below the nest. The nest is placed, on average, six feet above the ground, in an upright fork in a shrub or small tree. The female builds a cup-shaped nest of grasses and other fine plant material, animal hair, and feathers. As the female incubates four eggs, the male brings her food. Once the eggs hatch, both the male and the female feed the young. Nest-building and egg-laying can be delayed by inclement weather.
+  migration_status: Dusky Flycatchers migrate to the southwestern United States and Mexico. During migration they are rarely seen passing through coastal Washington. In spring, males arrive on the breeding grounds about the second week of May and females a week later. By mid- to late August they are on their way south again.
+  conservation_status: Dusky Flycatchers are relatively common throughout the western United States and Canada and appear to be faring well in general, perhaps due to forestry practices that thin stands and leave small forest openings. However, according to Breeding Bird Survey data, they have experienced a small, not statistically significant decline in Washington from 1966-2002.The species is particularly vulnerable to bad weather, consequently, a spring rain or snowstorm can kill an entire local breeding population.
+  when_where_wa: Breeding populations can be found in the Blue Mountains, on the East Slope of the Cascades, and in the Spokane area. Migrants can be seen in the central Columbia Basin and along the west slope of the Cascades. Non-breeding birds have been reported in several low-lying locations west of the Cascades.
+photos:
+- file: dufl_jh2_l.jpg
+  caption: 'Note: round head, short primary projection, and long tail.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+audio:
+  file: DUFL01.mp3
+  credit: null
+maps:
+  wa: emob.jpg
+  north_america: duflmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', R, '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', R, R, R, R, '', '', '', '']
+  west_cascades: ['', '', '', '', U, U, U, U, '', '', '', '']
+  east_cascades: ['', '', '', R, F, F, F, F, R, '', '', '']
+  okanogan: ['', '', '', R, C, C, C, C, U, '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, F, '', '', '', '']
+  blue_mountains: ['', '', '', R, C, C, C, C, U, '', '', '']
+  columbia_plateau: ['', '', '', '', F, F, F, F, F, '', '', '']
+taxonomy:
+  ebird_code: dusfly
+  current_common_name: Dusky Flycatcher
+  current_scientific_name: Empidonax oberholseri
+  clements_sort: 16966
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/dusky_flycatcher
+  archived: '2026-09-12'

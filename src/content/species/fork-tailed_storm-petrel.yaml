@@ -1,0 +1,59 @@
+slug: fork-tailed_storm-petrel
+common_name: Fork-tailed Storm-Petrel
+scientific_name: Oceanodroma furcata
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Hydrobatidae
+  slug: hydrobatidae
+status: Fairly common pelagic, breeds outer islands.
+species_of_concern: false
+sections:
+  general_description: The Fork-tailed Storm-Petrel is a small, silver-gray seabird. Its body is solid light gray, and the wings have dark and light gray patterns. The bird has a short, dark bill, a tube-nose, and black around its eye.
+  habitat: The Fork-tailed Storm-Petrel is found off the Pacific Coast. During the breeding season, Fork-tailed Storm-Petrels nest in colonies on small Pacific islets with enough soil in which to dig nest-burrows. They forage on the open ocean over the continental shelf and farther out to sea.
+  behavior: Storm-petrels flutter low over offshore waves, sometimes in flocks, where they pluck food from the water's surface. They also feed while swimming. Fork-tailed Storm-Petrels are able to fly well in winter storms, cutting through the wave troughs, thus they are less likely to be found inland after storms than are other species of storm-petrel.
+  diet: Fish, crustaceans, and floating animal oils make up the diet of the Fork-tailed Storm-Petrel. It skims oily fat from the surface of the water and eats carrion or other floating refuse.
+  nesting: Colony nesters, Fork-tailed Storm-Petrels are often intermixed in Leach's Storm-Petrel colonies. In March and April, the birds return to the breeding colonies. They excavate burrows in soil or use natural rock crevices, or they may use old burrows. Sometimes two or more pairs have nests in side tunnels branching off from a common entrance. The nest chamber is sometimes lined with grass, but often does not have any lining. The female lays one egg, which both parents take turns incubating. Incubation lasts from 37-68 days. (Incubation may be interrupted for days at a time, accounting for the large variance.) Both parents feed the chick by regurgitation. At first the chick is fed oily stomach discharge, and later meals are made up of partially digested fish. Seven to nine weeks after hatching, the chick heads to sea. If the adults do not return regularly with sufficient food, the chick will go into torpor. The ability of the egg to survive with suspended incubation and for the chick to become torpid are important for survival, since the adults spend a lot of time away from the nest looking for food that can be hard to find.
+  migration_status: Dispersal from breeding colonies peaks from late August to early September, although Fork-tailed Storm-Petrels are not strongly migratory. Most remain in northern waters all year.
+  conservation_status: While still abundant in the north Pacific, the Fork-tailed Storm-Petrel is at the southern edge of its range in Washington, and only about 2,000 pairs nest here. Introduced rat populations may have had a negative effect on some island colonies. El Niño and other water temperature changes may also have a significant impact on the population.
+  when_where_wa: Colonies are located on five islands off the outer coast of the Olympic Peninsula, four in Clallam County and one in Jefferson County. Each colony ranges from 40 to almost a thousand breeding pairs. The birds are active at their nests at night, so it is very difficult to observe them on the breeding colonies. The best way to see Fork-tailed Storm-Petrels in Washington is on boat trips from April through October, when they are fairly common over the continental shelf.
+photos:
+- file: ftsp2dp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+- file: ftspdp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+audio: null
+maps:
+  wa: ocfu.jpg
+  north_america: null
+abundance:
+  oceanic: ['', '', '', U, F, F, F, F, F, U, '', '']
+  pacific_northwest_coast: ['', '', '', R, R, R, R, R, R, R, '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: ftspet
+  current_common_name: Fork-tailed Storm-Petrel
+  current_scientific_name: Hydrobates furcatus
+  clements_sort: 7049
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/fork-tailed_storm-petrel
+  archived: '2026-09-12'

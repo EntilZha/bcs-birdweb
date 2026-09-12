@@ -1,0 +1,55 @@
+slug: least_sandpiper
+common_name: Least Sandpiper
+scientific_name: Calidris minutilla
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Common migrant. Uncommon winter west, rare east.
+species_of_concern: false
+sections:
+  general_description: The delicate Least Sandpiper is the world's smallest shorebird. In breeding plumage, it is mostly brown, including the breast. It does not have the streaks and spots on its side that the Western Sandpiper has. The adult in non-breeding plumage is drab gray, with a dark breast. The bill is relatively short and fine-tipped, with a slight droop at the end. Its yellow legs distinguish it from the other two Washington peeps, Western and Semipalmated Sandpipers, which have black legs. In flight, the Least Sandpiper shows a white stripe down its wing and white on either sides of its tail. The underwings are slightly darker than those of the other two peeps, as well. Juveniles are also brownish, but may be brighter rufous than adults, especially in comparison to the faded fall breeding plumage of the adults.
+  habitat: Least Sandpipers breed from the northern boreal forest to the sub-Arctic tundra. They typically nest in sedge meadows, muskeg bogs, or coastal wetlands. They migrate all across North America, and some migratory and wintering habitat is coastal, while some is inland. Coastal migrants can often be found along tidal creeks, salt marsh edges, and mudflats, rarely on sandy ocean beaches. Inland migrants inhabit small, shallow ponds, sandy riverbanks, sewage treatment ponds, and lakeshores.
+  behavior: Least Sandpipers usually roost by themselves or in small groups. They generally feed at the upper edge of mudflats, often in the vegetation, i.e., higher than Western or Semipalmated Sandpipers. When foraging, they walk slowly with their heads down, picking at food on the surface rather than probing into the mud.
+  diet: On the breeding grounds and in inland areas, Least Sandpipers primarily eat fly larvae and other insects. On the coast, they eat small crustaceans, snails, and other marine creatures.
+  nesting: Males arrive on the breeding grounds about a week before females and establish territories. Monogamous pairs form quickly after the females arrive. The nest is on the ground near water, and usually on a tuft of grass or moss. The male begins the shallow scrape, and the female finishes it, lining it with grass, leaves, and moss. Both parents help incubate the 4 eggs for about 20 days. As incubation progresses, the male takes a larger and larger share. The young leave the nest within a day of hatching, and feed themselves. The parents will brood and tend the young, and the male generally stays with the brood until they fledge at about three weeks. In later clutches, the female may actually leave before the young hatch, but usually she helps tend the young for the first week or so.
+  migration_status: Least Sandpipers migrate across North America and winter from the southern United States into northern South America. Many stage at the Copper River Delta in Alaska in spring, but they remain spread out on the winter range, not concentrating in a few spots as many other shorebirds do.
+  conservation_status: The Canadian Wildlife Service estimates the Least Sandpiper population at 600,000 birds. Christmas Bird Count data suggest that wintering Least Sandpipers have declined in Washington. However, many population estimates tend to be insufficient for this species, as it is often lumped with the other small sandpipers and therefore may be undercounted. Also, winter numbers have always been small and are probably not an indicator of the overall health of the population. Least Sandpipers are adaptable and can quickly colonize new breeding habitat. This and their tendency not to congregate in major wintering areas should help the Least Sandpiper in the face of habitat loss, increased disturbance, and contamination.
+  when_where_wa: On the Washington coast, Least Sandpipers can be found most months of the year. Southbound birds begin to arrive in the latter half of June, becoming more common in July. They are usually common until September, when numbers begin to drop off. They winter from Grays Harbor south, and remain uncommon through the winter until April, when spring birds start heading north. During the peak period in late April, concentrations of five to ten thousand have been counted at Grays Harbor. They are usually abundant into mid-May, when numbers start to drop off again, tapering off to rare by the end of May. In eastern Washington, southbound birds arrive in appropriate wetlands at the beginning of July. They are common through mid-September, and some birds are usually present until mid-October. Sightings from mid-October through early April are rare. Spring migrants start passing through in mid-April, and are common from late April through early May, tapering off into early June. They are less common than Westerns in both spring and fall.
+photos:
+- file: lesa_a_dp_l.jpg
+  caption: Note yellow legs, shorter bill, and brownish back.
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: lesa.mp3
+  credit: null
+maps:
+  wa: cami.jpg
+  north_america: lesamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, C, C, '', C, C, C, F, U, U]
+  puget_trough: [U, U, U, C, C, R, C, C, C, U, U, U]
+  north_cascades: ['', '', '', U, R, '', R, U, '', '', '', '']
+  west_cascades: ['', '', '', U, R, '', F, F, U, U, '', '']
+  east_cascades: ['', '', '', U, R, '', U, F, U, R, '', '']
+  okanogan: ['', '', '', U, U, '', U, F, R, '', '', '']
+  canadian_rockies: ['', '', '', '', F, '', F, F, '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', R, F, F, '', F, C, F, U, R, '']
+taxonomy:
+  ebird_code: leasan
+  current_common_name: Least Sandpiper
+  current_scientific_name: Calidris minutilla
+  clements_sort: 6226
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/least_sandpiper
+  archived: '2026-09-12'

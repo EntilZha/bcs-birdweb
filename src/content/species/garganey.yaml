@@ -1,0 +1,81 @@
+slug: garganey
+common_name: Garganey
+scientific_name: Anas querquedula
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Accidental visitor. Washington Bird Records Committee review list species.
+species_of_concern: false
+sections:
+  general_description: |-
+    The Garganey, an Old World dabbling duck, is closely related to the Northern Shoveler and the Blue-winged and Cinnamon Teals. Like these, it is found primarily in freshwater wetlands and shallow ponds, where it feeds by filtering small particles from water passed through its bill rather than by tipping up. The male in breeding plumage is unmistakable, with gray flanks and a bold, white eyebrow crossing to the back of the brown head and curving down toward the neck. Females, juveniles, and non-breeding-plumaged males are difficult to separate from Blue-winged and Cinnamon Teals but have a stronger facial pattern than these.
+
+    The Garganey breeds across Eurasia from the sub-Arctic to the temperate zone and winters in the northern tropics of Africa and Asia. It is a regular migrant in the outer Aleutians and a rare but widespread vagrant across North America. The first accepted Washington record was from the Chehalis River floodplain near Satsop (Grays Harbor County) in April–May 1991. The only other accepted state record was from the Columbia Basin, at Richland (Benton County) in December 1994. An older record of a bird collected near Mount Vernon (Skagit County) in April 1961 has not been reviewed by the Washington Bird Records Committee. Oregon and Idaho each have two or three records while British Columbia has several, including five from the Greater Vancouver vicinity.
+
+    *Revised June 2007*
+photos:
+- file: garg_do_l.jpg
+  caption: ''
+  credit:
+    name: Daniele Occhiato
+    url: http://www.pbase.com/dophoto
+  hero: true
+- file: garg_f_do_l.jpg
+  caption: 'Female. Note: weak supercilium and two bold dark stripes.'
+  credit:
+    name: Daniele Occhiato
+    url: http://www.pbase.com/dophoto
+  hero: false
+- file: garg_fm_do_l.jpg
+  caption: 'Female in front. Note: weak supercilium and two bold dark stripes.'
+  credit:
+    name: Daniele Occhiato
+    url: http://www.pbase.com/dophoto
+  hero: false
+- file: garg_mfl_do_l.jpg
+  caption: Male in flight
+  credit:
+    name: Daniele Occhiato
+    url: http://www.pbase.com/dophoto
+  hero: false
+- file: garg_mfl2_do_l.jpg
+  caption: Male in flight
+  credit:
+    name: Daniele Occhiato
+    url: http://www.pbase.com/dophoto
+  hero: false
+- file: garg_m_do_l.jpg
+  caption: Male
+  credit:
+    name: Daniele Occhiato
+    url: http://www.pbase.com/dophoto
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: gargan
+  current_common_name: Garganey
+  current_scientific_name: Spatula querquedula
+  clements_sort: 479
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/garganey
+  archived: '2026-09-12'

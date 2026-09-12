@@ -1,0 +1,52 @@
+slug: tropical_kingbird
+common_name: Tropical Kingbird
+scientific_name: Tyrannus melancholicus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Tyrannidae
+  slug: tyrannidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Casual fall visitor (October'December) to western Washington coastal lowlands.
+photos:
+- file: trki_tg_l.jpg
+  caption: 'Note: long bill, bright yellow belly, green back, and light brown tail.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: trki_gl_l.jpg
+  caption: 'Note: greenish yellow breast and thick bill (compare to Western Kingbird).'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: trkimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', R, R, '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: trokin
+  current_common_name: Tropical Kingbird
+  current_scientific_name: Tyrannus melancholicus
+  clements_sort: 17452
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/tropical_kingbird
+  archived: '2026-09-12'

@@ -1,0 +1,91 @@
+slug: bonapartes_gull
+common_name: Bonaparte's Gull
+scientific_name: Larus philadelphia
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Common migrant west, rare east.
+species_of_concern: false
+sections:
+  general_description: The smallest gull seen over most of North America, the Bonaparte's Gull is often described as delicate and tern-like in flight. This gull has narrow wings, a slender, black, pin-like bill, and pink legs. It has a light slate-gray back, with a black line down the trailing edge of the outer wing, and a white belly. The leading edges on the upper surfaces of the outer wing are white. In breeding plumage, the adult has a black head and an incomplete white eye-ring. Non-breeding adults lack the black hood. The adult's head is white with dark smudges and a dark ear-spot. Dark markings on the wings of the juvenile look like a narrow, dark 'M' across its back in flight. Bonaparte's Gulls reach maturity when they are two years old.
+  habitat: Bonaparte's Gulls breed at the edge of the northern forest in areas with coniferous trees adjacent to lakes, marshes, or bogs. During migration and in winter, they frequent bodies of water, including rivers, lakes, sewage ponds, estuaries, and open ocean.
+  behavior: Bonaparte's Gulls generally forage in single-species flocks, but are commonly seen in the same spot as many other gull species. They do not frequent garbage dumps, but often feed at sewage lagoons. They use a variety of foraging strategies, including dropping into the water from the air, picking up items while swimming or wading, and catching insects in mid-air. They often occur in tight feeding aggregations with peak numbers corresponding closely to density of fish. They are subject to kleptoparasitism by Parasitic Jaegers.
+  diet: On nesting grounds, insects are the primary prey of the Bonaparte's Gull. In coastal areas during the non-breeding season, fish, krill and other marine creatures make up a large portion of their diet. In a study of the effect of fish-eating birds on Chinook salmon fry, Bonaparte's Gulls were the most efficient predators of the ten species studied.
+  nesting: Bonaparte's Gulls nest singly or in loose colonies located on islands or lakeshores. They are unusual among the gulls in that they usually nest in trees rather than on the ground. Spruce is the most common choice for nesting, and nests are built of small twigs, moss, lichen, grass, and other herbaceous vegetation. Nests are typically situated 4-15 feet off the ground on a horizontal branch. The female lays three eggs, which both sexes incubate for about 24 days. Both parents help feed the young. Fledging age is not known.
+  migration_status: Nesting in north central Canada, Bonaparte's Gulls move east or west towards the nearest coast in the fall. This migration typically starts in late July and lasts through November, with the adults migrating before the immature birds. In the winter, flocks may move about in response to food supplies. The spring migration of breeding adults begins in late March or early April, and lasts through mid-May. Younger birds, not yet of breeding age, migrate from late May through June.
+  conservation_status: Numbers appear to be stable. The nesting grounds of Bonaparte's Gulls are very remote, and thus they have not been harmed by human disturbance.
+  when_where_wa: Bonaparte's Gulls are commonly found during the winter in coastal areas throughout Washington, and as migrants in lowlands east and west of the Cascades. During these times they are common in salt-water, sandy-shore, and fresh-water habitats. In winter, large flocks can be found in inner coastal areas, such as the Strait of Juan de Fuca. The mouth of the Columbia River, the Tacoma Narrows, Seattle's Green Lake, and Point No Point (Kitsap County) are all spots where Bonaparte's Gulls can regularly be seen.
+photos:
+- file: bogu_fl_gth_l.jpg
+  caption: 'Adult winter plumage in flight. Note: white triangle on upperwing and pale underwing.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: bogu_j_gth_l.jpg
+  caption: '1st winter. Note: dark coloration on folded wing.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: bogu_w_gth_l.jpg
+  caption: 'Adult in winter plumage. Note: dark spot behind ear and clean gray wing.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: bogu_w_tg_l.jpg
+  caption: 'Adult nonbreeding. Note: dark ear spot.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: bogu_fl_jp_l.jpg
+  caption: Adult breeding
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: bogu_jwfl_gl_l.jpg
+  caption: Immature in flight
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: bogu_j_tg_l.jpg
+  caption: Immature
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: bogu1.mp3
+  credit: null
+maps:
+  wa: laph.jpg
+  north_america: bogumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', F, F, '', R, U, U, U, U, '']
+  puget_trough: [C, C, C, C, F, '', R, F, C, C, C, C]
+  north_cascades: ['', '', '', '', R, '', R, R, R, '', '', '']
+  west_cascades: [R, U, U, F, R, '', '', F, F, F, F, R]
+  east_cascades: ['', '', '', '', '', '', '', R, R, '', '', '']
+  okanogan: ['', '', '', '', R, '', '', '', '', U, '', '']
+  canadian_rockies: ['', '', '', U, U, '', '', '', U, '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', R, R, '', '']
+  columbia_plateau: ['', '', '', U, U, '', R, U, U, F, U, '']
+taxonomy:
+  ebird_code: bongul
+  current_common_name: Bonaparte's Gull
+  current_scientific_name: Chroicocephalus philadelphia
+  clements_sort: 6462
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/bonapartes_gull
+  archived: '2026-09-12'

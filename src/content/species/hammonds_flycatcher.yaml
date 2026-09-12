@@ -1,0 +1,61 @@
+slug: hammonds_flycatcher
+common_name: Hammond's Flycatcher
+scientific_name: Empidonax hammondii
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Tyrannidae
+  slug: tyrannidae
+status: Fairly common summer resident
+species_of_concern: true
+sections:
+  general_description: Like other Empidonax flycatchers, Hammond's Flycatchers are olive-gray above and buffy-yellow below, with a slight crest, two white wing-bars, and white eye-ring. The eye-ring of the Hammond's is uneven and almost invisible in some birds. The bill is dark, which may help distinguish it from other Empidonax flycatchers. These small flycatchers have long wings, a relatively short tail, and very small bill.
+  habitat: Regardless of the time of year, Hammond's Flycatchers inhabit cool, forested regions. During the breeding season, they use large stands of mature, wet conifer and mixed forests with closed canopies and sparse understories.
+  behavior: These aerial foragers are found high in the canopy where they watch from a perch and fly out to catch prey in mid-air, then return to the perch to eat. They sometimes forage from lower perches, gleaning prey directly off the foliage, or hunting on the ground. The last two foraging styles are more common early in the breeding season. Both Hammond's and the similar Dusky Flycatchers wag their tails in a slow, up-down motion. (This behavior may help narrow down the choices when trying to distinguish among the Empidonax flycatchers).
+  diet: Insects, especially beetles, caterpillars, moths, and flies, are the most common prey.
+  nesting: The male sings to defend a territory and attract a mate. The female builds the nest, which is generally in the lower third of the canopy of a tall conifer, placed well out from the trunk on a horizontal branch. The nest is made of spider webs, grass, and plant fiber, lined with feathers and fur. The female incubates three to four eggs for 15 to 16 days, and broods the newly hatched young. Both parents help feed the young, which begin to fly at 16 to 18 days. The young often remain together, near the parents, for a week or so after they fledge.
+  migration_status: These hardy birds undertake a prolonged migration in the fall and spring. They start arriving in Washington by mid-April, but many higher-altitude breeders remain in the lowlands until early to mid-May, arriving in Washington in late May. They start heading south again by mid-August, with the last birds leaving in late September. They winter in the pine-oak woods of Mexico and Central America.
+  conservation_status: Hammond's Flycatchers were once common in the Puget Sound lowlands and the lowland forests on the eastern side of the Cascades, but extensive cutting of these forests has removed this habitat. They are listed on the Audubon~Washington watch list, although Breeding Bird Survey results indicate they have been increasing significantly in Washington in recent years. Some researchers have recommended, based on habitat requirement studies, that Hammond's Flycatchers need stands at least 20 acres in size and 80-90 years old to sustain populations.
+  when_where_wa: Hammond's Flycatchers can be found from late April to August throughout Washington where there is appropriate habitat. They breed in wet coniferous forests, from the lowlands to the tree line, although they are most common at middle elevations. During migration they are common in the lowlands, including wooded areas of the shrub-steppe zone.
+photos:
+- file: hafl_gt_l.jpg
+  caption: 'Note: short small bill, shorter tail, and distinct'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: hafl_jh_l.jpg
+  caption: 'Note: long primary projection, short tail, and short, dark bill.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: HAFL01.mp3
+  credit: null
+maps:
+  wa: emha.jpg
+  north_america: haflmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', R, F, F, F, F, '', '', '', '']
+  puget_trough: ['', '', '', U, F, U, U, F, F, '', '', '']
+  north_cascades: ['', '', '', R, C, C, C, F, R, '', '', '']
+  west_cascades: ['', '', '', R, F, F, F, F, U, '', '', '']
+  east_cascades: ['', '', '', R, F, F, F, F, F, R, '', '']
+  okanogan: ['', '', '', '', C, C, C, C, U, '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, F, '', '', '', '']
+  blue_mountains: ['', '', '', R, F, F, F, U, U, '', '', '']
+  columbia_plateau: ['', '', '', '', U, '', '', U, U, '', '', '']
+taxonomy:
+  ebird_code: hamfly
+  current_common_name: Hammond's Flycatcher
+  current_scientific_name: Empidonax hammondii
+  clements_sort: 16964
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/hammonds_flycatcher
+  archived: '2026-09-12'

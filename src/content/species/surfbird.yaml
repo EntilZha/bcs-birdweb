@@ -1,0 +1,61 @@
+slug: surfbird
+common_name: Surfbird
+scientific_name: Aphriza virgata
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Fairly common migrant and winter coast.
+species_of_concern: true
+sections:
+  general_description: The Surfbird is a plump shorebird with a short, plover-like bill, gray above and orange below. Its gray wings show prominent, white wing-stripes in flight. The tail has a white base with a black subterminal band. In breeding plumage, the Surfbird has salmon-colored patches on its wings. These fade considerably during the breeding season, and may be peach or almost white by the time the birds return to Washington in the fall. Birds in breeding plumage are covered with a wash of dark spots, giving them an overall speckled appearance. The juvenile is gray with white-edged feathers and a breast flecked with white. The adult in non-breeding plumage is also gray, but lacks the white-edged feathers and has no streaks on its breast.
+  habitat: Surfbirds spend their entire lives in rocky areas. They breed in the rocky mountain tundra of Alaska and the Yukon, and migrate to rocky coastal shores. In winter, they are almost always within a few meters of the tidal line. They sometimes forage in non-rocky areas, but this is unusual.
+  behavior: Surfbirds occur in small flocks, usually with fewer than 25 birds, and are almost always seen in Washington with Black Turnstones. They are also seen with Rock Sandpipers, Wandering Tattlers, and occasionally Ruddy Turnstones. The Surfbird's bill is well adapted to prying food off rocks.
+  diet: The summer diet consists of insects, spiders, and other invertebrates. Surfbirds also eat seeds. In coastal areas, they eat mussels, barnacles, and limpets. The Surfbird eats these creatures shells and all, unlike the Black Turnstone which pulls the creature from its shell.
+  nesting: There are many unknowns in the nesting biology of the Surfbird. Its nesting habitat is on remote, rocky ridges above the timberline. In areas with grazing sheep and caribou, Surfbirds remain on the nest until the last moment, and then fly up in the intruding animal's face, a defense mechanism used on humans as well. Pairs form on the breeding grounds. The nest is located on the ground in a natural depression, usually completely exposed. Both parents help line the nest with lichen, leaves, and moss. Males are known to incubate, but female incubation has not been confirmed. Incubation lasts for 22-24 days. The young leave the nest within a day or so of hatching and feed themselves. It is not clear whether both adults, or only the male, tend the young. Fledging age is not known.
+  migration_status: The winter range of the Surfbird is one of the longest and narrowest of any North American breeding bird, stretching from southern Alaska to southern Chile. In spring, most of the population gathers in Prince William Sound before heading to breeding sites.
+  conservation_status: The Canadian Wildlife Service estimates the Surfbird population at 70,000 birds. They are listed as a species of special concern on the Partners in Flight watch list due to their limited breeding distribution, their vulnerability to oil pollution, and expanding development in their coastal wintering range.
+  when_where_wa: Surfbirds may be present on Washington's outer coast in all months, although they are least common in June. The earliest returning migrants may arrive at the end of June, but most start to arrive in July. They are common from July to April, when they start migrating north for the breeding season. By the end of May into early June, they are rare in Washington. The northward migration peaks from mid-April to early May, and the fall migration peaks in August. Juveniles usually arrive about a month later than adults. They are uncommon in the protected waters of Puget Sound, but can often be seen at Penn Cove on Whidbey Island (Island County) and Duwamish Head in West Seattle (King County). There are typically many Surfbirds on the jetty at Ocean Shores (Grays Harbor County), which is one of the few places where Surfbirds are generally more common than Black Turnstones.
+photos:
+- file: surf_w_gth_l.jpg
+  caption: 'Winter plumage adult. Note: short pale bill.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: surf1.jpg
+  caption: ''
+  credit:
+    name: Seattle Audubon
+    url: http://seattleaudubon.org/sas/
+  hero: true
+audio:
+  file: surf.mp3
+  credit: null
+maps:
+  wa: apvi.jpg
+  north_america: surfmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, R, '', U, C, C, C, C, C]
+  puget_trough: [F, F, F, F, R, '', R, U, U, F, F, F]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: surfbi
+  current_common_name: Surfbird
+  current_scientific_name: Calidris virgata
+  clements_sort: 6174
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/surfbird
+  archived: '2026-09-12'

@@ -1,0 +1,69 @@
+slug: laughing_gull
+common_name: Laughing Gull
+scientific_name: Larus atricilla
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    The Laughing Gull attains full adult plumage in three years. The breeding-plumaged adult has a black hood, white crescents above and below the eyes, a red bill, and a dark gray mantle. It resembles Franklin’s Gull but is noticeably larger with black (not red) legs and solid black outer primaries (wingtips) with no white. The head of the adult in winter plumage is white with a hint of gray behind the eye, and the bill is black. As with most gulls, identification of birds in immature plumages requires care and experience; consult a good field guide.
+
+    The main population of this New World gull breeds along the coast from Atlantic Canada to the Gulf Coast states, Mexico, the West Indies, Central America, and Venezuela, and winters from the Carolinas south to Brazil and Peru. A smaller population breeds in northwestern Mexico—principally the Gulf of California. Many post-breeding birds move north to the Salton Sea and the southern California coast, but Laughing Gull is a very rare vagrant farther north along the Pacific Coast. Washington’s four records occurred from mid-July to early September. Three were along or off the outer coast and the fourth was from Wenatchee (Chelan County). Oregon has three records and there are two from British Columbia.
+
+    *Revised June 2007*
+photos:
+- file: lagu_tg_l.jpg
+  caption: Adult breeding
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: lagu_wfl_gl_l.jpg
+  caption: Adult nonbreeding
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: lagu_w_tg_l.jpg
+  caption: Adult nonbreeding
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: lagu_j_gl_l.jpg
+  caption: Juvenile
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: lagumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: laugul
+  current_common_name: Laughing Gull
+  current_scientific_name: Leucophaeus atricilla
+  clements_sort: 6490
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/laughing_gull
+  archived: '2026-09-12'

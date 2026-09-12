@@ -1,0 +1,55 @@
+slug: hermit_thrush
+common_name: Hermit Thrush
+scientific_name: Catharus guttatus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Turdidae
+  slug: turdidae
+status: Fairly common summer resident. Uncommon to rare winter.
+species_of_concern: false
+sections:
+  general_description: There are three species of spot-breasted thrushes found in Washington. All three' the Hermit Thrush, the Swainson's Thrush, and the Veery'have solid brownish upperparts (back, wings, and tail), light-colored bellies, whitish eye-rings, and varying degrees of spotting on their breasts. All are similar in shape to a robin, but smaller. Males and females appear similar in most species. The Hermit Thrush's tail and rump are a shade redder than the rest of its brown upperparts. The spots on its breast are solid black, darker than those of the other two thrushes, and it is more heavily spotted, with the spots beginning to run together. The eye-ring is easier to see than that of the Veery, and is white in contrast to the buff-colored eye-ring of the Swainson's Thrush.
+  habitat: The Hermit Thrush is one of the most widely distributed forest-nesting, migratory birds in North America. It is found in coniferous and mixed woodlands in the nesting season, and found in other woodlands during winter and migration. In comparison to the Veery and the Swainson's Thrush, it is found at higher elevations and in more open habitat.
+  behavior: Hermit Thrushes do much of their foraging on the ground, hopping along, picking food up from the leaf litter or soil. They sing from high perches in isolated trees. The Hermit Thrush has an ethereal, unforgettable, fluted song.
+  diet: Like the other spot-breasted thrushes, the Hermit Thrush eats a combination of insects and berries. Insects and other small invertebrates are the primary diet during the breeding season, while berries and other fruit become more important in the winter.
+  nesting: The male chooses a nesting territory and sings to defend it and to attract a mate. The female builds the nest, which is a bulky, well-made cup of moss, weeds, and twigs, lined with a variety of soft material. The nest is typically in a conifer tree, 3-12 feet off the ground. The female incubates 4 eggs and broods the young once they hatch. The male gathers most of the food for the young, and the female feeds it to them. The pair will often raise two broods in a season.
+  migration_status: The Hermit Thrush is the only spot-breasted thrush likely to be seen in the United States in the winter. Those that do migrate arrive earlier in the spring (March-May) and leave later in the fall (September-October) than the other thrushes. These birds migrate mostly at night and spend the winter in the southern part of the United States through Mexico to Guatemala. Non-migratory birds can be found rarely in the lowlands of Washington throughout the winter.
+  conservation_status: There are at least two, and perhaps as many as four, subspecies of Hermit Thrush in Washington. One subspecies is found in the Blue Mountains, a second in the Cascades, and what may possibly be a third in the Olympics. The subspecies found in the northeast corner of the state has yet to be identified. Hermit Thrushes are less dependent on wintering habitat in the tropics than are the other thrushes, which may be one reason the population is doing as well as it is. Another reason may be that it nests at higher elevations where habitat is more stable.
+  when_where_wa: Hermit Thrushes are common at high elevations in coniferous forests throughout Washington. They usually replace Swainson's Thrushes at high elevations in the Cascade and Olympic Mountains, although they are less common in the wetter forests of the Olympic Peninsula. During migration, they are often found at lower elevations than when breeding. They are outnumbered by Swainson's Thrushes throughout most of Washington, except at high elevations in coniferous forests with limited brush, such as in the Blue Mountains.
+photos:
+- file: heth_tg_l.jpg
+  caption: 'Note: reddish tail contrasts with reddish-brown back.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+audio:
+  file: HETH01.mp3
+  credit: null
+maps:
+  wa: cagumap.jpg
+  north_america: hethmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, F, F, F, F, F, F, U, U, U]
+  puget_trough: [U, U, U, F, U, '', '', '', U, F, U, U]
+  north_cascades: ['', '', '', U, F, C, C, C, F, R, '', '']
+  west_cascades: [R, R, R, F, C, C, C, F, U, R, R, R]
+  east_cascades: [R, R, R, U, F, C, C, C, F, R, R, R]
+  okanogan: ['', '', U, U, C, C, C, C, C, U, '', '']
+  canadian_rockies: ['', '', U, F, F, F, F, F, U, '', '', '']
+  blue_mountains: ['', '', R, U, F, F, F, F, U, R, '', '']
+  columbia_plateau: [U, U, U, U, U, '', '', '', U, U, U, U]
+taxonomy:
+  ebird_code: herthr
+  current_common_name: Hermit Thrush
+  current_scientific_name: Catharus guttatus
+  clements_sort: 28333
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/hermit_thrush
+  archived: '2026-09-12'

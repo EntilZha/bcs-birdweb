@@ -1,0 +1,73 @@
+slug: american_white_pelican
+common_name: American White Pelican
+scientific_name: Pelecanus erythrorhynchos
+order:
+  name: Pelecaniformes
+  slug: pelecaniformes
+family:
+  name: Pelecanidae
+  slug: pelecanidae
+status: Fairly common east, rare west.
+species_of_concern: true
+sections:
+  general_description: The American White Pelican is a huge white bird with a nine-foot wingspan. American White Pelicans have an enormous orange bills and distensible gular (throat) pouches. Breeding adults have a laterally flattened horn on the upper mandible. During flight, the American White Pelican's long neck is folded back on its body, and its black primaries and outer secondaries contrast prominently with the rest of the wing.
+  habitat: American White Pelicans nest inland on isolated islands in lakes and rivers. They feed in shallow lakes, rivers, and marshes. During the winter, they are usually found in warm, coastal marine habitats such as protected bays and estuaries.
+  behavior: American White Pelicans are highly gregarious and breed in large, dense colonies. Flocks may forage cooperatively by circling around fish or by driving fish towards the shore where they are easier to catch. They scoop up prey by dipping their bills in the water. Food is swallowed for transport, not carried in the pouch. During the breeding season, adults often forage at night. Flocks flying in formation are an impressive sight as they circle downward on set wings from great heights. Adults are usually silent.
+  diet: American White Pelicans eat mainly small 'rough' fish with little commercial value. They also take salamanders and crayfish.
+  nesting: Courtship and pairing occur soon after American White Pelicans arrive at the colony. Newly formed pairs select nest sites adjacent to other pairs at the same stage of the breeding cycle. Nests are usually located on open, bare soil. Both sexes build the nest, which consists of a shallow depression surrounded by a low rim of gravel, soil, or plant material. Both sexes incubate the two eggs. The altricial young are dependent on parents for food and warmth, and the second-hatched chick usually dies. Older young reach down their parents' throats for regurgitated food. After leaving the nest, the young gather in groups called 'crèches.' Parents continue to feed their young until the chicks leave the colony at 10-11 weeks of age.
+  migration_status: Most populations of American White Pelicans are migratory; exceptions are birds breeding in Texas and Mexico. Populations breeding west of the Rocky Mountains typically move south to California and the west coast of Mexico. Migrants move north in March and south from early September to late November. Small numbers of non-breeding American White Pelicans remain in eastern Washington throughout the year.
+  conservation_status: The American White Pelican is listed as an endangered species in Washington. Colonies have disappeared from historical breeding areas around Moses Lake. American White Pelicans are extremely sensitive to human disturbance of breeding colonies. Disturbance may cause adults to expose eggs and young to predators and temperature stress or to abandon nests altogether. Habitat destruction has also contributed to population decline.
+  when_where_wa: American White Pelicans have a very localized distribution in eastern Washington. They nest on Crescent and Badger Islands in the Columbia River, and at Sprague Lake. Non-breeding birds can be found locally throughout the Columbia Basin. Wintering concentrations occur along the Columbia River from the mouth of the Walla Walla River to Priest Rapids and increasingly farther north.
+photos:
+- file: awpe_lb_l.jpg
+  caption: Breeding adult in flight.
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: awpe_fl_tg_l.jpg
+  caption: Nonbreeding adult
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: awpe_jh_l.jpg
+  caption: 'Breeding adult. Note: bump on bill.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: awpe_tg_l.jpg
+  caption: Feeding behavior
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: awpe.mp3
+  credit: null
+maps:
+  wa: peer.jpg
+  north_america: awpemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: [R, R, R, R, R, R, R, R, R, R, R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', R, R, R, R, U, U, R, '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [U, U, U, F, F, C, C, C, C, C, U, U]
+taxonomy:
+  ebird_code: amwpel
+  current_common_name: American White Pelican
+  current_scientific_name: Pelecanus erythrorhynchos
+  clements_sort: 7791
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/american_white_pelican
+  archived: '2026-09-12'

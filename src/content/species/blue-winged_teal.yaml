@@ -1,0 +1,79 @@
+slug: blue-winged_teal
+common_name: Blue-winged Teal
+scientific_name: Anas discors
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Fairly common to locally common summer resident, mostly east.
+species_of_concern: false
+sections:
+  general_description: Blue-winged Teal are small dabblers with long bodies and bills. Males in breeding plumage have russet-colored bodies with small, dark spots, black undertail coverts, and white patches on their flanks. Their heads are dark blue-gray with a distinctive white crescent in front of each eye. Males are in non-breeding or eclipse plumage from July to October, during which time they look like females and can easily be confused with Cinnamon Teal in the same plumage. Juveniles and females are mottled brown with a dark bill and yellowish legs. Both males and females have green-black speculums, with pale blue patches on the forewing.
+  habitat: Blue-winged Teal inhabit shallow wetlands with emergent vegetation. Their breeding habitat is usually open-country wetlands. During migration they are sometimes found over the ocean, many miles from shore.
+  behavior: Fast and agile flyers, Blue-winged Teal are often seen in small flocks, twisting and turning as a single unit. When foraging they usually stick to very shallow water, plucking food items from the surface and swimming with their heads partially submerged. They do not tend to up-end or feed out of the water.
+  diet: Like other dabblers, Blue-winged Teal eat grass and aquatic plant seeds, as well as insects and other aquatic invertebrates. These invertebrates make up a larger proportion of their diet than that of other dabblers.
+  nesting: Pair formation begins in the winter and continues through spring migration. Blue-winged Teal nest on the ground in prairies, coastal meadows, and other open areas. Nests are usually near water, but may be several hundred yards away. The nest is a shallow depression with some grass or weeds, lined with down and usually well concealed by vegetation. The female incubates 9 to 13 eggs alone for 23 to 24 days. The young leave the nest within a day of hatching and can swim and find their own food immediately. The female continues to protect and tend them for a few weeks, but she leaves them before they are old enough to fly, which happens around 38 to 49 days.
+  migration_status: Blue-winged Teal are highly migratory and are, for the most part, absent from the majority of North America during the cold months of the year. They winter more extensively in South America than any other dabbler. They begin migrating later in spring than other dabblers, with birds arriving on the coast as early as March, but mostly not before April and May. Single males arrive first, with pairs and unpaired females following. Males migrate again from mid-July to mid-August, moving to larger marshes to undergo their molt. Fall migration starts in early August, and most birds are gone by mid-October.
+  conservation_status: Numbers of Blue-winged Teal nesting in Washington have increased dramatically in the last century. Blue-winged Teal now outnumber Cinnamon Teal in some parts of eastern Washington. This shift is most likely due to large damming projects that have converted small wetlands into large reservoirs more favorable to the Blue-winged than the Cinnamon Teal.
+  when_where_wa: Blue-winged Teal are extremely rare in Washington during winter. They typically arrive in mid-April and depart by the end of September. West of the Cascades they are uncommon breeders, and their range is somewhat limited to freshwater wetlands in the Puget Trough and coastal areas. In eastern Washington, they are common in wetlands throughout the region.
+photos:
+- file: bwte_f_lb_l.jpg
+  caption: ''
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: bwte_gl_l.jpg
+  caption: 'Male. Note: white crescent on face and white hip patch.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: bwte_eclipse_gl_l.jpg
+  caption: Male, eclipse plumage.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: bwte_f_gl_l.jpg
+  caption: 'Female. Note: pale face at base of large dark bill and dark eye line.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: bwte_fl_gl_l.jpg
+  caption: Pair in flight (female leading)
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: bwte.mp3
+  credit: null
+maps:
+  wa: andi.jpg
+  north_america: bwtemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', R, U, U, U, U, U, R, '', '']
+  puget_trough: ['', '', '', R, F, F, U, U, R, '', '', '']
+  north_cascades: ['', '', '', '', R, R, R, '', '', '', '', '']
+  west_cascades: ['', '', '', U, U, U, U, U, U, '', '', '']
+  east_cascades: ['', '', '', U, U, R, R, U, U, '', '', '']
+  okanogan: ['', '', '', '', C, C, C, C, '', '', '', '']
+  canadian_rockies: ['', '', '', F, F, F, F, F, '', '', '', '']
+  blue_mountains: ['', '', '', '', U, '', '', U, R, '', '', '']
+  columbia_plateau: ['', '', '', F, C, C, C, F, U, '', '', '']
+taxonomy:
+  ebird_code: buwtea
+  current_common_name: Blue-winged Teal
+  current_scientific_name: Spatula discors
+  clements_sort: 485
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/blue-winged_teal
+  archived: '2026-09-12'

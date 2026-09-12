@@ -1,0 +1,79 @@
+slug: red-breasted_merganser
+common_name: Red-breasted Merganser
+scientific_name: Mergus serrator
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common winter on coast. Uncommon fall and winter east.
+species_of_concern: false
+sections:
+  general_description: The ragged-crested Red-breasted Merganser winters in Washington but breeds farther to the north. The adult male in breeding plumage has a reddish-brown mottled breast, white neck collar, green head, and red eyes. The serrate orange bill is very thin. The back is black and white, and the flanks are gray. The female has an overall gray body, reddish-brown head, and reddish eyes. There is no obvious white chin-patch as in the female Common Merganser. The juvenile is similar to the female but has a white bar across its face. Non-breeding adult males appear similar to females as well.
+  habitat: Breeding habitat is in the tundra and boreal-forest zones. Breeding occurs on fresh, brackish, and saltwater wetlands and in sheltered bays. During migration and in winter, Red-breasted Mergansers occur mostly on salt water, in coastal bays, estuaries, and other protected coastal areas.
+  behavior: Red-breasted Mergansers are typically found in small flocks, rather than huge rafts. They forage by diving and swimming under water, sometimes in cooperative groups, working schools of fish into shallow water.
+  diet: While the young eat mostly aquatic insects, adults primarily eat fish. Crustaceans and other aquatic creatures are also eaten.
+  nesting: Females first breed at the age of two years. Pairs generally form in late winter and during spring migration, although some evidence of pairing may be evident in the late fall. Breeding is late in the season, and often the young do not fledge until September. The nest is located in a sheltered spot on the ground, usually near water. It is a simple depression lined with vegetation and down. The female lays 7 to 10 eggs, and sometimes lays eggs in the nests of other females. Males usually leave when incubation begins. Incubation is by the female alone and lasts for 28 to 35 days. Within a day or so of hatching, the young follow the female to water where they feed themselves. Often, in areas of high-density nesting, two or more broods will join and form a crèche, with one or more females tending them. Within a few weeks, the females typically abandon the young, who cannot fly until they are about two months old.
+  migration_status: Red-breasted Mergansers usually migrate in pairs or small flocks. Males leave the breeding grounds in mid-summer on their molt migration, but the destinations are not known. Spring migration begins in March and peaks in April, continuing into May. Birds are typically on the breeding grounds by mid- to late May. In the fall, birds start arriving in September, although most birds arrive on the wintering grounds in late November.
+  conservation_status: Breeding populations in the North Pacific seem to have increased over the last ten years. Hunting is not a major source of mortality, but a number have been shot illegally due to their suspected impact on salmon and other commercial fish. The extent of their impact is not known, but it is not likely that they are causing significant salmon mortality.
+  when_where_wa: Red-breasted Mergansers can be found during migration on major lakes in eastern Washington, especially at Banks Lake (Grant County). They are much more common in western and coastal Washington during migration and in winter. They are abundant in Puget Sound and the Strait of Juan de Fuca, and in major estuaries along the outer coast.
+photos:
+- file: rbme_f_gth_l.jpg
+  caption: Female. Lacks white chin patch of female Common Merganser.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rbme_gl_l.jpg
+  caption: 'Male. Note: vermiculated patterned sides.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: rbme_f_gl_l.jpg
+  caption: 'Female. Note: red head blending with gray body (lacks white chin patch of female).'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: rbme_ffl_gl_l.jpg
+  caption: Female
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: rbme_fl_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: rbme.mp3
+  credit: null
+maps:
+  wa: mese.jpg
+  north_america: rbmemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, R, R, R, U, C, C, C]
+  puget_trough: [C, C, C, C, U, R, R, R, U, F, C, C]
+  north_cascades: [R, R, '', '', '', '', '', '', '', '', R, R]
+  west_cascades: [R, R, R, '', '', '', '', '', '', '', R, R]
+  east_cascades: ['', '', R, R, '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [R, R, R, R, '', '', '', '', '', R, R, R]
+taxonomy:
+  ebird_code: rebmer
+  current_common_name: Red-breasted Merganser
+  current_scientific_name: Mergus serrator
+  clements_sort: 770
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/red-breasted_merganser
+  archived: '2026-09-12'

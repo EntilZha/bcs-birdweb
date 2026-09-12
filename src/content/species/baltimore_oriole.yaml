@@ -1,0 +1,97 @@
+slug: baltimore_oriole
+common_name: Baltimore Oriole
+scientific_name: Icterus galbula
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Icteridae
+  slug: icteridae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    The Baltimore Oriole breeds across southern Canada and the United States east of the Rocky Mountains and winters mostly from central Mexico to northwestern South America. It hybridizes with Bullock’s Oriole in a narrow zone where their ranges meet in the Great Plains, and as a result, the two were once lumped together as a single species (“Northern Oriole”). However, the American Ornithologists’ Union split them again in 1995 on the basis of genetic studies that showed them not even to be one another’s nearest relatives.
+
+    The adult male Baltimore Oriole is bright orange with a black hood and back and a large white wingbar. The adult female has a grayish crown and back and two white wingbars. The underparts range in coloration from almost as bright orange as the male in some individuals to a light orange-yellow in others. Immatures generally resemble adult females; consult field guides for separating these plumages from Bullock’s and other orioles.
+
+    Baltimore Oriole breeds in northeastern British Columbia, east of the Rockies, but occurs only casually elsewhere in the province. Three of Idaho’s four records are from May–June; the other is from mid-August. Washington also has four records, three of them between 31 May and 20 June and the other in early November; two are from east of the Cascades and two are from the Westside. Half of Oregon’s ten records are from fall and winter and the other half are from spring.
+
+    *Revised November 2007*
+photos:
+- file: GregLavaty032.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: baltimore oriole_robcahill_l.jpg
+  caption: ''
+  credit:
+    name: Rob Cahill
+    url: null
+  hero: false
+- file: female_oriole_l.jpg
+  caption: Female
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: male_oriole_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: male_oriole_2_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: baor_gl_l.jpg
+  caption: 'Male. Note: black head and orangish body.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: baor_f_gl_l.jpg
+  caption: 'Female. Note: browish-yellow head and orange-yellow breast.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: baor_j_gl_l.jpg
+  caption: '1st year male. Note: black spotching on head and back.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: BaltOriole.mp3
+  credit: null
+maps:
+  wa: null
+  north_america: baormap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: balori
+  current_common_name: Baltimore Oriole
+  current_scientific_name: Icterus galbula
+  clements_sort: 33770
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/baltimore_oriole
+  archived: '2026-09-12'

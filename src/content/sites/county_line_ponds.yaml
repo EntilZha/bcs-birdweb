@@ -1,0 +1,25 @@
+slug: county_line_ponds
+name: County Line Ponds
+number: 302
+ecoregions:
+- north_cascades
+sections:
+  site: From near sea level on the floodplain farmlands west of Sedro-Woolley, the North Cascades Highway (Route 20) follows the Skagit River eastward for 95 miles, ascending gradually to 5,477-foot Washington Pass. As you proceed east, annual rainfall increases from about 40 inches in Sedro-Woolley to over 100 inches per year in Newhalem, an average increase in precipitation of approximately one inch per mile. The route traverses several vegetation zones with diverse and contrasting birdlife. The attractive riparian area downstream from Newhalem, the Whatcom/Skagit County Line Ponds, consists of a mixture of deciduous (mostly black cottonwood and red alder) and wet coniferous forest, containing many passerines in summer. During the breeding season, woodpeckers, flycatchers, vireos, thrushes, and warblers are abundant in the riparian growth. Gravel borrow pits became ponds and, adjacent to the river, support a variety of wildlife. The ponds are along the Skagit River on the south side of the highway and are accessible only by foot.
+  birds: In late spring and summer, Hammond's and Pacific-slope Flycatchers, Red-eyed Vireo, Swainson's Thrush, and Yellow-rumped, Townsend's, and Black-throated Gray Warblers can be heard and seen. American Redstart nest here, the only confirmed breeding site for this species in Western Washington. Look and listen for Black and Vaux's Swifts overhead. In winter, Bald Eagles congregate along the river and ponds to feed on the chum and Coho salmon that have spawned and are dying. Check the ponds for Hooded Mergansers and other waterfowl. This is a good place to compare Common and Barrow's Goldeneyes. American Dippers can be seen swimming under water, plucking salmon eggs off the bottom of the pond and bobbing to the surface to swallow them, then submerging again to repeat the process.
+  directions: |-
+    The best times to visit are from May through October for passerines. Arrive early and listen, before the wind begins to move down through the cottonwoods.
+    Six miles northeast of Marblemount, Route 20 enters the North Cascades National Park Service Complex. In about four more miles, look for the Whatcom County Line sign (0.5 mile east of milepost 116). Park here, taking care not to block the gate, and walk south to the County Line Ponds and access to the Skagit River. In most years, Route 20 closes around the first of December and does not reopen until April. However, it is open year round below Newhalem. No gasoline or other services are available between Marblemount and Mazama, approximately 70 miles.
+photos:
+- file: SITE_County_Line_Ponds.JPG
+  caption: ''
+  credit:
+    name: Louise Rutter
+    url: null
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/county_line_ponds/4
+  archived: '2026-09-12'

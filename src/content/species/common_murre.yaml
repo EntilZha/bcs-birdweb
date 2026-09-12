@@ -1,0 +1,67 @@
+slug: common_murre
+common_name: Common Murre
+scientific_name: Uria aalge
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Alcidae
+  slug: alcidae
+status: Common resident coast.
+species_of_concern: true
+sections:
+  general_description: Less chunky than the other large alcids, the Common Murre has a short neck and a long, straight bill. It is black above and white below with a white wing-bar and white sides faintly streaked with dark. During the breeding season, the head is solid black, but outside of the breeding season, the chin and lower half of the face are white, with a black line descending from the back of the eye through the white area.
+  habitat: Common Murres typically nest on wide, open ledges on rocky cliffs, although only small numbers in Washington nest on cliffs. Most colonies in this state are located on sea stacks and flat-topped islands that are partially vegetated or bare. They spend much of the time on the open ocean and in large bays. They are found closer to rocky shorelines during the breeding season, and farther offshore during the non-breeding season.
+  behavior: Outside of the breeding season, Common Murres are almost always seen in the water. On land, they sit upright. They swim and dive well, and can dive more than 150 feet below the water's surface. Their flight is labored.
+  diet: Most of the diet is made up of small fish, although a wide variety of sea creatures including crustaceans, marine worms, and squid are also taken.
+  nesting: Relative to their size, Common Murres have the most densely packed nesting colonies of any bird, with 28-34 birds per square meter. Nests are located so close together that incubating adults actually touch their neighbors on both sides. They do not build nests. Common Murres first breed at 4-5 years, and the female lays a single egg each year. Incubation lasts 4-5 weeks, and both sexes incubate and feed the newly hatched chick. Two to three weeks after hatching, before it is able to fly, the chick leaves the colony with one of its parents (usually the male) and moves into the water.
+  migration_status: Common Murres are permanent residents in many areas, but far-northern populations migrate south when the water freezes. Washington's breeding population does not appear to migrate.
+  conservation_status: Numbers fluctuate annually, in response to food supply and climatic events. Common Murres are the most frequent avian victims of oil spills along the Washington coast. Other threats to the population include over-fishing and gill nets. The population experienced a crash as a result of the 1983 El Niño event, dropping from 30,000 to fewer than 3,000 birds. Some populations have since recovered, but others have yet to rebound, leaving the current population in Washington at about one-third the former level. Common Murres are also highly sensitive to disturbance by humans, whether they are on foot, in a boat, or in a low-flying plane. When disturbed, the birds may knock eggs and chicks out of the nest sites in their haste to fly clear of the disturbance. The unguarded chicks and eggs are easy prey for gulls and other avian predators.
+  when_where_wa: Common Murres nest at 18 locations along the outer Washington coastline, with as many as 10,000 birds to a colony. They arrive on the colonies in April and may be found there until September. Major colonies are located at Point Grenville, Split Rock, Willoughby Island, Quillayute Needles, and Carroll and Jagged Islands. They can be seen in these areas year round, and in deep-water, inland-marine habitats as well in the fall and winter. They are fairly common on inland waters at other times of the year.
+photos:
+- file: comu_br_gth_l.jpg
+  caption: Breeding plumage
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: comu_molt_gth_l.jpg
+  caption: 'Molting to winter plumage. Note: faint pale cheek patch.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: comu_b_gt_l.jpg
+  caption: Breeding adult
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+audio:
+  file: COMU01.mp3
+  credit: null
+maps:
+  wa: uraa.jpg
+  north_america: comumap.gif
+abundance:
+  oceanic: [C, C, C, C, C, C, C, C, C, C, C, C]
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: commur
+  current_common_name: Common Murre
+  current_scientific_name: Uria aalge
+  clements_sort: 6424
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/common_murre
+  archived: '2026-09-12'

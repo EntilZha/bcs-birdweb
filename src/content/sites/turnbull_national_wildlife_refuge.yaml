@@ -1,0 +1,23 @@
+slug: turnbull_national_wildlife_refuge
+name: Turnbull National Wildlife Refuge
+number: 910
+ecoregions:
+- columbia_plateau
+sections:
+  site: Turnbull National Wildlife Refuge (TNWR) is located in the upper reaches of a geologic formation called “The Channeled Scablands”. The scablands were formed around 15,000 years ago when several ice-age floods scoured away the deep soils of the Palouse in large tracts, exposing the underlying basalt. Numerous channels and depressions were eroded in the basalt, which later became a diverse complex of lakes, sloughs, and ponds. Around many of these wetlands, aspen, water birch, alder, and hawthorn riparian communities have developed. The upland areas with their mixture of exposed rock, soil mounds, and depressions containing deeper soils now support a mosaic of steppe and forested plant associations. The shallow rocky soils of these ancient flood channels provided an avenue for a narrow extension of the Ponderosa pine zone of the north into the steppe habitats of the Columbia Basin. This unique landscape supports a diverse wildlife community of nearly 300 species including ducks, geese, swans, migratory songbirds, raptors, Rocky Mountain elk, moose, and white-tailed deer.
+  birds: The wetlands on the refuge support 17 species of waterfowl that either nest in the refuge area or use it during migration. The most common breeders are Redheads, Ruddy Ducks, Mallards, Gadwall, and Cinnamon Teal. Up to 30,000 ducks and geese and several hundred Tundra Swans stop over during both spring and fall migration. Several species of waterbirds also breed on the refuge with colonies of Eared Grebes and Black Terns located in several wetlands as well as a Great Blue Heron rookery. Twenty-five species of shorebirds utilize the refuge primarily during fall migration (July and August). Refuge Ponderosa pine forest supports nesting populations of Western Bluebirds, three species of nuthatches (Pygmy, Red-breasted and White-breasted), Black-capped and Mountain Chickadees, Western Wood-Pewees, Northern Pygmy-Owls and several species of woodpeckers. Riparian areas on the refuge provide habitat for 45 species of landbirds, including Yellow Warbler, Willow Flycatcher, Red-naped Sapsuckers, Cedar Waxwings , Black-headed Grosbeaks, and Bullock's Orioles. During the spring (April to May) and fall (August to September) migration, Nashville, MacGillivray's, Wilson's, Townsend's, and Audubon Warblers, Cassin's and Warbling Vireos, and Hermit and Swainson's Thrushes are common. Grasshopper, Vesper, Savannah, and Lark Sparrows and Western Meadowlark are commonly observed in steppe habitat in the southeast portion of the refuge.
+  directions: 'From I-90, 15 miles west of Spokane, take Exit #270 at Four Lakes and travel southwest on Route 904 to Cheney. On the west side of Cheney, take a left on the Cheney Plaza Road and travel south approximately four miles to the refuge entrance road (Smith Road). Follow Smith Road east to the refuge Public Use Area. The refuge has a five-mile driving tour route, numerous hiking trails, and a wheelchair-accessible boardwalk. The refuge is open year round, seven days per week from sunrise to sunset. A $3 entrance fee is required March 1 through October 31.'
+photos:
+- file: SITE_Turnbull_NWR.JPG
+  caption: ''
+  credit:
+    name: Tim Brennan
+    url: http://www.39counties.blogspot.com
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/turnbull_national_wildlife_refuge/10
+  archived: '2026-09-12'

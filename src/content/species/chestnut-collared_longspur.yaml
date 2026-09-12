@@ -1,0 +1,58 @@
+slug: chestnut-collared_longspur
+common_name: Chestnut-collared Longspur
+scientific_name: Calcarius ornatus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: Casual spring and fall migrant.
+photos:
+- file: cclo_jh_l.jpg
+  caption: ''
+  credit:
+    name: Joseph V Higbee
+    url: http://www.pbase.com/jvhigbee
+  hero: false
+- file: cclo_f_jh_l.jpg
+  caption: 'Female. Note: cold gray tones, small gray bill, and dark rear auriculars.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: cclo_jh2_l.jpg
+  caption: Breeding male plumage.
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: cclomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: chclon
+  current_common_name: Chestnut-collared Longspur
+  current_scientific_name: Calcarius ornatus
+  clements_sort: 32670
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/chestnut-collared_longspur
+  archived: '2026-09-12'

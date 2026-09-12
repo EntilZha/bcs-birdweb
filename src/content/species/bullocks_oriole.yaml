@@ -1,0 +1,79 @@
+slug: bullocks_oriole
+common_name: Bullock's Oriole
+scientific_name: Icterus bullockii
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Icteridae
+  slug: icteridae
+status: Common summer resident east. Fairly common west.
+species_of_concern: false
+sections:
+  general_description: Bullock's Orioles are bright, flashy birds in all plumages. Mature males are deep orange, with black wings, back, and tail tips, and white wing-patches. They have black caps, black lines through each eye, and black throat patches. Females and first-year males are yellow where mature males are orange, but are whitish underneath. They lack the large white wing-patches, but do have two white wing-bars on each side. First-year males can be distinguished from females by their black throats and eye-lines.
+  habitat: The typical breeding habitat of Bullock's Orioles in Washington is forested streamside. They primarily inhabit hardwood trees and can often be found in large cottonwoods, willows, and oaks. Freshwater wetlands, irrigated farms, orchards, shrub-steppe, suburban areas, and other edge habitats are also used if there are suitable trees for nesting. During migration, Bullock's Orioles can be found in a wide variety of open woodlands, including urban parks. Their winter habitat requirements are not well known, but appear similar to that of breeding season.
+  behavior: While Bullock's Orioles may form small flocks during migration and winter, they generally forage alone. They forage mainly in the tree canopy, where they glean food from the foliage and occasionally fly out to catch aerial prey. They also forage in open country (shrub-steppe, for example) and sometimes on the ground, especially later in the breeding season.
+  diet: Bullock's Orioles eat a diet of small invertebrates (including many caterpillars), ripe fruit (especially cherries), and some nectar.
+  nesting: Bullock's Orioles are monogamous and nest solitarily, although nests are often grouped together, which may be more a factor of patchy breeding habitat than colonialism. Pair bonds typically last for a single breeding season. The nest is often located in a willow, cottonwood, or other hardwood tree, and is a pendulous basket suspended from a thin branch that commonly hangs over water. The female picks the nest site and weaves the nest, but the male may help with construction. The nest often appears gray, and is made of hair, twine, grass, and wool, lined with plant-down, hair, or feathers. The female typically incubates 4 to 5 eggs for about 11 days and then broods the young after they hatch. Both parents bring food to the young, which leave the nest after about 14 days. Family groups typically stay together after the young fledge, and may join with other families in post-breeding flocks.
+  migration_status: Bullock's Orioles are Neotropical migrants and travel at night between their breeding and wintering grounds. Birds begin to arrive on the breeding grounds between March and May, and leave for the winter between July and August. Almost the entire population winters in western Mexico.
+  conservation_status: Bullock's Orioles are widespread and common in appropriate habitat, but much of their streamside forest habitat is at risk in Washington due to demands on groundwater from irrigation. Pesticides also pose direct and indirect threats to Bullock's Orioles. Significant long-term population declines have been recorded in western North America, but there are no significant population trends in Washington at this time. The Bullock's Oriole is one of the few bird species that will puncture and eject Brown-headed Cowbirds' eggs. They sometimes damage their own eggs in the process, but the benefit of this behavior far outweighs the cost. They were formerly rare breeders in western Washington, but the proliferation of hardwood trees in residential areas has resulted in an increase in Bullock's Orioles in the western part of the state. However, they are still less common in western Washington than in eastern Washington. From 1983-1995, the Bullock's Oriole and the Baltimore Oriole were combined into a single species, the Northern Oriole. This lumping was the response to hybridization between the two species in the Great Plains. In 1995 the American Ornithologist's Union revisited this decision and split the Northern Oriole back into two species.
+  when_where_wa: Bullock's Orioles are summer visitors to Washington, spending a mere 14 weeks in our state. They are most common in lowland streamside habitats and orchards east of the Cascades, where they can be seen from early May to early August. While many leave as early as the end of July, a few late lingerers sometimes remain into early winter, visiting suet or hummingbird feeders.
+photos:
+- file: buor_m_gth_l.jpg
+  caption: 'Male. Note: orange coloration, black throat, cap, and back and white wing patches'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: buor_tg_l.jpg
+  caption: 'Male. Note: black throat and eyeline and white wing coverts.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: buor_f_tg_l.jpg
+  caption: 'Female. Note: pale gray flanks and belly.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: buor_jm_tg_l.jpg
+  caption: '1st year male. Note: black throat.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: buor_j_tg_l.jpg
+  caption: Juvenile
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: BUOR01.mp3
+  credit: null
+maps:
+  wa: icga.jpg
+  north_america: buormap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', R, R, R, '', '', '', '', '']
+  puget_trough: ['', '', '', '', F, F, F, R, '', '', '', '']
+  north_cascades: ['', '', '', '', U, U, U, R, '', '', '', '']
+  west_cascades: ['', '', '', R, F, F, F, U, '', '', '', '']
+  east_cascades: ['', '', '', '', C, C, C, U, '', '', '', '']
+  okanogan: ['', '', '', '', C, C, C, R, '', '', '', '']
+  canadian_rockies: ['', '', '', '', U, U, U, U, '', '', '', '']
+  blue_mountains: ['', '', '', '', U, U, U, R, '', '', '', '']
+  columbia_plateau: ['', '', '', U, C, C, C, U, R, '', '', '']
+taxonomy:
+  ebird_code: bulori
+  current_common_name: Bullock's Oriole
+  current_scientific_name: Icterus bullockii
+  clements_sort: 33736
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/bullocks_oriole
+  archived: '2026-09-12'

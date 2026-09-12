@@ -1,0 +1,61 @@
+slug: cassins_vireo
+common_name: Cassin's Vireo
+scientific_name: Vireo cassinii
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Vireonidae
+  slug: vireonidae
+status: Fairly common summer resident.
+species_of_concern: true
+sections:
+  general_description: Formerly known as the Solitary Vireo, the Cassin's Vireo is now one of three separate species. Cassin's Vireos are olive above and whitish below, with a yellowish wash on their sides and flanks, white throats, and gray heads. They have two white wing-bars and distinctive white eye-rings that extend to the brow, making the birds look as if they are wearing spectacles.
+  habitat: The Cassin's Vireo is the only Washington vireo characteristically found in conifer forests. While these birds appear to prefer dry conifer forests of Douglas fir and Ponderosa pine, they can also be found in mixed coniferous and broadleaved forests, and may prefer to nest in hardwood trees.
+  behavior: Cassin's Vireos are inconspicuous as they work their way along branches, twigs, and leaves, looking for food high up in the trees. Occasionally they fly out to grab flying insects in midair, but most of the time they glean from various surfaces. During spring and early summer, they sing incessantly, revealing their presence.
+  diet: Insects are the primary diet, although Cassin's Vireos will sometimes eat berries and other small fruits, especially in winter.
+  nesting: Cassin's Vireos build a bulky nest suspended in a low horizontal fork of a tree branch. Both members of the pair help build the nest, which is made of grass, bark strips, rootlets, and other plant fibers, lined with hair and plant down, and adorned on the outside with moss and pine needles. Both parents incubate the three to five eggs for 12 to 14 days, and both feed the young, which leave the nest at about two weeks of age.
+  migration_status: Some of these Neotropical migrants winter as far north as the southwestern United States, but most winter in Mexico. They arrive on the breeding grounds a bit earlier in spring, and stay a bit later in the fall than other vireos.
+  conservation_status: In some areas, Cassin's Vireos are heavily parasitized by Brown-headed Cowbirds. They are listed on the Audubon~Washington Watch List as a species-of-concern in the state, although, according to the Breeding Bird Survey, the population in Washington increased significantly between 1980 and 2000.
+  when_where_wa: Cassin's Vireos are fairly common and widespread in eastern Washington in lower- and moderate-elevation conifer forests in the eastern Cascades, the northeastern corner, and the Blue Mountains. Although generally uncommon in western Washington, they are locally common along major river valleys and dry forests in the Puget Trough, such as the San Juan Islands, the northeastern Olympic Peninsula, Fort Lewis (Pierce County), and Ross Lake (Whatcom County).
+photos:
+- file: cavi_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: cavi_tg_l.jpg
+  caption: Adult on nest.
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: CAVI01.mp3
+  credit: null
+maps:
+  wa: viso.jpg
+  north_america: cavimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', U, U, U, U, U, U, '', '', '']
+  puget_trough: ['', '', '', R, F, F, F, F, U, '', '', '']
+  north_cascades: ['', '', '', R, U, U, U, U, R, '', '', '']
+  west_cascades: ['', '', '', R, U, U, U, U, U, '', '', '']
+  east_cascades: ['', '', '', U, F, F, F, F, U, '', '', '']
+  okanogan: ['', '', '', U, C, C, C, C, U, '', '', '']
+  canadian_rockies: ['', '', '', '', U, U, U, U, U, '', '', '']
+  blue_mountains: ['', '', '', '', F, F, F, F, U, '', '', '']
+  columbia_plateau: ['', '', '', '', U, U, U, U, U, U, '', '']
+taxonomy:
+  ebird_code: casvir
+  current_common_name: Cassin's Vireo
+  current_scientific_name: Vireo cassinii
+  clements_sort: 19223
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/cassins_vireo
+  archived: '2026-09-12'

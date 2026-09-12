@@ -1,0 +1,91 @@
+slug: mallard
+common_name: Mallard
+scientific_name: Anas platyrhynchos
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: Perhaps the most familiar duck in the Northwest, the Mallard is a large and heavy bird. Males have gray bodies with chestnut-brown breasts, white collars, iridescent-green heads, and yellow bills. Females are mottled brown-and-black with lighter brown heads and necks and yellow bills mottled with black. They have a black stripe running horizontally through the eye. Both sexes have orange feet and a blue speculum, or wing-patch, bordered in white on two sides, best seen in flight. From June to September, immatures and males, which are then in non-breeding (eclipse) plumage, look much like females.
+  habitat: Shallow marshes are the preferred habitat, although Mallards are found virtually everywhere there is open water, from city parks to subalpine lakes. Although they favor fresh water, they are also often found in sheltered bays and estuaries along the coast.
+  behavior: Mallards forage by up-ending in shallow water and by grazing on land. Mallard pairs form in the fall and winter, and remain intact through the winter and into spring. Pair bonds tend to break up, however, when the female begins incubating eggs.
+  diet: Mallards are omnivorous, eating seeds, stems, and roots from a variety of aquatic plants, especially sedges, grasses, pondweeds, and smartweeds. Insect larvae and other aquatic invertebrates are also part of the diet, especially the diet of young birds. In many places, humans provide Mallards with food year round.
+  nesting: The female usually picks a nest site that is close to water, but may be over a mile away. Typically situated on the ground under dense vegetation, the nest is sometimes on a stump, platform, or even up to 10 feet off the ground in a tree. It is usually a shallow bowl of plant matter, lined with down. The female typically lays 7 to 10 eggs, which she incubates for 26 to 30 days. Within a day of hatching, the young leave the nest. The female leads the young to the water and continues to tend them, and they feed themselves. The young first fly at 52 to 60 days.
+  migration_status: Mallards will remain as far north in winter as conditions permit, and many populations that are fed by people do not migrate. Those that do migrate do so early in spring. Most birds are heading from wintering grounds to breeding areas in February and March. The fall migration is more drawn out. Males leave their mates when incubation begins (as early as mid-March) and gather in large wetlands where they molt into their non-breeding or eclipse plumage and go through a flightless period. The actual migration movement begins in late August and lasts through December, with peak movements in October and November.
+  conservation_status: Although numbers fluctuate considerably and are probably reduced from historical levels, the Mallard is still one of the most abundant ducks in the world. It is a generalist and has adapted to living in close association with humans. Numbers have increased historically in eastern North America.
+  when_where_wa: The Mallard is the most widespread and common duck in Washington and can be found on virtually any lowland wetland throughout the state year round, as long as there is open water.
+photos:
+- file: mall_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: mall_eclipse_tg_l.jpg
+  caption: Male, molting out of eclipse plumage.
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: mall_fl_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: mall_tg_l.jpg
+  caption: Male
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: mall_f_tg_l.jpg
+  caption: 'Female. Note: orange bill with black spots.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: mall_f_gl_l.jpg
+  caption: Female with duckling
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: mall_ffl_jh_l.jpg
+  caption: 'Female. Note: blue speculum with white bars.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: mall1.mp3
+  credit: null
+maps:
+  wa: anpl.jpg
+  north_america: mallmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, F, F, F, F, F, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [C, C, C, C, C, C, C, C, C, C, C, C]
+  blue_mountains: ['', '', '', F, F, F, F, F, F, U, U, '']
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: mallar3
+  current_common_name: Mallard
+  current_scientific_name: Anas platyrhynchos
+  clements_sort: 545
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/mallard
+  archived: '2026-09-12'

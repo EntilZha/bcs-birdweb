@@ -1,0 +1,79 @@
+slug: northern_shoveler
+common_name: Northern Shoveler
+scientific_name: Anas clypeata
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: The very large, spatulate bill is the most distinguishing feature of the aptly named Northern Shoveler. The male in breeding plumage has bright wings, a bright iridescent-green head with a yellow eye, bold white breast, and chestnut sides. Females, juveniles, and males in eclipse plumage (from May through August) are mottled brown with orange legs and a green-black iridescent speculum with a blue patch on the forewing.
+  habitat: Northern Shovelers inhabit shallow, marshy ponds and wetlands at low elevations. Breeding habitat is in open country (prairie or tundra), or lowland woodlands and clearings, always near shallow water. During winter and migration they will use virtually any wetland as long as it has muddy edges. Shovelers will forage in sewage ponds and stagnant or polluted waters avoided by other species of ducks.
+  behavior: Northern Shovelers rarely tip up, but filter mud through their bills, swimming with their heads outstretched, bills skimming the water's surface, sifting out food. In flight they stay in tight bunches, weaving to and fro like shorebirds. Shovelers are the most territorial of all the North American dabblers, and pair bonds remain intact through incubation, unlike most other species of ducks.
+  diet: The bill of the Shoveler is ideally suited for straining small swimming invertebrates from the water and mud. Seeds and aquatic plants are also important food items, especially during winter.
+  nesting: Pair formation begins in the winter and continues during spring migration. Males remain with the females through the incubation period. The female chooses the site (generally in short grass). She builds the nest, a shallow depression made of grass and weeds, lined with down, and incubates the 9 to 12 eggs for 23 to 28 days by herself. A few hours after they hatch, the female leads the young to the water where they can swim and forage immediately. The young typically stay close to the cover of emergent vegetation, and the female tends them until they fledge at 52 to 66 days of age.
+  migration_status: Northern Shovelers migrate in flocks in a prolonged migration period in both the spring and the fall. The spring migration is relatively late, usually peaking about the end of April. The fall migration begins in August, peaks in September, and continues into November. Many Northern Shovelers winter in Washington.
+  conservation_status: Due to their highly specialized bills and consequent habitat requirements, the Northern Shoveler appears to be less affected by drought and food scarcity than other dabblers. This may explain how this species has maintained long-term stable populations.
+  when_where_wa: The Northern Shoveler is a common breeder throughout Washington's lowland ponds and wetlands (although some birds sighted in summer on the west side of the Cascades are non-breeders). It is also a common winter resident. Northern Shovelers are more common breeders on the east side of the Cascades than on the west side, but more common wintering on the west side in appropriate habitat.
+photos:
+- file: nsho_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: nsho_fl_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: nsho_f_gl_l.jpg
+  caption: 'Female. Note: large bill.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: nsho_ffl_gl_l.jpg
+  caption: Female
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: nsho_eclipse_gl_l.jpg
+  caption: Male, eclipse plumage.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: nsho.mp3
+  credit: null
+maps:
+  wa: ancl.jpg
+  north_america: nshomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, C, U, R, R, U, U, F, F, F]
+  puget_trough: [C, C, C, C, C, F, F, F, C, C, C, C]
+  north_cascades: [R, R, R, R, R, '', '', '', R, R, R, R]
+  west_cascades: [C, C, C, C, U, U, U, U, F, C, C, C]
+  east_cascades: [R, R, U, U, U, '', '', U, U, U, R, R]
+  okanogan: ['', U, C, C, C, C, C, C, C, C, C, '']
+  canadian_rockies: ['', '', '', F, F, F, F, F, F, F, '', '']
+  blue_mountains: ['', '', '', U, U, R, '', U, R, '', '', '']
+  columbia_plateau: [C, C, C, C, C, F, F, F, C, C, C, C]
+taxonomy:
+  ebird_code: norsho
+  current_common_name: Northern Shoveler
+  current_scientific_name: Spatula clypeata
+  clements_sort: 501
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/northern_shoveler
+  archived: '2026-09-12'

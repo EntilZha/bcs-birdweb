@@ -1,0 +1,55 @@
+slug: western_wood-pewee
+common_name: Western Wood-Pewee
+scientific_name: Contopus sordidulus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Tyrannidae
+  slug: tyrannidae
+status: Common summer resident east. Fairly common west.
+species_of_concern: false
+sections:
+  general_description: The Western Wood-Pewee is a small, nondescript, gray bird with two lighter wing-bars and no eye-ring. It has a whitish throat, dark bill, and slight crest.
+  habitat: Western Wood-Pewees use a variety of habitats, including open coniferous forests, wooded streams, and forest edges.
+  behavior: These active foragers concentrate in the sub-canopy layer, flying out from an exposed perch to grab prey in mid-air, and then returning to the perch. They also hover beside foliage, gleaning prey from the surface of leaves and twigs.
+  diet: Flying insects are the predominant prey.
+  nesting: The male sings to defend a nesting territory and attract a mate. The female builds the nest on a horizontal branch, usually well out from the trunk. The nest is a compact cup of grass, plant fiber, feathers, and hair in a spider-web frame, at varying heights from the ground. The outside of the nest is camouflaged with moss, bud scales, leaves, and lichen, and often looks like a bump or knot on the branch. Typically, clutches are three eggs, but can be from two to four eggs. The female incubates the eggs for 14 to 15 days. Both parents help feed the young, which fledge at about 16 days, and leave the nest area within three days of fledging.
+  migration_status: Western Wood-Pewees spend the winter in northern and western South America and are late returnees to the Northwest. They generally arrive in mid-May and depart in late August and September.
+  conservation_status: Two subspecies of Western Wood-Pewee are found in Washington, divided by the Cascade Mountains. While in general this species is widespread and abundant, populations are declining in many areas. Declines have been attributed to loss and degradation of habitat on both the breeding grounds and the wintering grounds. Creation of clearings attracts this species, which shuns dense forests. Thus it may inhabit edges of clear-cuts for 5 to 10 years, then vanish as new growth develops. Forest fragmentation creates additional edge habitat and may result in increased populations. Cattle grazing appears to degrade habitat.
+  when_where_wa: Western Wood-Pewees are most common in eastern Washington at lower elevations, within the forested zone. They can be found in western Washington, especially in some of the dry areas in the San Juan Islands (especially Lopez Island) and on the northeastern Olympic Peninsula. Look for them in clear-cuts. They are also common along the coast, at Grays Harbor and Willapa Bay.
+photos:
+- file: wewp_jh_l.jpg
+  caption: 'Note: dark head with weak eye ring and whitish wing bars'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+audio:
+  file: WEWP01.mp3
+  credit: null
+maps:
+  wa: coso.jpg
+  north_america: wewpmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', U, U, U, U, U, '', '', '']
+  puget_trough: ['', '', '', '', U, F, F, F, U, '', '', '']
+  north_cascades: ['', '', '', '', F, F, F, F, R, '', '', '']
+  west_cascades: ['', '', '', '', F, C, C, F, R, '', '', '']
+  east_cascades: ['', '', '', '', C, C, C, C, F, '', '', '']
+  okanogan: ['', '', '', '', C, C, C, C, U, '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, F, '', '', '', '']
+  blue_mountains: ['', '', '', '', F, C, C, C, C, '', '', '']
+  columbia_plateau: ['', '', '', '', C, C, C, C, C, '', '', '']
+taxonomy:
+  ebird_code: wewpew
+  current_common_name: Western Wood-Pewee
+  current_scientific_name: Contopus sordidulus
+  clements_sort: 16912
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/western_wood-pewee
+  archived: '2026-09-12'

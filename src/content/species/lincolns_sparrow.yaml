@@ -1,0 +1,61 @@
+slug: lincolns_sparrow
+common_name: Lincoln's Sparrow
+scientific_name: Melospiza lincolnii
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Fairly common winter west, summer east.
+species_of_concern: false
+sections:
+  general_description: The Lincoln's Sparrow is a small, streaky sparrow, similar in appearance to the Song Sparrow, but smaller and paler than the dark Song Sparrows seen in Washington. It has a white or buffy eye-ring and gray head. The breast is buffy and finely streaked, with the streaks often converging into a central spot, in sharp contrast with the belly, which is white and lacks streaks.
+  habitat: Breeding habitat is in wet, shrubby areas, usually above 3,000 feet. Lincoln's Sparrows are often found around the edges of ponds and marshes, open wet meadows, or other forest clearings with dense shrub cover. Low willow cover with dense ground vegetation is especially preferred. During migration, they can be found in dense, moist thickets, and in the winter, they inhabit grassy, weedy, and brushy areas, especially those with exotic reed canary grass, thistle, and blackberries, often near wetlands.
+  behavior: They do not join flocks of their own species, but one or two are often found flocking with other sparrows in winter and during migration. These secretive birds feed on the ground under cover in dense blackberry tangles and other brush.
+  diet: In winter, Lincoln's Sparrows eat mostly small seeds and some invertebrates, occasionally visiting feeders. During the breeding season, they feed mostly on arthropods, especially insect larvae, and eat a small amount of seeds.
+  nesting: Males defend territories and attract mates by singing. The well-concealed nest is located on the ground, often in very boggy sites, inside a low willow or birch shrub, with dense sedge cover. It is usually sunken into a depression so that the rim is level with the ground. The female builds the nest, an open cup made of grass and sedge, lined with finer grasses and hair. The female incubates the 3 to 5 eggs for 10 to 13 days. Both parents feed the young, which leave the nest at 10 to 11 days. The young are capable of sustained flight within a week of leaving the nest. The parents will continue to tend and feed the young for another 2 to 3 weeks.
+  migration_status: All populations of Lincoln's Sparrows are migratory, although some summer and winter ranges overlap in New Mexico and Northern California. Migration is extended in both the fall and spring. Many Lincoln's Sparrows migrate through Washington, breeding in the far north and wintering in the south. There are also breeding populations in mountainous parts of the state, as well as wintering populations in western Washington. It is unknown whether the birds that winter in Washington also breed here, or if they come from points north.
+  conservation_status: While they are common migrants throughout Washington, the breeding population is somewhat localized. Lincoln's Sparrows have fairly specialized breeding habitats, thus habitat preservation is quite important for this species. Wintering habitat also needs protection. Some eastern populations have experienced declines in recent years, but western populations of Lincoln's Sparrows appear to be stable or increasing.
+  when_where_wa: Lincoln's Sparrows are common breeders at high elevations in the northeastern corner of Washington. As migrants they are common throughout the state in appropriate habitat. Wintering birds are regular west of the Cascades, but are not typically found east of the mountains.
+photos:
+- file: lisp_gl_l.jpg
+  caption: 'Note: slender bill, buffy malar, and crisp streaks on buffy breast.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: lisp_gl2_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: LISP01.mp3
+  credit: null
+maps:
+  wa: meli.jpg
+  north_america: lispmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, F, R, '', '', R, F, F, U, U]
+  puget_trough: [F, F, F, F, R, '', '', R, F, F, F, F]
+  north_cascades: [R, R, R, U, F, F, F, F, F, R, R, R]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: ['', '', R, F, F, F, F, F, F, U, R, '']
+  okanogan: ['', '', '', U, F, F, F, F, F, F, '', '']
+  canadian_rockies: ['', '', '', '', U, U, U, U, U, '', '', '']
+  blue_mountains: ['', '', '', U, F, F, F, F, F, U, R, '']
+  columbia_plateau: [R, R, R, U, U, '', '', U, U, U, R, R]
+taxonomy:
+  ebird_code: linspa
+  current_common_name: Lincoln's Sparrow
+  current_scientific_name: Melospiza lincolnii
+  clements_sort: 33310
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/lincolns_sparrow
+  archived: '2026-09-12'

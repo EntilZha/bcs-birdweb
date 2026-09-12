@@ -1,0 +1,61 @@
+slug: spotted_sandpiper
+common_name: Spotted Sandpiper
+scientific_name: Actitis macularius
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Fairly common summer resident. Rare winter west.
+species_of_concern: false
+sections:
+  general_description: Spotted Sandpipers are distinctive shorebirds with bold, dark spots on their undersides during the breeding season. The beak is relatively short, straight, and yellowish in breeding plumage. In non-breeding plumage, Spotted Sandpipers lose most of their spots.
+  habitat: Spotted Sandpipers breed in a variety of freshwater habitats from sea level to alpine areas, although they are not as common at higher elevations. Nesting near streams, rivers, and lakes in open and wooded country, they require a shore for foraging and herbaceous cover for their nests. During migration and winter, they can be found almost anywhere near water, including mudflats, beaches, breakwaters, sewage ponds, and even in irrigation ditches. They prefer fresh water, but can also be found along salt water during migration.
+  behavior: Spotted Sandpipers are fairly solitary, and are seldom seen in flocks. They are well known for their habit of bobbing their rears up and down, and this can be a good way to identify them. Their flight is also characteristic'they fly low over the water with shallow, stiff wing-beats and bursts of flapping and gliding. When foraging, they pick up items from the surface of the ground or water, but will also grab insects out of the air. They forage right at the edge of a body of water.
+  diet: Spotted Sandpipers eat a wide variety of invertebrates.
+  nesting: Spotted Sandpipers are polyandrous'the female breeds with more than one male. Females are fully dominant; they are larger than males and arrive first on the breeding territory. The female stakes out a territory and displays to attract a male. The nest is on the ground, partly concealed by a log or a rock or hidden in vegetation, and lined with grass, twigs, and feathers. The female lays 4 eggs, and then leaves the male to incubate them while she finds another mate. In this way, she may breed with up to four males, each of which will raise a clutch. The female will often raise a final clutch herself. Incubation lasts for 19 to 22 days. The young leave the nest soon after they hatch. The male tends the young for at least four weeks, although they find their own food. Some populations are monogamous, and in those instances, the female will help tend the young. The young can fly weakly at 15 days, and by 18 days are capable of sustained flight.
+  migration_status: Some Spotted Sandpipers migrate short distances to the southern United States and Pacific Coast, but others travel as far as South America. They generally arrive in Washington the first or second week of May. Most adults leave by late July or August, and juveniles follow by September or October.
+  conservation_status: Spotted Sandpipers are the most widespread breeding sandpiper in North America. They are thought to have declined in many parts of their range in recent decades, possibly due to habitat loss and pesticides, which are both potential threats. However, they are still common range-wide. In Washington, Breeding Bird Survey data indicate that the population has increased significantly since 1966. The Canadian Wildlife Service estimates the North American population at 150,000 birds.
+  when_where_wa: Common breeders from May through September all over the state, Spotted Sandpipers are less common at higher elevations. Most are gone by November, although a small number winter in both fresh and salt water in Washington, mainly near the coast and in Puget Sound, in most years. Examine the edges of freshwater streams, sewage ponds, and agricultural ponds to find them.
+photos:
+- file: spsa_br_dp_l.jpg
+  caption: 'Breeding plumage. Note: black speckled breast and belly.'
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+- file: spsa_br_lb_l.jpg
+  caption: 'Breeding plumage. Note: black spots on breast and flanks, and orange bill with black tip.'
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+audio:
+  file: spsa.mp3
+  credit: null
+maps:
+  wa: acma.jpg
+  north_america: spsamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, U, F, F, F, F, U, U, R, R]
+  puget_trough: [R, R, U, U, F, F, F, F, F, U, U, R]
+  north_cascades: ['', '', '', R, F, C, C, C, U, U, '', '']
+  west_cascades: ['', '', '', U, F, F, F, F, U, R, '', '']
+  east_cascades: ['', '', '', U, F, F, F, F, F, U, '', '']
+  okanogan: ['', '', '', '', C, C, C, C, C, '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, F, U, '', '', '']
+  blue_mountains: ['', '', '', '', U, U, U, U, R, '', '', '']
+  columbia_plateau: ['', '', '', U, F, F, F, F, U, '', '', '']
+taxonomy:
+  ebird_code: sposan
+  current_common_name: Spotted Sandpiper
+  current_scientific_name: Actitis macularius
+  clements_sort: 6126
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/spotted_sandpiper
+  archived: '2026-09-12'

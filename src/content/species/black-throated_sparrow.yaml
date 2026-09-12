@@ -1,0 +1,77 @@
+slug: black-throated_sparrow
+common_name: Black-throated Sparrow
+scientific_name: Amphispiza bilineata
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Rare summer east. Casual west.
+species_of_concern: false
+sections:
+  general_description: The Black-throated Sparrow is a small, gray sparrow that has a distinctive black throat, with a bold white stripe above its eye and another down its cheek. Adults are not streaked. The black tail is outlined in white except at the tips of the middle tail feathers. Juveniles, who retain this plumage into October, lack the black throat of adults and are lightly streaked.
+  habitat: Black-throated Sparrows use a variety of dry, open, grassy or shrubby habitats, including sagebrush and creosote bush deserts. In Washington, they favor degraded or otherwise gravelly soils.
+  behavior: In winter, loose flocks feed on open ground. They walk or run, often with their tails cocked upward. Males sing from atop low bushes.
+  diet: Adapted to dry habitats, Black-throated Sparrows can survive long periods of time without supplemental water, obtaining moisture from the seeds and insects that make up their diet. In the hottest part of the summer, however, supplemental water is necessary. In the winter, seeds make up the majority of their diet. During the breeding and nestling season, insects become more important. When available, berries and other fruits, as well as fresh green shoots, are also part of their diet.
+  nesting: The timing of the breeding season may vary depending on rainfall and available food. The male sings to defend its nesting territory and to attract a female, and they form a monogamous pair. The nest is located in a low shrub, well hidden and close to or on the ground. The nest is an open cup of grass, small twigs, and other plant fibers, lined with fine grass, plant down, and hair. The female incubates the 3-4 eggs for 12-15 days. The female broods, and both parents feed the young. They leave the nest at 10-11 days, and most pairs raise two broods each year.
+  migration_status: Black-throated Sparrows are migratory, and the northern limit of their breeding range may change from year to year, occasionally extending farther northward. They winter in the southwestern United States and Mexico.
+  conservation_status: Throughout its range, the Black-throated Sparrow has declined in areas with increasing development. They do not adapt well to suburban environments, however they are still widespread and common in appropriate habitat. In Washington, at the northern edge of their range, numbers vary considerably each year, but are always quite low, with never more than a few pairs breeding. They are not likely to ever be common in Washington. The increased grass cover in Washington's shrub-steppe communities may inhibit more widespread breeding of Black-throated Sparrows.
+  when_where_wa: Black-throated Sparrows have been rare and local breeders since 1987 along the Columbia River south of Vantage, in and around Wanapum State Park (Kittitas County). In 1994, singing males were reported at several sites in the central Columbia Basin (Grant, Yakima, Klickitat, Benton, and Kittitas Counties) which may have coincided with extreme drought conditions farther south. No birds were reported in 1995, but in 1996 several were reported in eastern Washington.
+photos:
+- file: btsp_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: btsp_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: btsp_m1_gth_l.jpg
+  caption: Adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: btsp_m3_gth_l.jpg
+  caption: Adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: btsp_m2_gth_l.jpg
+  caption: Adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio: null
+maps:
+  wa: ambi.jpg
+  north_america: btspmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', R, R, R, '', '', '', '', '']
+taxonomy:
+  ebird_code: bktspa
+  current_common_name: Black-throated Sparrow
+  current_scientific_name: Amphispiza bilineata
+  clements_sort: 33018
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black-throated_sparrow
+  archived: '2026-09-12'

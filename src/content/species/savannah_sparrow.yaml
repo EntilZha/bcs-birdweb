@@ -1,0 +1,55 @@
+slug: savannah_sparrow
+common_name: Savannah Sparrow
+scientific_name: Passerculus sandwichensis
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Common summer resident. Uncommon winter west.
+species_of_concern: false
+sections:
+  general_description: The Savannah Sparrow, Washington's most common streak-breasted sparrow of the open country, is highly variable across its range. The white underside of this sparrow is streaked with buff and brown across the breast. The back is streaked, and a little bit of rufous is visible on the wings. The head is brown and gray with a pale yellow eyebrow, which may or may not be visible. These birds have pinkish legs and bills and relatively short, notched tails. Western Washington breeders are darkly striped, while birds east of the Cascades and many migrants are paler. Some of the migrants found in Washington are of a larger-sized race that breeds in the Aleutians.
+  habitat: The Savannah Sparrow is found in open habitats ranging from grassy coastal dunes, to farmland, to sub-alpine meadows. They do not need shrubs for perches, and are absent from pristine shrub-steppe habitat. They inhabit relatively small patches of grassland, and will even use disturbed and weedy areas in the open. They are common in grassy areas around towns and at the edges of irrigated fields, especially mint or alfalfa.
+  behavior: Small winter flocks forage on the ground. Savannah Sparrows walk when foraging, and often run or hop. They are less shy than many other open-country sparrows, singing from weeds and fence-wires in full view, and also singing from the ground. The male performs a flight display during the breeding season, flying slowly over the tips of the grass with his tail raised and his feet dangling down. The song, a distinctive trill preceded by a series of short notes, is distinctive and commonly heard.
+  diet: Seeds and insects make up the Savannah Sparrow's diet. These sparrows eat proportionally more insects during the breeding season and feed them to the young. During fall and winter, seeds and berries make up the vast majority of the diet. Coastal populations also eat some small crustaceans and mollusks.
+  nesting: The male sings to defend his territory and attract a mate. Polygyny is common in many populations, but many are monogamous. If both members of a pair survive, they are likely to re-pair in the following year. The female builds the nest on the ground, usually in a depression and well hidden in thick grass or under matted-down plants. Overhanging vegetation may act as a tunnel, giving the nest a side entrance. The nest itself is an open cup made of coarse grass and lined with finer grass. The female incubates the 4 to 5 eggs for 10 to 13 days. Both parents help brood and feed the young, which leave the nest at 10 to 12 days of age. The fledglings run short distances, but can't fly well for another week or so. The parents continue to feed and tend the young until they are about three weeks old.
+  migration_status: Most Savannah Sparrows migrate and spend the winter from the southern United States as far south as Central America. They migrate at night and migration is prolonged, with Washington breeders arriving in mid-March and leaving by mid-October.
+  conservation_status: There are two subspecies of Savannah Sparrow in Washington, geographically separated by the Cascades. Birds return each spring to the area where they were hatched, and this philopatry results in great regional variation within the population. It is possible that the 17 recognized subspecies will be grouped into three species in the future, but the two Washington subspecies would remain in the same group. The adaptable Savannah Sparrow is abundant and widespread and has probably benefited from early 20th Century human activity. However, urban sprawl and reversion of small farms to forests in the northeastern United States may account for population declines seen in this area. In the western United States, increased intensity of agriculture and continued forest clearing have probably contributed to the increases that continue to be seen in this region. Breeding Bird Survey results show a small, not statistically significant increase in numbers of Savannah Sparrows in Washington between 1980 and 2002.
+  when_where_wa: Savannah Sparrows are common breeders in grasslands on both sides of the Cascades. In western Washington, they can be found in the Puget Trough and down the Chehalis River out to the coast. They are common in agricultural areas and disturbed grasslands throughout eastern Washington. They can be found breeding in high-elevation meadows in the Cascades, but not the Olympic or Blue Mountains. In winter, they are uncommon in western Washington from mid-October to mid-March, and a few can usually be found in interior valleys and along the coast. They are found fairly regularly along the lower Columbia River, but are rare in winter east of the mountains.
+photos:
+- file: savs_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+audio:
+  file: SAVS01.mp3
+  credit: null
+maps:
+  wa: pasa.jpg
+  north_america: savsmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, U, C, C, C, C, C, C, F, R, R]
+  puget_trough: [U, U, U, C, C, C, C, C, C, F, U, U]
+  north_cascades: [R, R, R, C, C, C, C, C, C, R, R, R]
+  west_cascades: ['', '', U, F, F, F, F, F, F, U, '', '']
+  east_cascades: ['', '', '', U, R, R, R, U, U, R, '', '']
+  okanogan: ['', '', F, C, C, C, C, C, C, U, '', '']
+  canadian_rockies: ['', '', U, F, F, F, F, F, C, F, '', '']
+  blue_mountains: ['', '', '', R, F, F, F, F, F, '', '', '']
+  columbia_plateau: [R, R, F, C, C, C, C, C, C, U, R, R]
+taxonomy:
+  ebird_code: savspa
+  current_common_name: Savannah Sparrow
+  current_scientific_name: Passerculus sandwichensis
+  clements_sort: 33244
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/savannah_sparrow
+  archived: '2026-09-12'

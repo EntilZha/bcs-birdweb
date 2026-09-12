@@ -1,0 +1,69 @@
+slug: ovenbird
+common_name: Ovenbird
+scientific_name: Seiurus aurocapilla
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: State Review Species
+species_of_concern: false
+sections:
+  general_description: |-
+    A warbler with olive upperparts and whitish underparts that looks superficially like a small thrush, the Ovenbird nests in forests where males sing their ringing, rising “TEAcher-TEAcher-TEAcher” song from hidden perches. The spotted breast, white eye ring, and orange central crown framed by two black stripes are distinctive. Ovenbirds forage mostly on the ground, walking rather than hopping, turning over leaves to look for insects. Their closest approach to Washington in the nesting season is in northeastern British Columbia and the Rocky Mountains of Alberta and Montana. Wintering grounds are in Mexico, the West Indies, and Central America, and normal migration routes are from Texas eastward. However, the Ovenbird is one of the more frequent vagrant “eastern” warblers encountered in the West in both spring and fall (approaching 1,000 records in California and close to 40 in Oregon, where it is no longer on the state review list). Washington's 17 records are concentrated in May and June, with only three fall records. They are split about equally east and west of the Cascade crest, but with none on the outer coast. Curiously, there are no records for Idaho.
+
+    *Revised November 2007*
+photos:
+- file: ovenbird_1_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: ovenbird_2_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: ovenbird_3_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: oven_gl_l.jpg
+  caption: 'Note: greenish wings/back, orange crown bordered by dark stripes and bold eye ring.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio:
+  file: Ovenbird.mp3
+  credit: null
+maps:
+  wa: null
+  north_america: ovenmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: ovenbi1
+  current_common_name: Ovenbird
+  current_scientific_name: Seiurus aurocapilla
+  clements_sort: 33946
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/ovenbird
+  archived: '2026-09-12'

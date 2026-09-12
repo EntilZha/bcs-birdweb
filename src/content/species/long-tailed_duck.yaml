@@ -1,0 +1,85 @@
+slug: long-tailed_duck
+common_name: Long-tailed Duck
+scientific_name: Clangula hyemalis
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Fairly common winter coast. Rare east.
+species_of_concern: false
+sections:
+  general_description: Formerly known in the United States as the Oldsquaw, the Long-tailed Duck is a distinctive sea duck with a short bill and heavy body. The short, pointed, all-dark wings of the Long-tailed Duck are evident in all sexes and plumages. In breeding plumage, the male has a long, black tail-plume, a white rump and belly, and black breast. The head and back are black, with brown shoulders and a white patch around the eye. In winter the brown on the back is replaced by white, and the head is white with a gray cheek-patch. In spring, the female is gray with a white rump, and white around the eye and at the nape of the neck. In winter, she has a white face with dark crown and cheek-patch. The juvenile is similar to the female--gray with white, although it has more white on its face than the female.
+  habitat: Long-tailed Ducks breed in shallow tundra ponds and lakes. During other seasons, Long-tailed Ducks can be found on the ocean over sandy substrates. They prefer sheltered water, but can be found on the open ocean as well.
+  behavior: Long-tailed Ducks dive and swim under water, and, while they propel themselves with their feet like other ducks, their wings are sometimes partly opened under water. Most feeding is done within 30 feet of the surface, but they are capable of diving more than 200 feet below the surface. Long-tailed Ducks fly low with stiff and shallow wing-beats, often tilting from side to side.
+  diet: For Long-tailed Ducks at sea, mollusks and crustaceans are the main source of food. In summer, aquatic insects, other aquatic invertebrates, and some plant material are eaten.
+  nesting: Most female Long-tailed Ducks first breed at the age of two. Pair bonds are established in the winter, or during the spring migration, and last until incubation begins. The nest is located on dry ground close to the water, often hidden in the undergrowth or among rocks. It is a depression lined with plant material and great quantities of down that the female adds to the nest after she begins laying. She usually lays from 6 to 11 eggs and incubates them for 24 to 29 days. Shortly after hatching, the young leave the nest and can swim and dive well. The female tends them and may dislodge food items for them when she is diving, but they feed themselves. They first fly at 35 to 40 days.
+  migration_status: Migration takes place late in the fall and early in the spring. Long-tailed Ducks may travel in large flocks and fly very high when going over land, although they usually migrate along coastlines. Migration may be a short distance from the inland breeding area straight out to the coast, or may be a long trip down the coastline. On the West Coast, however, the majority of the population winters in the Bering Sea.
+  conservation_status: In the high Arctic, Long-tailed Ducks are often the most abundant bird, with a population in the millions. Such dense concentrations are vulnerable to oil spills and other contamination of the northern seas. When diving, many are caught in fishing nets and drown.
+  when_where_wa: In Washington from mid-October to early May, Long-tailed Ducks are usually found in deep salt water, sometimes intermingled with scoters. They are common on the coast and in north Puget Sound, and are less common in the southern end of the sound. Large flocks can often be observed off Point Roberts and in Bellingham Bay. They have also been seen on ponds and lakes in eastern Washington and in the Okanogan Valley.
+photos:
+- file: ltdu_m_gth_l.jpg
+  caption: Male in winter plumage.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: ltdu_w_gt_l.jpg
+  caption: Male, non-breeding (winter) plumage.
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: ltdu_m2_gth_l.jpg
+  caption: Male in winter plumage.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: ltdu_fl_gt_l.jpg
+  caption: Winter plumage
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: ltdu_tg_l.jpg
+  caption: Male, breeding (summer) plumage.
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: ltdu_j_tg_l.jpg
+  caption: Juvenile
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: ltdu.mp3
+  credit: null
+maps:
+  wa: clhy.jpg
+  north_america: ltdumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, '', '', '', '', R, U, U]
+  puget_trough: [C, C, C, U, U, '', '', '', '', F, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [R, R, R, '', '', '', '', '', '', R, R, R]
+taxonomy:
+  ebird_code: lotduc
+  current_common_name: Long-tailed Duck
+  current_scientific_name: Clangula hyemalis
+  clements_sort: 741
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/long-tailed_duck
+  archived: '2026-09-12'

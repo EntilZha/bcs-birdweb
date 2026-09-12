@@ -1,0 +1,73 @@
+slug: red-throated_loon
+common_name: Red-throated Loon
+scientific_name: Gavia stellata
+order:
+  name: Gaviiformes
+  slug: gaviiformes
+family:
+  name: Gaviidae
+  slug: gaviidae
+status: Common winter west, Rare migrant east
+species_of_concern: true
+sections:
+  general_description: The Red-throated Loon is the smallest and most slender of the loons. It has a thin bill that points slightly upward. In breeding plumage, it has a blackish-brown back, a gray head and neck, and a deep red throat. In non-breeding plumage, it has a gray back speckled with white, giving the bird an overall light gray appearance. The throat and face are white, with the white on the face extending above the eyes; the crown of the head is dark. Juveniles are brownish-gray. Under-parts are white in all plumages.
+  habitat: Red-throated Loons nest in small ponds in the tundra near larger lakes or coastlines. In winter they spend most of their time on protected ocean bays and large estuaries, although they have been known to winter on large lakes as well. They can often be found foraging on submerged mudflats and are generally found in shallower, more protected water than other loons, usually within a mile of the coast.
+  behavior: Unlike other loons, Red-throated Loons can take off directly from land. They can also take off from water without a running start, which enables them to take advantage of smaller bodies of water. During the winter, they are gregarious, feeding in small groups. This is the only loon that regularly forages away from its nesting pond during the breeding season.
+  diet: During both the breeding and non-breeding seasons, Red-throated Loons eat mostly marine fish. Crustaceans, mollusks, and other aquatic creatures round out the diet.
+  nesting: Red-throated Loons breed farther north than any other loon. They nest on shore or in shallow water, often on islands. Both sexes help build the nest, which is a simple heap of vegetation on a hummock. Both parents incubate the two eggs. The young leave the nest one day after hatching, and both parents continue to tend and feed the young.
+  migration_status: Medium-distance migrants, Red-throated Loons usually migrate singly, or occasionally in small groups. They travel along the coast a mile or so offshore.
+  conservation_status: The population of Red-throated Loons in Alaska has declined 53% in the last 20 years. Oil spills and habitat loss are major threats. Habitat loss in the far north is a significant risk factor because such areas are slow to rebound. These birds use marine waters year round, which makes them vulnerable to oil spills in all seasons.
+  when_where_wa: During winter, Red-throated Loons are fairly common on the inshore waters of the enclosed bays of Puget Sound. They can also be found at the mouths of large rivers. Migrant birds can be found at these same locations in both spring and fall, and occasionally, non-breeders are found there in summer. The spring migration peaks in late April to early May, with flocks gathering off the Washington coast. In fall, the migration peak is in late September and October. Red-throated Loons have bred as far south as Vancouver Island, so a Red-throated Loon breeding in Washington is a possibility, although there are no confirmed records for the state at this time.
+photos:
+- file: rtlo_tg_l.jpg
+  caption: 'Breeding plumage. Note: gray head and small upturned bill.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: rtlo_j_tg_l.jpg
+  caption: Juvenile
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: rtlo_1stsummer_tg_l.jpg
+  caption: 1st summer
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: rtlo_fl_tg_l.jpg
+  caption: Breeding plumage
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: rtlo.mp3
+  credit: null
+maps:
+  wa: gast.jpg
+  north_america: rtlomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, C, C, U, U, U, C, C, F, F]
+  puget_trough: [C, C, C, C, F, R, R, R, C, C, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [R, R, R, '', '', '', '', '', '', R, R, R]
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: retloo
+  current_common_name: Red-throated Loon
+  current_scientific_name: Gavia stellata
+  clements_sort: 6927
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/red-throated_loon
+  archived: '2026-09-12'

@@ -1,0 +1,79 @@
+slug: northern_pintail
+common_name: Northern Pintail
+scientific_name: Anas acuta
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common winter resident, uncommon breeder.
+species_of_concern: false
+sections:
+  general_description: Slim and long-necked, Northern Pintails have an elegant appearance on water and in flight. The male in breeding plumage has a dark brown head, white breast and throat, and a white line extending up the neck. The body is light gray with black-edged feathers, and the belly is white. The rump and the long tail are black. The female is mottled brown-and-black with a pointed tail and dark bronze speculum on its wing. Both sexes have gray legs and a dark gray bill, although the bill of the male is lined with blue on the sides. Males in eclipse plumage are similar to females, but are grayer, with some white remaining on the sides of the neck.
+  habitat: During the breeding season, Northern Pintails use shallow ponds and marshes in open areas. In winter they can be found around shallow wetlands, exposed mudflats, flooded fields, or lakes. During migration, they have been seen in offshore waters.
+  behavior: Northern Pintails are wary, especially during their flightless stage in late summer, when they are highly secretive. They will forage on land, but find most of their food by dabbling in shallow, muddy water.
+  diet: In fall and winter, Northern Pintails eat seeds and waste grain. In spring and summer, roots and new shoots as well as aquatic invertebrates make up the majority of the diet. As with many other species of duck, the young eat a greater proportion of invertebrates than the adults.
+  nesting: Pairing begins on the wintering grounds and continues through spring migration. Northern Pintails are among the earliest nesters, and arrive on the breeding grounds as soon as they are free of ice. The nest is located on dry ground in short vegetation. It is usually near water, but may be up to half a mile away from the nearest body of water. Pintail nests are often more exposed than other ducks' nests. The nest is a shallow depression, built by the female and made of grass, twigs, or leaves, lined with down. Incubation of the 6 to 10 eggs lasts from 21 to 25 days and is done by the female alone. The pair bond dissolves shortly after the female begins incubation, when the males gather in flocks to molt. Within a few hours of hatching, the young follow the female from the nest site. They can feed themselves, but the female continues to tend them until they fledge at 38 to 52 days. In the far north where continuous daylight allows for round-the-clock feeding, the young develop faster.
+  migration_status: Northern Pintails are early-fall migrants and begin to arrive on their wintering grounds starting in August, although the peak of the fall migration is in October in eastern Washington and November in western Washington. The northward migration begins early in the spring, from late February to mid-May, peaking in March and early April. Many Pintail flocks migrate from Siberia across the Bering Strait to winter in North America.
+  conservation_status: Widespread and common throughout North America, Europe, and Asia, the Northern Pintail is probably one of the most numerous species of duck worldwide. Numbers in North America vary a great deal from year to year, although some surveys have recorded significant, long-term declines since the 1960s. Predators and farming operations destroy many thousands of Northern Pintail nests each year. Farming has also affected nesting habitat. Pintails appear to be responding to new conservation practices, however, including habitat restoration and tighter restrictions on hunting, and numbers seem to be increasing. If these practices are maintained, Northern Pintails should be able to maintain a healthy population in North America.
+  when_where_wa: Northern Pintails are uncommon breeders in freshwater ponds and wetlands in the central Columbia Basin. The majority of Pintails breeding in Washington can be found in southern Grant and Adams Counties. In western Washington, some birds breed in less-developed parts of the southern Puget Trough, but summer sightings are most often non-breeders. During migration and winter, Northern Pintails are very common birds on the coast and in Puget Sound. They are most common in western Washington from late August to early May. In eastern Washington, they may be found all year.
+photos:
+- file: nopi_f_lb_l.jpg
+  caption: Female
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: nopi_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: nopi_tg_l.jpg
+  caption: Male
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: nopi_f_tg_l.jpg
+  caption: 'Female. Note: thin, long neck, thin dark bill, and plain face.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: nopi_fl_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: NOPI01.mp3
+  credit: null
+maps:
+  wa: anac.jpg
+  north_america: nopimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, R, R, U, C, C, C, C]
+  puget_trough: [C, C, C, C, U, R, R, U, C, C, C, C]
+  north_cascades: [U, U, U, F, '', '', '', R, U, U, U, U]
+  west_cascades: [C, C, C, C, F, R, R, R, F, C, C, C]
+  east_cascades: [R, R, U, U, U, '', '', R, R, U, U, R]
+  okanogan: ['', U, C, C, U, U, U, U, U, C, C, '']
+  canadian_rockies: ['', F, C, C, F, U, U, U, F, F, U, '']
+  blue_mountains: ['', '', '', R, R, '', '', '', R, R, '', '']
+  columbia_plateau: [C, C, C, C, U, U, U, U, F, C, C, C]
+taxonomy:
+  ebird_code: norpin
+  current_common_name: Northern Pintail
+  current_scientific_name: Anas acuta
+  clements_sort: 594
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/northern_pintail
+  archived: '2026-09-12'

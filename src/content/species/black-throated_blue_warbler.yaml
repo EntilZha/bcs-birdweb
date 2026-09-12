@@ -1,0 +1,57 @@
+slug: black-throated_blue_warbler
+common_name: Black-throated Blue Warbler
+scientific_name: Dendroica caerulescens
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    Nesting in deciduous forest from western Ontario across the northern Great Lakes to the Maritime provinces, New England, and south along the Appalachians, the Black-throated Blue Warbler winters primarily in the West Indies. The adult male is unmistakable, with blue crown and back, white underparts, black face, throat, and flanks, and prominent white patch at the base of the primaries visible on the folded wing as well as in flight. Although much plainer the adult female is no less distinctive: overall grayish-brown, white eyebrow, gray cheek, and small white primary patch. Immatures resemble adult females but often show no white in the wing.
+
+    This is one of the more regular vagrant warblers in the West. It occurs annually in California and Oregon, mostly in fall, and is no longer on the review lists of those states. Idaho has about a dozen records, the great bulk of them in September and early October. British Columbia’s six records are all from the southern part of the province—again, mostly in fall. Washington has eight accepted records, five from the Westside and three east of the Cascades. Seven of these first appeared between late September and early December; the eighth was recorded in Olympia (Thurston County) in early March. One bird remained for the entire winter at a feeder in Mercer Island (King County), from 2 November 1994 to 5 April 1995.
+
+    *Revised November 2007*
+photos:
+- file: btbw_gl_l.jpg
+  caption: 'Male. Note: blue above and white belly.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: btbw_f_gl_l.jpg
+  caption: 'Female. Note: white spot in primaries and curved white supercilium.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: btbwmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: btbwar
+  current_common_name: Black-throated Blue Warbler
+  current_scientific_name: Setophaga caerulescens
+  clements_sort: 34141
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black-throated_blue_warbler
+  archived: '2026-09-12'

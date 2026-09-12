@@ -1,0 +1,58 @@
+slug: broad-tailed_hummingbird
+common_name: Broad-tailed Hummingbird
+scientific_name: Selasphorus platycercus
+order:
+  name: Apodiformes
+  slug: apodiformes
+family:
+  name: Trochilidae
+  slug: trochilidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One record, from August 2000 in Asotin County.
+photos:
+- file: btah_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: btah_f_gt_l.jpg
+  caption: Female
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: btah_ffl_gl_l.jpg
+  caption: Female
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: btlhmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: brthum
+  current_common_name: Broad-tailed Hummingbird
+  current_scientific_name: Selasphorus platycercus
+  clements_sort: 4839
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/broad-tailed_hummingbird
+  archived: '2026-09-12'

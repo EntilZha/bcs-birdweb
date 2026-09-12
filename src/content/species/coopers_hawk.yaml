@@ -1,0 +1,73 @@
+slug: coopers_hawk
+common_name: Cooper's Hawk
+scientific_name: Accipiter cooperii
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Accipitridae
+  slug: accipitridae
+status: Fairly common winter. Uncommon breeder.
+species_of_concern: true
+sections:
+  general_description: The Cooper's Hawk is the most widespread of the three North American accipiters. Females are up to one third larger than males, one of the largest sexual dimorphism size differences of any hawk. Adults have solid gray upperparts, barred with reddish-brown. Their long tails are barred gray and black, rounded at the ends, with a white band at the tips. Their eyes are red. Immature birds are brown above with brown streaking on their white underparts; they have yellow eyes. Cooper's Hawks have short, rounded wings that are set slightly farther back on their bodies than those of the smaller, but similar-looking, Sharp-shinned Hawk. Their heads are relatively larger and their gray caps are darker and a little more prominent than those of the Sharp-shinned. The white tip of the tail of the Cooper's Hawk is usually wider than that of the Sharp-shinned Hawk, especially in the fall. All of these differences are quite subtle, and with the size difference between males and females, it can be difficult to distinguish a male Cooper's Hawk from a female Sharp-shinned Hawk.
+  habitat: Cooper's Hawks are generally found in forested areas up to 3,000 feet, especially near edges and rivers. Unlike the Sharp-shinned Hawk, which prefers conifers, the Cooper's Hawk prefers hardwood stands when they are available, but will use conifers too. The species prefers mature forests, but can be found in urban and suburban areas where there are tall trees for nesting. During the nesting season, Cooper's Hawks are often more common in open areas than Sharp-shinned Hawks. In winter, Sharp-shinned Hawks are seen in more open areas.
+  behavior: The hunting Cooper's Hawk approaches its prey stealthily, moving quietly through dense cover until it is close enough to overcome its target with a burst of speed. The secretive traits that allow the Cooper's Hawk to surprise its prey also make it difficult to observe. It is most easily seen during migration.
+  diet: Medium-sized birds (robins and jays) and small mammals (squirrels and mice) make up the majority of the Cooper's Hawk's diet.
+  nesting: Courtship is lengthy for Cooper's Hawks, and the male may feed the female for up to a month before she begins to lay eggs. They nest in a tree, 25-50 feet off the ground. The nest is often built on top of an old nest or clump of mistletoe. Both sexes help build the stick nest lined with pieces of bark. The female incubates the 3 to 5 eggs for 30 to 33 days. The male brings food and incubates the eggs when the female leaves the nest to eat. Once the 3 to 5 eggs hatch, the female broods for about two weeks. During this time, the male continues to bring food for the female and the young. He gives the food to the female, and she feeds it to the nestlings. The young start to climb about the nest at four weeks of age, and begin to make short flights soon after. The parents continue to feed the young for up to seven weeks.
+  migration_status: Most of Washington's Cooper's Hawks probably migrate south for the winter, but are replaced by other birds from farther north. Fall migration is often along mountain ridges and coastlines. Most of the migrants that pass through Washington probably head to central and southern Mexico for the winter.
+  conservation_status: Cooper's Hawk populations, especially in the East, declined significantly in the middle of the 20th Century, due to shooting, trapping, and pesticide contamination. They are still listed as endangered or threatened in several eastern states, but most populations have recovered well. Intentional killing is no longer an issue in most areas, although it does still occur. Pesticide contamination has less of an impact since the banning of DDT. The Washington Gap Analysis listed Cooper's Hawks on their at-risk list, although populations in the West appear to be relatively stable. Because Cooper's Hawks are inconspicuous, especially when they are nesting, it is difficult to get a clear picture of their status.
+  when_where_wa: Cooper's Hawks are reclusive and can be difficult to spot, especially during the breeding season, but they can be found in appropriate habitat in both eastern and western Washington year round.
+photos:
+- file: coha_tg_l.jpg
+  caption: 'Adult. Note: dark cap and thick legs.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: coha_fl2_gl_l.jpg
+  caption: Adult in flight.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: coha_j_gl_l.jpg
+  caption: 'Juvenile. Note: bold tear dropped streaking on breast and flanks and outer tail feathers that are shorter than the center tail feathers (creating a layered effect).'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: coha_fl_gl_l.jpg
+  caption: 'Juvenile in flight. Note: rounded tail and head projecting well beyond the straight leading edge of wing'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: coha.mp3
+  credit: null
+maps:
+  wa: acco.jpg
+  north_america: cohamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, U, U, F, F, F, U, U]
+  puget_trough: [U, U, U, U, U, U, U, F, F, F, U, U]
+  north_cascades: [R, R, U, U, R, R, R, U, U, U, U, R]
+  west_cascades: [U, U, U, U, U, U, U, U, F, F, U, U]
+  east_cascades: [U, U, U, U, U, U, U, U, U, F, F, U]
+  okanogan: [U, U, U, U, U, U, U, F, F, F, U, U]
+  canadian_rockies: [U, U, U, U, U, U, U, U, U, F, F, U]
+  blue_mountains: [R, R, R, U, U, U, U, U, U, U, R, R]
+  columbia_plateau: [U, U, U, U, U, R, R, R, F, F, U, U]
+taxonomy:
+  ebird_code: coohaw
+  current_common_name: Cooper's Hawk
+  current_scientific_name: Astur cooperii
+  clements_sort: 8278
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/coopers_hawk
+  archived: '2026-09-12'

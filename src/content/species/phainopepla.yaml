@@ -1,0 +1,58 @@
+slug: phainopepla
+common_name: Phainopepla
+scientific_name: Phainopepla nitens
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Ptilogonatidae
+  slug: ptilogonatidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One September record, from Seattle (King County).
+photos:
+- file: phai_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: phai_tg_l.jpg
+  caption: 'Male. Note: ragged crest and short bill.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: phai_f_tg_l.jpg
+  caption: 'Female. Note: white edges on wing feathers.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: phaimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: phaino
+  current_common_name: Phainopepla
+  current_scientific_name: Phainopepla nitens
+  clements_sort: 29909
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/phainopepla
+  archived: '2026-09-12'

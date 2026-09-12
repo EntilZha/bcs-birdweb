@@ -1,0 +1,25 @@
+slug: samish_flats
+name: Samish Flats
+number: 211
+ecoregions:
+- puget_trough
+sections:
+  site: The Samish Flats is an excellent location for finding birds associated with both land and salt water, particularly in winter. The area is the former estuary of the Samish River, which has been diked and drained and is now used principally for farming. There is excellent visibility across the generally flat land, except where occasional plantations of cottonwood trees obscure the view. Multiple paved and well-signed roads crisscross the area, providing easy access for automobile birding. Additionally, there are limited areas that can be reached on foot, particularly the land held by the Washington Department of Fish and Wildlife (WDFW) at "the West 90." To the south and east, forested uplands delineate the Samish, while the waters of Padilla Bay mark its western boundary. To the north, Samish Island and its causeway provide additional birding opportunities.
+  birds: 'The Samish provides important winter habitat for a variety of birds. Thousands of Mallard, Northern Pintail, and American Wigeon winter along the areas coasts. Many can also be found feeding in fallow fields and associated freshwater ponds. At high tide, large flocks of Dunlin and Black-bellied Plover move inland to feed and rest, returning to the muddy shorelines as the tide recedes. All of these are preyed upon by wintering hawks and falcons. Red-tailed and Rough-legged Hawks are ubiquitous, with many conveniently perched on the telephone poles and lines along the paved roads. Both adult and sub-adult Bald Eagles are dependable finds. Five species of North American falcons can be found: Gyrfalcon, Peregrine Falcon, Prairie Falcon, Merlin, and American Kestrel. (In 1999, an errant Eurasian Kestrel appeared, making a "six-falcon day" a reality for a few lucky birders.) Northern Harriers are also plentiful, and at the West 90 they are often joined by Short-eared Owls. In eruptive years, Snowy Owls have wintered along the dikes and in the fields. On occasion, both Coopers and Sharp-shinned Hawks perch and hunt in the trees that have been planted around many of the homes and other buildings. They are preying on wintering passerines, including a variety of sparrows and finches and the occasional winter Snow Bunting or Common Redpoll seen in some years.'
+  directions: |-
+    The Samish Flats are best visited in winter, from late October until the start of April. From I-5 north, take Exit #231 north on Chuckanut Drive to the Allen West Road. Turn left (west) and follow this to where it “T”s on the Farm to Market Road. Turn right (north) and then left (west) almost immediately on D'Arcy Road. This will “T” at the Bayview Edison Road. Go right (north) to where this “T”s on the Samish Island Road and turn left (west). Where this road turns ninety degrees north, proceed straight west into the WDFW parking area. This is known to local birders as “the West 90.” A Vehicle Use Permit is required. From here, explore the area to the north, up toward Samish Island, or bird the roads and fields to the east, en route to the town of Edison. Please respect private property, and drive courteously to avoid obstructing the roads for the local inhabitants.
+    Warning: Keep in mind that Washington's waterfowl hunting season extends into the middle of January; birders should avoid walking in any fields until after the closing date.
+photos:
+- file: SITE_Samish_Flats.JPG
+  caption: ''
+  credit:
+    name: Louise Rutter
+    url: null
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/samish_flats/3
+  archived: '2026-09-12'

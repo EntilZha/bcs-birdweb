@@ -1,0 +1,61 @@
+slug: black-necked_stilt
+common_name: Black-necked Stilt
+scientific_name: Himantopus mexicanus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Recurvirostridae
+  slug: recurvirostridae
+status: Fairly common summer east. Rare west.
+species_of_concern: true
+sections:
+  general_description: With its black and white plumage, long, thin red legs, and long neck, the Black-necked Stilt is both striking and delicate in appearance. It is a medium-sized shorebird with a black needle-like bill, black or dark brown upperparts, and a white breast. The iris is red, and there is a white spot above the eye. Breeding males have glossy black wings, back, and back of neck, and a pink tinge on the breast. Non-breeding males lack the glossiness and pink tinge. Adult females have a brown tinge to the back. Juveniles have brown upperparts with buff feather margins, and a white trailing edge to the wing in flight.
+  habitat: Black-necked Stilts are found on the margins of shallow inland ponds and lakes in open country. They are often associated with American Avocets, but will also use wetlands with more emergent vegetation such as flooded fields. During migration, Black-necked Stilts may visit coastal mud flats.
+  behavior: Black-necked Stilts are gregarious. They spread out while foraging and roost in small groups. Although during the breeding season and in winter, Black-necked Stilts are strongly territorial, the territories are aggregated, and adults will participate jointly in anti-predator displays; thus, there is some degree of coloniality. An anti-predator display called 'the popcorn display' consists of a group of adults encircling a ground predator and hopping side to side while flapping their wings. They forage visually by wading through the water and picking prey from at or near the surface. Black-necked Stilts often call loudly and incessantly when agitated.
+  diet: Black-necked Stilts most often consume aquatic invertebrates. They also sometimes eat tadpoles, tiny fish, and seeds of aquatic plants.
+  nesting: Pairs form on wintering grounds, during migration, or on breeding grounds; pairs remain monogamous throughout the breeding season. Both sexes choose the nest site, which is often on a small island in the marsh. The nest, a shallow depression, is scraped by either sex while the other sex watches. Lining is added throughout incubation, especially in wetter spots where plant material is used to build up the nest. The female typically lays four eggs, and both sexes incubate and care for young. The precocial chicks are able to leave the nest within 1-2 hours of hatching. Family groups remain together well beyond the time when the young can fly. Juveniles gather in small groups prior to departure from breeding areas. Pairs normally have one brood per season.
+  migration_status: Black-necked Stilts arrive on breeding grounds in Washington in April and stay as late as September or October. They winter in parts of California and the Gulf Coast, and throughout Mexico and Central and South America.
+  conservation_status: The first nesting record in Washington occurred in 1973, and it is thought that breeding Black-necked Stilts moved northward as a result of a drought in the southwestern states. Black-necked Stilts have since become established in Washington, numbers may be increasing, and their range expanding. The Black-necked Stilt's ability to take advantage of artificial habitat may counterbalance historic habitat loss. Failed reproduction due to selenium contamination of wetlands in the western United States is a concern. A subspecies in Hawaii, the Hawaiian Stilt, is federally endangered due to hunting, habitat loss, and introduced predators.
+  when_where_wa: During the breeding season, Black-necked Stilts are scattered in small colonies from Potholes Reservoir in central Washington north to Okanogan County. They are occasionally seen in western Washington in spring (April to May), rarely in early August.
+photos:
+- file: bnst_lb_l.jpg
+  caption: ''
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: bnst_f_dp_l.jpg
+  caption: 'Female. Note: slightly brownish back.'
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: bnst.mp3
+  credit: null
+maps:
+  wa: hime.jpg
+  north_america: bnstmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', R, R, R, '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', R, R, R, R, R, '', '', '', '']
+  canadian_rockies: ['', '', '', '', R, R, R, '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', R, '', '', '', '']
+  columbia_plateau: ['', '', R, C, C, C, C, F, U, '', '', '']
+taxonomy:
+  ebird_code: bknsti
+  current_common_name: Black-necked Stilt
+  current_scientific_name: Himantopus mexicanus
+  clements_sort: 5770
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black-necked_stilt
+  archived: '2026-09-12'

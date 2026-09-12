@@ -1,0 +1,61 @@
+slug: williamsons_sapsucker
+common_name: Williamson's Sapsucker
+scientific_name: Sphyrapicus thyroideus
+order:
+  name: Piciformes
+  slug: piciformes
+family:
+  name: Picidae
+  slug: picidae
+status: Uncommon summer resident east.
+species_of_concern: true
+sections:
+  general_description: The largest of Washington's sapsuckers, Williamson's Sapsuckers are striking birds. Males and females look very different from each other, and until 1873 they were mistakenly believed to be of different species. The upperparts of males are solid black. They have a large white rump patch and a large, showy white patch on each wing. Males have yellow bellies, bright red throats and black breasts. Their heads bear a white moustache line and white eye-line. The backs and wings of females are finely barred with light and dark brown. Like males, females have yellow bellies, black breast-bands, and white rumps, but their wings have no white wing-patches. Females' heads are brown, without conspicuous stripes. Juvenile plumage is mostly barred and mottled brown, without conspicuous markings.
+  habitat: Williamson's Sapsuckers breed in dry, open, conifer forests in mountainous regions, especially along rivers and in areas with western larch. They appear to be most successful in conifer forests with many different species of trees. During their migration they use a wide variety of habitats, and in winter they often use broadleaved forests, especially along rivers and streams.
+  behavior: Sapsuckers get their name from their foraging strategy of drilling holes in tree trunks, and then coming back to those holes later to feed on the running sap and the insects attracted to that sap. Unlike most woodpeckers, they forage in healthy trees and can actually kill a tree if they drill too many sap-holes around its trunk, although this is quite uncommon. Williamson's Sapsuckers also chip bark from trees to get to insects boring beneath. Their flight is deeply undulating. Although they are typically described as quiet and inconspicuous, they make loud, cat-like mewing calls, which may reveal their presence. They frequently sunbathe, facing away from the sun with their wings extended, tails spread, crown feathers raised, and heads held back.
+  diet: Williamson's Sapsuckers are omnivores and feed on sap, insects, and fruits. During the nesting season they eat mostly ants, and they feed ants to their young.
+  nesting: Williamson's Sapsuckers form monogamous pairs, a bird often pairing with its mate from a previous year. They typically nest in larch or aspens with dead heartwood but a solid outer layer. The male excavates a new nest cavity every year. The nest is lined with woodchips from the excavation but no other lining. Both sexes typically incubate the 4 to 6 eggs for 12 to 14 days, and both brood the young for the first week after they hatch. Both feed the young, which leave the nest after 31 to 32 days and may disperse soon after they leave. Williamson's Sapsucker pairs usually raise a single brood each year.
+  migration_status: In areas where sap freezes, Williamson's Sapsuckers are complete migrants, traveling in flocks to the American Southwest and Mexico for the winter. Females tend to migrate farther south than males.
+  conservation_status: Williamson's Sapsuckers are considered a keystone species, because many other species use the sap wells they drill. Forest management tends to limit the availability of nest sites, as these birds prefer trees with soft, decayed centers for nesting, trees that are often removed from managed forests. Audubon~Washington lists them as a species-at-risk. The Breeding Bird Survey reports strong declines in the Pacific Northwest in recent years, but its data are difficult to interpret because few survey routes go through the breeding range of the Williamson's Sapsucker. Formerly they were encountered only very infrequently in Washington, but a more thorough understanding of their breeding requirements has made them easier to find.
+  when_where_wa: From April through September, Williamson's Sapsuckers are uncommon breeders east of the Cascade crest. They are to be found most commonly in the Okanogan and Methow Valleys at elevations of 3,000 feet and above, especially in larch forests. Stampede Pass and Colockum Pass (Kittitas County) are other good locations. They are fairly common in the Okanogan Highlands and the eastern side of the Blue Mountains.
+photos:
+- file: wisa_m_gth_l.jpg
+  caption: Male.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: wisa_f_gth_l.jpg
+  caption: 'Female (left with male to right). Note: brown head and barred back.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio:
+  file: wisa.mp3
+  credit: null
+maps:
+  wa: sphth.jpg
+  north_america: wisamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: [R, R, R, U, U, U, U, U, U, U, R, R]
+  okanogan: ['', '', R, U, U, U, U, U, '', '', '', '']
+  canadian_rockies: ['', '', '', '', R, R, R, R, '', '', '', '']
+  blue_mountains: ['', '', R, F, F, F, F, F, F, U, '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: wilsap
+  current_common_name: Williamson's Sapsucker
+  current_scientific_name: Sphyrapicus thyroideus
+  clements_sort: 11123
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/williamsons_sapsucker
+  archived: '2026-09-12'

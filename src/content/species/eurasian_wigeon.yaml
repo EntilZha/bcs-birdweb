@@ -1,0 +1,67 @@
+slug: eurasian_wigeon
+common_name: Eurasian Wigeon
+scientific_name: Anas penelope
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Uncommon winter resident.
+species_of_concern: false
+sections:
+  general_description: This winter visitor from Siberia is a close relative of the American Wigeon. The male Eurasian Wigeon in breeding plumage has a salmon-colored breast, pale gray body, and black undertail coverts. His head is dark rufous with a yellowish forehead. The wing has a green speculum with white coverts (the white is absent on the female), much like the American Wigeon. Juveniles and males in eclipse plumage (from July to September) look like the female. Female Eurasian and American Wigeons appear very similar, but the female Eurasian lacks the black border at the base of the bill. The main features that distinguish the Eurasian Wigeon from the American Wigeon are the gray sides and the russet face-markings. The Eurasian Wigeon hybridizes occasionally with the American Wigeon, and these birds, which show a mixture of characteristics, are seen in Washington with regularity.
+  habitat: Eurasian Wigeons inhabit marshes, lakes, bays, and fields.
+  behavior: In North America, Eurasian Wigeons are almost always found in flocks of American Wigeons. The foraging strategies of the Eurasian Wigeon include picking food from the surface of shallow water, grazing in upland areas, and feeding on vegetation brought up by coots and diving ducks.
+  diet: Leaves, stems, roots, and seeds make up the bulk of the diet. Insects are also taken in the summer.
+  nesting: Eurasian Wigeons are known to breed only in Europe and Asia, although they are likely to be found breeding in North America eventually. They nest on the ground under dense vegetation, usually near water. The nest is a shallow depression lined with grass and down. The female incubates 8 to 9 eggs for 24 to 25 days. The young leave the nest and head for water shortly after hatching. They find their own food, although the female continues to tend them until they fledge at 40 to 45 days.
+  migration_status: Eurasian Wigeons are known to breed only in Europe and Asia, although they are likely to be found breeding in North America eventually. They nest on the ground under dense vegetation, usually near water. The nest is a shallow depression lined with grass and down. The female incubates 8 to 9 eggs for 24 to 25 days. The young leave the nest and head for water shortly after hatching. They find their own food, although the female continues to tend them until they fledge at 40 to 45 days.
+  conservation_status: Numbers of Eurasian Wigeons reported in North America have increased in recent decades, which may be due to increased reporting, or to an actual increase of birds. It is possible they are breeding at an unknown site somewhere in North America. Hybrids of Eurasian Wigeons and American Wigeons have been recorded.
+  when_where_wa: The Eurasian Wigeon is a regular winter visitor to Washington's coasts and western lowlands. Many large flocks of wintering American Wigeons contain at least one Eurasian. They are also found less commonly in eastern Washington during migration and winter.
+photos:
+- file: euwi_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: euwi_tg_l.jpg
+  caption: Male
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: euwi_f_jp_l.jpg
+  caption: 'Female. Note: evely reddish head and breast.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+audio:
+  file: euwi.mp3
+  credit: null
+maps:
+  wa: anpe.jpg
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, R, '', '', '', '', R, U, U, U]
+  puget_trough: [U, U, U, U, R, '', '', '', R, U, U, U]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [U, U, U, R, '', '', '', '', '', U, U, U]
+  east_cascades: [R, R, R, '', '', '', '', '', '', R, R, R]
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', R, R, '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [U, U, U, R, '', '', '', '', '', U, U, U]
+taxonomy:
+  ebird_code: eurwig
+  current_common_name: Eurasian Wigeon
+  current_scientific_name: Mareca penelope
+  clements_sort: 512
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/eurasian_wigeon
+  archived: '2026-09-12'

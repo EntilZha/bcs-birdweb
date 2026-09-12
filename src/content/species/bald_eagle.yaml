@@ -1,0 +1,73 @@
+slug: bald_eagle
+common_name: Bald Eagle
+scientific_name: Haliaeetus leucocephalus
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Accipitridae
+  slug: accipitridae
+status: Common resident.
+species_of_concern: true
+sections:
+  general_description: The mature Bald Eagle, our national emblem, is an easily recognizable and spectacular bird. It has a dark brown body and wings and a white head and tail. Its legs and feet are bright yellow, as is its large, hooked bill. Its piercing eyes are light yellow. Females are larger than males, weigh from 10-14 pounds, and have a 6½- to 7-foot wingspan. Males usually weigh from 8-10 pounds and have a 6- to 6½-foot wingspan. Juveniles (one-year old birds) and sub-adults (birds up to four years of age) are brown, with varying degrees of white mottling below. Young eagles do not reach full adult plumage until they are 4-6 years old. Bald Eagles may live up to 40 years.
+  habitat: The Bald Eagle is found only in North America, generally in coastal areas or near large inland lakes and rivers that have abundant fish and shores with large trees.
+  behavior: Bald Eagles are usually seen soaring on flat wings, flying with strong, slow wing beats, or perching in trees adjacent to water. They are opportunistic feeders - scavengers at times, predators at others. When scavenging, they are often seen on the ground or on the bank of a river or other body of water. Sometimes they steal food from other raptors. When hunting, they swoop down to the water or ground with feet thrust forward to snatch their prey. The undersides of eagle's feet are rough, and keep the fish from slipping from the eagle's grasp.
+  diet: Bald Eagles eat many fish, live fish that they snatch from the water and dead fish, especially spawned salmon, which they pick up from stream-sides. They also eat ducks and other water birds as well as small mammals. In the San Juan Islands, rabbits, hunted living or scavenged dead, are the main source of food. In many parts of Washington in winter, American Coots are an important part of the diet as well.
+  nesting: Bald Eagles build large stick nests called eyries in tall trees or on cliffs. They continue to build up the eyries year after year until they are massive, up to 9 feet in diameter and weighing up to 2,000 pounds. Bald Eagles do not breed until they are 4 to 6 years old, but when they pair for mating they tend to remain paired for life. The egg-laying season is generally late winter to early spring. In western Washington, sometime during the last days of February and the first days of March, the female lays 2 eggs. Both parents incubate the eggs for 34 to 36 days. For the first two weeks after the young hatch, one parent is with the chicks almost constantly. The young do not start to fly until they are 10 to 12 weeks old, and the parents continue to feed and defend them for another 2 to 3 months.
+  migration_status: Many of the Bald Eagles that breed in Washington are permanent residents. However some birds from western Washington leave the state in late summer and early fall and move north to exploit food sources such as salmon, then return by January to breed. Some birds that breed farther north winter in Washington.
+  conservation_status: The Bald Eagle formerly ranged from Alaska and Canada south into 45 of the 48 contiguous United States. Populations were drastically reduced in the early and middle 20th Century due in part to shooting, but mostly due to pesticides (especially DDT) that cause the thinning of eggshells and reduced productivity. After DDT was banned in the 1970s, the Bald Eagle made a dramatic comeback in many areas. Its range is still limited, but it continues to expand to areas with suitable habitat. In 1995, the US Fish and Wildlife Service downgraded the status of the Bald Eagle from "endangered" to "threatened." It is also considered a threatened species by the Washington Department of Fish and Wildlife. In Washington, there are currently more than 550 active Bald Eagle nests, including many in urban settings. Productivity rates are below target levels but are improving on the Hood Canal and the Lower Columbia River, perhaps due to the decrease in environmental contaminants. The Washington Department of Fish and Wildlife is studying this and other potential impacts on Bald Eagles, including the effect of human disturbance in both the breeding and non-breeding seasons. The Bald Eagle's dramatic recovery has had unfortunate effects on Great Blue Herons, since Bald Eagles occasionally plunder the nests of the herons, taking both eggs and young, and causing the herons to abandon some colonies.
+  when_where_wa: Western Washington has one of largest concentrations of Bald Eagles in the contiguous United States. They are common breeders along salt and fresh water at lower elevations throughout western Washington, especially in the San Juans and other northern Puget Trough islands and along both the north and west coasts of the Olympic Peninsula. They are uncommon breeders along major rivers and lakes in eastern Washington. They will nest fairly close to people; in fact several pair nest within the Seattle city limits. In winter, they are common in many areas with open water, including estuaries, major lakes, and rivers, especially those with salmon runs. Bald Eagles are well known for their abundance during the winter months on the Skagit River (Skagit County).
+photos:
+- file: baea_j_gth_l.jpg
+  caption: Juvenile
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: baea_fl_gl_l.jpg
+  caption: Adult
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: baea_jh_l.jpg
+  caption: Adult
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: baea_jfl_gl_l.jpg
+  caption: 'Juvenile. Note: longer juvenile flight feathers compared to freshly molted feathers'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: baea1.mp3
+  credit: null
+maps:
+  wa: hale.jpg
+  north_america: baeamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, F, F, F, C, C]
+  puget_trough: [C, C, C, C, C, C, C, F, F, F, C, C]
+  north_cascades: [C, C, C, F, U, U, U, U, U, U, C, C]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [F, F, F, U, R, R, R, R, R, U, F, F]
+  okanogan: [F, F, F, U, U, U, U, U, U, U, F, F]
+  canadian_rockies: [F, F, U, U, U, U, U, U, U, U, F, F]
+  blue_mountains: [U, U, U, R, '', '', '', '', '', R, U, U]
+  columbia_plateau: [F, F, F, U, R, R, R, R, R, U, F, F]
+taxonomy:
+  ebird_code: baleag
+  current_common_name: Bald Eagle
+  current_scientific_name: Haliaeetus leucocephalus
+  clements_sort: 8367
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/bald_eagle
+  archived: '2026-09-12'

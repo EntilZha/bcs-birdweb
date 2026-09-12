@@ -1,0 +1,71 @@
+slug: parasitic_jaeger
+common_name: Parasitic Jaeger
+scientific_name: Stercorarius parasiticus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Stercorariidae
+  slug: stercorariidae
+status: Fairly common coastal and pelagic migrant.
+species_of_concern: false
+sections:
+  general_description: The Parasitic Jaeger (known in most of the world as the Arctic Skua) is medium in size between the smaller Long-tailed Jaeger and larger Pomarine Jaeger. Its plumage is highly variable, with light, intermediate, and dark morphs. Light morphs have brown upperparts with a blackish cap and white collar, white underparts, and yellowish sides of the neck. They often have a partial or complete breast band. Dark morphs have brown underparts and head. All morphs have a white patch on the underwing and pointed central tail feathers that extend beyond the rest of the tail. These long tail feathers are lost during the non-breeding season. Juvenile and immature plumage also varies from light to dark. In general, except for dark morphs, juveniles and immatures have an orangish-brown or cinnamon wash on the head and neck, and barring on the back.
+  habitat: During migration, Parasitic Jaegers are more often found near shore and in estuaries than other jaegers. They spend most of the year on the ocean within a few miles of land. They nest on Arctic tundra, often near a body of water.
+  behavior: They are often seen in association with flocks of small gulls and terns. Parasitic Jaegers are agile in flight, and they often forage by chasing other seabirds and forcing them to drop their prey (kleptoparasitism). Breeding pairs defend large territories where they often cooperate in hunting birds, eggs, and rodents. On breeding grounds where the primary source of food is kleptoparasitism, territories are small and pairs nest in loose colonies.
+  diet: During the breeding season they eat a variety of birds and their eggs, rodents, insects, and berries. Non-breeders eat mostly fish stolen from other birds. Parasitic Jaegers are less dependent on lemming populations than are other jaegers.
+  nesting: Pairs usually return to the same territory each year. Males tend to arrive earlier to reclaim territory. The male chooses the nest site, which is often on a slight rise away from cover. The female builds the nest, a shallow depression sometimes lined with grass or lichens. Both sexes share incubation of the 2 eggs. The young may leave the nest within 2 days after hatching, but remain nearby. The parents feed the young by regurgitating food. The young stay with their parents for a few weeks after fledging, which occurs at 25-30 days.
+  migration_status: Migrants occur off Washington from August to November and April to June. The spring migration is shorter and less pronounced than fall. In the Pacific, Parasitic Jaegers winter at sea from southern California to southern Chile and Australia. They often migrate near the coast, but also farther at sea and over land. They breed from western Arctic Alaska and the Aleutian Islands to north-central Canada and Greenland. Migrants usually travel singly or in small groups, and they may come close to shore to steal food from gulls and terns.
+  conservation_status: There is no evidence of major changes in numbers, and the breeding range of the Parasitic Jaeger is relatively free from human encroachment.
+  when_where_wa: Parasitic Jaegers may be seen in coastal areas such as bays and estuaries, especially where gulls and terns are plentiful. Point No Point (Kitsap County) is usually a reliable place to locate them. They are rarely found inland but have been recorded in the Walla Walla River delta in late summer. An excellent way to locate them is to carefully observe flocks of Bonaparte's Gulls, Common Terns, etc.
+photos:
+- file: paja_jfl3_gl_l.jpg
+  caption: 'Juvenile (intermediate morph). Note: pale bill with dark tip (juvenile), and underwing covert barring as dark as flanks.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: paja_fl_jp_l.jpg
+  caption: 'Adult nonbreeding (light morph). Note: two short pointed central tail feathers and 4-5 white shafts on upper primaries.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: paja_jfl_jp_l.jpg
+  caption: 'Juvenile (light morph). Note: short central tail feathers'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: paja_jfl2_gl_l.jpg
+  caption: 'Juvenile (dark morph). Note: pale bill with dark tip (juvenile), broad white flash on underwing, and 4-5 shafts on upper primaries.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio: null
+maps:
+  wa: stpa.jpg
+  north_america: pajamap.gif
+abundance:
+  oceanic: ['', '', '', U, U, U, U, U, U, U, '', '']
+  pacific_northwest_coast: ['', '', '', U, U, '', '', U, U, U, '', '']
+  puget_trough: ['', '', '', '', '', '', R, U, F, U, R, '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', R, '', '', '']
+taxonomy:
+  ebird_code: parjae
+  current_common_name: Parasitic Jaeger
+  current_scientific_name: Stercorarius parasiticus
+  clements_sort: 6361
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/parasitic_jaeger
+  archived: '2026-09-12'

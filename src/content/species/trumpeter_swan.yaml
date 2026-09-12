@@ -1,0 +1,85 @@
+slug: trumpeter_swan
+common_name: Trumpeter Swan
+scientific_name: Cygnus buccinator
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common winter west. Rare east.
+species_of_concern: true
+sections:
+  general_description: The largest of the North American native waterfowl and one of our heaviest flying birds, the Trumpeter Swan is large and white. It holds its long neck straight up, often with a kink at the base. The bill is black, and there is no coloration in front of the eyes. The juvenile is dusky-gray, with a mottled dark-and-light bill that is black at the base. The juvenile plumage persists until at least spring migration, which helps distinguish the Trumpeter Swan from the Tundra Swan.
+  habitat: Trumpeter Swans inhabit lakes, ponds, large rivers, and coastal bays. They were historically more common in fresh water than salt water, but this is no longer the case. Their most important habitat requirements are open water, access to food, and protection from disturbance.
+  behavior: Trumpeter Swans forage on water and, especially in winter, on land. Their long necks allow them to forage for submergent vegetation without diving. They are a long-lived, social species.
+  diet: Plant material makes up most of their diet. Adults eat stems, leaves, and roots of aquatic plants, switching to upland grasses and waste grain in the winter. Washington birds eat cultivated tubers such as sweet potatoes. Young birds feed primarily on insects and other invertebrates, especially in the first weeks after hatching.
+  nesting: Trumpeter Swans don't usually nest until they are 4 to 7 years old, but they begin forming their long-term pair bonds at 2 to 4 years of age. Nests are surrounded by water, on islands, beaver or muskrat lodges, or on floating vegetation. Both male and female help build the nest (although the female does most of the work). The nest is a low mound of plant matter several feet across, with a depression in the middle. The nest may be reused from year to year. The females lays 4 to 5 eggs and does most of the incubation herself, although the male may help. The male guards the female and the nest while she is incubating. Incubation lasts for 32 to 37 days. The young are able to swim and feed themselves almost immediately after hatching. The parents tend them and lead them to feeding sites, where the young feed themselves. The young fly at about 3-4 months.
+  migration_status: Most southern populations are non-migratory, while northern populations move south in late fall as water begins to freeze. Most migration takes place during the day, and flocks fly low overhead in a V-formation. Migration starts early in spring, and birds often return to the breeding grounds before the water is free of ice.
+  conservation_status: Trumpeter Swans once nested over most of North America but disappeared rapidly due to human development and hunting practices. By the 1930s, fewer than 100 Trumpeter Swans remained south of Canada. With habitat preservation, protection from hunting, and reintroduction efforts, Trumpeter Swans have experienced a comeback, especially in the Northwest. They are now found in greater numbers in Washington than anywhere else in the contiguous United States. Of the over 15,000 individuals estimated in North America, more than 2,000 were counted in Skagit County during the 1999-2000 hunting season. Populations are still increasing and expanding their range to other counties in Washington, but they are not without threat. Habitat loss is still an issue, as is lead poisoning. Trumpeter Swans ingest lead shot as grit to help digest hard grains, and as few as three pellets can kill a Trumpeter Swan. Although lead shot is banned for hunting waterfowl in both the US and Canada, it can still be used for hunting upland birds and for trap shooting, which occurs in some of the areas where Trumpeter Swans winter. Swan die-offs from lead poisoning occur periodically. In 1992 a number of poisoned Trumpeter Swans were found, and in 1999-2000, at least 87 died. Since 2000, hundreds of Trumpeter Swans have died of lead poisoning in Whatcom County. The source of the lead shot is not known, but wildlife officials are trying to identify the source, so that they can remove it and prevent this from occurring in the future. Ailing Trumpeter Swans must be removed, as scavengers can also get lead poisoning from preying on poisoned swans.
+  when_where_wa: Trumpeter Swans spend the winter from November to April in the open fields and estuaries of Skagit and Whatcom Counties. Padilla Bay, Samish Bay, and Samish Flats are all areas that Trumpeter Swans frequent. Recently, this range has expanded to Grays Harbor and other areas of western Washington. They are uncommon in similar habitats in eastern Washington during winter. There are currently no Trumpeter Swans breeding in Washington, but a pair has been seen during the breeding season at the Turnbull National Wildlife Refuge (Spokane County) since 1994, and they may breed in coming years.
+photos:
+- file: trus_fl_lb_l.jpg
+  caption: ''
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: trus_a_dp_l.jpg
+  caption: Adult (front) and juvenile.
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+- file: trus_fl_dp_l.jpg
+  caption: Adults in flight.
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+- file: trus_lb_l.jpg
+  caption: ''
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: trus_jh_l.jpg
+  caption: 'Adult. Note: broad black area from bill to eye'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: trus_fl_jh_l.jpg
+  caption: 'Adult. Note: broad black area from bill to eye'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: trus.mp3
+  credit: null
+maps:
+  wa: cybu.jpg
+  north_america: trusmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, R, '', '', '', '', '', R, U, U]
+  puget_trough: [C, C, F, U, '', '', '', '', '', R, C, C]
+  north_cascades: [U, U, U, R, '', '', '', '', '', R, U, U]
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', R, R, '', '', '', '', '', R, R, '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [R, R, R, R, '', '', '', '', '', R, R, R]
+taxonomy:
+  ebird_code: truswa
+  current_common_name: Trumpeter Swan
+  current_scientific_name: Cygnus buccinator
+  clements_sort: 382
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/trumpeter_swan
+  archived: '2026-09-12'

@@ -1,0 +1,61 @@
+slug: brown_creeper
+common_name: Brown Creeper
+scientific_name: Certhia americana
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Certhiidae
+  slug: certhiidae
+status: Fairly common resident.
+species_of_concern: false
+sections:
+  general_description: The Brown Creeper is a small bird with a mottled brown back that blends in well with tree bark. It has a white breast and a white belly that fades to tan toward the vent. It has a pale eye-line and a bold, buff band across each wing that can be seen from above and below in flight. Its rump is reddish brown and its tail long and stiff. The Brown Creeper's bill is thin and curved.
+  habitat: In Washington, Brown Creepers prefer mature, moist, coniferous forests or mixed coniferous/deciduous forests. They are found in drier forests as well, including Engelman spruce and larch forests in eastern Washington. They generally avoid the rainforests of the outer coast. While they generally nest in hardwoods, conifers are preferred for foraging. In western Washington, look for them in Douglas firs.
+  behavior: Brown Creepers spend most of their time on main trunks or major limbs, bracing themselves with their tails like miniature woodpeckers. These inconspicuous and quiet birds are easy to overlook as they spiral up the trunk of a tree, probing into bark crevices with their narrow, curved bills. After a Creeper gets to the top of a tree, it flies down to the bottom of the next tree to start over. Outside of the breeding season, Brown Creepers often flock with kinglets, nuthatches, and chickadees.
+  diet: Brown Creepers eat insects, spiders and their eggs, and pupae that they find hidden in bark crevices. They eat some seeds and will come to suet feeders.
+  nesting: Nests are occasionally built in cavities, but for the most part they are tucked into crevices in tree trunks where the bark has separated from the trunk. Males defend their nesting territories by singing, and may chase females around trees during courtship. Nests are found at varying heights and in various shapes, usually filling the available crevice. Nests are generally cups made of twigs, bark strips, moss, and leaves, with soft linings. The male helps provide material, but the female generally builds the nest and incubates 5 to 6 eggs for 14 to 17 days. The male and female both feed the nestlings, which leave the nest 13 to 16 days after hatching.
+  migration_status: Brown Creepers are permanent residents in Washington, although high-altitude breeders may move down-slope during the winter. There may be some dispersal from eastern Washington in winter; Creepers are often more difficult to find there at that season.
+  conservation_status: As with many of Washington's birds, the Cascades divide this species into two subspecies. This species has declined in much of North America but appears to be doing well in Washington, with a small (not significant) increase on the state's Breeding Bird Survey since 1966.
+  when_where_wa: In western Washington, Brown Creepers are fairly common year-round in forested areas at all but the highest elevations. They are common during the breeding season in forests to the edge of the Columbia Basin, in the northeast corner of the state, and in the Blue Mountains. During migration and winter they can be seen in other areas and habitats.
+photos:
+- file: brcr_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: brcr_tg_l.jpg
+  caption: ''
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: brcr1.mp3
+  credit: null
+maps:
+  wa: ceam.jpg
+  north_america: brcrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, F, F, F, F, F, F, F, F, F]
+  puget_trough: [F, F, F, F, F, F, F, F, F, F, F, F]
+  north_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: [F, F, F, F, F, F, F, F, F, F, F, F]
+  blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
+  columbia_plateau: [R, R, R, R, R, R, R, R, R, R, R, R]
+taxonomy:
+  ebird_code: brncre
+  current_common_name: Brown Creeper
+  current_scientific_name: Certhia americana
+  clements_sort: 27026
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/brown_creeper
+  archived: '2026-09-12'

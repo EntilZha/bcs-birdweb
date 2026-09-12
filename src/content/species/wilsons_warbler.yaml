@@ -1,0 +1,85 @@
+slug: wilsons_warbler
+common_name: Wilson's Warbler
+scientific_name: Wilsonia pusilla
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: Common summer west. Fairly common east.
+species_of_concern: false
+sections:
+  general_description: Wilson's Warblers are small, bright yellow birds marked with black. They are bright yellow below, and olive-yellow above. Males have distinctive black caps on top of their heads, and both sexes have large, black eyes that stand out against the bright yellow on their faces. Females and immatures have duller, dark caps. The western Washington breeding race females have dark black caps.
+  habitat: Wilson's Warblers breed in wet, shrubby areas within forests. In Washington, they are most often found in small breaks in the forest that have dense, moist, shrubby cover, especially willow and alder thickets. These areas can be natural clearings, wetland edges, avalanche chutes, clear-cuts, or stream corridors. During migration and winter, they use similar habitats.
+  behavior: Wilson's Warblers are mostly solitary outside the breeding season, but associate with mixed flocks while foraging. They typically glean prey from leaf and twig surfaces, but also catch aerial prey. They forage fairly low, but rarely on the ground, and are very active, hopping from branch to branch. Wilson's Warblers have a characteristic tail wave or flip. This active hopping, combined with the tail flip, may help with identification.
+  diet: Wilson's Warblers eat insects and other small invertebrates. They also sometimes eat berries.
+  nesting: Wilson's Warblers are primarily monogamous, although some are polygynous, and high rates of extra-pair copulations have been observed. Pacific Lowland populations lay fewer eggs, raise fewer young, and have higher rates of monogamy than populations in the mountains. Lowland populations nest in shrubs, unlike their ground-nesting highland relatives. The female selects the nest site, either sunken in a patch of moss or sedge, or in a low shrub or vine. She builds a bulky open cup of leaves, grass, and moss, lined with grass and hair. The female incubates 2 to 7 eggs for 11 to 13 days, and broods the young for the first few days after they hatch. Both parents feed the young, which leave the nest 9 to 11 days after hatching. The parents continue to feed the young for up to 25 days after they fledge.
+  migration_status: Wilson's Warblers are Neotropical migrants that winter in the mountains of Mexico and Central America, although small numbers remain in the extreme southern U.S. They migrate at night, alone or in small groups, sometimes mixed with other species.
+  conservation_status: In Washington, the Breeding Bird Survey has reported a significant statewide population decline since 1980. Wilson's Warblers are hosts for parasitic Brown-headed Cowbirds, although rates are fairly low in most areas. Pesticides used in clear-cuts have been shown to have negative impacts on Wilson's Warblers. However, habitat degradation, especially in western riparian habitats, is probably the most significant threat to Wilson's Warblers, and is likely the cause of recent population declines in Washington and other western states.
+  when_where_wa: 'Two subspecies of Wilson''s Warbler breed in Washington: the Pacific Lowland subspecies breeds in western Washington, and the Rocky Mountain subspecies breeds in the northeast corner and the Blue Mountains. Wilson''s Warblers are one of the most common breeding warblers in western Washington, and can be found from April to mid-September, with smaller numbers lingering through the end of September. They are less common in eastern Washington, where they are found from May to early August in middle- to high-elevation forests of the Cascades, the northeast corner, and the Blue Mountains. They are common migrants in the lowland forests on the eastern slopes of the Cascades, and in appropriate habitats down to the Columbia Basin in smaller numbers.'
+photos:
+- file: GregLavaty229.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: wilsonwarbler_1_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: wilsonwarbler_2_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: wilsonwarbler_3_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: wiwa_f_gl_l.jpg
+  caption: 'Female. Note: olive crown and forehead, bright yellow overall, and yellow lores.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: wiwa_gl_l.jpg
+  caption: 'Male. Note: black crown,large dark eye and plain yellow face.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: WilsonsWarbler.mp3
+  credit: null
+maps:
+  wa: wipu.jpg
+  north_america: wiwamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', F, C, C, C, C, F, '', '', '']
+  puget_trough: ['', '', '', F, C, C, C, C, F, R, '', '']
+  north_cascades: ['', '', '', R, C, C, C, C, U, '', '', '']
+  west_cascades: ['', '', '', U, C, C, C, C, U, '', '', '']
+  east_cascades: ['', '', '', R, C, C, U, U, F, R, '', '']
+  okanogan: ['', '', '', '', C, U, U, C, C, '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, F, F, R, '', '']
+  blue_mountains: ['', '', '', '', U, F, F, F, F, U, '', '']
+  columbia_plateau: ['', '', '', R, C, R, '', C, C, '', '', '']
+taxonomy:
+  ebird_code: wlswar
+  current_common_name: Wilson's Warbler
+  current_scientific_name: Cardellina pusilla
+  clements_sort: 34346
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/wilsons_warbler
+  archived: '2026-09-12'

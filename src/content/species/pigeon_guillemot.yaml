@@ -1,0 +1,79 @@
+slug: pigeon_guillemot
+common_name: Pigeon Guillemot
+scientific_name: Cepphus columba
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Alcidae
+  slug: alcidae
+status: Fairly common resident coast.
+species_of_concern: false
+sections:
+  general_description: Pigeon Guillemots are stocky birds with rounded wings and bodies and straight bills. In breeding plumage, adults are solid black with white wing patches. Non-breeding adults and juveniles have white bellies and are mottled gray-and-white above. In all plumages, the birds have bright red feet.
+  habitat: Pigeon Guillemots are found along rocky shores and inshore waters along the Pacific coast from Alaska to California. During the breeding season, they can be found on rocky islands and mainland cliffs that are protected from predators, as well as on a variety of man-made structures. In the water, they are usually close to rocky shorelines where the water is 30-90 feet deep.
+  behavior: Pigeon Guillemots forage by diving and swimming underwater, propelled mostly by their wings, but, unlike most alcids, they also use their feet for propulsion. They forage by searching the bottom, diving up to 150 feet. They can also sometimes be seen on the surface of the water swimming with their heads submerged. They often sit on rocks with fish held crosswise between their bills until they swallow them.
+  diet: Small fish and a variety of other aquatic creatures, including mollusks and crustaceans, make up the Pigeon Guillemot's diet.
+  nesting: The nesting practices of Pigeon Guillemots vary from those of other alcids. They regularly lay two eggs, rather than one, and, while they will nest in loose colonies, they also nest singly. Birds do not breed until they are 3-5 years old. The male chooses the site in a crevice or cave, among boulders, under driftwood, or in a man-made structure such as a wharf or pipe. The pair may excavate their own nest, or use the abandoned burrow of another animal. Nest sites are reused from year to year. The nest is a shallow scrape in a pile of soil, pebbles, or shell scraps. Both parents incubate the eggs for about four weeks. Both parents feed the young until they leave the nest at about 4-6 weeks after hatching. When the young leave the nest, they can swim and dive, but they cannot fly well for another two or three weeks.
+  migration_status: Washington's breeding population of Pigeon Guillemots does not appear to migrate. However, more birds are present in Puget Sound in the winter, and these birds may have migrated north from farther south.
+  conservation_status: The population of Pigeon Guillemots in Washington is not well known, and has probably declined in recent decades. They are highly vulnerable to oil spills and other pollution, changing water temperatures, introduced mammals on nesting islands, and gill-nets. Numbers fluctuate from year to year. Significant increases were seen on the colony at Protection Island from 1976-1984, but that colony has declined dramatically from 3,000 pairs in 1993 to only 1,967 pairs in 1995. A conservative estimate puts the total number of birds in Washington during the breeding season at about 4,000 birds, although some estimates are closer to 6,000. Since they are not tightly clustered on a few breeding colonies, Pigeon Guillemots are less vulnerable than many alcid species to localized disturbances. In the absence of reliable population estimates however, the conservation status of this species is difficult to ascertain.
+  when_where_wa: Pigeon Guillemots are common year round along Washington's rocky coastline and in Puget Sound. They are more common and widespread in winter. They nest throughout the salt-water coastlines of Washington in practically every small island or coastline habitat throughout the state. Larger colonies are found in San Juan, Jefferson, Island, and Clallam Counties, and smaller colonies and single pairs are found throughout Puget Sound.
+photos:
+- file: pigu_br_gth_l.jpg
+  caption: Breeding plumage adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: pigu_brfl_gth_l.jpg
+  caption: 'Breeding plumage adult in flight. Note: black body, broad white wing patches, and red feet.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: pigu_b_jh_l.jpg
+  caption: Adult breeding plumage.
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: pigu_w_jh_l.jpg
+  caption: 'Adult non-breeding plumage. Note: broad white wing patches.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: pigu_j_jh_l.jpg
+  caption: 'Juvenile plumage. Note: dusky head and white wing edgings.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: pigu1.mp3
+  credit: null
+maps:
+  wa: ceco.jpg
+  north_america: pigumap.gif
+abundance:
+  oceanic: [R, R, R, R, R, R, U, U, U, U, R, R]
+  pacific_northwest_coast: [U, U, U, C, C, C, C, C, C, U, U, U]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: piggui
+  current_common_name: Pigeon Guillemot
+  current_scientific_name: Cepphus columba
+  clements_sort: 6404
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/pigeon_guillemot
+  archived: '2026-09-12'

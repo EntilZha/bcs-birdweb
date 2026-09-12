@@ -1,0 +1,73 @@
+slug: american_robin
+common_name: American Robin
+scientific_name: Turdus migratorius
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Turdidae
+  slug: turdidae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: The American Robin is a large, sturdy songbird with long legs, a light yellowish bill, and a long tail. It has an unstreaked, rusty-orange breast and a dark gray-brown back. White spots surrounding the eye look like a broken eye-ring. Males and females are similar in appearance, although females are less brightly colored. The young, like the young of most other thrushes, are spotted.
+  habitat: Robins breed in the widest variety of habitats of any Washington songbird. They are common in almost all habitats and most elevations throughout the state, except for large, dry, cultivated fields, alpine rocks and ice, and dense, unbroken rainforest. The robin is mainly a bird of fields, open woodlands, and forest edges, and it takes advantage of the edges and clearings provided by human development.
+  behavior: Outside of the breeding season, robins tend to form large flocks, often feeding in berry-producing trees. During the breeding season, robins forage on the ground. They move about by both running and hopping. Robins form monogamous pair bonds that last throughout the breeding season.
+  diet: During the breeding season, American Robins forage primarily on soft invertebrates such as earthworms and ground-dwelling insects. In winter, their diet shifts to berries and other fruit.
+  nesting: Females perform most of the nest building, although the males may help. The nest is typically built on the horizontal branch of a tree, 6-25 feet off the ground. The cup-shaped nest is made of grasses and twigs, held together with mud and lined with plant fiber and fine grass. The female typically lays 4 pale blue eggs and incubates them alone. Both parents feed the young. Parents aggressively defend the nest.
+  migration_status: Most robins are short-distance migrants, but some do not migrate at all. American Robins can be found year round in Washington, although most often the birds that breed in Washington migrate south and are replaced for the winter by birds that nest farther north. Large migratory flocks can be seen in spring and fall.
+  conservation_status: Robins have experienced significant population increases in the past 40 years, probably due to a combination of a decreased use of pesticides and an increase in human development and suburban sprawl that has created more edge habitat, lawns, and ornamental plantings for foraging. Robins' susceptibility to pesticides and their conspicuous nature make them a useful indicator of chemical pollution.
+  when_where_wa: Robins are found throughout the state of Washington. They are common and easy to spot statewide.
+photos:
+- file: amro_gt_l.jpg
+  caption: 'Male. Note: rich, red chest; lack of white throat.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: amro_m_gth_l.jpg
+  caption: Male.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: amro_f_gl_l.jpg
+  caption: 'Female. Note: pale red breast.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: amro_j_tg_l.jpg
+  caption: 'Juvenile. Note: speckled breast and more prominent facial markings.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: amro1.mp3
+  credit: null
+maps:
+  wa: tumi.jpg
+  north_america: amromap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [U, F, C, C, C, C, C, C, C, F, U, U]
+  west_cascades: [F, F, F, C, C, C, C, C, C, F, F, F]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [F, F, C, C, C, C, C, C, C, C, C, F]
+  canadian_rockies: [U, F, C, C, C, C, C, C, C, F, U, U]
+  blue_mountains: [R, R, F, C, C, C, C, C, C, U, U, R]
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: amerob
+  current_common_name: American Robin
+  current_scientific_name: Turdus migratorius
+  clements_sort: 28633
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/american_robin
+  archived: '2026-09-12'

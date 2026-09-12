@@ -1,0 +1,63 @@
+slug: bay-breasted_warbler
+common_name: Bay-breasted Warbler
+scientific_name: Dendroica castanea
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    The Bay-breasted Warbler nests in boreal forests, usually with a spruce component, from southeastern Yukon across central Canada to the northern Great Lakes, New England, and Atlantic Canada. It winters from Costa Rica and Panama to Colombia and Venezuela, migrating for the most part across the Gulf of Mexico. Although it nests uncommonly in the lowlands of northeastern British Columbia, east of the Rocky Mountain crest, it is no more than a casual visitor in the rest of the province and the northwestern United States. Washington has three records: 27 June 2002 at Granite Falls (Snohomish County; not accepted by the state bird records committee), 21 September 2002 at Moses Lake (Grant County), and 5–7 June 2006 at Chehalis (Lewis County). Idaho has seven records, five from fall and two from spring, although none of these has yet been reviewed by the state bird records committee. Oregon’s eight accepted records—all of them from the central and eastern parts of the state—are concentrated in spring and summer, with only one in fall (September).
+
+    All plumages show greenish upperparts, streaked back, two prominent white wing bars, and unstreaked underparts. Breeding-plumaged adults are easy to identify, with bay crown, upper breast, and flanks; dark face; and buffy sides to the neck. Immatures and fall birds are among the most confusing of all warblers, even with good views. Separation from Blackpoll Warbler can be particularly troublesome. Consult advanced field guides for the subtler points.
+
+    *Revised November 2007*
+photos:
+- file: bbwa_jh_l.jpg
+  caption: ''
+  credit:
+    name: Joseph V Higbee
+    url: http://www.pbase.com/jvhigbee
+  hero: false
+- file: bbwa_gl_l.jpg
+  caption: Breeding male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: bbwa_j_gl_l.jpg
+  caption: 1st winter
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: babwar
+  current_common_name: Bay-breasted Warbler
+  current_scientific_name: Setophaga castanea
+  clements_sort: 34083
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/bay-breasted_warbler
+  archived: '2026-09-12'

@@ -1,0 +1,73 @@
+slug: greater_sage-grouse
+common_name: Greater Sage-Grouse
+scientific_name: Centrocercus urophasianus
+order:
+  name: Galliformes
+  slug: galliformes
+family:
+  name: Phasianidae
+  slug: phasianidae
+status: Rare resident east.
+species_of_concern: true
+sections:
+  general_description: The largest grouse in North America, the Greater Sage-Grouse, is brownish-gray with white patterning. It has a long, spiky, pointed tail and a black belly. The male has a white breast and prominent yellow eyebrows. During the breeding season, groups of males do their courtship display together, puffing out air sacs in their chest and spreading their tails.
+  habitat: Greater Sage-Grouse are found in shrub-steppe and meadow-steppe habitats. They are typically found in areas with low, rolling hills adjacent to valleys. They prefer medium-density sagebrush mixed with a variety of other plants.
+  behavior: Male Sage-Grouse gather together in the spring to display on a common breeding ground, or lek, where the females come to choose mates. They strut around with their tails spread, repeatedly filling and emptying their air sacs with a large booming sound, which can be heard from over a mile away. Greater Sage-Grouse get around by walking most of the time, although they are strong fliers for short distances. They are not fast runners and will typically hide or fly when threatened.
+  diet: Greater Sage-Grouse forage on the ground year round; their winter staple is sagebrush leaves. At other times of the year, they eat flowers and buds from a variety of plants. In the summer, insects are also part of their diet, especially favored by the young. Unlike other grouse, they do not eat many hard seeds.
+  nesting: Females select a male from the lek, they mate, and the male rejoins the lek while the female leaves the lek to find a nesting site. She builds a nest on the ground under sagebrush or a clump of grass. The nest is a shallow depression lined with a bit of plant material. She lays 7-9 eggs. Shortly after hatching, the young leave the nest and find their own food, although the female continues to tend them.
+  migration_status: Greater Sage-Grouse are permanent residents in the sagebrush country of Washington. They may make small, seasonal movements into the lowlands in winter.
+  conservation_status: Greater Sage-Grouse are declining in Washington and in other parts of their range, and are listed as "threatened" by the Washington Department of Fish and Wildlife and as a "species of special concern" by the US Fish and Wildlife Service. Sage-Grouse were formerly found throughout the central Columbia Basin in areas of healthy sagebrush. Much of this sagebrush has been converted to agriculture or degraded by overgrazing. Sage-Grouse have now disappeared from much of their former range, currently occupying 8-10% of their historic range. In 1997, the Washington Department of Fish and Wildlife estimated that there were 900-1000 Greater Sage-Grouse left in Washington, divided into two isolated populations. One population is mostly located on private land in Douglas and Grant Counties, and the other is located on the Yakima Army Training Center grounds. Since the entire population in the state is restricted to these two spots, they are at serious risk to catastrophic fire, intensive grazing, military training impacts, inbreeding, and continued conversion of sagebrush to agriculture. The Conservation Reserve Program helps set aside habitat for Sage-Grouse on private land, and the Washington Department of Fish and Wildlife is currently researching habitat requirements of Greater Sage-Grouse in order to learn how best to protect them in the future. Protection and revegetation efforts have had some success, and the Douglas County population has increased since 1992. A state population as small as 1000 birds, distributed across only two isolated groups, is still at serious risk, and continued protection and habitat restoration are required to safeguard the future of the Greater Sage-Grouse.
+  when_where_wa: Greater Sage-Grouse formerly ranged from the Columbia River, north to Oroville, west to the foothills of the Cascades, and east to the Spokane River. A population of about 600 birds is located in Douglas and Grant Counties, on mostly private land. The Yakima Army Training Center in Kittitas and Yakima Counties has another population consisting of 300-400 birds.
+photos:
+- file: grsg_jh2_l.jpg
+  caption: Displaying male.
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: grsg_jh_l.jpg
+  caption: Displaying male.
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: grsg_tg_l.jpg
+  caption: Fighting males.
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: grsg_f_tg_l.jpg
+  caption: 'Female (with radio transmitter). Note: dark belly.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: grsg.mp3
+  credit: null
+maps:
+  wa: ceur.jpg
+  north_america: grsgmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [R, R, R, R, R, R, R, R, R, R, R, R]
+taxonomy:
+  ebird_code: saggro
+  current_common_name: Greater Sage-Grouse
+  current_scientific_name: Centrocercus urophasianus
+  clements_sort: 1312
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/greater_sage-grouse
+  archived: '2026-09-12'

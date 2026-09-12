@@ -1,0 +1,73 @@
+slug: american_bittern
+common_name: American Bittern
+scientific_name: Botaurus lentiginosus
+order:
+  name: Ciconiiformes
+  slug: ciconiiformes
+family:
+  name: Ardeidae
+  slug: ardeidae
+status: Uncommon summer resident. Rare winter.
+species_of_concern: true
+sections:
+  general_description: A solitary species, the American Bittern is more often heard than seen. It is a stout heron, with mottled buff-brown plumage. Its neck can be held in to appear short and sturdy, or extended to look long and slender. Its upperparts are solid brown, with darker outer wings. The adult has a dark streak on either side of its neck; the streak is absent on the juvenile.
+  habitat: American Bitterns are found in dense freshwater marshes and extensive wet meadows. They prefer wetlands with thick cattail and bulrush, mixed with areas of open water. In the winter, they can be found in a wider range of habitats, including flooded willow and salt marshes.
+  behavior: American Bitterns stand still at the edge of the water, sometimes walking slowly. Like most herons, they capture prey with sudden thrusts of their bills. They are most active at dawn and dusk. When alarmed, the bittern extends its neck and head vertically and freezes or sways with the breeze, blending in with the surrounding vegetation. Its eyes are set low on its head, enabling the bittern to see forward when it stands in this pose. The bizarre call of the American Bittern is the easiest way to locate this hard-to-find bird. The call is often described as sounding like a water pump. This dramatic and unusual vocalization is often heard at dusk or dawn and can carry long distances. The American Bittern produces this sound by spectacular contortions performed with its air-filled esophagus.
+  diet: Fish and other aquatic life make up the majority of the bittern diet. Bitterns also eat insects, amphibians, crayfish, and small mammals.
+  nesting: The American Bittern forms loose monogamous or polygynous pair bonds. . The male defends a nesting territory in a dense marsh but does not help with incubation or care of the young. The female builds a nest platform of marsh vegetation and lines it with grasses. The female alone incubates the 2-6 eggs for about 24 days. The young eat partly digested food regurgitated by the female. After a week or two, the young may leave the nest, but stay close by and are fed until they are about four weeks old. First flight may take place at around 7-8 weeks.
+  migration_status: Northern populations, where water freezes, are strongly migratory. In milder areas, where water doesn't freeze, they will likely stay in the same area year round. In areas where they migrate, they leave in late September or early October and return from late April to early May.
+  conservation_status: Since they are difficult to find, American Bitterns may be more widespread than many surveys indicate. Disturbance by recreational boaters and acid precipitation are both potential threats to the population, but the most significant threat is habitat loss. The population has declined throughout much of the United States, mostly due to wetland loss and degradation. There is much we don't know about the biology of this secretive bird, and more research may help protect it from further losses.
+  when_where_wa: The American Bittern can be found year round in the mild coastal and western Washington climate, and is primarily a summer breeder in the eastern portion of the state. In appropriate habitat at low elevations, American Bitterns are common, although difficult to spot, year round in the west, and from April to September in eastern Washington. Less common the rest of the year in eastern Washington, they are mainly found in large marshes and along major waterways with dense emergent vegetation.
+photos:
+- file: ambi_lb_l.jpg
+  caption: ''
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: ambi_gl2_l.jpg
+  caption: 'Note: heavily striped brown throat/chest and dark malar.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: ambi_gl3_l.jpg
+  caption: Note dark malar.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: ambi_fl_gl_l.jpg
+  caption: Note dark flight feathers.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: ambi.mp3
+  credit: null
+maps:
+  wa: bole.jpg
+  north_america: ambimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, U, U, U, U, U, U, U, R, R]
+  puget_trough: [U, U, U, U, U, U, U, U, U, U, U, U]
+  north_cascades: ['', '', '', R, R, R, R, R, R, '', '', '']
+  west_cascades: [R, R, R, U, U, U, U, U, U, U, R, R]
+  east_cascades: ['', '', '', R, R, R, R, R, R, '', '', '']
+  okanogan: ['', '', '', U, U, U, U, U, U, R, '', '']
+  canadian_rockies: ['', '', '', '', U, U, U, U, '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [R, R, R, U, U, U, U, U, U, R, R, R]
+taxonomy:
+  ebird_code: amebit
+  current_common_name: American Bittern
+  current_scientific_name: Botaurus lentiginosus
+  clements_sort: 7560
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/american_bittern
+  archived: '2026-09-12'

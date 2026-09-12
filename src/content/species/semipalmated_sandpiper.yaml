@@ -1,0 +1,59 @@
+slug: semipalmated_sandpiper
+common_name: Semipalmated Sandpiper
+scientific_name: Calidris pusilla
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Uncommon fall migrant. Rare spring.
+species_of_concern: true
+sections:
+  general_description: The Semipalmated Sandpiper is a small shorebird in the group known as peeps or stints. The Semipalmated Sandpiper gets its name from the slight webbing at the base of its toes. This can be difficult to see and is not diagnostic, as other sandpipers also have these webbed feet. Its stubby bill and drab plumage help distinguish it from the other peeps, the Least and Western Sandpipers. The adult in breeding plumage is mottled black-and-brown, with little or no rufous coloration. The adult in non-breeding plumage is light gray with a lighter belly. The legs of the adult are black, distinguishing this bird from the yellow-legged Least Sandpiper. In flight, the Semipalmated Sandpiper shows a white stripe down its wings and white on either side of its tail. Juveniles look similar to adults in breeding plumage, and rarely have the rufous coloration seen on juvenile Western and Least Sandpipers. In the late summer when we are most likely to see them, the juveniles have not reached adult plumage, and their legs may be olive-colored.
+  habitat: Semipalmated Sandpipers breed in the Arctic tundra, usually near water, across northern North America. During migration and winter, they inhabit beaches, mudflats, shallow estuaries, and inlets. Birds in Washington are usually found in freshwater ponds, even near coastal areas.
+  behavior: They are surface feeders, running and stopping frequently, grabbing food from the surface of the sand or mud. They also occasionally probe in the mud. They move faster than Western Sandpipers and feed in shallower water, which may help distinguish the two but is not a surefire distinction.
+  diet: During breeding season, Semipalmated Sandpipers eat insects, including flies and larvae, and other invertebrates. The winter and migration diet consists of small crustaceans and aquatic insects, mollusks, and marine worms.
+  nesting: Semipalmated Sandpipers first breed at two years. Males arrive on the breeding grounds shortly before the females and begin establishing territories immediately. Monogamous pairs form soon after the females arrive. The male starts several nest scrapes, and the female selects one that they both line with leaves, grass, and moss. The nest is usually located on top of a low mound or small island, under a small shrub or in a sedge tussock. Both parents incubate the four eggs for about 20 days. The young leave the nest soon after they hatch and find their own food immediately. The male broods them quite often during the first four or five days, and for the first eight nights. Females often leave the brood before they fledge, sometimes as soon as the young hatch. Males tend the young until they fledge. The young start to take short flights at 14 to 15 days, and can make sustained flights at 16 to 19 days.
+  migration_status: Semipalmated Sandpipers are long-distance migrants. Different breeding populations take different migratory routes, but most winter on the Atlantic coast, south of the United States. The Alaskan breeding population migrates coastally to Vancouver, BC, and then heads inland, moving across the mid-continent in both fall and spring.
+  conservation_status: Semipalmated Sandpipers are abundant but vulnerable. The Canadian Wildlife Service estimates the population at 3,500,000 birds. They depend heavily on a few key stopover points. Some of these have been protected, but others are vulnerable to development. Habitat destruction remains their biggest threat.
+  when_where_wa: Washington is just outside the normal range of Semipalmated Sandpipers, but slightly off-course migrants are reported regularly during migration. A few birds are usually seen on the coast from late April through May. Adults are seen from late June to mid-August. Juveniles are slightly more common than adults and pass through from late July to mid-September. A few are sometimes seen at freshwater and brackish ponds in the Puget Sound region. Crockett Lake (Island County) is the most reliable place for finding them. They may also appear at the Union Bay Natural Area/Montlake Fill (Seattle, King County). In eastern Washington, they are rare in spring (May), with only a few recorded sightings. In the fall they are more regular, with small numbers of adults passing through in mid-July. There have been a few records at Wenas Lake (Yakima County) in August, but eastern Washington wetlands at the Walla Walla River delta (Walla Walla County), Othello (Adams County), and Reardan (Lincoln County) are more likely spots.
+photos:
+- file: sesa_ad1_gth_l.jpg
+  caption: Summer adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: sesa_ad2_gth_l.jpg
+  caption: Summer adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio: null
+maps:
+  wa: capu.jpg
+  north_america: sesamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', R, R, R, '', '', '']
+  puget_trough: ['', '', '', '', R, '', U, U, R, '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', R, R, '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', R, U, R, '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', U, U, R, '', '', '']
+taxonomy:
+  ebird_code: semsan
+  current_common_name: Semipalmated Sandpiper
+  current_scientific_name: Calidris pusilla
+  clements_sort: 6232
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/semipalmated_sandpiper
+  archived: '2026-09-12'

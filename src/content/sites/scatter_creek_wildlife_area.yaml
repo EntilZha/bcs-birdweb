@@ -1,0 +1,29 @@
+slug: scatter_creek_wildlife_area
+name: Scatter Creek Wildlife Area
+number: 213
+ecoregions:
+- puget_trough
+sections:
+  site: |-
+    Scatter Creek Wildlife Area is managed by the Washington Department of Fish and Wildlife (WDFW). It is over 1,060 acres in size and roughly 200 feet above sea level, with a mild climate typified by warm, dry summers and cool but generally snow-free winters. Cloudy or rainy days outnumber sunny ones during spring and fall.
+
+    Scatter Creek is a clear, cobble-bottomed salmon-bearing stream. The grasslands are native glacial outwash prairie, a globally rare community. They are dominated by Roemer's fescue, and include a variety of forbs including camas, spring gold, lupine, strawberry, chocolate lily, and blue violets. In recent years, managers have battled infestations of non-native Scot's broom and, most recently, tall oatgrass.
+  birds: The birds most likely to be encountered in the prairie include Savannah Sparrow, Common Yellowthroat, Western Meadowlark, Mourning Dove, Barn, Violet-green, and Tree Swallow, Northern Harrier, American Kestrel, and Common Nighthawk. In the oak woodlands, one is likely to find Pacific-slope Flycatcher, Western Wood-Pewee, Black-throated Gray Warbler, Warbling Vireo, and Lazuli Bunting. In the coniferous and mixed deciduous-coniferous forests, you'll find Winter Wren, Wilson's Warbler, Swainson's Thrush, Western Tanager, and Great Horned Owl. Look for Wood Ducks and Belted Kingfishers along Scatter Creek. Uncommon migrants include Black Swift, Northern Shrike, Townsend's Solitaire, and Horned Lark.
+  directions: |-
+    Late April through May is a great time to visit, due to the profusion of flowering prairie forbs. Early morning visits provide the best opportunity to see and hear birds.
+    To get to Scatter Creek Wildlife Area, take I-5 and exit at #95 (Littlerock Maytown). Drive west, past the Farm Boy restaurant, and make a left turn onto Case Road. In about four miles, you will come to the north unit of the wildlife area on the west side of the road. If you continue to a right turn onto 180th, you'll end up at the parking lot for the south unit. A Vehicle Use Permit is required. There are vault toilets at the parking lots.
+    Warning: This wildlife area is a pheasant-release site, so be aware of the Western Washington pheasant-hunting season. On some weekends in winter, there are field trials; this means that dogs, people, horses, and guns may be present. Both units of Scatter Creek Wildlife Area have designated horse trails.
+photos:
+- file: site_scatter_creek.jpg
+  caption: ''
+  credit:
+    name: Kelly McAllister
+    url: null
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/scatter_creek_wildlife_area/3
+  archived: '2026-09-12'

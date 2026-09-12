@@ -1,0 +1,46 @@
+slug: yellow-throated_vireo
+common_name: Yellow-throated Vireo
+scientific_name: Vireo flavifrons
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Vireonidae
+  slug: vireonidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One record, from Spencer Island (Snohomish County) in October 1995.
+photos:
+- file: ytvi_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: ytvimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: yetvir
+  current_common_name: Yellow-throated Vireo
+  current_scientific_name: Vireo flavifrons
+  clements_sort: 19220
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/yellow-throated_vireo
+  archived: '2026-09-12'

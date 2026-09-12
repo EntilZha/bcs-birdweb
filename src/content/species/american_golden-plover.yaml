@@ -1,0 +1,55 @@
+slug: american_golden-plover
+common_name: American Golden-Plover
+scientific_name: Pluvialis dominica
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Charadriidae
+  slug: charadriidae
+status: Uncommon to rare migrant west, mostly fall.
+species_of_concern: true
+sections:
+  general_description: American Golden-Plovers have dark brown upper parts, spangled with gold to pale yellow or whitish. A white stripe extends from the forehead, over the eyes, to the wings. Breeding males are solid black from chin to under-tail coverts. Females are duller in color. Non-breeding adults and juveniles have white throats, gray-brown breasts, and white bellies. The breasts and sides may be striped with brown, or spotted in juveniles. American Golden-Plovers can be distinguished from Black-bellied Plovers by their smaller size, dark rump and wings, and gray under the wing. Distinction from the Pacific Golden-Plover is tricky. Consult a good field guide.
+  habitat: During the spring and fall migration, American Golden-Plovers use a variety of habitats including coastal mudflats and estuaries, and adjacent salt marshes and fields. American Golden-Plovers nest primarily on arctic and subarctic tundra of North America, and winter on South American grasslands.
+  behavior: Although the American Golden-Plover commonly walks and runs, it is capable of swift and extended flight. During migration, American Golden-Plovers roost and fly in flocks. They are highly territorial on breeding grounds, and some individuals defend feeding territories on wintering grounds. American Golden-Plovers forage in typical plover fashion, stopping and running, then pecking at the ground.
+  diet: Their diet consists of small mollusks, crustaceans, and a variety of insects. Berries are an important food item in the spring and fall.
+  nesting: Within a few days of arrival on nesting grounds, males begin territorial display flights, and pairing takes place. Males produce a nest scrape and line the nest with lichen. American Golden-Plover nests are located on dry, open tundra. Females lay four eggs. Males usually incubate during the day, and females incubate at night. Chicks are extremely precocial and can feed themselves within a few hours of hatching. Both parents tend the young. American Golden-Plovers have a maximum of one brood per season.
+  migration_status: American Golden-Plovers are long-distance migrants, traveling back and forth between arctic North America to southern South America each year.
+  conservation_status: The American Golden-Plover's breeding range is relatively safe from human exploitation, but migratory routes and winter ranges are under pressure from agriculture and urbanization. Populations have not recovered to historic numbers since the American Golden-Plover was hunted excessively in the late 19th Century, and may be limited by loss of winter habitat. However, this species does not appear to be threatened at this time.
+  when_where_wa: A very few American Golden-Plovers may be found on the outer coast in the spring, as they move through Washington in April and May. The longer fall migration period lasts from August through October, and flocks of 50-150 are regularly seen in places such as Grays Harbor and Leadbetter Point. They are regularly but rarely recorded around Puget Sound and in eastern Washington. Adults make up the majority of birds seen in August, while most of the birds in September and October are juveniles. A few individuals may occasionally winter in Washington.
+photos:
+- file: agpldp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: amgp.mp3
+  credit: null
+maps:
+  wa: pldo.jpg
+  north_america: amgpmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', U, U, U, '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', R, R, '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', R, R, R, '', '']
+taxonomy:
+  ebird_code: amgplo
+  current_common_name: American Golden-Plover
+  current_scientific_name: Pluvialis dominica
+  clements_sort: 5815
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/american_golden-plover
+  archived: '2026-09-12'

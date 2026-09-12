@@ -1,0 +1,31 @@
+slug: nisqually_national_wildlife_refuge
+name: Nisqually National Wildlife Refuge
+number: 206
+ecoregions:
+- puget_trough
+sections:
+  site: Nisqually National Wildlife Refuge includes a combination of estuaries, tideflats, freshwater marshes, woodlands, and grasslands. The Nisqually Delta is a major non-coastal resting and feeding area for migrating waterfowl and shorebirds. It is rich in microorganisms that support a variety of wildlife.
+  birds: |-
+    Approximately 180 species of birds have been observed on the refuge, and 130 species are commonly observed. About 100 species nest on the refuge. Waterfowl migrating along the Pacific Flyway begin arriving in late September, and many remain through the winter. Dabbling ducks make up about 90% of the sightings. Both Canada and Cackling Geese are common in the winter. Seventy-seven species of passerines can be observed on the refuge, particularly in the riparian habitats. Most species are observed during the spring and summer months. Raptors are common on the refuge with Northern Harriers and Red-tailed Hawks most common. Bald Eagles nest near the Twin Barns, and Peregrine Falcons can be seen November through March.
+
+    Almost 50 species of mammals have been sighted on the refuge. Columbian black-tailed deer, eastern gray squirrels, eastern cottontail, river otter, long-tailed weasel, and mink are the most common sightings. Harbor seals and California sea lions can be seen in the Nisqually River during salmon runs in winter.
+  directions: |-
+    Nisqually National Wildlife Refuge is located off Exit #114 from I-5. After exiting the freeway, turn right at the light (from southbound I-5), or turn left at the stop sign (from northbound I-5), and proceed to the refuge entrance.
+
+    Birding is good year round, but especially so in the winter and spring. There are seven miles of trails, most of which are open all year. Trails are mostly gravel or grass and may be muddy in certain areas. Three miles of the 5.5-mile outer dike trail are closed for safety reasons during hunting season, mid-October through late January. There is a one-mile boardwalk loop that is handicap-accessible.
+
+    The visitor center is open 9:00AM-4:00PM, Wednesday through Sunday, staffed by volunteers. Restrooms and drinking water are available at the visitor center. Daily access fee is $3 per family. An annual refuge pass is available for $12, and Golden Eagle and Golden Age passports are also honored. No pets, bicycles, or jogging are allowed on the refuge.
+photos:
+- file: site_nisqually.jpg
+  caption: ''
+  credit:
+    name: Mike Hamilton
+    url: http://home1.gte.net/mikeham
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/nisqually_national_wildlife_refuge/3
+  archived: '2026-09-12'

@@ -1,0 +1,53 @@
+slug: upland_sandpiper
+common_name: Upland Sandpiper
+scientific_name: Bartramia longicauda
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Accidental summer and migrant.
+species_of_concern: true
+sections:
+  general_description: The Upland Sandpiper is a black, brown, and white mottled bird with a long neck and tail and yellow legs. It has a round head with large, black eyes, and a relatively short bill for a sandpiper. In flight, it shows a pale inner wing, dark outer wing, and white outer primary shaft.
+  habitat: Native grassland is the Upland Sandpiper's preferred habitat. It typically feeds in shortgrass areas, where it is found in migration and during winter. The Upland Sandpiper requires taller grass for nesting. It is almost never found on mudflats or in wetland environments where other shorebirds are found. These birds are common nesters at airfields and airports throughout their range.
+  behavior: During the breeding season, Upland Sandpipers often perch on fence posts or utility poles. They forage by walking quickly through the grass with jerky movements, picking up items from the ground or from low vegetation.
+  diet: Upland Sandpipers eat mostly insects, but also feed on waste grains and other seeds.
+  nesting: Upland Sandpipers may nest in loose colonies, in which case the colony has a highly synchronous nesting pattern, meaning that all the chicks hatch at the same time. Nests are shallow scrapes on the ground in dense grass. They are often well hidden from above with grass arching over the top. Both parents help build the nest and incubate the 4 eggs for 22 to 27 days. The young leave the nest shortly after hatching and, while the young feed themselves, the parents protect and tend them. The young first fly at 30 to 31 days.
+  migration_status: Upland Sandpipers are long-distance migrants, spending the winter in the pampas of southern South America. Migration is typically through the Great Plains, but is more spread out in the fall with juveniles reaching to the coasts. Fall migration begins in mid-July and usually lasts through September. Spring migration is from March through May.
+  conservation_status: The Canadian Wildlife Service estimates the Upland Sandpiper population at about 350,000 birds. Most of the population is concentrated in the Great Plains, where they are still common. In both the northeastern and northwestern portion of their range, Upland Sandpipers have become far less common. Although they were probably never abundant in the Northwest, they formerly bred widely in eastern Washington. With the loss of native grassland habitat, the Northwest population has now dwindled to a few small, isolated populations. The last remaining Washington population, near Spokane, is most likely extirpated. With the Spokane population gone, a small population in Idaho, another group in Montana, and a few dozen pairs in Oregon are the only breeding Upland Sandpipers that remain in the Northwest. The Upland Sandpiper is still listed as a state endangered species and a Gap Analysis species-at-risk.
+  when_where_wa: The last confirmed records of breeding Upland Sandpipers in Washington were in 1993, from the population in the Newman Lake area between Spokane (Spokane County) and the Idaho border. Migrants are recorded about once a year in the Pacific Northwest. They are occasional in the spring in May, but are more often seen in the fall, in August throughout eastern Washington, and from late August to September along the coast. In the fall, most birds are juveniles, probably from the Alaska/Yukon breeding population.
+photos:
+- file: upsa_ad_dp_l.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio: null
+maps:
+  wa: balo.jpg
+  north_america: upsamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: uplsan
+  current_common_name: Upland Sandpiper
+  current_scientific_name: Bartramia longicauda
+  clements_sort: 6009
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/upland_sandpiper
+  archived: '2026-09-12'

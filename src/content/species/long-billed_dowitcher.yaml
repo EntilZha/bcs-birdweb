@@ -1,0 +1,61 @@
+slug: long-billed_dowitcher
+common_name: Long-billed Dowitcher
+scientific_name: Limnodromus scolopaceus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Common migrant. Uncommon winter, mostly west.
+species_of_concern: false
+sections:
+  general_description: The Long-billed Dowitcher is very similar in appearance to the Short-billed Dowitcher. Both birds are medium to large shorebirds. In breeding plumage, they are reddish underneath and mottled brown above. In flight, they show a pale trailing edge on their wings and a distinctive white blaze up their backs, which easily identifies them as dowitchers. The distinction between the two species is not as simple. The female of both species has a longer bill than the male, and the bill of the female Short-billed is the same length of that of the male Long-billed, so bill length can be confusing. The Long-billed in breeding plumage usually has some barring rather than spotting on the side of its breast in front of the wing. The Short-billed is usually spotted. The belly of the Long-billed is typically reddish all the way back, while the Short-billed often has some white on its belly. The juvenile Short-billed is brighter than the Long-billed, with light edging on its feathers. The Short-billed juvenile has bright edging and internal markings on the tertial feathers. The Long-billed juvenile is drabber and darker than the Short-billed. Non-breeding plumage is very difficult to distinguish. Range, habitat, and vocalizations should all be used to help distinguish between these two species.
+  habitat: During migration and winter, Long-billed Dowitchers are usually found on fresh water marshes and sometimes in coastal areas. They are often found on drying lakeshores. In coastal habitats, they are usually in small pools with salt-marsh vegetation. They breed farther north and west than Short-billeds, in grass- or sedge-dominated tundra marshes in Arctic coastal regions in Alaska.
+  behavior: Long-billed Dowitchers are usually found in smaller flocks than Short-billeds, but huge flocks of Short-billed Dowitchers often include a few Long-billed Dowitchers. Long-billed Dowitchers feed by probing their long bills into mud or shallow water. Their bills are full of nerve endings, useful for sensing prey. They walk along slowly, lifting their heads up and down like a sewing machine. The call is a high peeping sound, usually a single call, but sometimes repeated.
+  diet: On the breeding grounds, Long-billed Dowitchers eat insects and insect larvae. On mudflats they also eat mollusks, crustaceans, marine worms, and other aquatic invertebrates.
+  nesting: Long-billed Dowitchers usually nest on the ground near water. The nest itself is a fairly deep scrape in a clump of moss or grass, lined with sedge or grass. The bottom of the nest is often damp. Both parents incubate the four eggs for 21 to 22 days. The young leave the nest within a day of hatching and find their own food. Both parents help tend the young at first, but the female may abandon the group soon after they hatch. The male probably stays with the young until they are close to fledging at 20-30 days. Each pair raises a single brood per year.
+  migration_status: Long-billed Dowitchers migrate medium distances, not as far as Short-billeds. They come through Washington later in the fall than their shorter-billed relatives, and they winter along the Atlantic and Pacific Coasts. Some first-year birds stay on the wintering grounds in summer.
+  conservation_status: Until 1950 Short-billed and Long-billed Dowitchers were considered a single species. The Canadian Wildlife Service estimates the population of Long-billed Dowitchers at 500,000. While they are not abundant anywhere in Washington, they are fairly common and widespread. Over-hunting contributed to declines in the late 1800s and early 1900s, but protection from hunting has resulted in a rebound. Range-wide, the number of migrants has increased, and the breeding population has recently expanded into Siberia. It is not fully understood whether this is a shift from other nesting areas, or a true expansion. Habitat loss and environmental contaminants also threaten the current population of Long-billed Dowitchers.
+  when_where_wa: The Long-billed Dowitcher is less common during migration than the Short-billed Dowitcher, but is the more common winter resident in major estuaries on the Washington coast and in Puget Sound. It is generally absent from eastern Washington in winter. Coastally, the first adult migrants start arriving from the north in July and are common from July into mid-September. Juveniles start migrating through in mid-August and are common through October. They are uncommon from November through April. The spring migration is short, and birds are common for only a few weeks in the beginning of May. They taper off to uncommon in late May, and by June they are reported only occasionally. In eastern Washington, they are rare in late June, but quickly become common in July and remain so through October. They are uncommon in November, rare in December, and only occasionally spotted from January through March. In April, numbers start migrating through again, but they are still uncommon. The migration builds in May, and they are common for most of that month. This is a short period, and by the end of May they are uncommon, and by the second half of June they are rarely reported.
+photos:
+- file: lbdo_br_dp_l.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+- file: lbdo_w_dp_l.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+audio:
+  file: lbdo.mp3
+  credit: null
+maps:
+  wa: lisc.jpg
+  north_america: lbdomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, F, F, '', U, F, F, F, U, U]
+  puget_trough: [U, U, U, F, F, '', F, F, F, F, F, U]
+  north_cascades: ['', '', '', '', '', '', R, R, R, R, '', '']
+  west_cascades: ['', '', '', '', '', '', F, F, U, '', '', '']
+  east_cascades: ['', '', '', '', '', '', R, U, F, U, '', '']
+  okanogan: ['', '', '', '', R, '', R, U, F, F, '', '']
+  canadian_rockies: ['', '', '', F, F, '', '', F, F, R, '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', F, '', U, C, C, C, U, '']
+taxonomy:
+  ebird_code: lobdow
+  current_common_name: Long-billed Dowitcher
+  current_scientific_name: Limnodromus scolopaceus
+  clements_sort: 6061
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/long-billed_dowitcher
+  archived: '2026-09-12'

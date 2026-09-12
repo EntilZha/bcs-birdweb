@@ -1,0 +1,46 @@
+slug: blue-footed_booby
+common_name: Blue-footed Booby
+scientific_name: Sula nebouxii
+order:
+  name: Pelecaniformes
+  slug: pelecaniformes
+family:
+  name: Sulidae
+  slug: sulidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One bird collected in Puget Sound off Everett (Snohomish County) in September 1935.
+photos:
+- file: bfbo_jp_l.jpg
+  caption: ''
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: bfoboo
+  current_common_name: Blue-footed Booby
+  current_scientific_name: Sula nebouxii
+  clements_sort: 7358
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/blue-footed_booby
+  archived: '2026-09-12'

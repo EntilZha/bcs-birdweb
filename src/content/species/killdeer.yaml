@@ -1,0 +1,61 @@
+slug: killdeer
+common_name: Killdeer
+scientific_name: Charadrius vociferus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Charadriidae
+  slug: charadriidae
+status: Common resident. Rare winter east.
+species_of_concern: false
+sections:
+  general_description: The Killdeer is the largest of the ringed plovers, and the only plover in its range with a double breast band. Killdeers have brown upperparts, white underparts, and orange rumps. Adults and juveniles look the same year round, but young, downy chicks have a single breast band. In flight, the Killdeer's long, slender wings have conspicuous white wing stripes.
+  habitat: Killdeers frequent a variety of open habitats such as fields, meadows, gravel bars, and mudflats throughout the United States and most of Canada. They require a sandy or gravelly substrate for nesting near a wet or muddy area where they can forage. Killdeers are often found in human-modified habitats such as gravel roads, driveways, parking lots, and lawns. They may be found in upland areas far from water.
+  behavior: During the breeding season, Killdeers are easily observed vocalizing and performing broken-wing displays to distract intruders away from nests and chicks. Pairs defend territories, and individuals spread out while foraging. Killdeers have a 'running-stopping-bobbing' gait, and sometimes foot stir, vibrating the ground with a foot to stimulate movement from prey. Killdeers often associate in small flocks during migration and in wintering areas. Killdeers are extremely vocal and respond to disturbance with sharp alarm calls. Males give a 'kill-dee' call during courtship flights and at other times as well.
+  diet: Killdeers feed mainly on terrestrial invertebrates such as earthworms, grasshoppers, beetles, and snails. They occasionally consume small vertebrates and seeds.
+  nesting: Pairs form on breeding grounds, and some nest together in successive seasons. Both male and female participate in building the nest scrape. Scrapes are located in soil or gravel in an open area. Females typically lay four eggs. Both sexes incubate, with males incubating more often at night. The young are precocial and are tended by both parents. A pair may raise two broods per season.
+  migration_status: Killdeers are present in Washington throughout the year, especially west of the Cascades. Most individuals leave the intermountain interior during the winter. Migrating birds return in February and March and stay until October or November.
+  conservation_status: Killdeers are widespread and common despite population declines in urbanized areas. Human-modified habitats such as roads and golf courses may act as "population sinks," locations where the habitat appears to be suitable but where adults fail to reproduce at replacement levels, because of the destruction of eggs and chicks and the negative impact of pesticides.
+  when_where_wa: Killdeers are found throughout eastern Washington from March through October. West of the Cascades, they are common year round in farmlands and cities along the Puget Trough and west to Grays Harbor.
+photos:
+- file: kill_lb_l.jpg
+  caption: Adult on nest.
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: kill_a_dp_l.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: kill1.mp3
+  credit: null
+maps:
+  wa: chvo.jpg
+  north_america: killmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [R, U, C, C, C, C, C, C, C, C, U, R]
+  west_cascades: [F, F, C, C, C, C, C, C, C, C, F, F]
+  east_cascades: [F, F, C, C, C, C, C, C, C, C, C, F]
+  okanogan: ['', U, C, C, C, C, C, C, C, C, '', '']
+  canadian_rockies: ['', '', U, F, F, F, F, F, F, U, '', '']
+  blue_mountains: ['', '', '', R, R, R, R, R, '', '', '', '']
+  columbia_plateau: [F, C, C, C, C, C, C, C, C, C, F, F]
+taxonomy:
+  ebird_code: killde
+  current_common_name: Killdeer
+  current_scientific_name: Charadrius vociferus
+  clements_sort: 5827
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/killdeer
+  archived: '2026-09-12'

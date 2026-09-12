@@ -1,0 +1,73 @@
+slug: pomarine_jaeger
+common_name: Pomarine Jaeger
+scientific_name: Stercorarius pomarinus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Stercorariidae
+  slug: stercorariidae
+status: Fairly common pelagic migrant.
+species_of_concern: false
+sections:
+  general_description: The Pomarine Jaeger is the largest of the jaegers. Adults have long central tail feathers that are twisted 90 degrees, but these are usually lost after the breeding season, in mid- to late summer. Pomarine, Greek for 'lid-nosed', refers to the sheath that covers the base of the bill. The large, bi-colored bill contrasts with the dark face. Adults and juveniles have light and dark morphs, but 90% of the adults are light. The light morph has a blackish cap and dark brown upperparts, white underparts and collar, a yellow wash on the sides of neck, and a bold brown band across the breast. The dark morph is similar except the underparts, sides of the neck, and collar are entirely dark brown. Juveniles are brown with uniform head and neck and strongly barred coverts on the tail and underwing. In other parts of the world, jaegers are known as skuas.
+  habitat: When they are not breeding, Pomarine Jaegers are highly pelagic. They winter in productive regions of tropical and subtropical oceans, and concentrate over upwellings and boundaries of currents. They may be seen around large fishing vessels where they steal food from other seabirds. Their Arctic breeding grounds are on low-lying, wet, coastal tundra.
+  behavior: Pomarine Jaegers forage by taking fish from the surface or diving, scavenging, preying on smaller birds, and stealing prey from other seabirds (kleptoparasitism). During the breeding season, they forage over land by hovering and swooping down on lemmings. They may be nomadic during the breeding season, in search of areas with high lemming densities. They sometimes dig to find lemming nests. Breeding pairs defend large territories for nesting and foraging. They migrate singly or in small groups. Pomarine Jaegers are powerful and fast in flight.
+  diet: Their diet includes fish, smaller birds, carrion, and refuse. Breeders rely on lemmings for successful reproduction.
+  nesting: Arrival in breeding areas depends on lemming densities. Adults often form pairs, occasionally with their old mates, before establishing territories. Both sexes build the nest, a depression they form by trampling the ground with their breasts and feet. The female usually lays 2 eggs, and both parents incubate. The young are able to leave the nest within two days after hatching, but stay near the nest where their parents feed them pieces of lemmings. The young are dependent on parents for food for two more weeks after fledging, which occurs at 21-27 days. The parents leave the breeding area as soon as young reach independence.
+  migration_status: Off Washington, the Pomarine Jaeger is the most abundant jaeger in the fall. It occurs from mid-July to mid-October. Spring migration is from late April to early June. It breeds from northern Alaska to the north-central Arctic, and winters at sea from southern California to Peru.
+  conservation_status: Local breeding numbers vary with lemming population cycles, making numbers difficult to monitor. However, there is no evidence of major declines. Their breeding range is remote from human impacts, but the highly specialized reproductive ecology of Pomarine Jaegers makes them potentially vulnerable to human disturbance.
+  when_where_wa: Pomarine Jaegers are usually seen only far from shore, but they occasionally occur in estuaries and beaches, particularly after storms. An offshore boat trip in the fall is the best bet for finding them.
+photos:
+- file: poja_fl_jp_l.jpg
+  caption: 'Adult breeding plumage (light morph). Note: thick/dark breast band, pale base on primary coverts.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: true
+- file: poja_jfl_jp_l.jpg
+  caption: Juvenile (light morph).
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: poja_jfl2_jp_l.jpg
+  caption: Juvenile (intermediate morph)
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: poja_fl2_gt_l.jpg
+  caption: 'Adult breeding plumage (dark morph). Note: about 5 white shafts on upper primaries, long central tail feather twists 90 degrees.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: poja.mp3
+  credit: null
+maps:
+  wa: stpo.jpg
+  north_america: pojamap.gif
+abundance:
+  oceanic: [R, R, R, U, F, U, F, F, F, F, R, R]
+  pacific_northwest_coast: ['', '', '', '', R, '', R, R, R, R, '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: pomjae
+  current_common_name: Pomarine Jaeger
+  current_scientific_name: Stercorarius pomarinus
+  clements_sort: 6363
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/pomarine_jaeger
+  archived: '2026-09-12'

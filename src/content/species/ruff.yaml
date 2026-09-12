@@ -1,0 +1,53 @@
+slug: ruff
+common_name: Ruff
+scientific_name: Philomachus pugnax
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Rare fall migrant.
+species_of_concern: false
+sections:
+  general_description: Male Ruffs are highly distinctive in breeding plumage, although that is not generally the plumage that we see when this Eurasian shorebird visits Washington. The adult male varies in color from dark rufous to light brown with considerable white. It has a thick mane of long feathers around its neck and thick head-feathers that can be puffed out. The female, called a Reeve, is mottled brown-and-buff with orange legs (sometimes olive or green). Females and males in non-breeding plumage appear similar, and both have orange bills with white feathers at the bases. The female is about the size of a dowitcher, and the male is similar in size to a Greater Yellowlegs. The juvenile, the form most likely to be seen in Washington, has lighter, more yellow legs than adults. Its breast is clear buff, and its belly grades from buff to white. The head is buff and mostly unstreaked, and the back is black edged with buff. In flight, the Ruff shows a white 'U' on its tail, separating a dark rump and dark tail-tip.
+  habitat: Ruffs breed in sub-Arctic and Arctic tundra meadows in northern Europe and Siberia. They winter primarily in similar open, wetland habitats in southern Europe and Africa, and to a lesser degree in southern Asia and Australia. During migration, they can be found in these habitats as well as coastal ponds, lagoons, estuaries, and mudflats. These coastal wetlands are the Washington habitats where Ruffs are most likely to be spotted.
+  behavior: In fresh water, Ruffs are often seen wading up to their bellies, but in salt water they usually stay above the shoreline, in habitat similar to that used by Pectoral Sandpipers. They walk or run at a steady pace, with their heads up, picking food from the substrate. They also sometimes probe in the mud and walk slowly through vegetation with their heads down.
+  diet: Ruffs eat a typical shorebird diet of insects and other invertebrates. During migration and winter, they may also eat seeds.
+  nesting: Male Ruffs gather into groups in concentrated areas called leks, to display and attract females. The female comes to a lek and chooses a male. The female mates with a male and then leaves the lek. As is typical in this type of mating, the male provides no parental care. The female builds her nest on the ground, hidden in grass or marsh vegetation. The nest is a shallow depression lined with grass. She lays four eggs and incubates them for 20 to 23 days. The female feeds the newly hatched young, which is unusual for this group. The young first begin to fly at 25 to 28 days.
+  migration_status: Ruffs, Eurasian shorebirds, are long-distance migrants. They typically breed from northern Europe to Siberia and winter in southern Europe and Africa, but they regularly wander off-course from their migration routes and appear on both coasts of North America, especially during the fall.
+  conservation_status: Loss of wetland habitat has contributed to a decline in the population in some parts of Europe. Here in Washington, the Ruff is one of the most numerous Siberian shorebirds seen on our coast. Its range may have expanded into North America, as there is evidence of a small breeding population of a few dozen birds in Alaska.
+  when_where_wa: In Washington, these rare but regular visitors are generally found singly or occasionally in pairs. Most of the birds spotted in Washington are juveniles, and they are most likely to be seen in August and September. Over half of the Ruff records in Washington are from Ocean Shores (Grays Harbor County). Ruffs have also been spotted in Aberdeen (Grays Harbor County) and Reardan (Lincoln County). There are a few spring records from the Vancouver, BC area, and one spring record from St. Andrews, WA (Douglas County).
+photos:
+- file: ruff_f_dp_l.jpg
+  caption: Female breeding plumage
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio: null
+maps:
+  wa: wamna.jpg
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', R, R, R, '', '']
+  puget_trough: ['', '', '', '', '', '', '', R, R, R, '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: ruff
+  current_common_name: Ruff
+  current_scientific_name: Calidris pugnax
+  clements_sort: 6177
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/ruff
+  archived: '2026-09-12'

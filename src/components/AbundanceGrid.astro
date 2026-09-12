@@ -1,0 +1,142 @@
+---
+import { ABUNDANCE, MONTHS, MONTHS_LONG, type AbundanceCode } from "../config/abundance";
+import { ECOREGIONS, ECOREGION_NAME } from "../config/ecoregions";
+import {
+  ecoregionsPresent,
+  isRecordedAnywhere,
+  seasonSummary,
+  type AbundanceMatrix,
+} from "../lib/abundance";
+
+interface Props {
+  abundance: AbundanceMatrix;
+  /** Show every ecoregion rather than only those where the bird occurs. */
+  showAll?: boolean;
+  speciesName?: string;
+}
+
+const { abundance, showAll = false, speciesName = "This species" } = Astro.props;
+
+const present = ecoregionsPresent(abundance);
+// Ten rows of mostly-blank cells is noise on a phone. Default to the regions where the
+// bird actually occurs, which is typically three to six, and offer the rest behind a
+// disclosure rather than making everyone scroll past them.
+const rows = showAll ? ECOREGIONS.map((e) => e.slug) : present;
+const hidden = ECOREGIONS.map((e) => e.slug).filter((s) => !rows.includes(s));
+const recorded = isRecordedAnywhere(abundance);
+const legend: AbundanceCode[] = ["C", "F", "U", "R", "I", ""];
+---
+
+{
+  !recorded ? (
+    <p class="text-sm text-black/60 italic">
+      No month-by-month abundance data was recorded for {speciesName}. The rarity accounts
+      were written separately from the main species accounts and carry no abundance table.
+    </p>
+  ) : (
+    <div class="space-y-3">
+      {/* Tables are the one thing allowed to scroll sideways; the page body never does. */}
+      <div class="overflow-x-auto -mx-4 px-4 sm:mx-0 sm:px-0">
+        <table class="w-full min-w-[34rem] border-separate border-spacing-0.5 text-xs">
+          <caption class="sr-only">
+            Abundance of {speciesName} by ecoregion and month
+          </caption>
+          <thead>
+            <tr>
+              <th class="text-left font-semibold text-black/60 pr-2 pb-1 w-40">Ecoregion</th>
+              {MONTHS.map((month, i) => (
+                <th
+                  scope="col"
+                  class="pb-1 font-semibold text-black/50 text-[0.6875rem] text-center"
+                >
+                  <abbr title={MONTHS_LONG[i]} class="no-underline">
+                    {month[0]}
+                  </abbr>
+                </th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {rows.map((slug) => {
+              const months = abundance[slug] ?? [];
+              return (
+                <tr>
+                  <th
+                    scope="row"
+                    class="text-left font-medium text-black/80 pr-2 py-0.5 align-middle"
+                  >
+                    <a
+                      href={`${import.meta.env.BASE_URL}ecoregions/${slug}/`}
+                      class="hover:text-brand hover:underline"
+                    >
+                      {ECOREGION_NAME[slug]}
+                    </a>
+                  </th>
+                  {months.map((code, i) => {
+                    const level = ABUNDANCE[(code || "") as AbundanceCode];
+                    return (
+                      <td
+                        class:list={[
+                          "text-center align-middle rounded-sm h-7 font-semibold tabular-nums",
+                          level.swatch,
+                          level.ink,
+                        ]}
+                        title={`${ECOREGION_NAME[slug]}, ${MONTHS_LONG[i]}: ${level.label}`}
+                      >
+                        <span aria-hidden="true">{code || ""}</span>
+                        <span class="sr-only">
+                          {MONTHS_LONG[i]}: {level.label}
+                        </span>
+                      </td>
+                    );
+                  })}
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+
+      {hidden.length > 0 && (
+        <details class="text-xs">
+          <summary class="cursor-pointer text-black/55 hover:text-brand select-none">
+            Show {hidden.length} ecoregion{hidden.length === 1 ? "" : "s"} where {speciesName} is
+            not recorded
+          </summary>
+          <p class="mt-2 text-black/60">
+            {hidden.map((s) => ECOREGION_NAME[s]).join(", ")}
+          </p>
+        </details>
+      )}
+
+      <ul class="flex flex-wrap gap-x-3 gap-y-1.5 text-[0.6875rem] text-black/60">
+        {legend.map((code) => (
+          <li class="flex items-center gap-1.5">
+            <span
+              class:list={[
+                "inline-flex h-4 w-4 items-center justify-center rounded-sm font-semibold",
+                ABUNDANCE[code].swatch,
+                ABUNDANCE[code].ink,
+              ]}
+              aria-hidden="true"
+            >
+              {code}
+            </span>
+            {ABUNDANCE[code].label}
+          </li>
+        ))}
+      </ul>
+
+      {present.length > 0 && (
+        <dl class="grid gap-x-4 gap-y-1 text-xs sm:grid-cols-2">
+          {present.map((slug) => (
+            <div class="flex gap-2">
+              <dt class="text-black/55 shrink-0">{ECOREGION_NAME[slug]}:</dt>
+              <dd class="font-medium text-black/80">{seasonSummary(abundance, slug)}</dd>
+            </div>
+          ))}
+        </dl>
+      )}
+    </div>
+  )
+}

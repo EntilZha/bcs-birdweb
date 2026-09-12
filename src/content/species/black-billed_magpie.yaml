@@ -1,0 +1,61 @@
+slug: black-billed_magpie
+common_name: Black-billed Magpie
+scientific_name: Pica hudsonia
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Corvidae
+  slug: corvidae
+status: Common resident east.
+species_of_concern: false
+sections:
+  general_description: The Black-billed Magpie is a medium-sized bird with an extremely long tail. It is a highly distinctive bird of eastern Washington's open country. The magpie has black covering its head and extending through its breast and down its back. It has white at the base of its wings, on its belly, and on its upper and lower outer-wings. The rest of its wings and its long tail are iridescent blue-green. The juvenile is similar to the adult, but has less iridescence and a shorter tail.
+  habitat: Black-billed Magpies are found in open country, but need large shrubs or trees for nesting. They are especially suited to areas with cottonwood or willows, streams, farmland, wetlands, and orchards. During winter, they roost in streamside groves of trees or lowland conifers, although they avoid unbroken forests.
+  behavior: Black-billed Magpies are intelligent and resourceful opportunists. They form large, noisy roosts in winter, sometimes numbering over 700 birds. They flip items over to look for food, follow predators, and sometimes steal food from other birds. They also take ticks from the backs of large mammals, and pick at open sores on those animals' bodies. They can even use scent to find food--an unusual trait for birds, which generally have very little sense of smell. They are often very bold, but in areas where they have been harassed, they become quite wary.
+  diet: Black-billed Magpies are omnivores but feed most often on insects. During post-breeding dispersal, they eat a number of conifer seeds. They eat berries, nuts, and seeds during winter. Black-billed Magpies also eat carrion.
+  nesting: Black-billed Magpies are monogamous and form long-term pair bonds. Pairs first form in the fall or winter within wintering flocks. They often nest in small, loose colonies, but this may be more a factor of the distribution of trees for nesting rather than true colonialism. Both sexes help build a huge nest in the branches of a deciduous tree. The nest is used in succeeding years by many other species, e.g., owls. The nest itself is enveloped in a large (up to three feet in diameter), dome-shaped, stick canopy, with entrances on both sides. Inside the stick canopy is a cup-shaped nest with a mud or manure base and a lining made from weeds, rootlets, hair, and grass. The female lays up to 9 eggs, but the typical clutch ranges from 6-7 eggs. The male brings food while the female incubates (for about 18 days). Both feed the young after they hatch. The young leave the nest at 3-4 weeks, and join with 2-8 other broods. The parents feed their own fledglings in these groups for another 3-4 weeks.
+  migration_status: Black-billed Magpies are year-round residents across their range, but occasionally undergo post-breeding movements upslope into the Cascades and the Blue Mountains.
+  conservation_status: Black-billed Magpies traditionally followed Native Americans and lived off the refuse of their bison hunts. Black-billed Magpies now frequent farms and ranches, and have been known to rob trap-lines, take poultry eggs, and raid orchards. They were considered vermin, and many Black-billed Magpies were killed as pests in the early 20th Century. They are still considered pests by some. Despite this, they remain common and widespread. They are protected in the United States, but not in Canada where they are still killed in some areas. Pesticides are of concern, especially those used on livestock, since magpies often perch on livestock and eat those pests that are being poisoned.
+  when_where_wa: East of the Cascades, one can find Black-billed Magpies in open habitats year round. This is one of the most common and widespread birds of eastern Washington. Black-billed Magpies are very abundant in Yakima County and the Columbia-Snake River lowlands. They are extremely rarely reported in the western Washington lowlands in winter.
+photos:
+- file: bbma_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: bbma_fl_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: BBMA01.mp3
+  credit: null
+maps:
+  wa: pipi.jpg
+  north_america: bbmamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [C, C, C, C, C, C, C, C, C, C, C, C]
+  blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: bkbmag1
+  current_common_name: Black-billed Magpie
+  current_scientific_name: Pica hudsonia
+  clements_sort: 21476
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black-billed_magpie
+  archived: '2026-09-12'

@@ -1,0 +1,55 @@
+slug: snowy_plover
+common_name: Snowy Plover
+scientific_name: Charadrius alexandrinus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Charadriidae
+  slug: charadriidae
+status: Uncommon coastal resident.
+species_of_concern: true
+sections:
+  general_description: The Snowy Plover is a small, pale plover that blends in well with its sandy surroundings. It has a thin, black bill, dark gray to blackish legs, dark patches on either side of the upper breast, and dark ear patches. The side and ear patches of juveniles and non-breeding adults (September to February) are pale. The side and ear patches and crown are black in breeding males, and slightly duller in breeding females.
+  habitat: Snowy Plovers are found on barren or sparsely vegetated sand beaches along the coast, and on alkaline flats and river bars farther inland. They winter primarily in coastal areas on beaches and tidal flats.
+  behavior: Snowy Plovers breed in loose colonies, and they are gregarious in winter. During courtship, the male displays for the female by scraping a nest and bowing next to the female while flashing the white on his tail. Breeding adults defend their nesting territory, but may forage away from defended areas with other Snowy Plovers. Pairs typically separate following hatching, and the female finds a new mate to breed with for a second brood that season. Adult Snowy Plovers usually run when approached by humans or predators, but may fly if startled. Adults sometimes feign injury to distract intruders away from nests or chicks.
+  diet: Snowy Plovers typically forage by pausing, running, and pecking at the ground. Their diet consists of small crustaceans, mollusks, marine worms, and insects.
+  nesting: Males construct a shallow scrape nest on open, bare ground, sometimes near a clump of grass or piece of driftwood. The nest is lined with shell fragments and other bits of debris. Females typically lay three eggs, and both parents incubate. Males incubate at night and females during the day. The young leave the nest and begin feeding themselves within hours of hatching. The male raises the young, while the female usually leaves within six days and finds a new mate to breed with for a second brood that season. First flight is approximately 30 days after hatching.
+  migration_status: Most inland breeders migrate to the coast in winter, but many coastal breeders are permanent residents. The Washington population of Snowy Plovers consists of both resident and migratory birds. Spring migrants arrive in early March, and leave from late June to late October.
+  conservation_status: Snowy Plovers have declined in numbers in many areas throughout their range, primarily due to human disturbance and habitat modification to outer beaches. The spread of European beachgrass has reduced nesting habitat along the coast. The subspecies found in Washington, the Western Snowy Plover, has been listed as threatened by the U.S. Fish and Wildlife Service since 1993. Washington State lists it as endangered, and both Partners in Flight and the Washington Gap Analysis include it on their 'at-risk' list. The recent protection of nesting areas may have stopped or even reversed its decline in Washington.
+  when_where_wa: Three areas, Leadbetter Point (Pacific County), Midway Beach (Pacific County), and Damon Point (Grays Harbor County), currently support breeding populations of nesting Snowy Plovers. Damon Point is this species' northernmost nesting area along the Pacific coast. Wintering birds may be found at these same locations. Snowy Plovers are rare vagrants to eastern Washington in April and May.
+photos:
+- file: snpl_w_lb_l.jpg
+  caption: Winter plumage
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: true
+audio:
+  file: snpl1.mp3
+  credit: null
+maps:
+  wa: chal.jpg
+  north_america: snplmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, U, U, U, U, U, U, U]
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: snoplo5
+  current_common_name: Snowy Plover
+  current_scientific_name: Anarhynchus nivosus
+  clements_sort: 5941
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/snowy_plover
+  archived: '2026-09-12'

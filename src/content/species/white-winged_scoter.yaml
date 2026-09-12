@@ -1,0 +1,73 @@
+slug: white-winged_scoter
+common_name: White-winged Scoter
+scientific_name: Melanitta fusca
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common winter on coast. Uncommon inland and coast summer.
+species_of_concern: false
+sections:
+  general_description: Scoters are large, mostly black or dark gray sea ducks, and the White-winged Scoter is the largest of the three species. All plumages have a white wing-patch, which distinguishes the White-winged Scoter in flight from the other two scoters, which have solid black wings. The White-winged Scoter can also be distinguished by its sloping forehead and bill, which is less bulbous than that of the others. The adult male is solid black with a white comma around a white eye. Its bill is yellow and has a dark knob at the base. The juvenile and the female have light gray patches in front of and behind their eyes, and are dark gray overall with gray bills.
+  habitat: White-winged Scoters nest on freshwater lakes and wetlands in open country in the northwest interior of North America. They winter in open, coastal environments, favoring bays and inlets with sandy shores and shellfish beds. White-winged Scoters are generally found in deeper water and farther from shore than the other scoters.
+  behavior: White-winged Scoters spend the non-breeding part of the year in large flocks on the ocean. They feed almost exclusively by diving, taking prey from the ocean floor, and swallowing the small items under water. Scoters are strong flyers, but must get a running start along the water to get airborne.
+  diet: During winter, mollusks and crustaceans are the most common food item. During the breeding season, aquatic insect larvae become a predominant part of the diet. Crustaceans and other aquatic invertebrates are also eaten.
+  nesting: White-winged Scoters probably form pair bonds during migration in their second or third year. Nests are built on the ground close to water, and hidden by brush. The nest is a shallow depression lined with down and occasionally additional plant material. The female typically lays 8 to 10 eggs and incubates them for 25 to 30 days. The pair bond dissolves, and the male leaves soon after incubation begins. Pair bonds do not appear to re-form between the same birds in succeeding years. The young leave the nest shortly after hatching and feed themselves. The female tends the young and broods them at night for 1 to 3 weeks, after which she leaves them to fend for themselves. They fledge at 63 to 77 days.
+  migration_status: White-winged Scoters are among the latest migrant ducks to reach the breeding grounds, and much is not known about their migratory patterns. Males appear to winter farther north than females, and molting sites are in unknown, remote locations.
+  conservation_status: White-winged Scoters were formerly more numerous, breeding in prairie habitats where they no longer breed. Changes in land use associated with agriculture in these regions have left the scoters without cover for nesting. There are other challenges, too. Of all seabirds, scoters are among the most vulnerable to oil spills. Blue mussels, one of their staple prey species, are known to concentrate toxic chemicals, potentially passing this toxicity on to White-winged Scoters. The scoters' strong fidelity to breeding sites, low productivity, and slow maturation make them slow to rebound from losses and make those losses of greater concern.
+  when_where_wa: White-winged Scoters vary from uncommon to abundant along Washington's coastline and in Puget Sound from the late summer through spring (July through mid-June). Areas of abundance vary from year to year. White-winged Scoters are the most common scoter to be found on inland sites outside of the breeding season. Throughout Washington's lowlands, while still rare, White-winged Scoters may be seen on lakes and wetlands in late fall or early winter during migration. Flocks of non-breeders can also be seen in coastal areas in summer in some of the more heavily used winter locations such as Penn Cove off Whidbey Island and Drayton Harbor (Whatcom County).
+photos:
+- file: wwsc_f_gth_l.jpg
+  caption: 'Female. Note: long, half-feathered bill and white wing patch (sometimes visible).'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: wwsc_fl_gth_l.jpg
+  caption: 'Male. Note: white wing patch visible.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: wwsc_m_gth_l.jpg
+  caption: 'Male. Note: white comma underneath eye and white wing patch.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: wwsc_gt_l.jpg
+  caption: 'Male. Note: feathered bill base and white patch on eye.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+audio:
+  file: wwsc.mp3
+  credit: null
+maps:
+  wa: mefu.jpg
+  north_america: wwscmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, U, U, F, C, C, C, C]
+  puget_trough: [C, C, C, C, C, F, U, U, F, F, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', R, R, '']
+  okanogan: ['', '', '', '', '', '', '', '', '', R, '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', R, R, '']
+taxonomy:
+  ebird_code: whwsco2
+  current_common_name: White-winged Scoter
+  current_scientific_name: Melanitta deglandi
+  clements_sort: 730
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/white-winged_scoter
+  archived: '2026-09-12'

@@ -1,0 +1,73 @@
+slug: greater_white-fronted_goose
+common_name: Greater White-fronted Goose
+scientific_name: Anser albifrons
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Fairly common migrant. Uncommon winter.
+species_of_concern: false
+sections:
+  general_description: The Greater White-fronted Goose is mottled brownish-gray overall with a black tail, white rump, white band at the tip of the tail, and bright orange legs. The belly has a varied pattern of large black splotches. Its name is derived from the white facial feathers around the base of the pinkish-yellow bill. The juvenile looks similar but lacks the white facial feathering and black markings on the belly.
+  habitat: Greater White-fronted Geese nest on marshy ponds in the tundra or taiga. They winter in open country in mild climates in habitat with shallow fresh or salt water near agricultural fields.
+  behavior: The Greater White-fronted Goose grazes while walking on land, and dabbles when in the water. Social most of the year, this goose is territorial during the breeding season.
+  diet: In the winter, seeds and waste grain are the staple of the diet. Stems and roots become more important sources of food during the breeding season. These geese also eat some invertebrates.
+  nesting: The Greater White-fronted Goose doesn't usually breed until 3 years of age. The female builds a shallow depression lined with plant material and down in a sheltered spot near the water. She lays and incubates 3 to 6 eggs for 22 to 27 days. The young walk and swim almost immediately after hatching, and both parents tend them, although they feed themselves. First flight is typically between 38 and 45 days, but the young remain with the parents for at least the first year, and often maintain an association with the family for several years.
+  migration_status: A long-distance migrant, the Greater White-fronted Goose relies on established migratory routes and stopover points on its way to wintering grounds in California and southern Oregon.
+  conservation_status: The population of Greater White-fronted Geese has fluctuated. Pacific birds declined in the 1970s and 1980s, but increasing numbers have been wintering in western Washington in recent years. Hunting is a major factor controlling populations (but losses due to hunting can be managed). Habitat loss is a more difficult challenge. Large oil fields on the Alaskan Arctic coastal plain have degraded the wetlands in that area, potentially affecting nesting success of the Greater White-fronted Goose. The Tule Goose, a large, dark subspecies that nests in southern Alaska and winters in central California, makes up about 1% of the total population, but its status in the Pacific Northwest is poorly known.
+  when_where_wa: Among the first fall migrants seen along Washington's outer coastline, Greater White-fronted Geese are common from late August to mid October and again from mid-April to mid-May on the coast. They are often seen in small, mixed-species flocks. They are also regularly seen during migration in freshwater habitats in eastern Washington as well, occurrence there somewhat later both spring and fall. The best time to see these geese is in early May. Leadbetter Point, Ridgefield National Wildlife Refuge (Clark County), and Grays Harbor (Grays Harbor County) are good spots to observe this species.
+photos:
+- file: gwfg_a_dp_l.jpg
+  caption: Adult
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+- file: gwfg_gt_l.jpg
+  caption: 'Adult. Note: orange legs and black marks on belly.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: gwfg_fl_gl_l.jpg
+  caption: 'Flock in flight. Note: black marks on adults.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: gwfg_j_gl_l.jpg
+  caption: Immature
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: gwfg.mp3
+  credit: null
+maps:
+  wa: anal.jpg
+  north_america: gwfgmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, F, F, '', '', U, U, U, U, U]
+  puget_trough: [U, U, U, F, U, '', '', U, F, F, U, U]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [U, U, U, U, '', '', '', U, U, U, U, U]
+  east_cascades: [R, R, U, U, R, '', '', '', R, U, U, R]
+  okanogan: ['', '', R, R, '', '', '', '', '', R, R, R]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [U, F, F, F, R, '', '', R, F, F, U, U]
+taxonomy:
+  ebird_code: gwfgoo
+  current_common_name: Greater White-fronted Goose
+  current_scientific_name: Anser albifrons
+  clements_sort: 287
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/greater_white-fronted_goose
+  archived: '2026-09-12'

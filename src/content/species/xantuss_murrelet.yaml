@@ -1,0 +1,46 @@
+slug: xantuss_murrelet
+common_name: Xantus's Murrelet
+scientific_name: Synthliboramphus hypoleucus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Alcidae
+  slug: alcidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Rare but about annual on Westport pelagic trips (Grays Harbor County).
+photos:
+- file: xamu_b_gt_l.jpg
+  caption: 'Typical plumage: scrippsi race, the more northerly race, pictured.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: xamumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', R, R, R, R, '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: xanmur2
+  current_common_name: Scripps's Murrelet
+  current_scientific_name: Synthliboramphus scrippsi
+  clements_sort: 6437.0
+  historic_common_name: Xantus's Murrelet
+  display_historic: false
+  note: Published on BirdWeb as Xantus's Murrelet. That species was split into Scripps's and Guadalupe Murrelets; Washington's few records are of Scripps's Murrelet.
+source:
+  url: https://birdweb.org/birdweb/bird/xantuss_murrelet
+  archived: '2026-09-12'

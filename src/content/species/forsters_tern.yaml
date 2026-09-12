@@ -1,0 +1,67 @@
+slug: forsters_tern
+common_name: Forster's Tern
+scientific_name: Sterna forsteri
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Fairly common summer east. Casual west.
+species_of_concern: true
+sections:
+  general_description: The Forster's Tern is similar looking to the Common Tern, but found in slightly different habitat. In breeding plumage, it has a light gray mantle with silvery-white primaries. Its long, light tail is deeply forked, and its undersides are all white. The wings appear very light, silvery gray in flight. It has a black cap, commonly found in terns. The bill is orange-red with a black tip, and the legs are orange-red'both more orange than those of the Common Tern. The adult in non-breeding plumage lacks the black cap. Black markings over the eyes, extending back to the ears, give the bird a distinctly masked look. The bill is black, and the wingtips are grayer than in breeding plumage. Juvenile birds have a significant amount of brown wash on their feathers, but this usually disappears by August.
+  habitat: Forster's Terns typically inhabit fresh and saltwater marshes in the summer. During migration and in winter, they can be found in a wider variety of aquatic habitat, especially around estuaries, inlets, and bays, but rarely out of sight of land.
+  behavior: The Forster's Tern flies and hovers over the water, plunging to take fish from just below the surface. It also forages for flying insects. This tern is aggressive towards other birds near its nest.
+  diet: Fish make up the majority of the diet in all seasons, but in summer, insects are another major food source. Other aquatic creatures are also taken.
+  nesting: Often nesting atop muskrat houses or on gravel islands, Forster's Terns form loose colonies and sometimes associate with Yellow-headed Blackbird colonies. When Forster's Terns and Black Terns nest in the same marsh, the Forster's Terns choose higher and drier ground for their nests. Both sexes help build the nest, a platform of reeds and grasses, with a hollowed-out center lined with finer materials and shells. Incubation of the 3 eggs is shared by both sexes for 23-25 days. The development of the young is not well known, but both parents help feed the young at the nest.
+  migration_status: Forster's Terns are migratory, but to a lesser extent than Common Terns. They winter along the southern US coastline.
+  conservation_status: Destruction of wetlands has led to declines in some areas. Recreational boating on nesting lakes, which can flood nests, may also have a negative impact on populations of Forster's Terns.
+  when_where_wa: The Forster's Tern is found mostly east of the Cascades, although it has been recorded on the west side, often after August. It is common on freshwater habitat from May to mid-August in the Columbia Basin. It breeds from the Potholes region, south along the Columbia River to the Tri-cities area. It is also found farther up the Columbia, although less commonly, to Grant and Adams Counties, and west to Klickitat County.
+photos:
+- file: fote_fl_tg_l.jpg
+  caption: 'Adult breeding. Note: orange bill with black tip.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: fote_jp_l.jpg
+  caption: 'Adult breeding. Note: light primary feathers.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: fote_wfl_gl_l.jpg
+  caption: 'Adult nonbreeding. Note: dark eye patch.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: fote.mp3
+  credit: null
+maps:
+  wa: stfo.jpg
+  north_america: fotemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', R, R, R, R, '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', U, F, F, F, F, U, '', '', '']
+taxonomy:
+  ebird_code: forter
+  current_common_name: Forster's Tern
+  current_scientific_name: Sterna forsteri
+  clements_sort: 6731
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/forsters_tern
+  archived: '2026-09-12'

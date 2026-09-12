@@ -1,0 +1,85 @@
+slug: red-breasted_sapsucker
+common_name: Red-breasted Sapsucker
+scientific_name: Sphyrapicus ruber
+order:
+  name: Piciformes
+  slug: piciformes
+family:
+  name: Picidae
+  slug: picidae
+status: Fairly common resident west. Rare east.
+species_of_concern: true
+sections:
+  general_description: Red-breasted Sapsuckers are similar in appearance to the closely related Red-naped Sapsuckers, but they have red heads and breasts. Their upperparts are black barred with white, and they have a prominent white stripe across each black wing. They lack the black breast-band of the other two sapsucker species found in Washington, and they have yellowish bellies. Males and females look much alike. Juveniles are mottled brown but have white wing-stripes like the adults.
+  habitat: The dense mixed and conifer forests typical of western Washington are the preferred breeding habitat of Red-breasted Sapsuckers. They are often found in mature and old-growth forests, but will breed in second growth as long as there are some large nesting trees. They can also be found in riparian habitats with large cottonwoods.
+  behavior: Sapsuckers get their name from their foraging strategy, which consists of drilling neat horizontal rows of holes into tree trunks and then returning to those holes later to feed on the running sap and the insects attracted to it. Unlike most woodpeckers, they forage in healthy trees and can actually kill a tree if they drill too many sap-holes around its trunk, although this is quite uncommon.
+  diet: The main food of Red-breasted Sapsuckers is tree sap. They also eat some insects and fruit. They take more insects during the nesting season, and they feed insects to their young.
+  nesting: Much is not well known about the nesting behaviors of Red-breasted Sapsuckers. They form monogamous pairs, and both members of the pair excavate the nest cavity. Nests are usually built in deciduous trees, such as aspen, alder, cottonwood, or willow, but they may also be in firs or other conifers. The nest is often high, 50-60 feet off the ground. Both sexes typically incubate the 5 to 6 eggs for 12 to 13 days. Both feed the young, which leave the nest after 25 to 29 days. The young are probably dependent on the parents for ten days or so thereafter. Red-breasted Sapsuckers typically raise a single brood each year.
+  migration_status: Red-breasted Sapsuckers are the least migratory of Washington's sapsuckers and the only sapsuckers that regularly occur in Washington during the winter. If the weather turns cold enough for sap to freeze, they may descend into the lowlands or move out to the outer coast to find food.
+  conservation_status: Red-breasted Sapsuckers are considered a keystone species, because many other species use the sap wells they drill. Their numbers may have declined because of habitat degradation, but these sapsuckers are still fairly numerous, and the Breeding Bird Survey has identified a non-significant annual increase in Washington since 1966. In the Cascades they hybridize with Red-naped Sapsuckers.
+  when_where_wa: Red-breasted Sapsuckers are common breeders in appropriate habitat west of, and just beyond, the Cascade crest, to the outer coast. They are rare breeders in conifer forests east of the Cascades and may be rare breeders in residential areas or city parks in western Washington. Wintering birds can be found in the western Washington lowlands. They are extremely rare winter visitors to eastern Washington.
+photos:
+- file: rbsa_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rbsa_ad2_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rbsa_holes_gth_l.jpg
+  caption: Wells of Red-breasted Sapsucker.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rbsa_j2_gth_l.jpg
+  caption: Juvenile
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rbsa_j1_gth_l.jpg
+  caption: Juvenile
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rbsa_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+audio:
+  file: rbsa.mp3
+  credit: null
+maps:
+  wa: spru.jpg
+  north_america: rbsamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, F, F, F, F, F, F, F, F, F]
+  puget_trough: [F, F, F, F, F, F, F, F, F, F, F, F]
+  north_cascades: [U, U, U, F, F, F, F, F, F, F, U, U]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [R, R, R, U, U, U, U, U, R, R, R, R]
+  okanogan: ['', '', '', R, R, R, R, R, R, R, '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: rebsap
+  current_common_name: Red-breasted Sapsucker
+  current_scientific_name: Sphyrapicus ruber
+  clements_sort: 11130
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/red-breasted_sapsucker
+  archived: '2026-09-12'

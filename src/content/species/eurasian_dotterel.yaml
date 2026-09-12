@@ -1,0 +1,52 @@
+slug: eurasian_dotterel
+common_name: Eurasian Dotterel
+scientific_name: Charadrius morinellus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Charadriidae
+  slug: charadriidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Three fall records, all from Ocean Shores (Grays Harbor County).
+photos:
+- file: eudo1rr_l.jpg
+  caption: ''
+  credit:
+    name: Ruth Sullivan
+    url: http://www.pbase.com/godwit/root
+  hero: true
+- file: eudo2rr_l.jpg
+  caption: ''
+  credit:
+    name: Ruth Sullivan
+    url: http://www.pbase.com/godwit/root
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: eurdot
+  current_common_name: Eurasian Dotterel
+  current_scientific_name: Eudromias morinellus
+  clements_sort: 5826
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/eurasian_dotterel
+  archived: '2026-09-12'

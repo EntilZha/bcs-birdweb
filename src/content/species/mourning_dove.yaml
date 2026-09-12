@@ -1,0 +1,61 @@
+slug: mourning_dove
+common_name: Mourning Dove
+scientific_name: Zenaida macroura
+order:
+  name: Columbiformes
+  slug: columbiformes
+family:
+  name: Columbidae
+  slug: columbidae
+status: Common resident east. Uncommon west.
+species_of_concern: false
+sections:
+  general_description: The Mourning Dove is the most slender of Washington's pigeons and doves. It has a long tail that tapers to a point. Its plumage is brownish gray with a buff-colored belly and wings of light gray. The beak is black, and the legs are orange. Adults have black spots on their wings and a slight iridescence at the nape of the neck. The black eye is surrounded by a light blue eye-ring. Juveniles look much like adults, but their plumage is lightly mottled.
+  habitat: Mourning Doves are found in a variety of habitats where open areas and forests meet. They are common in suburban environments and along roadsides, both of which traditionally provide edge habitat. They adapt well to human habitation and thrive in grain-producing fields of eastern Washington.
+  behavior: Mourning Doves forage mostly on the ground, visit bird feeders, and often roost on telephone or power lines. In July and August before migration, they form post-breeding flocks. The Mourning Dove produces a mournful hooting, which is often mistaken for an owl.
+  diet: Seeds make up 99% of their diet. Mourning Doves swallow grit to help digest hard seeds and grain.
+  nesting: In warm climates, the Mourning Dove is a prolific breeder, producing up to six broods per year, more broods than any other native North American species. In the Pacific Northwest, it has been reported that as many as three broods have been produced in a single season by a single pair. The male leads the female to potential nest sites. When she chooses one, he brings nest materials and she builds the nest, a flimsy platform of twigs. Nests are typically located in a tree or shrub, but may be on the ground, on a building ledge, or other structure. The female lays two eggs, and both parents incubate for two weeks. Both males and females produce in their crops "pigeon milk," a protein- and fat-rich liquid, which they feed to their young. After two weeks, the young leave the nest, although they stay close by and are fed by the parents for another 1-2 weeks.
+  migration_status: Some birds remain year round over most of their breeding range, but many move south in the fall, migrating in flocks mostly by day. Migrants arrive on the breeding grounds in March or April, and most leave by October.
+  conservation_status: Agricultural practices, development, and forest management have all increased available habitat in western Washington, which has led to a range expansion in this area. In eastern Washington, available breeding habitat has also increased. However, all throughout the state, hunting pressure keeps the population in check.
+  when_where_wa: The Mourning Dove is common and widespread at low elevations throughout eastern Washington, and fairly common but local in western Washington. Some birds may be seen year round on the east and the west sides of the mountains, but they are less common in the winter. Migrants return in March and early April and leave at the end of September.
+photos:
+- file: modo_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: modo_fl_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: modo.mp3
+  credit: null
+maps:
+  wa: zema.jpg
+  north_america: modomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, U, U, U, U, U, U, U]
+  puget_trough: [F, F, F, F, F, F, F, F, F, F, F, F]
+  north_cascades: [R, R, R, R, U, U, U, U, U, U, U, R]
+  west_cascades: [R, R, R, U, U, U, U, U, U, U, R, R]
+  east_cascades: [F, F, F, C, C, C, C, C, F, F, F, F]
+  okanogan: [U, U, F, C, C, C, C, C, C, C, U, U]
+  canadian_rockies: [U, U, U, F, F, F, F, U, U, U, U, U]
+  blue_mountains: [R, R, R, U, U, F, F, F, F, U, R, R]
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: moudov
+  current_common_name: Mourning Dove
+  current_scientific_name: Zenaida macroura
+  clements_sort: 2412
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/mourning_dove
+  archived: '2026-09-12'

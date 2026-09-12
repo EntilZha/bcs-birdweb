@@ -1,0 +1,55 @@
+slug: pectoral_sandpiper
+common_name: Pectoral Sandpiper
+scientific_name: Calidris melanotos
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Fairly common fall migrant. Rare spring.
+species_of_concern: true
+sections:
+  general_description: Described as a larger version of a Least Sandpiper, the Pectoral Sandpiper is a medium-sized shorebird with a heavily streaked breast, sharply contrasting clear, white belly, and yellowish legs. The bill droops and is black at the tip, and lighter brown at the base. In flight, the tail shows a dark stripe down the middle, with white on either side. The upper wing has a very narrow stripe. Males are larger than females, and males have inflatable sacs in their breasts, used in courtship.
+  habitat: Pectoral Sandpipers breed all across the North American Arctic and across northern Siberia at the dry edges of well-vegetated wetlands. During migration, they can be found in fresh- and saltwater marshes, on mudflats, or drying lakes and wet meadows. They winter in South American grasslands.
+  behavior: Pectoral Sandpipers move along steadily with their heads down, picking up prey on the surface and probing lightly into the sand or mud. They usually forage in vegetation, and when they are disturbed, they stand upright with their necks extended, peering over the grass.
+  diet: During the breeding season, Pectoral Sandpipers eat flies and fly larvae, spiders, and seeds. During migration, they eat small crustaceans and other aquatic invertebrates, although insects may still be the major food.
+  nesting: 'Pectoral Sandpipers are promiscuous: males mate with multiple females, and females mate with multiple males. Males arrive on the breeding grounds before females and establish territories. When females arrive, the males attract them with a flight display, rhythmically expanding and contracting the air sacs in their breasts. The female builds a nest in a grassy spot on the ground, often on a slightly elevated spot. The nest is usually a well-hidden scrape lined with grass and leaves, sometimes under low shrubs. She provides all the parental care. Incubation lasts for 21 to 23 days, and the four chicks leave the nest and feed themselves soon after hatching. The female stays with the young for about 10 to 20 days. The young start to fly at around 21 days, and are capable flyers by 30 days.'
+  migration_status: Extreme long-distance migrants, some Pectoral Sandpipers make an 18,000-mile round-trip journey between breeding and wintering grounds. The birds that migrate through Washington most likely breed in Siberia and migrate across the Bering Strait and down the Pacific Coast. They winter in southern South America, Australia, and New Zealand.
+  conservation_status: The Canadian Wildlife Service estimates the population of Pectoral Sandpipers at 400,000 birds, with about half that number breeding in North America. Historical reports of enormous numbers along migratory corridors indicate that the population is not what it once was. While hunting may have had an impact in the late 1800s and early 1900s, habitat destruction is currently the most significant threat. There is not a lot of reliable information on population trends of this species, and more data would be helpful. However at this point, the Pectoral Sandpiper is not classified as a species in need of high-priority conservation.
+  when_where_wa: Migrants are much more common in Washington in fall than spring. Fall visitors start showing up in the interior in small numbers in late June. Their numbers increase into July and August, and by mid-August they are common. By late October, numbers start tapering off. They are uncommon by the end of October, and rare through most of November. Coastal birds start arriving in mid-July, but are uncommon through mid-August. From mid-August to October, they are common, then become uncommon again through early November. A few stragglers can sometimes be seen through the end of November. Most of these birds are juvenile.
+photos:
+- file: pesa_ad_dp_l.jpg
+  caption: Note slightly droopy bill and sharp border between streaked brown breast and white belly.
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: pesa.mp3
+  credit: null
+maps:
+  wa: came.jpg
+  north_america: pesamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', R, '', R, R, F, F, R, '']
+  puget_trough: ['', '', '', R, R, '', R, U, F, U, '', '']
+  north_cascades: ['', '', '', '', R, '', '', R, R, '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', U, F, U, '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', U, F, F, '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', R, '', R, U, F, U, '', '']
+taxonomy:
+  ebird_code: pecsan
+  current_common_name: Pectoral Sandpiper
+  current_scientific_name: Calidris melanotos
+  clements_sort: 6227
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/pectoral_sandpiper
+  archived: '2026-09-12'

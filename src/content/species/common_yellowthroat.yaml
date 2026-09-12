@@ -1,0 +1,73 @@
+slug: common_yellowthroat
+common_name: Common Yellowthroat
+scientific_name: Geothlypis trichas
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: Common summer resident, mostly west.
+species_of_concern: false
+sections:
+  general_description: The Common Yellowthroat male has a distinctive black mask with a white border at the top and a bright yellow throat that extends into its breast. It is yellow below to the undertail coverts, with a solid olive back. The female lacks the facial markings and is buff below, but has the same yellow throat and undertail coverts as the male. The juvenile looks like the female, but without the yellow throat, although the juvenile male shows a faint blackish mask.
+  habitat: Throughout much of North America, Common Yellowthroats are typical inhabitants of cattail marshes and other wetlands with dense, low growth. In western Washington, they are not as closely tied to cattail marshes as in other parts of their range; in eastern Washington, they are almost always in cattails. They are most common in wet, shrubby, lowland thickets, often frequenting introduced plants such as Scots broom and reed canary grass.
+  behavior: Like many birds that inhabit dense undergrowth, Common Yellowthroats sometimes cock their tails up. They forage low, mostly gleaning prey from the foliage, but sometimes flying out to catch aerial prey, or forage on the ground. During the breeding season, males often perch on a tall stalk to sing, and flick their wings and tails to attract females.
+  diet: Common Yellowthroats eat insects and other small invertebrates. They also occasionally eat seeds.
+  nesting: Common Yellowthroats are primarily monogamous. Pairs form shortly after the females arrive on the breeding grounds, about a week after the males. The female selects the nest site and builds the nest, which is usually within three feet of the ground in a shrub, or on the ground in a grass or weed tussock. The nest is a loose, bulky cup, sometimes with a partial roof, made of weeds, grass, sedge, and leaves, lined with fine bark, grass, and hair. The female incubates 3 to 5 eggs for 12 days. The male does not incubate the eggs, but brings food to the female while she is on the nest. Both parents feed the young, which leave the nest 8 to 10 days after hatching. The parents continue to feed the young for at least two weeks following fledging. Most pairs raise two broods a season. When the first brood fledges, the female starts the second brood and the male feeds the fledglings.
+  migration_status: Common Yellowthroat migration is spread out over an extended period in both the spring and fall. Some populations are non-migratory, although Washington's breeders leave the state to winter in Mexico and Central America. They generally migrate at night.
+  conservation_status: Although the destruction of wetlands has eliminated habitat in many areas, Common Yellowthroats are one of the most widely distributed and common warblers in North America. Populations in the Pacific Northwest have actually increased in recent years, and Breeding Bird Survey data show a significant increase in Washington since 1966. Common Yellowthroats are common hosts for parasitic Brown-headed Cowbirds, but this does not appear to be a major factor in the Northwest.
+  when_where_wa: Two subspecies of Common Yellowthroat breed in Washington; the populations are divided by the Cascade Mountains. Common Yellowthroats are common and widespread in lowland wetlands throughout western Washington from early April to late September. They are extremely rare in winter in western Washington. East of the Cascades, they are fairly common, but very local, from early May to the end of August, with some birds lingering through September. In eastern Washington, Common Yellowthroats are typically found in wetlands within forested zones and are less common in the hottest parts of the Columbia Basin.
+photos:
+- file: coye_m_gth_l.jpg
+  caption: Male
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: coye_m2_gth_l.jpg
+  caption: Male
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: coye_gl_l.jpg
+  caption: 'Male. Note: black mask and bright yellow throat.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: coye_f_gl_l.jpg
+  caption: 'Female. Note: pale yellow throat and brownish malar.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: COYE01.mp3
+  credit: null
+maps:
+  wa: getr.jpg
+  north_america: coyemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', R, C, C, C, C, C, C, U, '', '']
+  puget_trough: [R, R, R, F, C, C, C, C, C, R, R, R]
+  north_cascades: ['', '', R, C, C, C, C, C, C, R, '', '']
+  west_cascades: ['', '', '', C, C, C, C, C, C, F, '', '']
+  east_cascades: ['', '', '', R, U, U, U, U, U, R, '', '']
+  okanogan: ['', '', '', '', C, C, C, C, U, '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, F, U, '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', R, '', '', '']
+  columbia_plateau: ['', '', '', F, F, F, F, F, F, '', '', '']
+taxonomy:
+  ebird_code: comyel
+  current_common_name: Common Yellowthroat
+  current_scientific_name: Geothlypis trichas
+  clements_sort: 34028
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/common_yellowthroat
+  archived: '2026-09-12'

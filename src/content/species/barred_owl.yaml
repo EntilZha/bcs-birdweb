@@ -1,0 +1,61 @@
+slug: barred_owl
+common_name: Barred Owl
+scientific_name: Strix varia
+order:
+  name: Strigiformes
+  slug: strigiformes
+family:
+  name: Strigidae
+  slug: strigidae
+status: Fairly common resident.
+species_of_concern: false
+sections:
+  general_description: Barred Owls are medium-large owls with brown eyes and no ear-tufts. They are gray-brown in color, with light mottling on their backs. Breasts are barred horizontally and bellies vertically, with a clear demarcation between the horizontal and vertical barring. Barred Owls are slightly larger than the closely related, similar-appearing Spotted Owls.
+  habitat: In much of the country, Barred Owls are associated with large trees in old-growth forests. In Washington, they also use mature second-growth forests. These forests may be coniferous, broad-leaved, or mixed, often with openings from logging. Barred Owls are often found in swampy areas and at elevations higher than those that support Spotted Owls. At times they inhabit city parks and low-density residential areas, especially in winter.
+  behavior: Barred Owls are most active at night but also call and hunt during the day. They are sit-and-wait predators, sitting quietly on a perch before swooping silently down on unsuspecting prey. Occasionally they also hunt on the wing. Barred Owls have a wide variety of vocalizations and often call back and forth with their mates.
+  diet: Barred Owls are generalists, preying on small mammals, birds, frogs, and even large invertebrates.
+  nesting: Barred Owls are monogamous and form long-term pair bonds. These bonds are maintained throughout the year, and pairs may defend their territories year-round, though in the eastern part of the state males often leave their territories after the breeding season. Barred Owls nest in natural tree hollows, in old hawk, squirrel and crow's nests, and in artificial nest boxes. They add little or no material to the nest. The female typically incubates 2-3 eggs for 28-33 days, while the male brings her food. Once the young hatch, the female broods for about two weeks, and the male brings food to both the female and the young. At 4-5 weeks, the young leave the nest and venture onto nearby branches. Only then does the female also begin to feed herself and the young. Young Barred Owls begin to take short flights at 10 weeks and longer sustained flights at 12 weeks.
+  migration_status: Barred Owls do not migrate but may wander from their nesting territories when prey is scarce, as for example when snow is deep. Young birds also disperse in fall.
+  conservation_status: Barred Owls are widespread and common throughout most of their range. Their range expanded dramatically to the west in the second half of the 20th Century. They were first recorded in eastern Washington in 1965 and in western Washington in 1973. Breeding in western Washington was first recorded in 1975. The Barred Owl's expansion into the Spotted Owl's range has created additional challenges for this already troubled species. Barred Owls out-compete Spotted Owls, and in some instances even hybridize with them, both sources of concern. Currently, however, there are no measures to control Washington's growing population of Barred Owls.
+  when_where_wa: Barred Owls can be found year-round in most lowland and montane forests throughout Washington. They are believed to be most common in western Washington and on either side of the Cascades.
+photos:
+- file: bado_gl_l.jpg
+  caption: 'Adult. Note: vertically barred breast and belly.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: bado_fl_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: bado1.mp3
+  credit: null
+maps:
+  wa: stva.jpg
+  north_america: bdowmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, R, R, R, R, R, R, R, R, R]
+  puget_trough: [F, F, F, F, F, F, F, F, F, F, F, F]
+  north_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  west_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  east_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: [U, U, U, U, U, U, U, U, U, U, U, U]
+  blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
+  columbia_plateau: [R, R, R, R, R, R, R, R, R, R, R, R]
+taxonomy:
+  ebird_code: brdowl
+  current_common_name: Barred Owl
+  current_scientific_name: Strix varia
+  clements_sort: 9219
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/barred_owl
+  archived: '2026-09-12'

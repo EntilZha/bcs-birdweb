@@ -1,0 +1,67 @@
+slug: virginia_rail
+common_name: Virginia Rail
+scientific_name: Rallus limicola
+order:
+  name: Gruiformes
+  slug: gruiformes
+family:
+  name: Rallidae
+  slug: rallidae
+status: Fairly common resident.
+species_of_concern: false
+sections:
+  general_description: The Virginia Rail is a medium-sized bird of both fresh and salt water marshes. It has a long, slightly decurved bill and a short, upturned tail. The body, legs, and bill are reddish in color, and the cheeks are gray. The flanks are banded black and white. Juveniles are blackish-brown above with black or gray mottled underparts.
+  habitat: Virginia Rails are found primarily in freshwater marshes and less often in brackish marshes. They prefer a mixture of emergent vegetation and flooded openings where insects are abundant. In winter, Virginia Rails often move to salt marshes. However large numbers remain in fresh water marshes in winter. They are often associated with cattails.
+  behavior: Virginia Rails are very secretive birds that are more likely to be heard than seen. They are most active and visible at dawn and dusk. The long bill is used to probe mud and shallow water for prey. Virginia Rails have a number of vocalizations that function as communication between mates and in territorial disputes. The male performs a courtship display, bowing and running around the female with his wings raised. Both sexes vigorously defend the nest and the young.
+  diet: Virginia Rails feed on a variety of aquatic insects such as beetles and flies. They also eat slugs, snails, earthworms, and small fish. Compared to Soras, Virginia Rails consume more animal food, but Virginia Rails will eat aquatic plants and seeds, especially in the fall and winter.
+  nesting: Both sexes build the well-concealed nest, adding material as eggs are being laid and incubated. The nest is a loosely woven basket made of marsh plants with a living plant canopy. Virginia Rails also build several dummy nests near the active nest. The female lays 5-13 eggs, and both sexes incubate. Young develop very quickly and leave the nest 3-4 days after hatching. They can forage independently within 7 days of hatching. Both parents continue to defend the young after they leave the nest.
+  migration_status: Most populations in North America are migratory, although some populations in the West are permanent residents. Spring migrants may arrive as early as late March. Virginia Rails migrate from mid-August through October. Many birds winter west of the Cascades, and a few may occasionally attempt to winter in eastern Washington.
+  conservation_status: The Virginia Rail is considered a game bird in much of North America, but is seldom hunted. Loss of wetland habitat has led to population decline in some areas, but numbers are thought to be relatively stable.
+  when_where_wa: In western Washington, breeding birds are found in lower-elevation fresh water marshes and some brackish marshes along the Puget Trough west to Ocean Shores. In eastern Washington, they occur throughout the Columbia Basin, Palouse, and Okanogan Valley, and north along large river valleys. Virginia Rails winter in both western and eastern Washington, but the numbers may vary year to year due to cold weather. The Union Bay Natural Area/Montlake Fill (King County) and North Creek Park in Mill Creek (Snohomish County) are good places to look for them.
+photos:
+- file: vira_gl_l.jpg
+  caption: 'Adult. Note: gray face, reddish brown breast, and dark bill.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: vira_j_jh_l.jpg
+  caption: Juvenile
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: vira_gl2_l.jpg
+  caption: 'Adult. Note: gray face, reddish brown breast, and dark bill.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: vira.mp3
+  credit: null
+maps:
+  wa: rali.jpg
+  north_america: viramap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, F, F, F, F, F, U, U, U, U]
+  puget_trough: [F, F, F, F, F, F, F, F, F, F, F, F]
+  north_cascades: ['', '', '', U, U, U, U, U, U, U, '', '']
+  west_cascades: [R, R, R, U, F, F, F, F, F, U, R, R]
+  east_cascades: [R, R, R, U, U, U, U, U, R, R, R, R]
+  okanogan: ['', '', U, F, F, F, F, F, F, U, '', '']
+  canadian_rockies: ['', '', '', R, U, U, U, U, U, '', '', '']
+  blue_mountains: ['', '', R, U, U, U, U, U, R, R, '', '']
+  columbia_plateau: [R, R, R, U, F, F, F, F, U, U, R, R]
+taxonomy:
+  ebird_code: virrai
+  current_common_name: Virginia Rail
+  current_scientific_name: Rallus limicola
+  clements_sort: 5297
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/virginia_rail
+  archived: '2026-09-12'

@@ -1,0 +1,73 @@
+slug: ring-billed_gull
+common_name: Ring-billed Gull
+scientific_name: Larus delawarensis
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: A medium-sized, white-headed gull, the Ring-billed Gull appears similar to the Herring and California Gulls, but is smaller, with a shorter bill that has a broad, black ring around it. The Ring-billed Gull is slightly larger and bulkier than the Mew Gull. The white body and tail, slate-gray back and wings, and black wingtips with large, white spots (windows), typical of most gulls, are all present on the Ring-billed Gull. The juvenile is mottled brown mixed with adult plumage characteristics. It has pink legs and a pink bill with a dark tip. As the bird matures, the legs turn yellow, and the bill becomes yellow with a black ring. The adult's eye is also yellow. The adult in non-breeding plumage has brown streaking on its head. The Ring-billed Gull takes three years to reach maturity.
+  habitat: Ring-billed Gulls are found in a wide variety of habitats and occur over much of inland North America. They are usually found near fresh or salt water, and take advantage of foraging opportunities in developed areas such as parking lots, restaurants, garbage dumps, and agricultural areas. They also inhabit more natural areas such as coasts and bays. They are rarely found far offshore.
+  behavior: Like most gulls, Ring-billed Gulls are gregarious, adaptable, and opportunistic. They do much of their feeding on land, but also forage while wading, swimming, or flying. These gulls spend a considerable amount of time scavenging and often steal food from other birds. They congregate at sewage ponds and in agricultural fields, where they follow plows, picking up insects and small rodents.
+  diet: Ring-billed Gulls eat a wide variety of things, including insects, grubs, earthworms, sewage, garbage, small rodents, fish, and other aquatic organisms.
+  nesting: The Ring-billed Gull can be found in mixed colonies with larger gulls, where they are often forced to use sub-optimal habitat close to the water, and their nests are at risk of flooding. Colonies are located on low-lying, sandy islands, and nests are built on the ground. Both members of a pair help build a small nest of grass and twigs. Both help incubate the 2-4 eggs for 4 weeks, and both help brood and feed once the young hatch. The young may wander out of the nest after 2 days, but will stay close until after they fledge at about 5 weeks. Nests with more than four eggs are usually the result of two females sharing a nest.
+  migration_status: Ring-billed Gulls migrate in flocks, following coastlines and major river valleys. In Washington, many winter residents are present along the coastline. Breeders in eastern Washington may stay in the lowlands year round, but many migrate to the coast.
+  conservation_status: The Ring-billed Gull population suffered a major decline at the beginning of the 20th Century because of hunting, but it has since rebounded and is currently thriving throughout its range, so much so that it is considered a nuisance in some areas. Much of the current population boom can be attributed to its ability to exploit food sources such as garbage dumps, large-scale agricultural operations, and irrigation facilities. In 1990, the North American population of Ring-billed Gulls was estimated at 3-4 million and growing. The first breeding colonies in this state were in eastern Washington and were established as early as 1930. Ring-billed Gulls did not colonize western Washington until 1976, when the first pairs nested at Willapa Bay and Whitcomb Island in Grays Harbor. Dam projects in eastern Washington have helped the population continue to grow in that part of the state. The population has grown in western Washington as well, but competition with larger gull species may restrict this growth.
+  when_where_wa: The Ring-billed Gull is common in eastern Washington, breeding colonially on gravel islands in lakes and rivers, and feeding in agricultural fields, cities, and wetlands near the breeding colonies. In western Washington, they are locally common on the dredge-spoil islands in Grays Harbor and Willapa Bay. Non-breeders are also abundant in western Washington in the summer. Migrants have been observed at fairly high elevations in the Cascades. In winter, they are common in coastal areas and the Puget Trough, and are fairly common in eastern Washington in the Columbia Basin, although they are less common here in severe winters.
+photos:
+- file: rbgu_gl_l.jpg
+  caption: 'Adult breeding plumage. Note: yellow bill with dark ring, yellow legs, pale eye, and light gray mantle.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: rbgu_wfl_gl_l.jpg
+  caption: 'Adult nonbreeding in flight. Note: lightly brown streaked nape, and black uppper/underwing with small white mirror.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: rbgu_w_tg_l.jpg
+  caption: 'Adult nonbreeding plumage. Note: brown dotted head and nape.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: rbgu_jfl_jp_l.jpg
+  caption: 'Immature (1st winter). Note: pink bill with black tip, light wings with dark upper primaries (and trailing edge of wing).'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+audio:
+  file: rbgu.mp3
+  credit: null
+maps:
+  wa: lade.jpg
+  north_america: rbgumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, F, U, U, U, C, C, U, U, U]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [R, R, R, R, '', '', '', '', '', R, R, R]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [F, F, C, C, C, C, C, C, C, F, F, F]
+  canadian_rockies: [F, F, F, C, C, U, U, U, F, F, F, F]
+  blue_mountains: ['', '', '', R, R, R, R, R, '', '', '', '']
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: ribgul
+  current_common_name: Ring-billed Gull
+  current_scientific_name: Larus delawarensis
+  clements_sort: 6521
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/ring-billed_gull
+  archived: '2026-09-12'

@@ -1,0 +1,46 @@
+slug: wilsons_storm-petrel
+common_name: Wilson's Storm-Petrel
+scientific_name: Oceanites oceanicus
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Hydrobatidae
+  slug: hydrobatidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Two records, both off Westport (Grays Harbor County), July 1984 and September 2001.
+photos:
+- file: wispmd.jpg
+  caption: ''
+  credit:
+    name: Michael Donahue
+    url: null
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: wispet
+  current_common_name: Wilson's Storm-Petrel
+  current_scientific_name: Oceanites oceanicus
+  clements_sort: 7013
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/wilsons_storm-petrel
+  archived: '2026-09-12'

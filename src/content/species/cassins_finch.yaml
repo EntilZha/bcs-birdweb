@@ -1,0 +1,67 @@
+slug: cassins_finch
+common_name: Cassin's Finch
+scientific_name: Carpodacus cassinii
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Fringillidae
+  slug: fringillidae
+status: Common summer resident east, uncommon winter.
+species_of_concern: true
+sections:
+  general_description: The Cassin's Finch is closely related to the Purple Finch and the House Finch, and there are places in Washington where all three species can be found. Like most finches, the Cassin's Finch has a notched tail. The male Cassin's Finch typically has a brown back and wings, with pinkish over-wash and white belly. His brightest coloring is on his crown. This bright spot contrasts with the relatively pale areas surrounding it and is a good field mark. The female Cassin's Finch has short, crisp streaks on her breast. The breast streaks do not gather in a central spot as on many sparrows. The female may also exhibit a faint whitish eyebrow. Unlike Purple Finches, Cassin's Finches have fine streaks on their undertail coverts. Their bills are conical and slightly longer than those of Purple Finches. Males take two years to reach mature plumage, and one-year males look like females.
+  habitat: Cassin's Finches inhabit dry, open coniferous forests east of the Cascade crest. They are most common in mid-elevation Ponderosa pine forests but can also be found in Douglas fir, spruce, or fir forests.
+  behavior: Flocks form in late summer and early fall, and groups may visit bird feeders regularly in winter. Cassin's Finches can often be found in association with crossbills and other mountain birds. They forage in trees (especially when the ground is covered with snow), in weedy growth and shrubbery, and also on the ground. They can erect their crown feathers and do this more often than the closely related Purple Finch.
+  diet: Cassin's Finches eat mostly seeds, buds, and berries. In summer they also eat insects, but feed their young mostly seeds.
+  nesting: Monogamous pairs typically form in late winter or early spring, and groups may breed semi-colonially. They usually nest in a large conifer, near the top of the crown, or well out on a lateral branch. The female builds the nest, which is a loose, open cup made of twigs, weeds, and rootlets, lined with fine grass, plant fibers, hair, and lichen. The female incubates 4 to 5 eggs for about 12 days. The male brings food to the female while she incubates, and both adults bring food to the chicks. The young leave the nest after about two weeks, and the parents and young may quickly leave the nesting area, but will remain in family groups. Pairs generally raise a single brood each season.
+  migration_status: Cassin's Finches are short-distance migrants. During winter some drift southward, others descend into nearby lowlands, and others remain on the breeding range. Most Cassin's Finches leave Washington in winter, except when heavy Ponderosa pine seed crops provide enough food for them to stay. They may be somewhat nomadic during winter.
+  conservation_status: A preference for open forests allows Cassin's Finches to take advantage of selectively logged forests and small-scale clear-cutting operations. As this habitat has been developed or converted to agriculture, however, House Finches have expanded and may outcompete Cassin's Finches.
+  when_where_wa: Cassin's Finches can be found in eastern Washington from May to October. Small numbers remain in eastern Washington in winter. A few are reported on the west side, but identification difficulties make these reports uncertain. Cassin's Finches tend to be found at higher elevations than Purple Finches, but all three (Cassin's, Purple, and House Finch) can be seen in eastern Washington where agriculture, pine forests, and rivers all come together. Although Cassin's Finches are generally widespread in eastern Washington, their occurrence in any given location is highly variable from year to year.
+photos:
+- file: cafi_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: cafi_tg_l.jpg
+  caption: 'Male. Note: dark red crown, streaked back, and fine streaks on flanks'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: cafi_f_jh_l.jpg
+  caption: 'Female. Note: crispy streaking on back and sparse crisp streaks on breast.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: CAFI01.mp3
+  credit: null
+maps:
+  wa: cacas.jpg
+  north_america: cafimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', R, R, R, R, R, R, '', '', '']
+  west_cascades: ['', '', '', U, U, U, U, U, U, '', '', '']
+  east_cascades: [R, R, U, C, C, C, C, C, F, R, R, R]
+  okanogan: [R, R, R, F, F, F, F, F, F, U, U, R]
+  canadian_rockies: [U, U, U, U, U, U, U, U, U, U, U, U]
+  blue_mountains: [U, U, U, U, F, F, F, F, F, F, U, U]
+  columbia_plateau: [R, R, R, U, U, U, U, U, U, R, R, R]
+taxonomy:
+  ebird_code: casfin
+  current_common_name: Cassin's Finch
+  current_scientific_name: Haemorhous cassinii
+  clements_sort: 32329
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/cassins_finch
+  archived: '2026-09-12'

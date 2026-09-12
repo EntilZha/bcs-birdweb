@@ -1,0 +1,61 @@
+slug: black_tern
+common_name: Black Tern
+scientific_name: Chlidonias niger
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Fairly common summer east. Rare west.
+species_of_concern: true
+sections:
+  general_description: A small, graceful, black and silver bird, the Black Tern has relatively broad wings and a short tail that is only slightly forked. In breeding plumage, it has a black body and head, silvery gray wings and a white vent. The legs and bill are also black. In non-breeding plumage, the Black Tern has a white belly and breast. The black on its head recedes, leaving dark sideburns, and is replaced with a white face. The legs are orange. Juveniles appear similar to adults in non-breeding plumage, but the gray mantle is mottled.
+  habitat: A marsh-breeding bird, the Black Tern nests in freshwater wetlands in Eastern Washington, mostly east of the Okanogan and Columbia Rivers. For nesting, it requires habitat with extensive, cover-providing, vegetation as well as open water. During migration, it uses large lakes and coastlines. In winter, it can be found along productive marine coastlines, lagoons and estuaries, especially off the Pacific Coast of Panama.
+  behavior: Black Terns swoop to pluck food from the water's surface; they rarely plunge-dive under the water. They will also forage in flight, snatching flying insects out of the air. Highly social, they often forage in flocks.
+  diet: In the breeding season, insects are the primary food source, although small fish and other aquatic creatures are also eaten. During migration and in winter, small fish make up the bulk of the diet.
+  nesting: Breeding in scattered colonies, often associated with Forster's Terns, Black Terns nest low in marshes, on floating vegetation mats, muskrat houses, or on the ground near water. Both parents help build a nest which ranges from a substantial mound of vegetation to a simple depression with a little bit of vegetation added. When mixed with Forster's Terns, the Black Tern nests tend to be lower, closer to the water. In fact, the eggs of Black Terns are adapted to get wet (but not for extended periods of time), and are often moist. Both parents incubate the 2-4 eggs for about three weeks. After 2-3 days they may leave the nest, but stay close by. In approximately three weeks the young are ready to fly, but they may be fed by their parents for up to 2 more weeks. Typically only one brood is raised each year.
+  migration_status: In the fall, Black Terns gather at feeding sites that are often north of breeding colonies, and then migrate south in groups. Spring migration is more direct, and migration, during both seasons, is usually over land. It appears that Black Terns nesting in the west may move south to the coast of Mexico, and then continue further south offshore.
+  conservation_status: Numbers have decreased since the 1960s due, in part to the destruction or degradation of much of their breeding and migration stopover habitat. Other potential impacts on the population are increased fertilizer runoff causing chemical contamination in wetlands, and overfishing in winter habitat. It is federally designated as a category 2 candidate for listing under the endangered species act, and is included on the Washington Gap Analysis list of birds at-risk.
+  when_where_wa: Common in parts of eastern Washington from May to mid-August, and rare in westerrn Washington from July to early September. Black Terns readily change colony sites, so there are not well established colonies that are a sure bet to find them at. They occur mostly east of the Okanogan and Columbia Rivers and in some years they also nest in Klickitat County and at Conboy Lake National Wildlife Refuge. They are most common in the northeast part of the state, and hundreds often nest at the Turnbull National Wildlife Refuge in Spokane County. During migration, Black Terns can be observed in wetlands throughout eastern Washington.
+photos:
+- file: blte_fl_gl_l.jpg
+  caption: Adult breeding
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: blte_wfl_gl_l.jpg
+  caption: 'Adult nonbreeding. Note: black hindcrown and dark bill.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: blte.mp3
+  credit: null
+maps:
+  wa: chni.jpg
+  north_america: bltemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', R, R, R, R, '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', R, R, '', '', '']
+  okanogan: ['', '', '', '', U, F, F, U, '', '', '', '']
+  canadian_rockies: ['', '', '', '', U, F, U, R, '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', U, U, U, U, '', '', '', '']
+taxonomy:
+  ebird_code: blkter
+  current_common_name: Black Tern
+  current_scientific_name: Chlidonias niger
+  clements_sort: 6725
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black_tern
+  archived: '2026-09-12'

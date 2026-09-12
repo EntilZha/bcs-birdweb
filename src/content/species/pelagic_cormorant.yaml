@@ -1,0 +1,71 @@
+slug: pelagic_cormorant
+common_name: Pelagic Cormorant
+scientific_name: Phalacrocorax pelagicus
+order:
+  name: Pelecaniformes
+  slug: pelecaniformes
+family:
+  name: Phalacrocoracidae
+  slug: phalacrocoracidae
+status: Common coastal resident.
+species_of_concern: true
+sections:
+  general_description: The smallest cormorant in Washington, the Pelagic Cormorant is slender, with an especially slender neck and beak. Both males and females are solid black, except during the breeding season when adults have white rump patches that show in flight.
+  habitat: Exclusively marine, Pelagic Cormorants can be found in bays and sounds and on the coast (although usually fairly close to shore). They breed on small, offshore islands and rocky cliffs with deep water at the base.
+  behavior: They are generally less social than other species of cormorant. Feeding is a solitary activity. Pelagic Cormorants, like other cormorants, catch most of their prey underwater. Nesting colonies are in hard-to-reach places, as cormorants are more successful at excluding predators than in actively defending against them.
+  diet: Small fish make up most of the diet, with crustaceans and other marine animals making up a small portion as well. Much of the foraging is close to rocks.
+  nesting: Pelagic Cormorants nest in colonies, which are smaller than those of other cormorants. Colonies are situated on islands, narrow cliff ledges, steep slopes, and other relatively inaccessible locations. The male displays at a nest site by flashing his white patches. Together the male and female construct a nest of seaweed, grass, moss, and occasionally sticks. This nest may be reused from year to year. The female lays a clutch of 3-4 eggs. Both parents incubate and feed the young.
+  migration_status: Birds that breed in Washington are permanent residents here, but birds breeding farther north may winter in northern Washington waters.
+  conservation_status: Cormorants as a group have been killed and harassed by people who believe that the birds damage the commercial fishing industry. (Pelagic Cormorants, however, feed on fish that aren't fished by commercial fisheries.) Oil spills, gill-net entanglement, and toxic contamination of prey also affect the population. In Washington, significant increases in the population were recorded between 1976 and 1992.
+  when_where_wa: Numerous in northern Puget Sound, Pelagic Cormorants nest on a number of islands throughout the sound. Historically, large colonies have been found on Protection Island in Jefferson County, Smith/Minor Island in Island County, and Jagged Island in Clallam County.
+photos:
+- file: peco_b_jh_l.jpg
+  caption: 'Adult breeding plumage. Note: white flank patches, limited red at base of bill.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: pecoanddcco_jh_l.jpg
+  caption: 'Adult with Double-crested Cormorant for size comparison. Note: thinner neck, dark and thin bill, and long tail. Pelagic Cormorants frequently perch like this (on ledges).'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: peco_w_jh_l.jpg
+  caption: 'Adult nonbreeding plumage. Note: slender neck and pencil-like bill.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: peco_fl_jh_l.jpg
+  caption: 'Adult nonbreeding plumage in flight. Note: neck is higher than body in flight and tapers almost seamlessly to bill.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio: null
+maps:
+  wa: phpel.jpg
+  north_america: pecomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: pelcor
+  current_common_name: Pelagic Cormorant
+  current_scientific_name: Urile pelagicus
+  clements_sort: 7391
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/pelagic_cormorant
+  archived: '2026-09-12'

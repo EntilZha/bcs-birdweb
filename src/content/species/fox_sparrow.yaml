@@ -1,0 +1,61 @@
+slug: fox_sparrow
+common_name: Fox Sparrow
+scientific_name: Passerella iliaca
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Common winter west. Common to rare breeder. Rare winter east.
+species_of_concern: false
+sections:
+  general_description: The Fox Sparrow is a large, chunky sparrow that is highly variable in appearance, depending on geographical region. It is dark and unstreaked on its back, varying from gray-brown, to dark brown, to rufous. The tail is typically redder than the back. The breast is heavily spotted, and the spots are shaped like chevrons that converge in a central spot on the breast. The head is not striped or streaked, the face is plain, and the lower mandible is yellow. The combination of the chevron markings, red tail, plain face, and yellow mandible are good field marks to use to identify the Fox Sparrow.
+  habitat: Breeding Fox Sparrows can be found at high elevations, especially in wet meadows or in scattered conifers. Wintering Fox Sparrows inhabit recent clearcuts and tangled brush, especially blackberry thickets.
+  behavior: Fox Sparrows are not typically found in flocks. Ground-foragers, they scratch in the leaf litter with a two-footed jump-kick motion.
+  diet: Seeds, especially from grasses and smartweeds (Polygonum spp.), are typical diet items throughout the year. In the spring and summer, Fox Sparrows eat insects and feed them to their young. Berries, when available, are also a staple. Birds in coastal areas will eat tiny crustaceans and other small marine creatures found on the beach.
+  nesting: The male sings to defend his nesting territory and attract a mate. The female builds the nest, a bulky cup made of grass, moss, and twigs, lined with hair, fine grass, moss, and feathers. The nest is located on the ground, in a shrub, or in a tree. Ground nests are usually on a grassy hummock, hidden under dense shrub cover. Nests in shrubs or trees are attached to branches and are usually bulkier, with more twigs than their counterparts on the ground. The female incubates 3 to 4 eggs for 12 to 14 days. Both parents help feed the young, which leave the nest at 9 to 11 days. Pairs generally raise two broods per year.
+  migration_status: The migration status of the Fox Sparrow is confounded by overlaps between the various groups. Generally, Fox Sparrows winter in the southern United States, but some groups may winter as far north as coastal Washington. Many of the Fox Sparrows that breed in Washington winter to the south. Some winter in Washington or travel short distances down the coast. Northern coastal breeders from British Columbia and Alaska move into western Washington for the winter. Migration tends to be early in spring and late in fall.
+  conservation_status: The two breeding subspecies breed in non-overlapping areas.
+  when_where_wa: There are 19 recognized races of Fox Sparrows. These are divided into four groups that may be split into separate species at some point. Fox Sparrows breeding in Washington belong to two groups, and wintering and migrating birds come from a third. The Sooty Fox Sparrow is an uncommon and local breeder in shrubby habitats along the outer coast, around Cape Flattery, on Tatoosh Island, and on some of the San Juan Islands north of Orcas Island. These birds migrate down the coast and into western Washington. Other Sooty Fox Sparrows migrate into Washington from points north. They can be seen in eastern Washington during migration, and are abundant winter residents in western Washington and north into British Columbia. One race of the Slate-colored Fox Sparrow breeds at higher elevations in the eastern Cascades and northeastern Washington, and another race breeds in the Blue Mountains. They are locally common in these areas during the breeding season, but leave Washington during the winter. The Red Fox Sparrow, the northernmost subspecies, has been recorded passing through Washington but only rarely.
+photos:
+- file: fosp_jh_l.jpg
+  caption: 'Sooty race. Note: uniform brown above, brown triangular spots on breast, and yellowish bill.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: fosp_gt_l.jpg
+  caption: 'Slate-colored race. Note: grayish wing, back and hood, dark triangular spotting on breast, and pale bill.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: FOSP01.mp3
+  credit: null
+maps:
+  wa: pail.jpg
+  north_america: fospmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, F, U, U, U, U, C, C, C]
+  puget_trough: [C, C, C, C, F, R, R, R, F, C, C, C]
+  north_cascades: [U, U, U, U, F, F, F, U, U, U, U, U]
+  west_cascades: [C, C, C, F, F, F, F, F, F, C, C, C]
+  east_cascades: [R, R, R, U, F, F, F, U, U, U, R, R]
+  okanogan: ['', '', U, F, F, U, U, F, F, U, U, '']
+  canadian_rockies: ['', '', U, F, F, F, F, F, U, '', '', '']
+  blue_mountains: ['', '', '', R, F, F, F, F, U, R, '', '']
+  columbia_plateau: [U, U, U, U, U, '', '', '', U, U, U, U]
+taxonomy:
+  ebird_code: foxspa
+  current_common_name: Fox Sparrow
+  current_scientific_name: Passerella iliaca
+  clements_sort: 33099
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/fox_sparrow
+  archived: '2026-09-12'

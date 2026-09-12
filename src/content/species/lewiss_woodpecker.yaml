@@ -1,0 +1,67 @@
+slug: lewiss_woodpecker
+common_name: Lewis's Woodpecker
+scientific_name: Melanerpes lewis
+order:
+  name: Piciformes
+  slug: piciformes
+family:
+  name: Picidae
+  slug: picidae
+status: Fairly common resident east. Casual west.
+species_of_concern: true
+sections:
+  general_description: Lewis's Woodpeckers are large, unusual-looking woodpeckers with dark iridescent green-black backs, pink undersides, gray breasts and collars, and red faces rimmed with black. Males and female look alike. Juveniles also have dark iridescent green-black backs, but are mottled brown beneath, with dark brown heads and no gray collars or red faces.
+  habitat: 'Lewis''s Woodpeckers prefer open forests with brushy understories and snags for nesting. In Washington, they use three main types of habitat: forested riversides with large cottonwoods and other hardwoods, Ponderosa pine forests, especially at the lower edge of the tree line, and Garry oak stands.'
+  behavior: In spring and summer when flying insects are about, Lewis's Woodpeckers get most of their food by fly-catching, sometimes flying quite high. In the fall, they chop nuts into pieces and store them in crevices and holes in trees for the winter. They guard these storage areas throughout the cold season. Lewis's Woodpeckers have a more steady, buoyant flight than most other woodpeckers, with slower wing-beats and longer glides. In flight they can often be mistaken for crows.
+  diet: Flying insects make up most of the Lewis's Woodpecker's spring and summer diet. In fall and winter they feed principally on acorns, other nuts, seeds, and fruits.
+  nesting: Lewis's Woodpeckers are monogamous and may form long-term pair bonds. Both members of the pair excavate a hole in a decayed tree, typically a cottonwood or Ponderosa pine. The nest consists of a wood-chip lining inside the hole. They commonly reuse nest sites. Both members of the pair generally incubate the 6 to 7 eggs for 12 to 16 days. Both feed the young, which leave the nest after 28 to 34 days. The young are dependent on the parents for some time after they leave the nest.
+  migration_status: Most Lewis's Woodpeckers leave Washington in the winter for points south, typically southern Oregon or California. Their migratory movements can vary considerably from year to year, especially if acorn crops fail, but a number of birds often winter in south-central Washington.
+  conservation_status: The population of Lewis's Woodpeckers has been reduced by the arrival of European Starlings, which compete for nest sites. They were formerly fairly common in western Washington in burns and prairies, but with development and fire suppression, along with the invasion of starlings, they have been extirpated as a breeding species from western Washington. As Lewis's Woodpeckers are local and erratic in occurrence, their population is difficult to monitor. A decline seen in Washington and throughout their range over the years has led to their listing as an at-risk species by Partners in Flight, Audubon~Washington, and the Washington Gap Analysis project. They are also candidates for endangered-species listing by the Washington Department of Fish and Wildlife.
+  when_where_wa: Lewis's Woodpeckers breed in eastern Washington, where they are locally common at the transition zone between Ponderosa pine and shrub-steppe habitats. They are also uncommon breeders in northeastern Washington in Pend Oreille, Stevens, and Lincoln Counties. They were formerly common in far-eastern Washington, but numbers in Spokane County have declined dramatically, and populations appear to be extirpated in Walla Walla and Columbia Counties, although there may still be a lingering breeding colony in the Blue Mountains. They can sometimes be found as rare migrants in western Washington. Winter populations can also often be found at Fort Simco and Upper Cowiche Creek (Yakima County), and Klickitat County.
+photos:
+- file: lewo_ad_gth_l.jpg
+  caption: Adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: lewo_gth_l.jpg
+  caption: 'Adult. Note: glossy green back and red face.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: lewo_j_gl_l.jpg
+  caption: Juvenile
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: LEWO01.mp3
+  credit: null
+maps:
+  wa: mele.jpg
+  north_america: lewomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', R, R, R, R, R, '', '', '']
+  east_cascades: [U, U, U, U, F, F, F, F, U, U, U, U]
+  okanogan: ['', '', '', U, U, U, U, U, U, R, '', '']
+  canadian_rockies: ['', '', '', '', R, R, R, R, '', '', '', '']
+  blue_mountains: ['', '', '', '', U, U, U, U, U, R, '', '']
+  columbia_plateau: ['', '', '', '', R, R, R, R, R, '', '', '']
+taxonomy:
+  ebird_code: lewwoo
+  current_common_name: Lewis's Woodpecker
+  current_scientific_name: Melanerpes lewis
+  clements_sort: 11142
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/lewiss_woodpecker
+  archived: '2026-09-12'

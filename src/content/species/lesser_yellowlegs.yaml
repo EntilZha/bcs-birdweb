@@ -1,0 +1,55 @@
+slug: lesser_yellowlegs
+common_name: Lesser Yellowlegs
+scientific_name: Tringa flavipes
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Common migrant. Rare winter west.
+species_of_concern: true
+sections:
+  general_description: A mottled gray shorebird with bright yellow legs, the Lesser Yellowlegs is similar in appearance to the Greater Yellowlegs, with some important differences. The Lesser Yellowlegs is about half the size (in weight) of the Greater Yellowlegs, which is a useful distinction when the two are seen together. The bill of the Lesser Yellowlegs is not significantly longer than the diameter of its head, whereas the Greater Yellowlegs' bill is much longer. The bill of the Lesser Yellowlegs does not become paler at the base during the winter; it is solid black year round. Its bill always appears straight, without the slight upturn sometimes seen on the bill of the Greater Yellowlegs. In flight, the Lesser has a dark back, a white rump, and a dark tip on its tail. Relative to its size, the Lesser’s legs are longer than those of the Greater Yellowlegs, a difference that can be seen in flight (entire toes and tip of tarsus visible behind the tail). Juvenile Lesser Yellowlegs have finer streaking on their breasts than do juvenile Greater Yellowlegs.
+  habitat: Lesser Yellowlegs breed in open boreal woods in the far north. They often use large clearings or burned areas near ponds, and will nest as far north as the southern tundra. During migration and winter, they occur on coasts, in marshes, on mudflats, and lakeshores. In comparison to Greater Yellowlegs, Lessers are typically found in more protected areas, on smaller ponds. They are less common on extensive mudflats than Greater Yellowlegs. When nesting, they generally use drier, more sheltered sites than their larger counterparts.
+  behavior: Lesser Yellowlegs typically occur in tighter and larger flocks than do Greaters, both in flight and while feeding. Like the Greater Yellowlegs, Lessers forage in shallow water outside the breeding season, picking at prey on or just below the water's surface. They are less likely than Greaters to run after their prey, but more likely to scythe their bills back and forth in the water stirring up prey like an avocet. They are typically more approachable than the wary Greater Yellowlegs. They bob the front half of their bodies up and down, a characteristic behavior of this genus. The most common vocalization heard is a two-note flight call.
+  diet: During the breeding season, insects make up the majority of the diet. The rest of the year, Lesser Yellowlegs also eat small fish and crustaceans.
+  nesting: Lesser Yellowlegs nest in loose colonies. They first breed at one to two years of age. They form monogamous pair bonds, but typically pair with a different mate each year. The nest is located on the ground in a dry spot, usually near water, but sometimes quite far away. The nest is usually well hidden in a densely vegetated area, next to a mossy hummock, fallen branch, or log. It is usually a shallow depression lined with moss, twigs, leaves, grass, and needles. Both parents share incubation duties, and the 4 eggs hatch in 22-23 days. The young leave the nest soon after hatching and feed themselves. Both parents tend and aggressively defend the young. The female usually leaves about 11 days after the young hatch, while the male stays with the chicks until they can fly, about 23-31 days. Pairs raise only one brood per season.
+  migration_status: Lesser Yellowlegs are long-distance migrants and follow the classic shorebird migration pattern of traveling north concentrated in the interior of North America, and traveling south spread across the continent. They return to the same general breeding area in successive years and migrate to the southernmost coasts of the US south to South America. The Lesser Yellowlegs is one of the earliest fall migrants, showing up by June.
+  conservation_status: Lesser Yellowlegs were hunted heavily until the Migratory Bird Treaty Act of 1918 banned their hunting. Observers have speculated that the population has recovered since the act took effect, but a lack of information on historical and current population size makes this claim hard to substantiate. Breeding Bird Survey data indicate that there have been significant decreases in numbers between 1980 and 1996, although these numbers come from a small sample size and may not represent the entire population. The International Shorebird Survey (1972-1983) suggests that there has been no significant trend in number of fall migrants at 43 stopover sites along the Atlantic. Christmas Bird Counts indicate that the wintering population in the United States is on the increase. The consensus today is that the population is currently stable, and the Canadian government estimates it at half a million birds.
+  when_where_wa: This species migrates through Washington on both its northward and southward trips, but is most common from mid-July through September. Most of the birds in Washington in July are adults, and the juveniles follow from late July into early October. Lesser Yellowlegs are fairly uncommon after the middle of October. They can be found along the coast and in a variety of wetland habitats throughout Washington's lowlands. In spring, they are uncommon migrants in eastern Washington from mid-April to mid-May, where they are found in freshwater wetlands.
+photos:
+- file: leye_a_dp_l.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: leye.mp3
+  credit: null
+maps:
+  wa: trfl.jpg
+  north_america: leyemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', R, R, '', U, U, U, R, '', '']
+  puget_trough: ['', '', '', U, U, '', R, F, F, R, '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', R, R, '', U, F, U, R, '', '']
+  east_cascades: ['', '', '', R, '', '', R, U, R, '', '', '']
+  okanogan: ['', '', '', '', U, R, U, C, U, '', '', '']
+  canadian_rockies: ['', '', '', U, F, R, F, F, F, U, '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', R, U, R, F, C, C, R, '', '']
+taxonomy:
+  ebird_code: lesyel
+  current_common_name: Lesser Yellowlegs
+  current_scientific_name: Tringa flavipes
+  clements_sort: 6145
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/lesser_yellowlegs
+  archived: '2026-09-12'

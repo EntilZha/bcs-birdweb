@@ -1,0 +1,61 @@
+slug: pygmy_nuthatch
+common_name: Pygmy Nuthatch
+scientific_name: Sitta pygmaea
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Sittidae
+  slug: sittidae
+status: Fairly common resident east.
+species_of_concern: true
+sections:
+  general_description: The Pygmy Nuthatch is a small bird with a slate-gray back and buffy underside. Males and females look the same, with white chins extending up just below the eyes and gray-brown caps. The edge of the cap is darker than the rest, giving the Pygmy Nuthatch a dark eye-line. Its bill is long and solid, and it has long toes and talons. The white on each side of its short tail can be seen in flight.
+  habitat: In Washington, Pygmy Nuthatches are closely associated with old-growth Ponderosa pine forests and are seldom found outside of this habitat.
+  behavior: Pygmy Nuthatches are the most social of Washington's nuthatches and are found in flocks year round. Winter flocks roost together in cavities. Pygmy Nuthatches forage primarily on cones and in needle clusters at the outermost tips of high pine branches. Because they are often high up in trees, they are most easily located by voice. Pygmy Nuthatches are one of only a few cooperatively breeding songbirds in North America. During the breeding season, about a third of the pairs have up to three helpers at the nest. These helpers are usually related males, often offspring from the previous year. These birds help defend the nest site and raise the young.
+  diet: Insects, primarily weevils, leaf and bark beetles, are the predominant food in the summer, especially of the young. During winter, their diet includes many seeds. Pygmy Nuthatches will also come to seed and suet feeders.
+  nesting: Pairs form long-term bonds and remain paired year round. Pygmy Nuthatches are cavity-nesters. They sometimes use natural cavities, woodpecker holes, or artificial nest boxes, but usually they excavate their own cavities. Both members of the pair dig the nest hole in a dead branch or snag of a Ponderosa pine or aspen. The nest hole is lined with bark strips, plant down, moss, cocoons, fur, and feathers. The female incubates 5 to 9 eggs for 12 to 17 days. While she incubates, the male and the helpers bring her food. Male, female, and helpers all feed the nestlings and fledglings. Young birds fledge at 14 to 22 days and are partially dependent on adult birds for 23 to 28 days post-fledging. Pairs occasionally raise two broods a season, but one brood is the norm.
+  migration_status: Pygmy Nuthatches are mostly permanent residents, but mountain breeders will wander into lowlands in winters when cone crops are poor. They are, however, less likely to move out of their breeding grounds than are the other two nuthatch species in Washington.
+  conservation_status: In areas of the eastern Cascades with extensive Ponderosa pine forests, Pygmy Nuthatches are fairly common. They are less abundant in forests that are intensively managed for timber than they are in more natural settings. Severe forest fires can have a negative impact on the population. Pygmy Nuthatches are considered an indicator species, meaning the health of their population is an indication of the health of Ponderosa pine habitat and the other species that use this habitat. As such, they should be closely monitored.
+  when_where_wa: Pygmy Nuthatches can be found year round in the Ponderosa pine forests of the eastern Cascade lowlands, up to middle elevations (especially near Wenas Creek in Yakima County), locally in the Blue Mountains, and in the Ponderosa pine belt fringing the north side of the Columbia Basin (especially in the Okanogan and in Spokane).
+photos:
+- file: pynu_gl_l.jpg
+  caption: Adult
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: pynu_tg_l.jpg
+  caption: Adult feeding young.
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: PYNU01.mp3
+  credit: null
+maps:
+  wa: sipy.jpg
+  north_america: pynumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [F, F, F, F, F, F, F, F, F, F, F, F]
+  blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
+  columbia_plateau: [F, F, F, F, F, F, F, F, F, F, F, F]
+taxonomy:
+  ebird_code: pygnut
+  current_common_name: Pygmy Nuthatch
+  current_scientific_name: Sitta pygmaea
+  clements_sort: 26924
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/pygmy_nuthatch
+  archived: '2026-09-12'

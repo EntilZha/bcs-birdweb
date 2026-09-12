@@ -1,0 +1,67 @@
+slug: northern_fulmar
+common_name: Northern Fulmar
+scientific_name: Fulmarus glacialis
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Procellariidae
+  slug: procellariidae
+status: Fairly common pelagic.
+species_of_concern: false
+sections:
+  general_description: The Northern Fulmar is similar in appearance to a gull but stockier, with a thick neck, and more rounded wings and tail. The Northern Fulmar varies in color from mostly white, to gray and white like many gulls, to an overall gray-brown, with every possible shade in between.
+  habitat: Found in the cold waters of the open ocean, Northern Fulmars breed on steep sea cliffs on islands or mainland promontories. They use cliffs farther north than do most high-Arctic seabird species, often crossing ice-covered water to get to their breeding sites.
+  behavior: Although the Northern Fulmar appears gull-like at first glance, its flight behavior is quite different. Stiff-winged glides and quick wing-beats are characteristic of its flight. When feeding on the surface of the water, the Northern Fulmar grabs prey at or just below the water's surface. It also dives into the water and propels itself using its feet and wings.
+  diet: The diet of the Northern Fulmar is varied, consisting of crustaceans, fish, small squid, and jellyfish. Fulmars commonly follow fishing boats and feed off the fish waste thrown from the boats.
+  nesting: Colonial breeders that nest on open sea cliffs, Northern Fulmars breed mainly in high-Arctic Canada and on islands in the Bering Sea. These birds are slow to mature and do not start breeding until they are 8-10 years old. Unlike many of the other members of this family, they are active around their nesting colonies during the day. The nest is located on the ledge of a cliff or in a hollow on a bank or slope. When nesting on a rock ledge, the fulmars do not build a nest, but when they nest on a bank or slope, they make a shallow scrape, occasionally lined with small stones. The female lays one egg, and both parents incubate for about 7 weeks. Once the egg hatches, both parents feed the chick by regurgitation. The chick takes flight for the first time at the age of about seven weeks.
+  migration_status: In winter, some birds remain as far north as there is open water, while others move south as far as southern California. Numbers of fulmars also spend the summer south of the breeding grounds.
+  conservation_status: Populations in the Atlantic Ocean have experienced dramatic increases in recent decades. In the Pacific, several new colonies have been established since 1970, although there is no indication of dramatic increases in the Pacific comparable to those in the Atlantic. The commercial fishing industry is a major factor in the population of Northern Fulmars, providing them with most of their food. Large aggregations of birds can be found behind fishing boats, feeding on offal. While Northern Fulmars are not currently threatened, as colony nesters with high density in a few small areas, they are at potential risk if that habitat is degraded.
+  when_where_wa: Northern Fulmars are commonly found offshore year round, but their numbers vary from year to year. Concentrations of birds can be found at upwellings along the outer continental shelf. The best way to see Northern Fulmars in Washington is on boat trips, although they can sometimes be seen from the north jetty at the mouth of the Columbia River (Pacific County), and from shore during fall migration or following a Pacific storm.
+photos:
+- file: nofu_lb_l.jpg
+  caption: ''
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: nofudp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+- file: nofu2md.jpg
+  caption: ''
+  credit:
+    name: Michael Donahue
+    url: null
+  hero: false
+audio:
+  file: nofu.mp3
+  credit: null
+maps:
+  wa: fugl.jpg
+  north_america: nofumap.gif
+abundance:
+  oceanic: [C, C, C, C, C, C, C, C, C, C, C, C]
+  pacific_northwest_coast: [R, R, R, R, R, R, R, R, R, R, R, R]
+  puget_trough: [R, R, R, R, R, R, R, R, R, R, R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: norful
+  current_common_name: Northern Fulmar
+  current_scientific_name: Fulmarus glacialis
+  clements_sort: 7090
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/northern_fulmar
+  archived: '2026-09-12'

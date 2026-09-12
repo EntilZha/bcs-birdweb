@@ -1,0 +1,25 @@
+slug: crockett_lake
+name: Crockett Lake
+number: 220
+ecoregions:
+- puget_trough
+sections:
+  site: Crockett Lake is an open, shallow, estuarine lake on the south shore of Whidbey Island. The lake is a mixture of fresh and salt water separated by a narrow gravel bar and a tidegate from Admiralty Inlet, and is usually brackish. The open water of the lake is surrounded by marsh and grassland. Fed by runoff from the surrounding area and by inflow through the tidegate, the water levels can fluctuate greatly. When water levels are low, extensive mud flats are exposed. This mixture of marsh, open water, grasslands, and mudflats is rich with the kinds of small invertebrates that are eagerly fed upon by a variety of birdlife. As a result, Crockett Lake attracts many birds throughout the year and is one of the most productive birding areas in the Puget Sound lowland.
+  birds: Crockett Lake is a major stopover for an extraordinary number of shorebirds during northbound (April/May), and southbound (early July/October) migrations, the best times to visit. At least 17 species of shorebirds have been recorded here, including Western, Least, Baird's, Pectoral, and Semi-palmated Sandpipers, Black-bellied and Semi-palmated Plovers, and both Greater and Lesser Yellowlegs. This cornucopia acts as an attractor for Peregrine Falcons and Merlins, and Bald Eagles and Northern Harriers are also usually added to the mix. The surrounding grasslands and marshes have Savannah, Song and White-crowned Sparrows, Red-winged Blackbirds, Marsh Wrens, and American Goldfinches. Great Blue Herons use the lake as a foraging site during the breeding season. Ducks and gulls round out the mix.
+  directions: |-
+    From SR-525 northbound, watch for the turnoff to SR-20 and the Port Townsend ferry. Turn left on SR-20 and go down the hill for 1.2 miles where the road will turn 90 degrees to the right. You can reach the lake from the north here. If you continue up the road to Keystone Harbor near the ferry terminal, there is a Fort Casey State Park beach access parking lot with a restroom. If coming south on SR-20, turn right on Engle Road when entering Coupeville (at the stop light). Continue south 1.3 miles to reach the Crockett Lake area. Remember that a permit is now required to park in state parks. ($5/day or $50/year).
+    The mudflats that can be exposed around Crockett Lake are what attract many of the shorebirds, but they can be treacherous. If you are tempted to walk on the mud, be aware that you can go from "solid" ground to soft mud in a single step-- you may go in up to your knees or above. Another warning: traffic is very heavy on SR-20 with people coming and going from the ferry terminal, often at high speeds. If you need to cross the highway, be extremely careful.
+photos:
+- file: site_crockett_lake.jpg
+  caption: ''
+  credit:
+    name: Mike Hamilton
+    url: http://home1.gte.net/mikeham
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/crockett_lake/3
+  archived: '2026-09-12'

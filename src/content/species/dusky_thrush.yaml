@@ -1,0 +1,46 @@
+slug: dusky_thrush
+common_name: Dusky Thrush
+scientific_name: Turdus naumanni
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Turdidae
+  slug: turdidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: The Washington Bird Records Committee has accepted a record of a Dusky Thrush observed at Mount Vernon (Skagit County) on 27 June 2002.
+photos:
+- file: nya.jpg
+  caption: ''
+  credit:
+    name: Not Yet Available
+    url: null
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: dusthr2
+  current_common_name: Dusky Thrush
+  current_scientific_name: Turdus eunomus
+  clements_sort: 28606
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/dusky_thrush
+  archived: '2026-09-12'

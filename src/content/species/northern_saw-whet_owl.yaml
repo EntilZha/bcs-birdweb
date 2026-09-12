@@ -1,0 +1,55 @@
+slug: northern_saw-whet_owl
+common_name: Northern Saw-whet Owl
+scientific_name: Aegolius acadicus
+order:
+  name: Strigiformes
+  slug: strigiformes
+family:
+  name: Strigidae
+  slug: strigidae
+status: Fairly common resident.
+species_of_concern: false
+sections:
+  general_description: Named for the resemblance of one of their calls to the sound of saw teeth being sharpened, Northern Saw-whet Owls are small, chestnut-brown owls with prominent white markings on the folded wings and brown-and-white striped chests and bellies. They have no ear-tufts. Their eyes are yellow, and their white eyebrows connect in a 'Y' over their beaks. Throats are white. Fledglings are solid brown above with light buffy bellies and a well-defined white triangle on their foreheads.
+  habitat: Northern Saw-whet Owls inhabit all forest types--coniferous, broadleaved, and mixed. They often roost in dense evergreens near forest openings, especially in winter. They commonly use streamside woodlands and can even be found in riparian areas of shrub-steppe habitat, although their densities are highest in mid-elevation conifer forests.
+  behavior: Northern Saw-whet Owls hunt almost entirely at night. They are sit-and-wait predators, watching for prey from low perches (generally 6-12 feet off the ground) and swooping down silently on their prey. They return to the same daytime roosts for extended periods and when found in daytime, can often be found again on the same perch on subsequent days.
+  diet: Northern Saw-whet Owls eat mostly small rodents, especially deer mice. They also eat voles, shrews, young squirrels, other small mammals, small birds, and large insects.
+  nesting: Generally monogamous, Northern Saw-whet Owls can be polygamous when prey is abundant. Males choose and defend territories to which they attract females by calling. Females choose the nest cavity, often an old Northern Flicker or Pileated Woodpecker nest hole, usually selecting a different site each year. Northern Saw-whet Owls also use artificial nest boxes. The female incubates 5 to 6 eggs. The male brings her food while she is on the nest and continues to bring food after the young hatch. The female broods for about 18 days. Once brooding is finished, she may help the male provide the young with food or she may depart, sometimes finding a new mate and raising a second brood. The young leave the nest at 4 to 5 weeks, and are fed for another 6 to 8 weeks. Northern Saw-whet Owls are unusual among North American owls in that the young can fly reasonably well as soon as they leave the nest.
+  migration_status: Some Northern Saw-whet Owls are residents, while others migrate, either latitudinally or altitudinally. Recent studies suggest that more migrate than had been previously thought. In Washington, birds from Canada and mountainous areas winter in Washington's lowlands.
+  conservation_status: How numerous Northern Saw-whet Owls are is not known, although they are probably more abundant than most data indicate, as detection rates are low. Across their range they are still widespread and fairly common, though the population may have decreased because of habitat loss and snag removal.
+  when_where_wa: Northern Saw-whet Owls are uncommon to fairly common year-round residents in forested zones up to the sub-alpine zone throughout Washington. In the autumn, they invade the lowlands east of the Cascades and are most often seen during this time. On rare occasions they have been found in the Seattle area. The Reifel Refuge, just north of the Washington-British Columbia border, has been a reliable place to find them.
+photos:
+- file: nswo_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+audio:
+  file: nswo.mp3
+  credit: null
+maps:
+  wa: aeac.jpg
+  north_america: nswomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, U, U, U, U, U, U, U]
+  puget_trough: [U, U, U, U, U, U, U, U, U, U, U, U]
+  north_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  west_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  east_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: [U, U, U, U, U, U, U, U, U, U, U, U]
+  blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
+  columbia_plateau: [R, R, R, R, R, R, R, R, R, R, R, R]
+taxonomy:
+  ebird_code: nswowl
+  current_common_name: Northern Saw-whet Owl
+  current_scientific_name: Aegolius acadicus
+  clements_sort: 9304
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/northern_saw-whet_owl
+  archived: '2026-09-12'

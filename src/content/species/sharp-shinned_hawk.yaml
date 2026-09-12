@@ -1,0 +1,55 @@
+slug: sharp-shinned_hawk
+common_name: Sharp-shinned Hawk
+scientific_name: Accipiter striatus
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Accipitridae
+  slug: accipitridae
+status: Fairly common winter. Uncommon breeder.
+species_of_concern: false
+sections:
+  general_description: The Sharp-shinned Hawk is the smallest of the three North American accipiters. The female is larger than the male. Adults have solid gray upperparts and barred, reddish-brown underparts. Their long, square tails have gray and black bars with very narrow, white tips. Their eyes are red. Immature birds are brown above with diffuse brown streaking below; they have yellow eyes. Sharp-shinned Hawks have short, rounded wings that are set slightly more forward on their bodies than those of the larger, but similar-looking, Cooper's Hawk. Their heads are also relatively smaller and their gray caps less distinct than the Cooper's. The white tip of the tail of the Cooper's Hawk is usually wider than that of Sharp-shinned Hawk, especially in the fall. All of these differences are subtle, making it quite difficult to distinguish a male Cooper's Hawk from a female Sharp-shinned Hawk.
+  habitat: Sharp-shinned Hawks inhabit coniferous or mixed woodlands, avoiding open country. While Cooper's Hawks appear to prefer deciduous forests, Sharp-shinned Hawks appear to prefer coniferous forests. During winter, they are often found in woodlots, towns, and parks.
+  behavior: Built to move quickly and quietly within dense forest, the hunting Sharp-shinned Hawk approaches its prey stealthily, until it is close enough to overcome its target with a burst of speed. This agility allows the bird to hunt successfully around bird feeders. The secretive traits and inconspicuous nature that allow the Sharp-shinned Hawk to surprise its prey also make it difficult to observe. Sharp-shinned Hawks often have a plucking post near their nests, where they go to pluck feathers from prey, leaving an accumulation of feathers and whitewash at the base of a stump, fence post, or fallen tree.
+  diet: Small birds (sparrow-sized up to robins and occasionally quail) are the most common prey, although small rodents, reptiles, and large insects are part of the diet as well. The Sharp-shinned Hawk's nesting cycle coincides with peak songbird abundance.
+  nesting: The Sharp-shinned Hawk's nest is usually well concealed in a dense conifer tree, 20 to 60 feet off the ground. The nest is made of large twigs lined with bark, and is often built on top of an old squirrel or crow nest. Male and female help collect material for the nest, although the female does most of the building. She incubates 3 to 5 eggs for 30 to 32 days, while the male brings food to her. The female broods the young for the first 16 to 23 days, and the male continues to provide food, which the female feeds to the young. At 3 to 4 weeks, the young start venturing out of the nest to nearby branches, and begin to fly a few weeks later. Once the young can make sustained flights, the parents pass prey to them in mid-air. The young remain with the parents for another few weeks until they become independent.
+  migration_status: Sharp-shinned Hawks are migratory, sometimes traveling long distances between breeding and wintering grounds. Most northern-US breeders winter in the southern United States, but some migrate as far as Mexico and Central America. Some birds in the Northwest are permanent residents, although they do appear to withdraw from higher elevations in the winter.
+  conservation_status: Sharp-shinned Hawk numbers dropped in the mid-20th Century as a result of eggshell thinning due to DDT. They were also easy, convenient targets at hawk migration points. The banning of DDT and changing attitudes towards predators have enabled the Sharp-shinned Hawk to recover well, although new declines have been discovered in some areas in the past few decades. These declines may be due to a variety of factors, including environmental contaminants, reduced prey supply, and habitat changes. In Washington, Sharp-shinned Hawks are poorly sampled, as they are hard to find during the breeding season. Christmas Bird Count data reflect a slight increase in Washington, but sample sizes are small, and this may or many not reflect a true increase.
+  when_where_wa: Sharp-shinned Hawks are most easily seen during migration along mountain ridges, rivers, and coastlines. Rarely seen during the breeding season, Sharp-shinned Hawks are uncommon breeders throughout Washington's coniferous forests, with the exception of the temperate rainforests on the Olympic Peninsula. They winter throughout Washington in a variety of habitats, including semi-open woodlands and urban areas, and are often seen near bird feeders.
+photos:
+- file: ssha_jh_l.jpg
+  caption: 'Adult. Note: lack of cap, thin legs, and tail feathers of equal length.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+audio:
+  file: ssha1.mp3
+  credit: null
+maps:
+  wa: acst.jpg
+  north_america: sshamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, F, U, U, U, U, F, F, U, U]
+  puget_trough: [U, U, U, F, U, U, U, U, F, F, U, U]
+  north_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  west_cascades: [U, U, U, F, U, U, U, U, F, F, U, U]
+  east_cascades: [U, U, U, F, U, U, U, U, U, F, F, U]
+  okanogan: [U, U, U, U, U, U, U, U, F, F, U, U]
+  canadian_rockies: [U, U, U, U, U, U, U, U, U, F, F, U]
+  blue_mountains: [R, R, U, U, U, U, U, U, U, U, R, R]
+  columbia_plateau: [U, U, U, U, U, '', '', '', F, F, U, U]
+taxonomy:
+  ebird_code: shshaw
+  current_common_name: Sharp-shinned Hawk
+  current_scientific_name: Accipiter striatus
+  clements_sort: 8256
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/sharp-shinned_hawk
+  archived: '2026-09-12'

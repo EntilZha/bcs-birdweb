@@ -1,0 +1,82 @@
+slug: canada_goose
+common_name: Canada Goose
+scientific_name: Branta canadensis
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: |-
+    NOTE: In 2004, based on genetic studies and differences in size, voice, and breeding habitat, the American Ornithologists Union split Canada Goose into two species: Cackling Goose (Branta hutchinsii) and Canada Goose (Branta canadensis). Canada Goose comprises the (generally) larger-bodied forms; Cackling Goose comprises the smaller-bodied forms (see Cackling Goose).
+
+    A well-known bird, the Canada Goose has a mottled gray-brown body, black legs, tail, neck, head; with a white rump band and white undertail coverts. The face is black with white cheeks, the white extending under the chin. There are seven recognized subspecies of Canada Goose, distinguished by size, darkness or lightness of body and breast, presence or lack of a white collar at the base of the neck, and the extent of the white cheek patches. The largest and most common of the four subspecies that occur regularly in Washington State is the "Western" Canada Goose (B.c. moffitti), which is a migrant and year-round resident. The "Lesser" Canada Goose (B.c.parvipes), "Dusky" Canada Goose (B.c. occidentalis), and "Vancouver" Canada Goose (B.c. fulva) are migrants and winter visitors. A fifth subspecies, the "Giant" Canada Goose (B.c. maxima) has been recorded in Washington as a rare winter visitor.
+  habitat: The Canada Goose is the most widely distributed goose in North America. Canada Geese breed in northern temperate, sub-arctic and arctic regions and nest in Canada, Alaska, and all of the lower 48 states. They are found at a broad range of elevations, from coastal through alpine, and occupy a broad range of habitats, as long as there is water nearby. They are found in ponds, lakes, reservoirs, bays, estuaries, marshes, pastures and fields, city and suburban parks, golf courses, and grassy waterfront yards. Canada Geese prefer riverine areas for breeding, but will nest in a wide variety of wetland habitats. During winter and migration, Canada Geese are commonly seen in agricultural areas, foraging on grain, winter wheat, and pasture grasses.
+  behavior: |-
+    Canada Geese graze while walking on land, and feed on submerged aquatic vegetation by reaching under the water with their long necks or by upending. They are strong swimmers, flyers, and divers. During winter and migration, Canada Geese subspecies often flock together and mix with Cackling Geese; flocks may contain over 1000 birds. At migration stopover areas, disputes over food can lead to physical encounters between individuals; during fights, Canada Geese grab each other's breast or throat with their bills and land blows with their wings. Canada Geese are extremely territorial during the breeding season; males defend territories from other geese, humans, and nest predators by displays which may include lowering the head to the ground with the bill open, pumping the head up and down, and hissing.
+
+    Canada Geese are known for their "honking" call and most subspecies are very vocal in flight.
+  diet: Canada Geese are primarily herbivores and feed on a wide variety of plants and aquatic vegetation. In winter and during migration, waste grain left in plowed fields make up the majority of their diet. During the spring and summer, their diets include more green vegetation. Insects, mollusks, crustaceans, and occasionally small fish are also eaten. Urban populations of Canada Geese have adapted to grazing on domesticated grasses throughout the year. Some local populations in Washington forage on eelgrass.
+  nesting: Canada Geese form long-term pair bonds, generally during their second year. The female chooses the nest-site on a slightly elevated spot near water with good visibility. She then builds the nest, a shallow bowl with a slight depression, made of sticks, grass, and weeds, and lined with down. She lays and incubates 4 to 7 eggs, while the male stands guard nearby. Incubation last approximately twenty-eight days. Once hatched, the young leave the nest within one to two days, at which time they are able to walk, swim, feed, and dive. Both parents lead the offspring to feeding areas, but do not provide food. Young are able to fly within seven to nine weeks after hatching, depending on the subspecies, and remain with their parents throughout their first year.
+  migration_status: Historically, each population of Canada Goose followed a rigid migratory corridor with traditional stopovers and wintering areas, like most other North American geese. Today, however, many urban populations are year-round residents. Other populations have changed migratory routes and wintering areas as habitats have changed. In Washington, migrants are usually seen along the outer coast.
+  conservation_status: |-
+    Conservation of Canada Geese is difficult since one of the subspecies found in Washington is so abundant it is controlled as a nuisance (B.c. moffitti) while the others are less numerous. The situation is further complicated by altered habitat, human-assisted transplants, and interbreeding between subspecies. Historically, Canada Geese did not nest west of the Cascades, although they did migrate through. However, as populations of Canada Geese in eastern Washington and across the rest of the country dwindled due to habitat loss and over-hunting, changes in Seattle's urban landscape (grassy yards, golf courses and parks replacing tall trees and dense shoreline under-story) provided perfect goose breeding habitat. In order to bolster populations and expand their range, Canada Geese were introduced into western Washington from the Columbia River basin. With few natural predators, prime habitat, and an ample food supply, the geese not only thrived, but abandoned their migratory behavior and became year-round residents. Very high survival rates (90% for urban birds as compared with 60% for wild birds, whose main cause of mortality is hunting) and enhanced fecundity among urban Canada Geese has further fueled their population growth in the Seattle region and in other cities nationwide.
+
+    Many people consider Canada Geese a nuisance, and their droppings (each birds leaves up to three pounds of droppings a day) have forced closures of beaches, athletic fields, and other recreational areas. Within the past few years, control measures have included egg shaking and oiling, relocating, and even killing large numbers of geese. These stopgap measures, however, only temporarily reduce the urban populations, which rebound as long as they have abundant habitat and food.
+  when_where_wa: The population and distribution of year-round residents and winter visitors is expanding throughout Washington State. Resident Canada Geese can be found year-round throughout most of Washington's lowlands in wetlands and waterways, especially in city parks and agricultural areas. They seem to be absent from the Olympic Peninsula and the outer coast north of Grays Harbor and east of Cape Flattery to Port Angeles. Northward migrants stop in Washington between February and March, but not generally in large numbers. Almost the entire population of the Dusky Canada Goose winters along the lower Columbia River Valley and the adjacent Willamette River Valley, including the Ridgefield National Wildlife Refuge (Clark County).
+photos:
+- file: cang_lb_l.jpg
+  caption: Adult in flight
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: cang_a_dp_l.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+- file: cang_jh_l.jpg
+  caption: 'Note: long bill'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: cang_dusky_jh_l.jpg
+  caption: 'Dusky race. Note: dark chest.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: cago1.mp3
+  credit: null
+maps:
+  wa: brcamo.jpg
+  north_america: cagomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [F, F, C, C, F, F, F, F, C, C, C, C]
+  blue_mountains: [R, R, U, U, U, U, U, U, U, U, R, R]
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: cangoo
+  current_common_name: Canada Goose
+  current_scientific_name: Branta canadensis
+  clements_sort: 342
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/canada_goose
+  archived: '2026-09-12'

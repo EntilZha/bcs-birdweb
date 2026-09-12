@@ -1,0 +1,61 @@
+slug: canyon_wren
+common_name: Canyon Wren
+scientific_name: Catherpes mexicanus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Troglodytidae
+  slug: troglodytidae
+status: Fairly common and local resident east.
+species_of_concern: false
+sections:
+  general_description: The Canyon Wren has a distinctive, clear, white throat patch that stands out against its reddish-brown body. Its back is speckled with light markings, and its tail is barred with black. Its head is gray, and its long bill curves down slightly.
+  habitat: More restricted in habitat than the other steppe-zone wren, the Rock Wren, the Canyon Wren is found almost exclusively in steep canyons and large boulder fields that are associated with the moving water of streams and rivers, or with large wetlands that do not go dry during the summer.
+  behavior: The Canyon Wren's long bill and flat head enable it to reach deep into crevices to find prey. While foraging, it hops around in and out of rock piles. The Canyon Wren's beautiful descending song is unique and memorable.
+  diet: Insects and spiders make up the majority of the Canyon Wren diet.
+  nesting: Male Canyon Wrens defend their territories and attract females by singing. The monogamous pair bond may hold throughout the year and extend into multiple nesting seasons. Both male and female build the nest, which is usually in a hole or crevice in the rocks. They start with a foundation of twigs, bark, and other coarse items, then build a cup of softer materials such as grass, moss, spider webs, and hair. The female incubates the clutch of eggs, which can vary from 4 to 6, but usually consists of 5 eggs. Incubation lasts for 12 to 18 days. Both parents feed the young, which leave the nest at about 15 days, but may remain near the parents for several more weeks.
+  migration_status: Canyon Wrens are permanent residents in Washington, although in winter they may move away from cliffs into dense vegetation especially along streams, and to lower elevations. They are sensitive to low temperatures, and in years with severe winters, their numbers may decline.
+  conservation_status: The rocky habitat of the Canyon Wren is not well represented in the Breeding Bird Survey, so long-term trends are difficult to determine, although there is some indication of a recent decline. Canyon Wrens are currently common within their habitat, although their range is limited and patchily distributed, which could make recovery difficult if they were to decline significantly.
+  when_where_wa: An eastern Washington species, Canyon Wrens are rare in western Washington. There are no known nesting records on the western side of the state, although Canyon Wrens have been recorded nesting in Pierce, Whatcom, and Pacific Counties. In the deep canyons of eastern Washington's steppe zone, and at low elevations on the eastern slope of the Cascades, Canyon Wrens are fairly common. Associated with streams and rivers, Canyon Wrens are known to breed in canyons and coulees on the Columbia, Okanogan, Snake, Spokane, Yakima, and Grande Ronde Rivers. They can be found on cliffs in Oak Creek and Selah Canyons in Yakima County; Rock Creek, Rowland, and Locke Lakes in Klickitat County; the Spokane River in Spokane County; and on the cliffs near the Walla Walla River delta (Walla Walla County). In Grant County, they nest in rocks adjacent to wetlands at Lake Lenore, Soap Lake, and the Columbia National Wildlife Refuge.
+photos:
+- file: canw_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: canw_ad2_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio:
+  file: CANW01.mp3
+  credit: null
+maps:
+  wa: catme.jpg
+  north_america: canwmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: [R, R, R, U, U, U, U, U, U, R, R, R]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: [R, R, U, U, U, U, U, U, U, U, U, R]
+  columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
+taxonomy:
+  ebird_code: canwre
+  current_common_name: Canyon Wren
+  current_scientific_name: Catherpes mexicanus
+  clements_sort: 27184
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/canyon_wren
+  archived: '2026-09-12'

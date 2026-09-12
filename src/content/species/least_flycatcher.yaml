@@ -1,0 +1,61 @@
+slug: least_flycatcher
+common_name: Least Flycatcher
+scientific_name: Empidonax minimus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Tyrannidae
+  slug: tyrannidae
+status: Rare summer resident, mostly east.
+species_of_concern: false
+sections:
+  general_description: The Least Flycatcher is the smallest flycatcher found in Washington. Like other confusingly similar Empidonax flycatchers, the Least has two white wing-bars, a white eye-ring, olive upperparts, and yellowish-cream underparts.
+  habitat: Least Flycatchers are found at lower elevations in deciduous or mixed woods, often along rivers. They breed in semi-open, mature, and maturing woods. It has been suggested that Least Flycatchers require large tracts of forest to thrive.
+  behavior: On breeding territories Least Flycatchers are aggressive to intruders, both their own and other species. They are known to attack Brown-headed Cowbirds, and the low rate of cowbird parasitization of their nests seems to indicate that their defense is effective. Least Flycatcher territories are often clustered together.
+  diet: This species forages by flying out from a dead branch and catching insects in the air. They also glean insects from leaves. They tend to forage from the high shrub-layer up into the canopy.
+  nesting: Male and female select the nest-site in an upright fork of the lower-to-middle section of a small, deciduous tree. The female builds a cup-nest made of bark strips and fibers, grass, plant down, and spider and caterpillar webbing. She lays four eggs, incubating them for fourteen days. Both parents feed the young, who fledge at about fourteen days.
+  migration_status: Atypical of most migratory birds, adult Least Flycatchers migrate south before molting in the fall. First-year birds molt before and during migration. Some populations appear to head east before they turn south to Mexico. Males arrive on the breeding grounds in the spring ahead of females, but no significant difference has been found in fall movement. They return to Washington in late May and leave by mid-August. Adults spend a very short period of time on the breeding grounds, only about two months. The entire time is needed to raise a single brood.
+  conservation_status: Least Flycatchers are widespread and common throughout most of their range. However, Washington lies on the western edge of the range, and therefore Least Flycatchers are uncommon here. They are not found breeding in urbanized areas. They have been known to shift territories into the forest interior in response to disturbances such as logging. This suggests that large contiguous forest tracts with limited disturbances are required for this species to remain common.
+  when_where_wa: Least Flycatchers are the least commonly occuring Empidonax flycatchers in Washington. They are found in Eastern Washington in forested habitat, especially in aspen groves. The best place to see them is Okanagan County. West of the Cascades there are only a few records, but at least two singing males have been reported in recent years.
+photos:
+- file: lefl_gl_l.jpg
+  caption: 'Note: complete eye ring, short primary projection, and pale lower mandible.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: lefl2_gl_l.jpg
+  caption: 'Note: complete eye ring, short primary projection, and pale lower mandible.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: LEFL01.mp3
+  credit: null
+maps:
+  wa: emmi.jpg
+  north_america: leflmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', R, R, '', '', '', '', '']
+  okanogan: ['', '', '', '', R, R, R, R, '', '', '', '']
+  canadian_rockies: ['', '', '', '', R, U, U, R, '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', R, R, R, '', '', '', '', '']
+taxonomy:
+  ebird_code: leafly
+  current_common_name: Least Flycatcher
+  current_scientific_name: Empidonax minimus
+  clements_sort: 16963
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/least_flycatcher
+  archived: '2026-09-12'

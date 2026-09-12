@@ -1,0 +1,67 @@
+slug: great_gray_owl
+common_name: Great Gray Owl
+scientific_name: Strix nebulosa
+order:
+  name: Strigiformes
+  slug: strigiformes
+family:
+  name: Strigidae
+  slug: strigidae
+status: Rare resident east. Irregular winter west.
+species_of_concern: true
+sections:
+  general_description: Not surprisingly, Great Gray Owls are large and gray. The plumage of Great Gray Owls is finely mottled and streaked, and the owls have distinctive black and white markings on their throats. They have large heads without ear-tufts, large facial disks, and yellow eyes. Their plumage is especially fluffy and thick, which makes them look larger-bodied than they really are. Although they are taller and have longer wingspans than Great Horned Owls, they weigh on average 15% less.
+  habitat: Great Gray Owls inhabit mature conifer forests adjacent to open wet meadows. Most breed in mountainous areas but may winter at lower elevations with thinner snow cover. Great Gray Owls require areas with large trees and a dense covering canopy. Dead trees are an important component of their habitat as they provide potential nest sites. As part of learning to fly, juveniles climb leaning trees.
+  behavior: Great Gray Owls hunt by day as well as night, especially during the summer when they are raising chicks. They typically use a sit-and-wait hunting style, watching from a perch and swooping down silently on unsuspecting prey. Sometimes they fly low over open areas, scanning for prey. They can locate prey by sound alone and will break through crusted snow to get at rodents tunneling more than a foot beneath the surface. Sometimes Great Gray Owls form loose groups in winter where there is a concentration of prey.
+  diet: Small mammals, especially rodents such as voles, pocket gophers, and mice make up most of the Great Gray Owl's diet.
+  nesting: Monogamous, long-term pairs nest in abandoned hawk or raven nests, broken-topped trees, or on man-made nesting platforms. They do not add any material to the nest and may reuse the same nest several years. Clutches typically contain 2-5 eggs but may be larger when prey is abundant. The female incubates the eggs for about 30 days, while the male brings her food. The female broods the young for 2-3 weeks after they hatch, while the male brings food to the female and the owlets. After 3-4 weeks, the young begin to climb about on nearby branches; they can fly 1-2 weeks later. Sometimes the female departs once the young begin to fly; sometimes she remains and helps the male, who continues to feed the young for up to three months.
+  migration_status: Great Gray Owls often move down-slope in winter. This movement may be tied to prey abundance, snow depth, or a combination of both. Some winters, Great Gray Owls wander far south of their normal range.
+  conservation_status: Much of the Great Gray Owl's range is remote and protected from human disturbance; however populations have probably declined in the southern part of their range due to loss of habitat. The availability of nest sites may be a limiting factor, especially in areas that have been logged. There are few places in Washington that provide the appropriate habitat for Great Gray Owls, and the state has very few nesting records. Great Gray Owls are currently included on the Washington Gap Analysis Project's at-risk list.
+  when_where_wa: Great Gray Owls breed in eastern Okanogan and western Ferry Counties and probably elsewhere in the eastern part of the state. They can be found rarely as winter visitors in western Washington lowlands and other parts of the state.
+photos:
+- file: ggow_fl_gt_l.jpg
+  caption: ''
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: ggow_gt_l.jpg
+  caption: ''
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: ggow_j_jh_l.jpg
+  caption: Fledgling
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: ggow.mp3
+  credit: null
+maps:
+  wa: stne.jpg
+  north_america: ggowmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: [I, I, I, '', '', '', '', '', '', '', '', I]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: [R, R, R, R, R, R, R, R, R, R, R, R]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: [R, R, R, R, R, R, R, R, R, R, R, R]
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: grgowl
+  current_common_name: Great Gray Owl
+  current_scientific_name: Strix nebulosa
+  clements_sort: 9243
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/great_gray_owl
+  archived: '2026-09-12'

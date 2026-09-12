@@ -1,0 +1,73 @@
+slug: franklins_gull
+common_name: Franklin's Gull
+scientific_name: Larus pipixcan
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Rare migrant.
+species_of_concern: false
+sections:
+  general_description: A small, hooded gull, the Franklin's Gull is uncommon in Washington. Its wings and back are dark gray, contrasting with a white tail, belly, and neck, red legs, and black wingtips. In breeding plumage, the adult's head is solid black with a deep red bill and a black ring. The eye is characterized by white crescents above and below it. In non-breeding plumage, the head of the adult is white smudged with black. Juveniles are mottled-brown mixed with varying degrees of adult plumage characteristics. It is the only gull that goes through a complete molt in both the fall and the spring.
+  habitat: The Franklin's Gull is a common nesting gull of the northern Great Plains, nesting in extensive prairie marshes. Since the condition of these marshes is variable from year to year, it is not unusual for entire colonies to shift location annually. In winter, Franklin's Gulls leave North America for more southern coastal regions, concentrating in protected bays and estuaries. Winter habitat also includes agricultural fields, inland lakes, and offshore waters.
+  behavior: Franklin's Gulls are often found in flocks with Bonaparte's or Mew Gulls. Flocks are often seen following plows in agricultural fields. The gulls also forage while walking on the ground, wading, and swimming.
+  diet: Insects and other invertebrates make up the majority of the summer diet. In winter, aquatic prey items such as fish and crustaceans are more common.
+  nesting: Flexible colony nesters, Franklin's Gulls shift their large colonies (up to thousands of pairs) from year to year, depending on nest conditions. Nests are floating masses of rushes, cattails, and grasses built in water up to several feet deep and usually attached to emergent vegetation. Franklin's Gulls form monogamous pair bonds for the duration of the nesting season and probably start breeding at the age of two years. Both members of the pair help build the nest and incubate the 3 eggs for about 23-26 days. Both parents feed the young and brood them, taking turns so that one parent is present at all times. The young remain in the nest for about three weeks, and after that may swim around the nest, not straying far. First flight is at a little over a month, and they continue to be fed by the parents until at least another week after that. As the floating nest decays from underneath, it slowly sinks, and the birds must add to it throughout the nesting season to maintain it.
+  migration_status: A strongly migratory species, the Franklin's Gull spends the winter south of the equator along the west coast of Central and South America. Spring migration is a fairly direct trip from the wintering grounds to the breeding grounds. The closest breeding colony to Washington is at Malheur National Wildlife Refuge in Oregon, where the birds arrive in late April or early May. After the breeding season, the gulls begin a protracted period of wandering throughout their range. This wandering lasts from mid- to late July and continues until September or early October, when they begin to migrate southward.
+  conservation_status: Despite being highly susceptible to human disturbance and habitat loss, the Franklin's Gull populations seem to be stable. The Breeding Bird Survey has shown apparent declines in the past 25 years, but there is much speculation that this species does not lend itself to being studied in this manner. Managers on national wildlife refuges, where many of the colonies are located, report large fluctuations between years, but little evidence of a decrease in overall population. In fact, many recent range expansions have been reported, especially in the Pacific Northwest. In British Columbia, breeding season sightings have been reported, but no nesting colony has yet been found. The first breeding in Oregon was recorded in 1943, and the colony has been gradually increasing since then, with 1,330 pairs recorded at Malheur in 1981.
+  when_where_wa: Uncommon anytime, Franklin's Gulls are most likely to be seen in Washington between late summer and early November, during the pre-migratory wandering stage. In recent years, they have been more regular in late spring, into June. Salt-water, sandy-shore and fresh-water habitats in coastal areas, and lowlands east and west of the Cascades, are all possible areas for sightings. In eastern Washington, Franklin's Gulls can be seen in the spring, most likely straying from the breeding colony at Malheur National Wildlife Refuge in Oregon. Franklin's Gulls are also sometimes seen at sewage ponds (Everett in Snohomish County and Hoquiam in Grays Harbor County) in the fall. They have also become more common in recent years in the early fall on the northern coast and bays of Washington and southwestern British Columbia.
+photos:
+- file: frgu_wfl_gl_l.jpg
+  caption: Adult nonbreeding
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: frgu_w_gl_l.jpg
+  caption: Adult nonbreeding
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: frgu_gl_l.jpg
+  caption: Adult breeding
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: frgu_j_tg_l.jpg
+  caption: Immature
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: frgu.mp3
+  credit: null
+maps:
+  wa: lapi.jpg
+  north_america: frgumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', R, R, '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', R, R, R, R, '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', R, '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', R, R, '', R, R, R, '', '']
+taxonomy:
+  ebird_code: fragul
+  current_common_name: Franklin's Gull
+  current_scientific_name: Leucophaeus pipixcan
+  clements_sort: 6494
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/franklins_gull
+  archived: '2026-09-12'

@@ -1,0 +1,61 @@
+slug: brandts_cormorant
+common_name: Brandt's Cormorant
+scientific_name: Phalacrocorax penicillatus
+order:
+  name: Pelecaniformes
+  slug: pelecaniformes
+family:
+  name: Phalacrocoracidae
+  slug: phalacrocoracidae
+status: Fairly common coastal resident.
+species_of_concern: true
+sections:
+  general_description: Brandt's Cormorants are large and have long, slender necks. Adults are almost solid black. Juveniles are buff-brown and black. Birds of all ages and phases have light-colored cheek patches. During the breeding season, adults have a blue patch at the base of the bill, in front of the cheek patch. Brandt's Cormorants have a shorter tail than any of the other cormorants found in Washington.
+  habitat: Almost always found on salt or brackish water, Brandt's Cormorants inhabit rocky shorelines and open ocean. Nesting colonies are typically located on slopes rather than cliff ledges, although some Washington colonies are located on steep cliffs.
+  behavior: Sociable in all seasons, Brandt's Cormorants are often seen flying in long lines, low over the water. They roost together and feed in offshore flocks, often mixed with other seabirds. They are sometimes even seen foraging in association with sea lions. They catch most of their food under water, diving up to 150 feet.
+  diet: A wide variety of fish make up the Brandt's Cormorant's diet. Some shrimp and crabs are also taken. These cormorants forage under water at all levels, although most foraging takes place near the bottom.
+  nesting: Brandt's Cormorants, like other cormorants, are colonial nesters. The male Brandt's Cormorant chooses the nest site and attracts the female to it. Once paired, they build a nest on the ground of seaweed, eelgrass, and algae, held together by droppings. The male gathers the nest material from the water, and the female builds the nest. Pairs may reuse the nest, adding more material to it each year. Both the male and female incubate the four eggs, and both regurgitate food for the young.
+  migration_status: Brandt's Cormorants are mostly permanent residents, with some local movement.
+  conservation_status: Local populations fluctuate, but overall numbers are probably stable. Populations are tied to the California current, which is associated with upwelling, deep ocean water, rich in nutrients. Changes in upwellings that occur in El Niño and La Niña years affect food availability for this species. Brandt's Cormorants are also sensitive to disturbance by humans. Such disturbance, plus commercial fishing and pollution, are all factors that keep the Brandt's Cormorant at risk.
+  when_where_wa: Brandt's Cormorants are common along the rocky outer coast and coastal islands of Washington, from Cape Flattery to Oregon. They are rarely seen in Puget Sound or other inland waters during the breeding season, but are common, especially in the upper Puget Trough and Strait of Juan de Fuca at other times of the year. In 1992, the largest colony in the state was at Willoughby Rock in Grays Harbor County, with 446 nests. Brandt's Cormorants also nest at Fort Canby State Park in Pacific County.
+photos:
+- file: brco_b_jh_l.jpg
+  caption: 'Breeding adult. Note: blue throat pouch and white'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: brco_fl_gt_l.jpg
+  caption: 'Adult nonbreeding plumage, in flight. Note: light tan patch on throat behind bill, neck even with body in flight.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: brac1.mp3
+  credit: null
+maps:
+  wa: phpen.jpg
+  north_america: bracmap.gif
+abundance:
+  oceanic: ['', '', '', U, U, '', '', U, U, U, '', '']
+  pacific_northwest_coast: [U, U, U, C, C, C, C, C, C, C, U, U]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: bracor
+  current_common_name: Brandt's Cormorant
+  current_scientific_name: Urile penicillatus
+  clements_sort: 7389
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/brandts_cormorant
+  archived: '2026-09-12'

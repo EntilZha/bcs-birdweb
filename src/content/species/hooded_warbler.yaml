@@ -1,0 +1,63 @@
+slug: hooded_warbler
+common_name: Hooded Warbler
+scientific_name: Wilsonia citrina
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    In all plumages the back is olive, the underparts are yellow, and the tail has large white spots. The adult male’s black cap, collar, and throat form a complete “hood” around the yellow forehead and face, against which the large, dark eye stands out. The amount of black varies in other plumages, from quite extensive in many adult females to none at all in first-fall females. Some individuals may look rather like Wilson’s Warbler. However, Wilson’s is noticeably smaller—half an inch shorter, one-third lighter in weight, shorter-billed—and has no white in the tail. The songs are completely dissimilar as well.
+
+    The Hooded Warbler nests in moist deciduous and mixed forests from the lower Midwest and southern New England to the Gulf Coast. It is a trans-Gulf migrant, wintering mostly in southeastern Mexico and on the Caribbean slope of northern Central America. It is a casual vagrant in the Pacific Northwest. Washington’s first record was an adult male that wintered at Discovery Park, Seattle (King County), December 1975–April 1976. Three later records occurred at Kamiak Butte (Whitman County) in June 1986, Pullman (Whitman County) in December 1989, and Sun Lakes (Grant County) in June 2004. British Columbia has one record in December and another in June, both from the southeast. Idaho has six reports of Hooded Warbler, only one of which has been reviewed by the state bird records committee. Five are from October–November and the sixth is from June. Oregon has nine records, both spring and fall.
+
+    *Revised November 2007*
+photos:
+- file: howa_gl_l.jpg
+  caption: 'Male. Note: yellow face with black hood and white on sides of tail.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: howa_f_gl_l.jpg
+  caption: 'Female. Note: yellow face with some black patterning.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: howa_jf_gl_l.jpg
+  caption: 'Juvenile. Note: yellow face outlined in olive and dark lores.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: howamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: hoowar
+  current_common_name: Hooded Warbler
+  current_scientific_name: Setophaga citrina
+  clements_sort: 34057
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/hooded_warbler
+  archived: '2026-09-12'

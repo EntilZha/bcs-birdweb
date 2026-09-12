@@ -1,0 +1,61 @@
+slug: white-throated_swift
+common_name: White-throated Swift
+scientific_name: Aeronautes saxatalis
+order:
+  name: Apodiformes
+  slug: apodiformes
+family:
+  name: Apodidae
+  slug: apodidae
+status: Fairly common summer resident east
+species_of_concern: true
+sections:
+  general_description: The White-throated Swift is a large, slender swift with long wings and a narrow tail, usually held closed into a point. It is mostly black, with white at the trailing edge of the secondaries, on the sides of the rump, and on the throat, narrowing towards the belly.
+  habitat: A western species, the White-throated Swift inhabits rocky cliffs and canyons. It is typically found nesting in arid regions, but near major rivers. It is found on sea cliffs. Foraging habitat is more generalized than nesting habitat, as these swifts often roam far from breeding areas to feed. In eastern Washington, they can be found foraging in shrub-steppe habitats, grasslands, wetlands, and in the Ponderosa pine zone, usually near cliffs.
+  behavior: White-throated Swifts forage exclusively in flight, often in small groups. Foraging height varies with the weather. White-throated Swifts are colonial, and large numbers are often seen near nesting colonies. White-throated Swift colonies persist in the same location for many years.
+  diet: White-throated Swifts eat flying insects.
+  nesting: Nests are located in narrow, vertical crevices in cliffs. They are inaccessible to humans, and thus much of the nesting behavior of this species is not known. The nest is a shallow half-disk made of vegetation and feathers, stuck together and to the wall with sticky saliva. White-throated Swifts lay 3-6 eggs, which are incubated, probably only by the female, for about 24 days. Both parents feed the young, who probably crawl about inside the crevice before they first fly.
+  migration_status: White-throated Swifts are migratory, and Washington birds leave the state for the winter. They travel shorter distances than other swifts and are the only swift likely to be seen in North America in the winter. They may go into torpor in cool weather, which may allow them to winter farther north than other swifts.
+  conservation_status: White-throated Swifts are common and widespread, and their numbers appear stable. Breeding Bird Survey data have shown a significant decline since 1966, but the BBS may not accurately reflect the state of a remote-nesting species such as this. White-throated Swifts are expanding their range in some states. Much of this range-expansion is due to their increasing use of man-made structures such as highway overpasses and bridges for nesting, although it is not known whether breeding is as successful in these areas as in their native habitat. The remoteness and difficulty of access to natural nesting areas has protected them from disturbance, but the growth of recreational rock-climbing has increased human impact and habitat degradation.
+  when_where_wa: White-throated Swifts are common at lower elevations in eastern Washington, including Ponderosa pine and steppe zones. They are typically found breeding along major rivers and coulees, including the Columbia, Yakima, and Spokane Rivers, and Grand and Moses Coulees. They are also found in the southeastern Blue Mountains. The central Columbia Basin, with its many coulees and cliffs, is the area of highest density in Washington. White-throated Swifts arrive in these areas in late March and leave by mid-August.
+photos:
+- file: wtsw_fl_gl_l.jpg
+  caption: 'Adult. Note: white throat and belly'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: wtsw_fl2_gl_l.jpg
+  caption: 'Adult. Note: white throat and belly'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: wtsw.mp3
+  credit: null
+maps:
+  wa: aesa.jpg
+  north_america: wtswmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', U, F, F, F, F, U, '', '', '', '']
+  okanogan: ['', '', '', U, U, U, U, U, R, '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', R, U, U, U, U, U, '', '', '', '']
+  columbia_plateau: ['', '', R, F, C, C, F, U, R, '', '', '']
+taxonomy:
+  ebird_code: whtswi
+  current_common_name: White-throated Swift
+  current_scientific_name: Aeronautes saxatalis
+  clements_sort: 4158
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/white-throated_swift
+  archived: '2026-09-12'

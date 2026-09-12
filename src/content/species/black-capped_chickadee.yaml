@@ -1,0 +1,55 @@
+slug: black-capped_chickadee
+common_name: Black-capped Chickadee
+scientific_name: Poecile atricapillus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Paridae
+  slug: paridae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: Black-capped Chickadees are familiar backyard birds. They have black caps, white cheeks, and black throats and are gray above with buff sides fading to white undersides. Males, females, and juveniles have the same plumage.
+  habitat: Black-capped Chickadees are found in a variety of habitats, but compared to the other chickadees in Washington, Black-cappeds are most likely to be found in deciduous or mixed woodlands. They are common in forest edges, parks, yards, wetlands, willow thickets, cottonwood groves, and disturbed areas.
+  behavior: During the breeding season, Black-capped Chickadees are territorial, but they form flocks in the winter. These winter flocks may include other species, but Black-cappeds are typically numerically dominant. Black-capped Chickadees often forage in birch or alders by hopping on twigs and branches and gleaning their surfaces for food. Often they hang upside-down to get at the undersides of branches and leaves, but they also hover, probe, and occasionally fly out to catch aerial prey. They readily come to seed and suet feeders. Black-capped chickadees cache food in Fall and retrieve it up to a month later.
+  diet: Insects, spiders, berries, and seeds (especially sunflower seeds at feeders) make up the majority of their diet. Insects, spiders, and the eggs of both are common components of the winter diet. In winter, vegetable matter, including seeds and fruit, makes up about half of the diet, but that decreases to 10-20% during warmer months. During the summer, caterpillars become increasingly important. Black-capped Chickadees have also been seen scavenging fat from carrion.
+  nesting: Black-capped Chickadees are monogamous and form long-term pair bonds. They are cavity-nesters and use existing cavities including old woodpecker or other natural holes and occasionally nest boxes. Black-capped Chickadees will also excavate or enlarge their own cavities in rotten wood. Both sexes excavate, but only the female builds the nest, which starts with a foundation of moss and is lined with soft hair. The female incubates 6 to 8 eggs for 12 to 13 days. The male brings food while the female incubates. In the first few days after the young hatch, the female broods the young almost continuously. As the young grow, the female joins the male in providing food. The young leave the nest at about 16 days but stay on the breeding territory for another 3-4 weeks before heading off on their own.
+  migration_status: Black-capped Chickadees are considered permanent residents, but some may wander in the fall because of food shortages. Some northern populations undertake more regular migrations, triggered by these shortages.
+  conservation_status: Black-capped Chickadees are widespread and common throughout their range. They appear to be increasing in the eastern part of their range but have experienced slight, although non-significant, declines in the western part. Development and clear-cuts have resulted in more Black-capped Chickadee habitat than was available historically. Their nesting success in proximity to humans bodes well for their continued population growth. Forestry practices may limit nesting sites, as chickadees need existing cavities or soft, rotting wood in which to excavate.
+  when_where_wa: Black-capped Chickadees are very common year round in the Puget Trough. They are also common and widespread in eastern Washington, especially along lowland streams. They are generally replaced by the other Washington chickadees at higher altitudes. They are found higher up on the western slopes of the Cascades than on the eastern slopes. They are uncommon but increasing on the Olympic Peninsula, where they did not occur until recently. Black-cappeds can be found in developed areas and towns on the peninsula, but are not as common there as Chestnut-backed Chickadees.
+photos:
+- file: bcch_lb_l.jpg
+  caption: ''
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: true
+audio:
+  file: bcch1.mp3
+  credit: null
+maps:
+  wa: paat.jpg
+  north_america: bcchmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [C, C, C, C, C, C, C, C, C, C, C, C]
+  blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: bkcchi
+  current_common_name: Black-capped Chickadee
+  current_scientific_name: Poecile atricapillus
+  clements_sort: 22065
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black-capped_chickadee
+  archived: '2026-09-12'

@@ -1,0 +1,103 @@
+slug: snowy_owl
+common_name: Snowy Owl
+scientific_name: Bubo scandiacus
+order:
+  name: Strigiformes
+  slug: strigiformes
+family:
+  name: Strigidae
+  slug: strigidae
+status: Irregular winter resident.
+species_of_concern: true
+sections:
+  general_description: Snowy Owls are large owls with yellow eyes and no ear-tufts. Adult males can be nearly pure white, but most have some brown mottling in their feathers. Adult females are generally larger and darker than males; immatures have considerably more brown mottling. In all plumages, Snowy Owls have solid white faces. Like most owls, Snowy Owls have feathered legs and feet, but the feathers on the Snowy Owl's legs and feet are especially dense. Snowy Owls are well camouflaged for their Arctic breeding grounds, but in winter, when they are seen in Washington, their mostly white bodies show up well against most backgrounds.
+  habitat: Snowy Owls inhabit open terrain in all seasons. They nest above the treeline, and when they leave the tundra, they find similar treeless habitat in prairies, agricultural areas, and coastal dunes.
+  behavior: Snowy Owls hunt both by day and by night but prefer to hunt in relatively low light. They watch for prey from slightly elevated perches such as hummocks, rocks, and fence posts. At times they hunt by flying low over the ground, scanning for prey, but they are generally sedentary, sitting on the same perch for extended periods.
+  diet: In the far north, Snowy Owls feed almost exclusively on lemmings when they are available. Since lemmings undergo cyclic population booms and busts, when the lemming population crashes, other small mammals such as rabbits, a variety of waterfowl, and even fish and carrion take the lemmings' place. Snowy Owls wintering in coastal southwestern British Columbia often prey on water birds, especially Bufflehead Ducks and Horned Grebes.
+  nesting: Snowy Owls are mostly monogamous, though compared to most owls, the pair bond is weak, and bigamy has been recorded. The male establishes a territory and attracts a female, which chooses the nest site. The nest, a simple depression with no added material, is typically located on a dry raised area such as a mound, ridge, or hummock. The female lays 3-11 eggs, depending on the abundance of prey. Thus when lemmings are abundant, so are owls. Snowy Owls may not nest in years when lemmings are scarce. Eggs may be laid up to four days apart, and the female begins to incubate as soon as the first egg is laid. The female incubates for 31-33 days, and the male brings her food while she is on the nest. Once the young hatch, the female broods while the male continues to bring food. Brooding lasts until the young leave the nest at about 2-3 weeks. They young can fly at seven weeks and become independent at 9-10 weeks.
+  migration_status: Snowy Owls are migratory, nomadic, and irruptive. An irruption takes place after a large lemming population stimulates a high rate of reproduction. Snowy Owls may wander in summer as well as in winter, but it is in winter that they appear in Washington State. Wandering out of the breeding range may be associated with the dominance hierarchy, as the smallest and least dominant birds, presumably immature males, are those most likely to migrate the farthest south. The largest birds, presumably adult females, tend to remain farther north.
+  conservation_status: While there is little information available about long-term population shifts or trends, most Snowy Owl breeding areas in North America are remote from human disturbance. Of course increased access to Arctic areas allows more shooting of owls. Winter sightings are increasing in some areas of Washington, perhaps because of the development of large agricultural fields that attract rodents and waterfowl.
+  when_where_wa: The Snowy Owl is an irregular winter visitor to Washington, with sightings most likely from early November to mid-March. Abundance varies from year to year, with none reported some winters, over 100 reported in others, and at least a few most years. Snowy Owls are most frequently seen in Whatcom County, but other coastal areas in Skagit, Grays Harbor, and Pacific Counties also host birds. In irruptions, which seem to occur at least every 10 years, many owls can be found in coastal habitats in these locations, with smaller numbers showing up anywhere in the state. In eastern Washington, single birds are sighted near the Potholes Reservoir and in dry wheatlands in northern Lincoln County most years.
+photos:
+- file: snow_group_gth_l.jpg
+  caption: Group of presumably young males
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: snow_f_gth1_l.jpg
+  caption: Preening
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: snow_fl_gth1_l.jpg
+  caption: 'Male in flight. Note: extensive white on nape and thin bars on tail feathers.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: snow_fl_gth2_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: snow_m_gth1_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: snow_m_gth2_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: snow_m_gth3_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: snow_f_jh_l.jpg
+  caption: 'Male. Note: extensive white bib, thin barring on breast and wings.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: snow_fl_jh_l.jpg
+  caption: ''
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: snow.mp3
+  credit: null
+maps:
+  wa: nysc.jpg
+  north_america: snowmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [I, I, I, '', '', '', '', '', '', '', I, I]
+  puget_trough: [I, I, I, I, '', '', '', '', '', '', I, I]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: [I, I, '', '', '', '', '', '', '', '', '', I]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: [I, I, '', '', '', '', '', '', '', '', '', I]
+  columbia_plateau: [R, R, '', '', '', '', '', '', '', '', R, R]
+taxonomy:
+  ebird_code: snoowl1
+  current_common_name: Snowy Owl
+  current_scientific_name: Bubo scandiacus
+  clements_sort: 8909
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/snowy_owl
+  archived: '2026-09-12'

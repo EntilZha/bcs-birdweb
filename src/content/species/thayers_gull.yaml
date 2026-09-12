@@ -1,0 +1,71 @@
+slug: thayers_gull
+common_name: Thayer's Gull
+scientific_name: Larus thayeri
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Fairly common winter resident.
+species_of_concern: false
+sections:
+  general_description: The Thayer's Gull is a large gull, with typical gull-like plumage. Until 1972, it was considered a subspecies of Herring Gull, but is once again classified as a full species. The adult is solid slate-gray on its backs and wings, with black on the outer edges of the wings. The undersides of the wings are pale. The trailing edge of the wing is white, and the legs are pink. White in the breeding season, its head is brown and dirty-looking in the non-breeding season. Immature birds sport a variety of plumages with varying degrees of mottled brown and white mixed with adult plumage characteristics. Thayer's Gulls mature in four years.
+  habitat: During the breeding season, Thayer's Gulls inhabit the Canadian high Arctic, nesting on rocky coastlines of islands. In winter, they can be found around bodies of water near the coast, including estuaries and protected bays. They also spend time far offshore, on freshwater ponds, and garbage dumps near the coast.
+  behavior: Thayer's Gulls forage while swimming, walking, or flying. When foraging in flight, they drop to the water's surface or plunge just below it.
+  diet: Omnivores, Thayer's Gulls eat small fish, crustaceans, mollusks, carrion, eggs, young birds, and garbage.
+  nesting: The breeding characteristics of the Thayer's Gull are not well known. They probably start breeding at four years of age. Typical of gulls, they nest in colonies, often mixed with other gull species. The nest is located on the ledge of a rocky island cliff. Both sexes help build the nest, which is a low mound of plant material, matted down in the middle. The female usually lays 2, or occasionally 3, eggs, and both sexes help incubate the eggs and feed the young. Incubation and fledging periods are not known.
+  migration_status: Most Thayer's Gulls nest in the central Canadian Arctic and move southwest to the Pacific coast in winter. The main migration of Thayer's Gulls through Washington in the fall occurs in September, with wintering numbers peaking in December and January. Washington and southern British Columbia are the core of their winter range. They begin leaving for their Arctic breeding grounds in late March, and by May, most are gone from our area.
+  conservation_status: The nesting range of the Thayer's Gull has been protected from human impact due to its remoteness. No obvious population trends have been observed although more study is needed. There is still debate about whether the Thayer's Gull is truly a separate species, or if it is a subspecies of Iceland Gull. Some estimates have placed the breeding population at 8,000-12,000 birds, while others claim it is much greater, underestimated due to misidentification.
+  when_where_wa: Thayer's Gulls are regular migrants and winter residents in Washington from October to March in offshore, coastal, and the Puget Trough regions. They are uncommon in April and early May, and are usually absent from mid-May until September. In winter, they can also be seen around the lower Columbia River and the Willamette Valley. The Port of Tacoma area and Ediz Hook at Port Angeles are excellent places to look for Thayer's Gulls. Agricultural areas and garbage dumps are good inland spots to look for them. In late February and early March, hundreds are attracted to the smelt runs on the lower Columbia River.
+photos:
+- file: thgu_w_jp_l.jpg
+  caption: 'Adult nonbreeding. Note: bright pink legs, more rounded head, less pronounced gonydeal angle, dark eye.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: true
+- file: thgu_fl_jp_l.jpg
+  caption: 'Adult in flight. Note: pale tips under primaries (darker on Herring).'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: thgu_j_jp_l.jpg
+  caption: Juvenile
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: thgu_jfl_jp_l.jpg
+  caption: Immature (2nd year)
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+audio: null
+maps:
+  wa: lath.jpg
+  north_america: thgumap.gif
+abundance:
+  oceanic: [U, U, U, U, '', '', '', '', '', U, U, U]
+  pacific_northwest_coast: [U, U, U, U, '', '', '', '', R, U, U, U]
+  puget_trough: [F, F, F, U, R, '', '', '', R, U, U, F]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [R, R, '', '', '', '', '', '', '', '', R, R]
+  east_cascades: ['', '', '', '', '', '', '', '', '', R, R, '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [R, R, '', '', '', '', '', '', '', '', R, R]
+taxonomy:
+  ebird_code: y00478
+  current_common_name: Iceland Gull
+  current_scientific_name: Larus glaucoides
+  clements_sort: 6606.0
+  historic_common_name: Thayer's Gull
+  display_historic: true
+  note: Published on BirdWeb as Thayer's Gull. It was merged into Iceland Gull in 2017 and is now treated as the subspecies Larus glaucoides thayeri -- the form that winters in Washington.
+source:
+  url: https://birdweb.org/birdweb/bird/thayers_gull
+  archived: '2026-09-12'

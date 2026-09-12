@@ -1,0 +1,61 @@
+slug: ash-throated_flycatcher
+common_name: Ash-throated Flycatcher
+scientific_name: Myiarchus cinerascens
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Tyrannidae
+  slug: tyrannidae
+status: Fairly common summer resident east.
+species_of_concern: true
+sections:
+  general_description: This large, long-tailed flycatcher has a pale yellow belly, gray breast and head, and rufous on its wings and tail. Other flycatchers in the same crested-flycatcher genus appear similar, but none are found in Washington, rendering identification in this state fairly easy.
+  habitat: The Ash-throated Flycatcher is typically a bird of open, arid habitats, although in Washington, it is restricted to a small band of Garry oak and streamside woodlands in the southeastern Cascade foothills.
+  behavior: Much of the time Ash-throated Flycatchers sit still and are inconspicuous. When foraging, they sit on a branch and fly out in short bursts to glean prey from low foliage, branches, or the ground. Unlike many flycatchers, they seldom catch food in mid-air.
+  diet: Insects are the most common food, although they may eat some fruits and berries.
+  nesting: Ash-throated Flycatchers nest in tree cavities or nest boxes. Both members of the pair help build the nest, which is a mass of twigs, rootlets, and weeds, lined with soft feathers and hair. The female incubates four to five eggs for about 15 days. Both parents feed the young, which leave the nest and begin to fly at 14 to 16 days. The parents continue to feed the young for a few days after they leave the nest, and often raise a second brood.
+  migration_status: Some Ash-throated Flycatchers winter in southwestern Arizona and southern California, but many migrate to Mexico. They begin to leave Washington in mid-August and start to return in mid-May.
+  conservation_status: The first record of an Ash-throated Flycatcher in Washington was in Yakima County in 1903. South-central Washington is currently the northernmost extension of their range, although they may once have ranged as far north as Okanogan County. Numbers appear to be stable throughout their range, and their adaptability to artificial nest boxes may help them. There are anecdotal reports of bluebirds and House Wrens taking over the nests of Ash-throated Flycatchers.
+  when_where_wa: Ash-throated Flycatchers are patchily distributed in a small area of Washington. A few pairs can be found in Yakima, Kittitas, Chelan, Grant, and Adams Counties, although the majority of the population nests in south-central Klickitat County near rivers and in oak stands, such as along Rock Creek.
+photos:
+- file: atfl2_gl_l.jpg
+  caption: 'Note: rufous primaries and heavy bill.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: atfl_gl_l.jpg
+  caption: 'Note: pale gray throat and breast, yellow belly and rufous undertail'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: ATFL01.mp3
+  credit: null
+maps:
+  wa: myci.jpg
+  north_america: atflmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', U, U, U, R, '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: astfly
+  current_common_name: Ash-throated Flycatcher
+  current_scientific_name: Myiarchus cinerascens
+  clements_sort: 17323
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/ash-throated_flycatcher
+  archived: '2026-09-12'

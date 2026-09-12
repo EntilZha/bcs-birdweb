@@ -1,0 +1,57 @@
+slug: cape_may_warbler
+common_name: Cape May Warbler
+scientific_name: Dendroica tigrina
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    The adult male in breeding plumage is brightly and distinctively patterned, with olive back, yellow rump, strongly streaked yellow breast, bold white wing patch, and yellow neck and face with chestnut around and behind the eye. Other plumages are duller; consult a field guide for the fine points of separating these from similar plumages of some of the other *Dendroica* warblers.
+
+    The Cape May Warbler breeds in the boreal forests of Canada as well as in northernmost New England and the upper Midwest, and winters in the West Indies and along the Caribbean coast south to Honduras. Although it nests as far west as southeastern Yukon and northeastern British Columbia its migration route lies almost entirely east of the Mississippi River Valley. Cape May Warbler is accidental in British Columbia away from its nesting grounds. Washington’s two accepted records were in September 1974 at Bellingham (Whatcom County) and February 2005 in Spokane (Spokane County). Idaho also has two records, in September and January. Oregon has 10 records, about evenly divided between spring and fall; three are from along the coast and the others from east of the Cascades.
+
+    *Revised November 2007*
+photos:
+- file: cmwa_f_gl_l.jpg
+  caption: 'Female. Note: sharp, dark bill and grayish auriculars.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: cmwa_gl_l.jpg
+  caption: 'Male. Note: rufous auriculars and yellow neck.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: cmwamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: camwar
+  current_common_name: Cape May Warbler
+  current_scientific_name: Setophaga tigrina
+  clements_sort: 34060
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/cape_may_warbler
+  archived: '2026-09-12'

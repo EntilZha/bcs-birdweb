@@ -1,0 +1,55 @@
+slug: gray_partridge
+common_name: Gray Partridge
+scientific_name: Perdix perdix
+order:
+  name: Galliformes
+  slug: galliformes
+family:
+  name: Phasianidae
+  slug: phasianidae
+status: Fairly common resident east.
+species_of_concern: false
+sections:
+  general_description: A Eurasian species introduced in North America, the Gray Partridge is a chunky bird, measuring approximately 13 inches. It is grayish-brown in color overall and has a gray bill. Both male and female have reddish bars and pale streaks crosshatched along their sides, and chestnut outer tail feathers. The male has an orange face and a dark patch on his belly in contrast to the female, which has a pale face and often lacks the belly patch.
+  habitat: Gray Partridges live in flat, agricultural land with shrubby cover for nesting. They use steppe and cultivated areas in the steppe zones and can be found in some Ponderosa pine forests. Gray Partridges benefit from traditional farming practices, which maintain hedgerows and shelterbelts between fields.
+  behavior: |-
+    Most of the year, Gray Partridges are found in small groups, although in the spring they are typically found in pairs or alone. Young remain with their parents through their first winter.
+    They often forage in tall grasses and can be difficult to spot.
+  diet: Foraging on the ground, Gray Partridges typically eat seeds, waste grain, leaves, and insects. In the fall and winter, their diet of seeds sometimes requires them to burrow into the snow to feed. In the spring they take advantage of green leaves and in the summer, insects. When first hatched, the young eat mainly insects.
+  nesting: Gray Partridges produce some of the largest known clutches of any bird, laying between 10-20 eggs per brood. They typically nest on the ground among the dense cover of a hedgerow, shelterbelt, or brushy roadside, although they have been known to nest in the open. While the female builds the nest, a shallow scrape lined with grass and leaves, the male stands guard. The female incubates her large clutch, and both parents tend the hatchlings. Soon after hatching, the young leave the nest, following their parents to food sources and then feeding themselves.
+  migration_status: Gray Partridges do not migrate.
+  conservation_status: Gray Partridges were first introduced in North America in the early 1900s. Today their population fluctuates, perhaps due to continued introductions, and, although they are hunted, predation and weather appear to have the greatest impact on their numbers. Conversion of traditional agricultural practices to more intense land-use without shelterbelts and hedgerows has reduced the amount of suitable habitat for the Gray Partridge in Washington. Breeding Bird Survey data indicate that the population has declined since 1966.
+  when_where_wa: Gray Partridges are common throughout eastern Washington in shrub-steppe and dry areas planted with wheat. They are found mostly below the Ponderosa pine zone, but in Spokane and Lincoln Counties, they extend into Ponderosa pine forests. They are rarely found in the hot and arid lower Columbia Basin. Regular introductions make it difficult to predict where they will be, and the range limits are constantly changing.
+photos:
+- file: grpa_lb_l.jpg
+  caption: ''
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: true
+audio: null
+maps:
+  wa: pepe.jpg
+  north_america: grpamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
+  columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
+taxonomy:
+  ebird_code: grypar
+  current_common_name: Gray Partridge
+  current_scientific_name: Perdix perdix
+  clements_sort: 1450
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/gray_partridge
+  archived: '2026-09-12'

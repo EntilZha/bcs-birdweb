@@ -1,0 +1,73 @@
+slug: american_coot
+common_name: American Coot
+scientific_name: Fulica americana
+order:
+  name: Gruiformes
+  slug: gruiformes
+family:
+  name: Rallidae
+  slug: rallidae
+status: Common winter. Fairly common breeder.
+species_of_concern: false
+sections:
+  general_description: The American Coot is a medium-sized bird with a white bill, yellow legs, and lobed toes. The body is dark gray to black with a blackish head and neck. Some of the undertail coverts are white and visible, especially during display. Juveniles are paler and have greenish-gray legs. The downy chick's plumage is a colorful orange on the head and neck. In flight, coots may be distinguished by a white trailing edge on most of the wing.
+  habitat: American Coots are common at lower elevations in large freshwater ponds, lakes, and slow-moving rivers. For nesting, they require tall marsh vegetation in shallow water. Other times of the year, they will occasionally visit salt marshes and protected coastal bays.
+  behavior: American Coots are noisy, gregarious members of the rail family. They propel themselves through the water by pumping their heads back and forth. Flocks often forage along the shore or on lawns. They also dive for aquatic plants. To become airborne, they must scramble across the water with wings flapping vigorously. Coots will aggressively defend nesting territories, attacking each other with their feet.
+  diet: Opportunistic feeders, coots eat mostly plant material but will also feed on small fish, tadpoles, snails, worms, insects, and eggs of other birds.
+  nesting: The nest, built by both sexes, is a floating platform made of stems of marsh plants. It is concealed in vegetation and anchored to surrounding plants. Females lay 6-11 eggs, and both sexes incubate. The young are able to swim soon after hatching and follow the parents to be fed. Pairs may have one to two broods per year.
+  migration_status: In the east, American Coots are very rare nesters and only appear in fall and winter. American Coots are permanent residents in the lowlands of eastern and western Washington. From late August through December, local birds and migrants often congregate on large bodies of water. Wintering flocks may be found in bays along the coast. Birds return to breeding areas in March and April.
+  conservation_status: American Coots are abundant in many areas and are often a pest on golf courses.
+  when_where_wa: In western Washington, coots are found in the Puget Trough and the Columbia River. They are rare along the coast except in winter. There are large numbers on Lake Washington near Seattle (King County). They occur throughout eastern Washington wherever suitable bodies of water exist.
+photos:
+- file: amco_lb_l.jpg
+  caption: ''
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: amco_jh_l.jpg
+  caption: Adult
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: amco_j_gth_l.jpg
+  caption: Juvenile
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: amco_fl_gl_l.jpg
+  caption: 'Adult in flight. Note: white tips of secondaries.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: amco.mp3
+  credit: null
+maps:
+  wa: fuam.jpg
+  north_america: amcomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, R, R, R, U, U, U, U]
+  puget_trough: [C, C, C, C, F, F, F, F, C, C, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', R, R]
+  west_cascades: [C, C, C, F, F, F, F, F, C, C, C, C]
+  east_cascades: [C, U, U, U, U, U, U, F, C, C, C, C]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [F, F, F, C, C, C, C, C, C, F, F, F]
+  blue_mountains: ['', '', U, U, R, '', '', R, U, '', '', '']
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: y00475
+  current_common_name: American Coot
+  current_scientific_name: Fulica americana
+  clements_sort: 5500
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/american_coot
+  archived: '2026-09-12'

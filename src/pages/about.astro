@@ -1,0 +1,65 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+const base = import.meta.env.BASE_URL;
+const species = await getCollection("species");
+const sites = await getCollection("sites");
+const archived = species[0]?.data.source.archived ?? "2026";
+---
+
+<Layout title="About BirdWeb" description="What BirdWeb is, where its data comes from, and how this edition was rebuilt.">
+  <h1 class="text-3xl font-bold text-brand">About BirdWeb</h1>
+
+  <div class="mt-4 max-w-3xl space-y-4 text-[0.9375rem] leading-relaxed text-black/80">
+    <p>
+      BirdWeb is Birds Connect Seattle's guide to the birds of Washington state. It holds
+      {species.length} species accounts, {sites.length} birding site descriptions, and
+      abundance records for all ten of Washington's ecoregions, month by month — written
+      and maintained by BCS volunteers since 1999.
+    </p>
+
+    <h2 class="text-xl font-bold text-brand pt-2">Reading the abundance data</h2>
+    <p>
+      For every species, BirdWeb records how likely you are to encounter it in each
+      ecoregion in each month of the year, on a five-point scale:
+    </p>
+    <ul class="space-y-1.5 pl-5 list-disc marker:text-sage">
+      <li><strong>Common</strong> — found in moderate to large numbers, and easily found in suitable habitat.</li>
+      <li><strong>Fairly common</strong> — found in small to moderate numbers, and usually easy to find.</li>
+      <li><strong>Uncommon</strong> — present but not certain to be seen, even in suitable habitat.</li>
+      <li><strong>Rare</strong> — occurs annually in very small numbers; not to be expected on any given day.</li>
+      <li><strong>Irregular</strong> — numbers vary widely from year to year; may be absent entirely in some years.</li>
+    </ul>
+    <p>
+      A blank means the species has not been recorded there in that month. These are
+      judgements by experienced Washington field ornithologists, not survey counts.
+    </p>
+
+    <h2 class="text-xl font-bold text-brand pt-2">About this edition</h2>
+    <p>
+      The original BirdWeb ran from 2002 until this rebuild. Its source code and database
+      were lost, and the server that hosted it could no longer be administered, so the
+      content was recovered directly from the live site in {archived} and rebuilt as a
+      static site that works on a phone as well as a desktop.
+    </p>
+    <p>
+      The accounts are reproduced as their authors wrote them. Where a bird's name or
+      classification has changed since publication, the current name is shown and the
+      original is noted on the page rather than the text being rewritten — the accounts are
+      a record of what BCS's volunteers knew and published, and that is worth preserving
+      alongside current taxonomy.
+    </p>
+
+    <h2 class="text-xl font-bold text-brand pt-2">Corrections</h2>
+    <p>
+      Found an error, or have a photograph to contribute? Write to
+      <a href="mailto:info@birdsconnectsea.org?subject=BirdWeb%20feedback" class="text-brand underline decoration-sage underline-offset-2 hover:decoration-brand">info@birdsconnectsea.org</a>.
+    </p>
+  </div>
+
+  <div class="mt-8 flex flex-wrap gap-3">
+    <a href={`${base}credits/`} class="rounded-full bg-brand text-white px-4 py-2 text-sm font-semibold hover:bg-brand-dark transition">Credits</a>
+    <a href="https://birdsconnectsea.org/donate/" target="_blank" rel="noopener" class="rounded-full bg-pop text-brand px-4 py-2 text-sm font-semibold hover:brightness-95 transition">Support BCS</a>
+  </div>
+</Layout>

@@ -1,0 +1,63 @@
+slug: falcated_duck
+common_name: Falcated Duck
+scientific_name: Anas falcata
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Accidental visitor. Washington Bird Records Committee review list species.
+species_of_concern: false
+sections:
+  general_description: |-
+    Once known as the Falcated Teal, this East Asian native is about the size of the Gadwall and the American Wigeon, but with a heavier-bodied, larger-headed appearance. The spectacular male has an iridescent green- and coppery-toned head, white throat, mostly gray body, and long, sickle-shaped tertial feathers curving downward over the rump and tail. The female is similar to the female wigeon, but plainer, with a black bill.
+
+    The Falcated Duck breeds from southern Siberia to northeast China, Korea, and northern Japan, wintering to southern Japan, east and south China, and Vietnam. It is a rare vagrant to the Aleutian Islands and rarer still along the Pacific Coast of North America. Washington has three records, all from near coasts: January 1979 from the Naselle River (Pacific County), July 1993 at Sequim (Clallam County), and February–March 2002 at Samish Island (Skagit County). In British Columbia, a Falcated Duck returned to Tofino on Vancouver Island for three winters in a row, to 1996. Another bird has wintered at Coburg, Oregon, for four years through 2007.
+
+    *Revised June 2007*
+photos:
+- file: fadu_m_dm_l.jpg
+  caption: Male
+  credit:
+    name: David R. Moore
+    url: http://www.pbase.com/drmoore/root
+  hero: true
+- file: fadu_m2_dm_l.jpg
+  caption: Male
+  credit:
+    name: David R. Moore
+    url: http://www.pbase.com/drmoore/root
+  hero: false
+- file: fadu_m3_dm_l.jpg
+  caption: Male
+  credit:
+    name: David R. Moore
+    url: http://www.pbase.com/drmoore/root
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: falduc
+  current_common_name: Falcated Duck
+  current_scientific_name: Mareca falcata
+  clements_sort: 509
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/falcated_duck
+  archived: '2026-09-12'

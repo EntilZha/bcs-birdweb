@@ -1,0 +1,28 @@
+slug: port_susan_bay
+name: Port Susan Bay
+number: 208
+ecoregions:
+- puget_trough
+sections:
+  site: Port Susan Bay is a frequent destination for Washington birders, particularly in winter. The bay is bounded by Camano Island on the west and north, and the Snohomish County shoreline on the east. Its sheltered, shallow waters and extensive mudflats offer protection and feeding opportunities for wintering shorebirds and waterfowl. The Nature Conservancy owns substantial acreage along the northeast shoreline. A management plan to determine use patterns (including public access) has not yet been finalized. The area includes Livingston Bay, the Stillaguamish River delta, and surrounding farm fields. This area of estuarine sloughs, mudflats, and diked agricultural fields hosts saltgrass and saltbush, interspersed with cattails and sedges. Dikes have shrubbery with hawthorn, western crabapple, naturalized apples, and Himalayan blackberry. The farm fields on the upland portion of the site are mostly fallow in winter. Along Hatt Slough (mouth of the Stillaguamish River), there are mature cottonwoods and red alders.
+  birds: Port Susan Bay provides critical habitat for large numbers of shorebirds, both wintering and in spring and fall migrations. It is one of only four sites in Puget Sound that regularly support more than 20,000 shorebirds in a season. Large flocks of wintering ducks use the sloughs and sheltered bays. In winter, Trumpeter and Tundra Swans and large numbers of Snow Geese forage along the shoreline and in the fields. Short-eared Owls are regularly seen. The hedgerows and fields provide wintering habitat for sparrows. It is an excellent place to find unusual sparrows such as Harris's, American Tree, White-throated, Vesper, and Clay-colored. Many species of wintering raptors are attracted to the area.
+  directions: |-
+    The optimal time to visit is in winter when many of these birds move back and forth between this area and lower Skagit Bay and the Skagit River delta and tidelands. Spring and fall migration are the best times for shorebirds.
+
+    From I-5, take Exit #212 (Route 532) and go west through Stanwood. Cross a bridge (heading toward Camano Island) and watch carefully for a left turn (Eide Road). Take this road onto Leque Island, then on to the road's end, to parking and public access. You must have a Vehicle Use Permit for parking. There is also access on Camano Island by going left on Juniper Beach Road, then right to a sign for Sundin Beach. Just before you reach the beachside homes, there is a small pull-off. Public access is also possible at Iverson Spit, the small point of land on Camano Island that forms the southwest boundary of Livingston Bay. There is hunting here during the winter. Contact the Washington Department of Fish and Wildlife for more details.
+
+    The Port Susan Bay Preserve, owned by Nature Conservancy, provides additional birdwatching opportunities. The 4,122-acre preserve encompasses much of the Stillaguamish River estuary, including 166 acres of artificially diked uplands. The public is allowed to visit this preserve, but prior arrangements must be made. Anyone interested in visiting needs to contact Pat Hampton at phampton@tnc.org or 360-419-3140.
+photos:
+- file: site_port_susan.jpg
+  caption: ''
+  credit:
+    name: Mike Hamilton
+    url: http://home1.gte.net/mikeham
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/port_susan_bay/3
+  archived: '2026-09-12'

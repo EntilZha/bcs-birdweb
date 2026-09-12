@@ -1,0 +1,61 @@
+slug: short-tailed_shearwater
+common_name: Short-tailed Shearwater
+scientific_name: Puffinus tenuirostris
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Procellariidae
+  slug: procellariidae
+status: Uncommon fall and winter pelagic.
+species_of_concern: false
+sections:
+  general_description: The Short-tailed Shearwater is similar in appearance to the Sooty Shearwater, although its bill is smaller, its head is rounder, and its wings are narrower and more angled. Check a field guide for accurate identification.
+  habitat: The breeding habitat of the Short-tailed Shearwater is on islands, and in some cases mainland areas, where grass and shrubs cover soil soft enough to allow the excavation of a burrow. During the non-breeding season, the Short-tailed Shearwater spends its time on the open ocean, concentrating over upwellings at the edge of the continental shelf in cool water.
+  behavior: Short-tailed Shearwaters forage mostly by diving from a swimming position on the surface of the water, or by plunging from a few feet above the water's surface. They swim under water by propelling themselves with their wings, and may dive as deep as 60 feet below the surface. They can sometimes be found foraging in association with whales or dolphins.
+  diet: Their diet consists of fish, crustaceans, and squid.
+  nesting: Short-tailed Shearwaters first breed at 5-8 years of age. Colony nesters, Short-tailed Shearwaters typically locate their colonies on islands off southeastern Australia, but will also use mainland areas. The breeding season is from September to April. They are most active in the colonies at night. Both parents help dig a burrow in the soil. At the end of the burrow is a nest chamber that may be lined with grass. The female lays one egg, and both parents incubate for 7-8 weeks. Both feed the young by regurgitation. After 11-15 weeks, the chick leaves the nesting colony and heads to sea.
+  migration_status: During summer in the Northern Hemisphere, Short-tailed Shearwaters can be found as far north as Alaska, the Bering Strait, and beyond. In April and May, they can be found off the Washington coast. In August and September, they can be seen heading south to breed. Non-breeders may stay in the Northern Hemisphere all year.
+  conservation_status: The status of the Short-tailed Shearwater is difficult to determine, as it can be difficult to distinguish from the Sooty Shearwater. Total numbers are estimated at more than 20 million.
+  when_where_wa: |-
+    Where and When to Find in Washington
+    Reports vary from one year to the next, but Short-tailed Shearwaters are most often seen in the late summer and fall, although they are relatively uncommon. They are very rare in spring and winter. The best way to see Short-tailed Shearwaters is from a boat. During the fall migration or following an onshore storm, they can sometimes be seen in the Strait of Juan de Fuca.
+photos:
+- file: stshdp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+- file: stsh2dp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+audio: null
+maps:
+  wa: pute.jpg
+  north_america: shosmap.gif
+abundance:
+  oceanic: [U, U, U, R, '', '', '', '', R, R, R, U]
+  pacific_northwest_coast: [R, R, R, R, '', '', '', '', R, R, R, R]
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: shtshe
+  current_common_name: Short-tailed Shearwater
+  current_scientific_name: Ardenna tenuirostris
+  clements_sort: 7214
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/short-tailed_shearwater
+  archived: '2026-09-12'

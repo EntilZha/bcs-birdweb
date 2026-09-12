@@ -1,0 +1,43 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import { ECOREGIONS } from "../../config/ecoregions";
+import { ecoregionsPresent } from "../../lib/abundance";
+
+const base = import.meta.env.BASE_URL;
+const ecoregions = await getCollection("ecoregions");
+const sites = await getCollection("sites");
+const species = await getCollection("species");
+
+const bySlug = new Map(ecoregions.map((e) => [e.id, e]));
+const rows = ECOREGIONS.map((eco) => ({
+  ...eco,
+  entry: bySlug.get(eco.slug),
+  siteCount: sites.filter((s) => s.data.ecoregions.includes(eco.slug)).length,
+  speciesCount: species.filter((s) => ecoregionsPresent(s.data.abundance).includes(eco.slug)).length,
+})).filter((r) => r.entry);
+---
+
+<Layout title="Ecoregions — BirdWeb" description="Washington's ten ecoregions, from the open Pacific to the Columbia Plateau, and the birds that live in each.">
+  <h1 class="text-3xl font-bold text-brand">Ecoregions</h1>
+  <div class="mt-2 max-w-3xl text-[0.9375rem] leading-relaxed text-black/80">
+    <p>
+      Washington's birdlife is shaped by landscape. BirdWeb divides the state into ten
+      ecoregions, running roughly west to east from the open Pacific to the Columbia
+      Plateau, and records how common each species is in each one, month by month.
+    </p>
+  </div>
+
+  <ul class="mt-7 grid gap-4 sm:grid-cols-2 lg:grid-cols-3 p-0 list-none">
+    {rows.map((row) => (
+      <li>
+        <a href={`${base}ecoregions/${row.slug}/`} class="block h-full rounded-2xl bg-white ring-1 ring-black/5 p-5 shadow-sm transition hover:shadow-md active:scale-[0.99]">
+          <h2 class="font-bold text-lg text-brand">{row.name}</h2>
+          <p class="mt-1 text-xs text-black/55">
+            {row.speciesCount} species · {row.siteCount} birding site{row.siteCount === 1 ? "" : "s"}
+          </p>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Layout>

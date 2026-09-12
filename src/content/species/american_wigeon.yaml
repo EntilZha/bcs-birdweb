@@ -1,0 +1,79 @@
+slug: american_wigeon
+common_name: American Wigeon
+scientific_name: Anas americana
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common migrant, winter resident. Uncommon breeder east.
+species_of_concern: false
+sections:
+  general_description: A small duck with a short bill and round head, the American Wigeon has a reddish-brown body, and a speckled grayish head that is plain in females and boldly patterned in males. Its bill is blue-gray with a narrow black border at the base, and its feet are dark gray. Apparent in flight, the speculum, or wing-patch, is dark iridescent-green, looking black at times, with white on the forewing. The male has distinctive, black undertail coverts, a white forehead, and iridescent green band sweeping back from the eye. Females, juveniles, and eclipse-plumage males lack these markings. Males are usually in eclipse plumage in the post-breeding, pre-migration period from July to September.
+  habitat: In the summer, large inland marshes are the preferred habitat of the American Wigeon. During migration and in winter they frequent a variety of freshwater and saltwater wetlands. They are commonly found grazing on land, but also spend more time than other dabbling ducks in deep water.
+  behavior: American Wigeons use a variety of foraging strategies. They pick food from the surface of shallow wetlands, graze in open fields, and steal food from coots and diving ducks. Wigeons will feed day or night, with much night foraging occurring during the hunting season.
+  diet: The majority of the diet is plant material, especially young shoots, roots, and seeds. Waste grains are also an important food source in agricultural areas. The wigeon's bill is more goose-like than the bill of most dabblers, facilitating grazing. Females during the breeding season and the young eat many aquatic invertebrates, but aside from that, wigeons are plant-eaters.
+  nesting: Pair bonds begin to form on the wintering grounds, and most older birds are paired before spring migration. One of the most northerly dabbling ducks, breeding as far north as the edge of the tundra, American Wigeons begin nesting later in the season than other dabblers. Nests are built on dry land, or islands, usually within 100 feet of water and well concealed by thick vegetation. The female builds the nest which is a shallow depression filled with weeds and grasses, lined with down. She lays 8 to 11 eggs and incubates them for 22 to 25 days. The male stays until incubation begins, but leaves before the eggs hatch. The young leave the nest shortly after hatching and swim and feed themselves, although the female continues to protect and tend them until they fledge at 45 to 63 days old.
+  migration_status: When males leave their mates, they migrate to open lakes where they join other males and molt. Once the flightless molt period is complete, the true fall migration is gradual, lasting from late July through December. In western Washington, the fall migration peaks from mid-October to early December. In eastern Washington, the peak is from early October to mid-November. Spring migration lasts from mid-February to early May.
+  conservation_status: The American Wigeon population experienced a major, drought-induced decline in the early 1980s, cutting the population almost in half. By 1997, the population had steadily recovered to near-former levels and is considered stable. The breeding grounds are fairly stable for this far-north breeder, although migration stopover and wintering sites are threatened by the loss of wetlands that has occurred throughout the United States.
+  when_where_wa: American Wigeons breed in freshwater wetlands in the northeastern corner of the state. Breeding occurs uncommonly in other parts of eastern Washington and in a few areas on Puget Sound (Everett in Snohomish County and Kent in King County). The majority of the American Wigeon's breeding range is north of Washington. The wintering population, however, is denser in the Pacific Northwest than anywhere else in their range, and American Wigeons are common in wetland habitats throughout the state in the non-breeding season. Hybrid American-Eurasian Wigeons are regularly found during winter in Washington.
+photos:
+- file: amwi_f_lb_l.jpg
+  caption: Female
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: amwi_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: amwi_tg_l.jpg
+  caption: Male.
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: amwi_f_tg_l.jpg
+  caption: 'Female. Note: contrasting gray head with breast'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: amwi_fl_tg_l.jpg
+  caption: 'Male. Note: pointed tail feathers'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: amwi.mp3
+  credit: null
+maps:
+  wa: anaam.jpg
+  north_america: amwimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, R, R, U, C, C, C, C]
+  puget_trough: [C, C, C, C, U, R, R, U, C, C, C, C]
+  north_cascades: [F, F, C, C, '', '', '', '', U, F, F, F]
+  west_cascades: [C, C, C, F, '', '', '', U, F, C, C, C]
+  east_cascades: [C, C, C, F, U, U, U, U, F, C, C, C]
+  okanogan: [U, U, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [F, F, F, C, C, U, U, F, F, F, F, F]
+  blue_mountains: ['', '', '', U, U, '', '', '', U, U, U, '']
+  columbia_plateau: [C, C, C, F, U, R, R, U, U, C, C, C]
+taxonomy:
+  ebird_code: amewig
+  current_common_name: American Wigeon
+  current_scientific_name: Mareca americana
+  clements_sort: 517
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/american_wigeon
+  archived: '2026-09-12'

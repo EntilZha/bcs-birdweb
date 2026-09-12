@@ -1,0 +1,67 @@
+slug: white-headed_woodpecker
+common_name: White-headed Woodpecker
+scientific_name: Picoides albolarvatus
+order:
+  name: Piciformes
+  slug: piciformes
+family:
+  name: Picidae
+  slug: picidae
+status: Uncommon resident east.
+species_of_concern: true
+sections:
+  general_description: The White-headed Woodpecker is the only North American woodpecker with a black body and a white head. It has white wing-patches at the wrists, visible both when the bird is perched and when it flies. Males have a red patch on the back of their crowns.
+  habitat: This species is restricted to relatively open Ponderosa pine forests at altitudes from 2,000 to 5,000 feet. In Washington, White-headed Woodpeckers are seldom found in coniferous forests higher than the Ponderosa pine zone. This is one of the most tree-specific of the woodpeckers.
+  behavior: White-headed Woodpeckers forage for insects on trunks and limbs as well as in clusters of needles. Because they pry rather than hammer bark from trees and forage by excavating cones, their foraging tends to be quieter than that of other woodpeckers. They do, however, drum during courtship like other woodpeckers.
+  diet: White-headed Woodpeckers feed on insects and on pine and other conifer seeds. They rely heavily on seeds during fall and winter, more so than any other North American woodpecker except perhaps the Acorn Woodpecker.
+  nesting: Cavities are typically excavated in dead or diseased trees, often within 10 feet of the ground, lower than those of many other woodpeckers. Although cavities are not reused from year to year, the same tree will often be reused. Both sexes excavate the cavity, and both sexes incubate and feed the 4-5 young. Incubation typically lasts about 14 days, and young fledge at about 26 days.
+  migration_status: White-headed Woodpeckers are generally considered permanent residents, but they are much harder to find during winter, and many may leave the region during this time.
+  conservation_status: Modern forestry practices and fragmentation of the Ponderosa pine forests have contributed to declines in Washington. White-headed Woodpeckers are currently candidates for listing on the state endangered species list. They are listed as a species-of-concern by Partners in Flight, Audubon~Washington, and the Washington State Gap Analysis project. Protection of Ponderosa-pine habitat, modification of fire-suppression strategies, and retention of snags should help conserve this species.
+  when_where_wa: White-headed Woodpeckers are uncommon and local in the Ponderosa-pine forests of the eastern Cascades. They are most easily located in Yakima and Klickitat Counties. They are also uncommon east of the Okanogan River and occur rarely in some areas of the Blue Mountains. Specific sites where White-headed Woodpeckers may be found include the Wenas Campground (Yakima County), the Yakama Indian Reservation (Yakima County; no public access), Little Pend Oreille National Wildlife Refuge (Stevens County), Long Lake Dam (Lincoln/Stevens County), and Fields Spring State Park in the Blue Mountains (Asotin County).
+photos:
+- file: whwo_m_gth_l.jpg
+  caption: 'Male. Note: red nape.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: whwo_gth_l.jpg
+  caption: 'Male. Note: red nape and all black back.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: whwo_f_gth_l.jpg
+  caption: 'Female. Note: lacks red nape of male.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio:
+  file: whwo.mp3
+  credit: null
+maps:
+  wa: pial.jpg
+  north_america: whwomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: [U, U, U, U, U, U, U, U, U, U, U, U]
+  blue_mountains: [R, R, R, R, R, R, R, R, R, R, R, R]
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: whhwoo
+  current_common_name: White-headed Woodpecker
+  current_scientific_name: Leuconotopicus albolarvatus
+  clements_sort: 11451
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/white-headed_woodpecker
+  archived: '2026-09-12'

@@ -1,0 +1,52 @@
+slug: long-billed_murrelet
+common_name: Long-billed Murrelet
+scientific_name: Brachyramphus perdix
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Alcidae
+  slug: alcidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: 'Recently split from Marbled Murrelet. Five accepted records: four from the coast (three in August, one in November,)and one from the southeastern interior part of the state (in August.)'
+photos:
+- file: lbmu_pk_l.jpg
+  caption: ''
+  credit:
+    name: Phil Kelly
+    url: http://www.pjkelly.net/
+  hero: true
+- file: lbmu_w_pk_l.jpg
+  caption: Note dark nape and eye crescents (Marbled Murrelet has a white nape and no eyering).
+  credit:
+    name: Phil Kelly
+    url: http://www.pjkelly.net/
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: lobmur
+  current_common_name: Long-billed Murrelet
+  current_scientific_name: Brachyramphus perdix
+  clements_sort: 6393
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/long-billed_murrelet
+  archived: '2026-09-12'

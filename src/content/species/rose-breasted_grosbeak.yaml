@@ -1,0 +1,64 @@
+slug: rose-breasted_grosbeak
+common_name: Rose-breasted Grosbeak
+scientific_name: Pheucticus ludovicianus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Cardinalidae
+  slug: cardinalidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Casual statewide in spring and summer (April-July)'occurs almost annually. Accidental both east and west in fall and winter (September-January).
+photos:
+- file: rbgr_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: rbgr_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: rbgr_f_gl_l.jpg
+  caption: 'Female. Note: pale bill and coarse streaks on breast.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: rbgr_jm_gl_l.jpg
+  caption: 1st year male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: rbgrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: robgro
+  current_common_name: Rose-breasted Grosbeak
+  current_scientific_name: Pheucticus ludovicianus
+  clements_sort: 34557
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/rose-breasted_grosbeak
+  archived: '2026-09-12'

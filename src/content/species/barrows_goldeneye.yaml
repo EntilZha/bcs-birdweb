@@ -1,0 +1,67 @@
+slug: barrows_goldeneye
+common_name: Barrow's Goldeneye
+scientific_name: Bucephala islandica
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Fairly common winter. Fairly common breeder.
+species_of_concern: true
+sections:
+  general_description: Female Barrow's Goldeneyes have gray bodies, brown heads, and yellow eyes. They can be very difficult to distinguish from the female Common Goldeneyes. The bill of the female Common Goldeneye is larger and mostly black with a yellow tip, while the Barrow's bill is smaller and mostly yellow. Male Barrow's Goldeneyes have iridescent purple heads that look black when not in the sun, and prominent, crescent-shaped white spots on each side of the head at the base of the bill. Their bellies and flanks are white, and their rumps are black. Their backs are mostly black with white spots. Their bills are solid black. Juveniles are mostly gray with brownish heads similar to females, but with less differentiation between the head and body colors. Consult a field guide or an experienced observer; consider range and habitat; and study nearby males to help determine which species is present.
+  habitat: The Barrow's Goldeneye is primarily a bird of the western mountain region of North America. It nests farther north than the Common Goldeneye, and in some cases even north of the tree line. The Barrow's Goldeneye prefers small, clear lakes and ponds that are not crowded with submergent and emergent vegetation and that do not support populations of fish. Goldeneyes are cavity-nesting ducks and typically use forested habitat with mature trees (deciduous or coniferous) that offer suitable nesting cavities. They have also been known to nest in other areas as well (see Nesting). During migration, goldeneyes stop to feed on large lakes and rivers. During winter they often frequent marine areas in shallow protected bays, estuaries, and large lakes with a sandy, gravel, or rocky substrate.
+  behavior: Barrow's Goldeneyes are diving ducks, and whole groups of goldeneyes will dive at the same time. They forage around pilings, and most of their foraging is under water. Barrow's Goldeneyes are aggressive and territorial, even more so than Common Goldeneyes. Males will defend territories, and females will defend areas around their broods excluding their own and other species. The males exhibit spectacular and complex courtship displays. Females commonly lay eggs in the nests of both other Barrow's Goldeneyes and other ducks, especially other cavity-nesting ducks.
+  diet: In the breeding season, aquatic insects make up the bulk of the diet, and in fact, Barrow's Goldeneyes prefer ponds that lack insect-eating fish that compete for prey. In winter, mollusks, crustaceans, fish, and occasionally fish eggs are their main foods.
+  nesting: Many female Barrow's Goldeneyes don't start breeding until the age of three years, but younger females may prospect for future nest sites. Females typically return to the areas where they hatched, and once they begin to breed, often return to the same nesting site year after year. Pairs form in late winter or early spring. Nests are typically located in cavities in large trees or nest boxes, although Barrow's Goldeneyes have been known to nest in rock crevices, abandoned buildings, burrows, or in bushes on the ground when trees aren't available. The nest itself is a depression in existing material (wood chips, leaves, or material from a previous nest), lined with down. The female typically lays 6 to 12 eggs and incubates them for 29 to 31 days. After incubation has begun, the pair bond dissolves and the male begins his molt migration. The long-term pair bond is re-established in the fall. The young leave the nest one to two days after hatching, and the female leads them to an area with abundant food where they feed themselves. Broods sometimes join other broods and create large crèches. This most often occurs if a brood has been abandoned early by the female, or if broods are mixed up during territorial disputes between females. Females abandon the young before they can fly, usually at 5 to 6 weeks of age, but occasionally earlier. The young fledge at 8 to 9 weeks of age.
+  migration_status: After incubation begins, the males undergo a molt migration. Then, late in the fall, they migrate medium distances from these staging areas to the wintering grounds, often not arriving until late October or early November. Males usually arrive a few weeks ahead of the females and the young. In spring, Barrow's Goldeneyes head for the breeding areas in late February.
+  conservation_status: The Barrow's is the least numerous of the two species of goldeneyes and is more restricted in range than the Common Goldeneye. Numbers appear to be stable, but there is some question about whether current surveying techniques are adequate for this species. Low productivity and strong site-fidelity make them slow to rebound from decreases. Oil spills on wintering areas, heavy metal accumulation in prey, recreational development on nesting lakes, and loss of habitat from logging are all potential threats. The population on the Pacific coast makes up 90% of the world population, increasing the significance of local threats to the population as a whole.
+  when_where_wa: As a breeder, the Barrow's Goldeneye is more numerous than the Common Goldeneye, found on large ponds, lakes, and reservoirs at mid- and higher elevations in the Cascades, the Okanogan and Methow Valleys, and the mountains and river valleys in the northeastern corner of the state. They are not found breeding in the Blue Mountains or the Olympics. A unique breeding population occurs in the Columbia Basin at Lake Lenore in Grant County. This population nests in cliff cavities rather than trees. In winter, Barrow's Goldeneyes are uncommon to fairly common east of the Cascades on fresh water. They are common in Puget Sound, especially at the southern end of the sound, and in coastal bays and estuaries. They are typically found much closer to shore than Common Goldeneyes.
+photos:
+- file: bago_fj_lb_l.jpg
+  caption: Female with chick.
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: bago_tg_l.jpg
+  caption: 'Male. Note: steep forehead, and white crecent on face. Black meets water towards front of sides (compare male Common Goldeneye).'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: bago_f_tg_l.jpg
+  caption: 'Female. Note: orange bill and steep forehead.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: bago.mp3
+  credit: null
+maps:
+  wa: buis.jpg
+  north_america: bagomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, '', '', '', R, F, U, U]
+  puget_trough: [C, C, C, C, R, R, R, R, R, U, C, C]
+  north_cascades: [C, C, C, F, U, U, U, U, U, U, C, C]
+  west_cascades: [C, C, F, F, F, F, F, F, F, F, C, C]
+  east_cascades: [R, R, R, U, U, U, U, U, U, U, R, R]
+  okanogan: [U, U, F, U, U, U, U, U, U, F, F, U]
+  canadian_rockies: [U, U, F, F, U, U, U, U, U, U, U, U]
+  blue_mountains: [R, R, R, '', '', '', '', '', '', '', R, R]
+  columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
+taxonomy:
+  ebird_code: bargol
+  current_common_name: Barrow's Goldeneye
+  current_scientific_name: Bucephala islandica
+  clements_sort: 748
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/barrows_goldeneye
+  archived: '2026-09-12'

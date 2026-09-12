@@ -1,0 +1,63 @@
+slug: black-and-white_warbler
+common_name: Black-and-white Warbler
+scientific_name: Mniotilta varia
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    Streaked all over black-and-white, this rare visitor to Washington is somewhat reminiscent of our resident Black-throated Gray Warbler but with the addition of a white central crown stripe and a white-streaked back, and without the Black-throated Gray’s yellow spot in front of the eye. It is also more elongated and flat-headed in appearance and has a telltale habit of hitching along bark and branches, rather like a nuthatch.
+
+    The Black-and-white Warbler nests in a variety of deciduous and mixed forest habitats east of the Rocky Mountains, from the northern tree line to the edge of the Gulf coastal plain. It winters from Florida and the Greater Antilles through much of Mexico and Central America to northwestern South America and is one of the more frequent “eastern” warbler vagrants in the West. It breeds in northeastern British Columbia and occurs casually elsewhere in the province. In Idaho and Oregon it is a rare but annual visitor and is no longer on the review list in either state. Washington has close to 30 accepted records; many others have not been reviewed by the state bird records committee. Half of the accepted records are from May and June, while the remainder are spread across every month from August to March. Eastside records outnumber westside records by about 3:2.
+
+    *Revised November 2007*
+photos:
+- file: baww_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: baww_f_gl_l.jpg
+  caption: 'Female / 1st Year Male. Note: black and white striped head and clean white throat (breeding male has heavy black streaking on throat).'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: baww_gl2_l.jpg
+  caption: 'Breeding Male. Note: black on throat.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: bawwmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: bawwar
+  current_common_name: Black-and-white Warbler
+  current_scientific_name: Mniotilta varia
+  clements_sort: 33962
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black-and-white_warbler
+  archived: '2026-09-12'

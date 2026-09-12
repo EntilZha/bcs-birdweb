@@ -1,0 +1,73 @@
+slug: orange-crowned_warbler
+common_name: Orange-crowned Warbler
+scientific_name: Vermivora celata
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: Common summer west. Fairly common east. Rare winter.
+species_of_concern: false
+sections:
+  general_description: Orange-crowned Warblers are very small warblers with slender bills, broken eye-rings, and partial eye-lines. They are one of the drabbest warblers, olive-green above and yellow below, with brighter yellow undertail coverts. Two subspecies breed in Washington (divided by the Columbia Basin). The western Washington breeders are brighter yellow than the eastern Washington breeding form. Both sexes can have an orange-brown crown. Females' crowns are generally browner, or lack the color variation entirely. The orange markings are most visible on males in the spring, but can be difficult to see, especially at other times of the year.
+  habitat: Orange-crowned Warblers are commonly found in shrubby thickets and deciduous woodlands, especially those with aspen and willow. During migration, they are often found at higher elevations, in alder and mountain ash stands, or along lowland streams in red-osier dogwood and Himalayan blackberry thickets. Weedy fields with dense clumps of cover are important in migration and at wintering sites, and are their preferred habitat in fall and winter in eastern North America.
+  behavior: Although Orange-crowned Warblers are mostly considered solitary birds, they can sometimes be found in mixed flocks with chickadees, kinglets, juncos, vireos, and other warblers, usually post-breeding only or in migration with other migrant species. They usually stay low, in bushes or small trees, and often flick their tails. They forage in the foliage, gleaning food from the undersides of leaves and flowers. The song of the Orange-crowned Warbler is an accelerating trill that drops in pitch at the end.
+  diet: Orange-crowned Warblers eat mostly insects, but supplement that diet with berries, suet, tree sap, and flower nectar. They pierce the base of a flower to get at the nectar, and visit woodpecker and sapsucker holes for tree sap. The young eat almost entirely insect larvae.
+  nesting: Males arrive first on the breeding grounds and establish territories. Returning males often use the same territory as the previous year. Monogamous pairs form shortly after the females return. The female chooses the nest site, which is usually on the ground under dense vegetation, but may be in a shrub, low tree, fern, or vine. The female builds a small, open nest cup out of leaves, moss, small twigs, and bark, lined with fine grass and hair. The female incubates 4 to 5 eggs for 11 to 13 days. Both members of the pair feed the young. The young leave the nest 10 to 13 days after hatching, before they can fly well. The parents continue feeding the young for a few days after they leave the nest. Pairs generally raise a single brood each year.
+  migration_status: Orange-crowned Warblers are short- to medium-distance migrants. Migrants arrive in Washington early in the spring. The fall departure is spread out, with the last migrants leaving as late as November. Many migrate as far south as Mexico, but they also winter in California, and a few remain in Washington through the year.
+  conservation_status: The population of Orange-crowned Warblers appears to be stable throughout their range. They can tolerate moderate levels of disturbance. Livestock overgrazing in many areas has resulted in the loss of understory habitat, but intensive logging, especially in western Washington, has increased the amount of habitat. Despite this habitat creation, the Breeding Bird Survey has reported a significant decline in Orange-crowned Warblers in Washington since 1966.
+  when_where_wa: Orange-crowned Warblers are very common birds in the lowlands of western Washington from April through September. Numbers decrease through the fall, and they are rare in winter. They return as early as late March. They generally nest below 3,000 feet, but can be found at higher elevations along a number of Cascade passes and on the eastern slopes of the Cascades. The eastern Washington subspecies can be found in the northeast and southeast corners of the state from late April through September.
+photos:
+- file: ocwa_ad_gth_l.jpg
+  caption: 'Note: faint orange crown.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: ocwa_ad2_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: ocwa_ad3_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: ocwa_ad4_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+audio:
+  file: OCWA01.mp3
+  credit: null
+maps:
+  wa: vece.jpg
+  north_america: ocwamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, U, C, C, C, C, F, U, U, R, R]
+  puget_trough: [R, R, U, F, C, C, C, C, C, U, U, R]
+  north_cascades: ['', '', R, F, C, C, C, C, C, R, '', '']
+  west_cascades: ['', '', R, F, C, C, C, C, F, R, '', '']
+  east_cascades: [R, R, R, F, C, F, F, F, C, U, R, R]
+  okanogan: ['', '', '', U, C, C, C, C, C, '', '', '']
+  canadian_rockies: ['', '', '', F, F, F, F, F, F, U, '', '']
+  blue_mountains: ['', '', '', R, F, F, F, F, F, '', '', '']
+  columbia_plateau: [R, R, R, U, F, '', '', C, C, U, R, R]
+taxonomy:
+  ebird_code: orcwar
+  current_common_name: Orange-crowned Warbler
+  current_scientific_name: Leiothlypis celata
+  clements_sort: 33973
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/orange-crowned_warbler
+  archived: '2026-09-12'

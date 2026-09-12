@@ -1,0 +1,73 @@
+slug: green-winged_teal
+common_name: Green-winged Teal
+scientific_name: Anas crecca
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common winter resident. Fairly common breeder east.
+species_of_concern: false
+sections:
+  general_description: The smallest dabbling duck, the Green-winged Teal is smaller and more compact than other teals and has a round head and narrow bill. All sexes and ages have dark gray wings with green-black speculums and a brown bar above each speculum. Females and juveniles are mottled brown overall with gray legs. Males in breeding plumage have gray bodies with orange-buff, dark-spotted breasts and yellow patches on their flanks. Their rumps are black and buff, and their rufous heads have an iridescent green band swooping back in a curve on each side. They also have a vertical white shoulder-bar on each side, which can be a helpful field mark when trying to distinguish the Green-winged Teal from the Eurasian race.
+  habitat: The Green-winged Teal lives in shallow wetlands, preferring fresh water for breeding, but is resident on both fresh and salt water at other times of the year. Nesting habitat usually has trees and shrubs. During winter and migration, wetlands with a lot of emergent and floating vegetation are commonly used. Tidal mudflats are used by this species more often than by any other duck.
+  behavior: Green-winged Teals usually gather in smallish flocks, but large flocks of thousands are also seen. Active and agile, they forage in emergent vegetation along shorelines and in wet, shallow, muddy areas, mainly by dabbling their bills at the water's surface. Because of their small size and rapid wing-beats, these birds in flight appear to move very fast.
+  diet: The Green-winged Teal's diet is variable depending on season and location, with more animal matter consumed during the spring and summer, and more plants eaten in the fall and winter. Plant matter usually consists of the seeds of grasses, sedges, and pond-weeds. Animal matter is most often insect larvae, other aquatic invertebrates, and sometimes fish eggs.
+  nesting: Green-winged Teals usually arrive at the breeding grounds with pair bonds formed. Nests are usually located in grasses and weeds in meadows, open woodlands, or brush, and are usually within two hundred feet of water. The female builds the nest on the ground. It is well hidden by low vegetation that often is dense enough to form a full canopy over the nest. The nest itself is usually a shallow depression, filled with grasses, twigs, and leaves, lined with down. Incubation is by the female alone, and lasts for 20 to 24 days, during which time the pair bond dissolves, and the male leaves the nesting area. Within a few hours of hatching, the 8 to 9 ducklings leave the nest with the female to look for their own food. They may all return to the nest at night for a few days. The young fledge at about 35 days.
+  migration_status: Nearly all populations of Green-winged Teal are migratory, although they remain farther north during the winter than other species of North American teal. After incubation begins, the males migrate to molting grounds where they gather and go through a period of flightlessness. The molt migration may be to a spot close by, or may be over one hundred miles away. Fall migration occurs over an extended period, beginning in late August and stretching into early December. Females may move farther south than males. Spring migration usually begins in February and lasts through April. They often migrate over the ocean, sometimes in association with sea ducks.
+  conservation_status: With 80% of the North American Green-winged Teal population breeding north of the United States-Canada border, most of the breeding grounds are away from human activity, and thus numbers have remained fairly stable and are even increasing in some areas. In 1990 the population was estimated at over 3,000,000 birds. The Common Teal, or Eurasian Green-winged Teal, a Eurasian subspecies of the Green-winged Teal, is recorded in small numbers in Washington in most years, and sightings have become more common, especially in the late winter and early spring. The increase in sightings may be due to an increase in birds, or an increase in reporting rates due to more birders out there looking for them. The Common Teal is currently considered the same species (although a different subspecies) as the Green-winged Teal in North America. However, British ornithologists recently split the two into different species, and some speculate that the American Ornithologists Union will soon follow their lead.
+  when_where_wa: In western Washington, the Green-winged Teal is a rare breeder around Puget Sound. It is much more familiar as a wintering species, common from September to early May, especially in tidal marshes and flooded fields throughout the lowlands of coastal and western Washington. Most birds seen west of the Cascades during the summer are non-breeders. In eastern Washington, Green-winged Teals breed in the Columbia River Basin and the northern river valleys, especially at the confluence of the Okanogan and Columbia Rivers, Potholes Reservoir (Grant County), and Lake Lenore (Douglas/Grant Counties), and can be found in these and other wetlands with appropriate habitat throughout the year.
+photos:
+- file: gwte_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: gwte_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: gwte_f_jh_l.jpg
+  caption: 'Female. Note: strong eye line and cap and buffy streak on rear.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: gwte_fl_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: gwte.mp3
+  credit: null
+maps:
+  wa: ancr.jpg
+  north_america: gwtemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, F, R, R, U, C, C, C, C]
+  puget_trough: [C, C, C, C, F, R, R, F, C, C, C, C]
+  north_cascades: [U, U, U, U, R, R, R, R, R, U, U, U]
+  west_cascades: [C, C, C, C, U, R, R, R, C, C, C, C]
+  east_cascades: [U, U, U, U, U, R, R, U, F, F, F, U]
+  okanogan: [U, U, C, C, C, C, C, C, C, C, C, U]
+  canadian_rockies: [U, U, F, F, U, U, U, U, U, U, U, U]
+  blue_mountains: ['', '', R, U, U, R, R, U, U, U, '', '']
+  columbia_plateau: [C, C, C, C, C, F, F, F, C, C, C, C]
+taxonomy:
+  ebird_code: gnwtea
+  current_common_name: Green-winged Teal
+  current_scientific_name: Anas crecca
+  clements_sort: 612
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/green-winged_teal
+  archived: '2026-09-12'

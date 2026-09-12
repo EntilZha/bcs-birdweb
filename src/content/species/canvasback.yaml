@@ -1,0 +1,73 @@
+slug: canvasback
+common_name: Canvasback
+scientific_name: Aythya valisineria
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common migrant, locally fairly common winter resident. Uncommon breeder east.
+species_of_concern: true
+sections:
+  general_description: The Canvasback is a medium-sized duck with an elegant pattern of black, russet, and white. Males in breeding plumage have white-to-light-gray bodies, black undertail coverts and breasts, and deep rufous heads with red eyes. Adult males in non-breeding plumage have slightly darker bodies, but look similar. Female Canvasbacks are an overall grayish-brown in color, with a slightly browner head and neck. Juveniles look similar to females, but with less distinction between the head, neck, and body color. All ages and plumages have long, gently sloping black bills that give them a distinctive profile. This profile is one of the best ways to distinguish between the Canvasback and the similar-looking Redhead. Canvasbacks are also larger than Redheads, with long, flattish heads, and much whiter body coloration. Males can also be differentiated by their red eyes (male Redheads have yellow eyes) and bill color (black in Canvasbacks, blue with a black tip in Redheads).
+  habitat: Canvasbacks breed in shallow prairie lakes and ponds with marshy shorelines, especially those with bulrush. They typically inhabit large lakes during migration. In winter they frequent sheltered lakes, saltwater bays, and estuaries. They also use sewage lagoons.
+  behavior: In winter Canvasbacks gather in large flocks, often mixed with scaups. As divers, Canvasbacks usually find food under water but will also feed at the surface. Canvasbacks, like most other North American ducks, are seasonally monogamous. Most pairs form at stopover points during spring migration.
+  diet: The bases and roots of aquatic plants, as well as some leaves and seeds, make up the majority of the Canvasback's diet. Wild celery is particularly favored. Mollusks, aquatic insects, and some small fish are also eaten, especially by nesting females and young.
+  nesting: The nest, built by the female, is situated in dense emergent vegetation above shallow water, and sometimes on dry ground. It is a bulky bowl of vegetation lined with down. The female lays and incubates 8 to 10 eggs for 24 to 29 days. Several hours after the young hatch, the female leads them to open water where they feed themselves. They are tended by the female for several weeks. The male leaves during incubation, and the female leaves several weeks after the young hatch. The ducklings are left to fend for themselves until they can fly, at about 60 to 70 days.
+  migration_status: Canvasbacks migrate late in fall and early in spring. Birds migrate in flocks, in a V-formation. Migration is relatively quick in the spring, but more drawn out in fall, lasting from late August to November.
+  conservation_status: Although numbers vary considerably from year to year, the overall trend is one of long-term decline, mostly due to habitat loss. In fact, hunting seasons were closed in the Atlantic Flyway in the mid-1990s to allow recovery of very low population levels. In order to reverse this trend, the loss and degradation of wetlands needs to be arrested. The breeding range in Washington, which is at the southern edge of the North American breeding range, appears to be shrinking, and some areas that look like suitable habitat do not have nesting Canvasbacks. In these areas, Redheads may outcompete Canvasbacks.
+  when_where_wa: Canvasbacks breed in eastern Washington at Potholes Reservoir and Winchester Wasteway (Grant County), at Turnbull National Wildlife Refuge (Spokane County), and in Okanogan County. Confirmed nesting records from the last ten years are limited to these three counties, although summer sightings of non-breeders may occur in appropriate habitat throughout the state. The Canvasback is a common migrant, appearing in late August at the earliest and becoming more common in October through November. In winter, Canvasbacks are found in lowlands west of the Cascades as well as in eastern Washington, although they are more common on salt water during the winter than on fresh water. They typically leave the wintering grounds in mid-April. Seward Park in Seattle is an excellent place to find wintering Canvasbacks.
+photos:
+- file: canv_f_lb_l.jpg
+  caption: Female
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: canv_fl_gl_l.jpg
+  caption: Male in flight.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: canv_f_tg_l.jpg
+  caption: 'Female. Note: long black bill leading into a deeply sloping forehead.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: canv_tg_l.jpg
+  caption: 'Male. Note: long black bill and sloping forehead, long neck, and white back.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: canv.mp3
+  credit: null
+maps:
+  wa: ayva.jpg
+  north_america: canvmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, '', '', '', R, U, U, U]
+  puget_trough: [F, F, U, U, R, '', '', '', R, U, C, F]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [R, R, R, R, '', '', '', '', '', R, R, R]
+  east_cascades: [U, U, U, U, R, '', '', R, U, U, U, U]
+  okanogan: [R, R, C, U, U, U, U, U, U, C, U, R]
+  canadian_rockies: [F, F, F, F, R, R, R, R, U, F, F, F]
+  blue_mountains: ['', '', '', R, '', '', '', '', R, R, '', '']
+  columbia_plateau: [F, F, F, F, U, R, R, R, U, F, F, F]
+taxonomy:
+  ebird_code: canvas
+  current_common_name: Canvasback
+  current_scientific_name: Aythya valisineria
+  clements_sort: 666
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/canvasback
+  archived: '2026-09-12'

@@ -1,0 +1,67 @@
+slug: laysan_albatross
+common_name: Laysan Albatross
+scientific_name: Phoebastria immutabilis
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Diomedeidae
+  slug: diomedeidae
+status: Rare pelagic.
+species_of_concern: true
+sections:
+  general_description: The Laysan Albatross is a large, long-winged seabird. Its wings are gray-brown above with a varying degree of dark mixed with white below. Its tail is dark, and its head, belly, and rump are all white. Its face is distinctive, with a dark smudge around the eye and a large pale-pinkish bill.
+  habitat: During the breeding season, Laysan Albatrosses prefer open sand or grassy areas, on low, flat islands in the Hawaiian archipelago. During the non-breeding season, and year round for birds that have yet to attain breeding age, habitat is the open ocean, far from land. Laysan Albatrosses are most often found beyond the continental shelf, mostly in cold water. They are restricted to the Northern Hemisphere, unlike the majority of albatrosses, which are found in the Southern Hemisphere.
+  behavior: Once they leave their breeding colony at the age of 5½ months, young birds spend the next three years at sea, never touching land. After that, they spend July through November at sea as well. During this time they land on the water to feed and sleep, and it is speculated that they can sleep even while airborne. Albatrosses have difficulty flying without wind.
+  diet: Laysan Albatrosses forage while swimming, grasping prey from the water's surface. Much of the feeding is done at night, when the predominant prey, squid, is close to the surface. Fish, fish eggs, crustaceans, carrion, and refuse round out the diet.
+  nesting: A long-lived species, Laysan Albatrosses do not breed until they are 8-9 years old. After that, most breed annually and can live over 40 years. First-time breeders engage in an elaborate courtship display to establish pair bonds, which are kept for life. Laysan Albatrosses build their nests in colonies on the open ground, often near tall vegetation. Both sexes help build the nest, which is a shallow depression in the ground with a rim built up around it. The female lays a single egg which both sexes take turns incubating for over 9 weeks. For the first few weeks after the chick hatches, the parents take turns tending the chick and foraging, with foraging trips taking many days. The parents regurgitate stomach oil and partly digested stomach contents to feed the chick. The regurgitated material begins mostly as stomach oil, and as the chick ages, the percentage of oil is reduced. After 165 days on the island, the chick heads out to sea. The entire nesting process, from when the adults arrive at the colony to when they leave, takes 290 days, almost 80% of the year.
+  migration_status: At the end of the breeding season in July, most birds head northwest toward Japan, and then northeast toward the Aleutians. They then turn south, back toward Hawaii to breed. Non-breeders wander throughout the northern Pacific Ocean year round.
+  conservation_status: The total population of Laysan Albatrosses is currently estimated at about 2.5 million, making it ten times more abundant than the other albatross of the Northern Hemisphere, the Black-footed Albatross. This number represents a major recovery from the first half of the 20th Century, when populations were decimated by feather hunters and military activity. The total breeding population consists of about 800,000 birds, with over 50% of these breeders nesting on the Midway Atoll, now a national wildlife refuge. Laysan Albatrosses have recently expanded their breeding range, colonizing new breeding grounds on the main Hawaiian Islands, the Bonin Islands, and off the coast of Baja. Despite their recovery and range expansion, there remain threats to the Laysan Albatross population. These birds are prone to being caught in fishing nets and on hooks, and in 1990 the estimated loss to driftnets was over 17,500 birds, almost one percent of the population. A species that lays only one egg each year and doesn't begin to breed until it is 8 or 9 years old is slow to recover from increased mortality.
+  when_where_wa: In spite of its larger population, the Laysan Albatross is seen less often off the coast of Washington than is the Black-footed Albatross. The Laysan Albatross is usually found farther offshore, although sightings have increased in recent decades. Younger birds remain south of the adults, closer to Japan. Birds sighted off the Washington coast are more likely to be adults. Laysan Albatrosses are best seen on offshore boat trips. Sightings are occasional, most common from September into early May.
+photos:
+- file: laal_lb_l.jpg
+  caption: Adult in flight.
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: laaldp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+- file: laal2dp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+audio:
+  file: LAAL01.mp3
+  credit: null
+maps:
+  wa: diim.jpg
+  north_america: null
+abundance:
+  oceanic: [R, R, R, R, '', '', '', '', '', R, R, R]
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: layalb
+  current_common_name: Laysan Albatross
+  current_scientific_name: Phoebastria immutabilis
+  clements_sort: 6987
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/laysan_albatross
+  archived: '2026-09-12'

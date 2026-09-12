@@ -1,0 +1,46 @@
+slug: piping_plover
+common_name: Piping Plover
+scientific_name: Charadrius melodus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Charadriidae
+  slug: charadriidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One record, at Reardan Ponds (Lincoln County) in July 1990.
+photos:
+- file: pipl_w_dp_l.jpg
+  caption: 'Winter plumage. Note: soft gray plumage, white collar, and yellow legs.'
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: piplmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: pipplo
+  current_common_name: Piping Plover
+  current_scientific_name: Charadrius melodus
+  clements_sort: 5836
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/piping_plover
+  archived: '2026-09-12'

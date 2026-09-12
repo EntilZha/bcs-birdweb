@@ -1,0 +1,55 @@
+slug: says_phoebe
+common_name: Say's Phoebe
+scientific_name: Sayornis saya
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Tyrannidae
+  slug: tyrannidae
+status: Fairly common summer east. Rare west and winter east.
+species_of_concern: false
+sections:
+  general_description: Say's Phoebes are medium-sized, gray-brown flycatchers with salmon-pink bellies and solid black tails and bills. In flight, very pale, translucent, outer wing-feathers are just visible. The juvenile has salmon-colored wing-bars.
+  habitat: Open-country birds, Say's Phoebes are found in steppe and agricultural habitats in eastern Washington, especially treeless areas with cliffs and other sites for nesting.
+  behavior: Like other phoebes, Say's Phoebes bob their tails. They perch on low shrubs or rocks, and dart out to grab prey from the air, the foliage, or the ground. They can often be seen hovering low over fields looking for prey.
+  diet: Say's Phoebes' primary diet is insects. They eat a number of terrestrial insects as well the typical flying variety.
+  nesting: Pairs are monogamous and nest on solid structures--natural or artificial. Natural nesting substrates include rocky outcroppings, crevices, cliffs, and tree cavities. Nests have also been found on such man-made structures as bridges, barn rafters, crossbeams, and eaves. The nest is an open cup made of grass, moss, spider webs, and other material, but usually does not include mud, a material common in the nests of other phoebe species. Generally, the female builds the nest on her own, and then incubates four to five eggs for 12 to 15 days. Both parents help feed the young, which leave the nest at 14 to 16 days. Pairs typically raise one or two broods a season.
+  migration_status: This hardy, medium-distance migrant is one of the earliest breeders to return to eastern Washington, arriving in the region as early as late February. They begin to head south to wintering grounds in the southwestern United States in August and continue into September.
+  conservation_status: Say's Phoebes have increased slightly but not statistically significantly in numbers in Washington since 1966, although their numbers declined in many parts of the western United States until 1991. Recent studies have shown that this downward trend appears to have reversed, and increases have been recorded range-wide. Because they nest readily in man-made structures, they appear to adapt to changes in the landscape as long as foraging areas are free of disturbances.
+  when_where_wa: During the breeding season they can be found throughout the Columbia Basin, to the foothills of the Blue Mountains, and up into the broad river valleys of the northeastern corner of the state. They are most conspicuous during the beginning of the breeding season in March and April when they call actively. Wintering birds can be found throughout eastern Washington, especially along the Snake and Columbia Rivers where single birds occur every few years. They are uncommon to rare in the western Washington lowlands during migration, in March.
+photos:
+- file: saph_gl_l.jpg
+  caption: 'Note: gray back and rufous belly.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio:
+  file: SAPH01.mp3
+  credit: null
+maps:
+  wa: saysa.jpg
+  north_america: saphmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', R, R, '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: [R, R, U, U, U, U, U, U, U, R, R, R]
+  okanogan: ['', R, C, C, C, C, C, F, U, '', '', '']
+  canadian_rockies: ['', '', U, U, U, U, U, U, U, '', '', '']
+  blue_mountains: ['', '', '', R, U, U, U, U, U, '', '', '']
+  columbia_plateau: [R, R, U, F, F, F, F, F, U, R, R, R]
+taxonomy:
+  ebird_code: saypho
+  current_common_name: Say's Phoebe
+  current_scientific_name: Sayornis saya
+  clements_sort: 17010
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/says_phoebe
+  archived: '2026-09-12'

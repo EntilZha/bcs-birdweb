@@ -1,0 +1,51 @@
+slug: common_grackle
+common_name: Common Grackle
+scientific_name: Quiscalus quiscula
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Icteridae
+  slug: icteridae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    A widespread resident east of the Rockies in southern Canada and the United States, the Common Grackle has been expanding its range westward in recent decades. It now nests in eastern Idaho and is annual in Oregon. The first Washington record was from Seattle (King County) in 1965. Of the total of twelve accepted records in the state, eight are from the Columbia Plateau, three are from the Puget Trough lowlands, and one is from the outer coast. Three-quarters of the records have occurred in spring and summer (March–August) and the remainder in fall and winter (October–January). Common Grackle nests in the lowlands of northeastern British Columbia, east of the continental divide, but is very rare to casual elsewhere in the province.
+
+    Both sexes are all-black with a yellow eye and a bluish sheen on the head, and have keel-shaped tails; females are somewhat smaller. The subspecies that occurs in the Northwest shows a bronzy sheen on the back and breast (less pronounced in the female). The most likely confusion species in Washington is the male Brewer’s Blackbird, which, however, is considerably smaller with a thinner bill; a much shorter, keel-less tail; and a greenish sheen on the back. See also Great-tailed Grackle (an even rarer vagrant in Washington than Common Grackle) and Rusty Blackbird, a rare winter visitor in the state.
+
+    *Revised November 2007*
+photos:
+- file: cogr_gt_l.jpg
+  caption: 'Male. Note: glossy bronze body and heavy bill.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: cogrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: comgra
+  current_common_name: Common Grackle
+  current_scientific_name: Quiscalus quiscula
+  clements_sort: 33853
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/common_grackle
+  archived: '2026-09-12'

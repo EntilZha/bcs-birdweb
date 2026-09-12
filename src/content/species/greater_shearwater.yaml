@@ -1,0 +1,58 @@
+slug: greater_shearwater
+common_name: Greater Shearwater
+scientific_name: Puffinus gravis
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Procellariidae
+  slug: procellariidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: The first state record occurred on a pelagic trip off Westport on 22 August 2002.
+photos:
+- file: grsh_gt_l.jpg
+  caption: ''
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: grsh2_gt_l.jpg
+  caption: ''
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: grsh4_gt_l.jpg
+  caption: ''
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: greshe
+  current_common_name: Great Shearwater
+  current_scientific_name: Ardenna gravis
+  clements_sort: 7207.0
+  historic_common_name: Greater Shearwater
+  display_historic: false
+  note: Published on BirdWeb as Greater Shearwater (Puffinus gravis). It is now called Great Shearwater and placed in the genus Ardenna.
+source:
+  url: https://birdweb.org/birdweb/bird/greater_shearwater
+  archived: '2026-09-12'

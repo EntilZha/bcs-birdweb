@@ -1,0 +1,28 @@
+slug: marrowstone_island_oak_bay
+name: Marrowstone Island/Oak Bay
+number: 203
+ecoregions:
+- puget_trough
+sections:
+  site: Marrowstone and Indian Islands and Oak Bay are at the northern end of Puget Sound and consist of marine, salt marsh, and lowland coniferous forest habitats. They provide the opportunity to see a number of wintering waterbirds, shorebirds, and resident forest passerines. Most locations are at sea-level, but the higher forested slopes can range up to 100 feet in elevation. Oak Bay provides estuarine and marsh habitats alongside open water.
+  birds: |-
+    The rich marsh and off-shore eel grass beds hold Mallards, Gadwall, American Wigeon, Northern Pintail, Northern Shoveler, and a variety of shorebirds. Brant may be feeding in the marsh or offshore. All three scoters are common in Oak Bay, as are loons. The rock jetty often has Harlequin Duck, Black Turnstone, and Black Oystercatcher. The surrounding forest is good for passerines.
+
+    As you go along Marrowstone Island, you move through open grasslands to mixed forest, back out to marsh and open water at Kilisut Harbor and Mystery Bay, and then into the dense coniferous forest of Fort Flagler State Park, with Douglas fir, western hemlock, and western red cedar. The western bay-side of the park is a level beach, with a pebbly spit projecting out into Port Townsend Sound. Black Turnstone, Surfbird, and the occasional Rock Sandpiper may be found here. In the sound, Harlequin Duck, Long-tailed Duck (in the winter), all three species of loons, Horned and Red-necked Grebes, and a variety of alcids are common. The northeast side of the park, at Marrowstone Point and Light, is adjoined by marsh that may contain ducks and shorebirds at the right time of year. Port Townsend Sound and Admiralty Inlet are good for loons, grebes, and alcids.
+  directions: |-
+    Oak Bay and Marrowstone Island are best in fall and winter.
+    From Chimacum on SR-19 (DeLorme, p. 94, D-2), go east 1.5 miles to Port Hadlock. At the main intersection, turn right (south) on Oak Bay Road, and at 1.4 miles watch for Portage Way, which leads to Oak Bay County Park. Return to Oak Bay Road, turn right, and go 0.6 miles to SR-116, Flagler Road. You will cross the bridge over the channel between Port Townsend Sound and Oak Bay and be on Indian Island. Watch for county access points immediately after the bridge and at 0.8 miles (Indian Island County Park), where you can look back to Oak Bay County Park and the jetty. Continue on SR-116 to Kilisut Harbor/Nordland, and just beyond watch for Mystery Bay State Park on your left. Scan the water. Continue on for 1.9 miles to Fort Flagler State Park. In 0.5 miles, turn left at the intersection and go west down to the beach. Either now or when returning, explore the forest for passerines. Return to the intersection, turn left, and follow signs to Marrowstone Point and the lighthouse. Walk out past the marsh to the edge of Admiralty Inlet. Scan both the marsh and the inlet. (The Benchmark Atlas is helpful in this area; please see page 55, F-9.)
+photos:
+- file: site_OakBay_as.jpg
+  caption: ''
+  credit:
+    name: Adam Sedgley
+    url: null
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/marrowstone_island_oak_bay/3
+  archived: '2026-09-12'

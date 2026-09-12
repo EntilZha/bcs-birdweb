@@ -1,0 +1,46 @@
+slug: great_knot
+common_name: Great Knot
+scientific_name: Calidris tenuirostris
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One record, from early September at La Push (Clallam County).
+photos:
+- file: grkn_ab_l.jpg
+  caption: ''
+  credit:
+    name: Alister Ben
+    url: http://www.pbase.com/alibenn
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: grekno
+  current_common_name: Great Knot
+  current_scientific_name: Calidris tenuirostris
+  clements_sort: 6165
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/great_knot
+  archived: '2026-09-12'

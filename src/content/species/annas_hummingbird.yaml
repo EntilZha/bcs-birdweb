@@ -1,0 +1,73 @@
+slug: annas_hummingbird
+common_name: Anna's Hummingbird
+scientific_name: Calypte anna
+order:
+  name: Apodiformes
+  slug: apodiformes
+family:
+  name: Trochilidae
+  slug: trochilidae
+status: Fairly common resident west. Rare east.
+species_of_concern: false
+sections:
+  general_description: The Anna's Hummingbird is a medium-sized hummingbird with a relatively short, straight bill and a long sloping forehead. Both males and females are bronze-green above, and gray below. Males are easy to distinguish from other hummingbirds as their entire heads and throats are bright iridescent red. Female have green heads, with a small amount of red on their throats. Females have black tails with white tips, while the males' tails are solid blackish-gray.
+  habitat: Anna's Hummingbirds live in a wide variety of habitats, including open woods. Chaparral is their traditional habitat, although in recent years they have been found more often in suburban gardens where hummingbird feeders and exotic plantings provide them with food throughout the year. In Washington, Anna's Hummingbirds are most often found in suburban parks, gardens, and coastal valleys.
+  behavior: One of the most distinctive behaviors of the Anna's Hummingbird is the male's courtship flight dive. He flies high in the air and then plummets. At the bottom of the dive, he makes a loud, distinctive popping noise, called the "dive noise." The origin of the dive noise is not fully understood, but is thought to be mostly vocal. The vocalization may or may not be supplemented with noise from air rushing through the feathers. In addition to the dive noise, the very vocal Anna's Hummingbird makes a variety of buzzes, chips, and chatters. Both males and females defend feeding territories, although males defend them more diligently and for a longer period of time.
+  diet: Anna's Hummingbirds feed on nectar from flowers and feeders, as well as small insects and spiders that they catch in the air or glean from tree trunks and branches. They also visit sapsucker holes and feed on sap and insects attracted to the holes.
+  nesting: Males and females do not form lasting pair bonds. Females construct the nest, incubate the eggs, and feed the nestlings on their own. They build their nests on a wide variety of surfaces, most often on the branch of a shrub or tree at heights varying from 3-27 feet from the ground, situated near suitable food sources. Nests are cup-shaped, made of plant fibers, spider webs, and feathers, with a lichen exterior. The female incubates two eggs for 14-19 days. She feeds and cares for them by herself until they become independent at 18-23 days.
+  migration_status: Anna's Hummingbird migration has been described as a succession of movements and temporary residences wherever suitable flowers and feeders are found. In Washington, Anna's Hummingbird appears throughout the year. It is unclear whether this is due to migration or whether the birds we see in January are the same as those we see in June.
+  conservation_status: Historically limited to western California, in recent years Anna's Hummingbirds have dramatically expanded their range northward as far as British Columbia. This expansion has been attributed to hummingbird feeders and gardens with exotic flowers that provide the birds with a year-round food source. Climate change may also play a role. They are currently very common across much of their range, and because they adapt well to suburban areas, should continue to thrive in the future.
+  when_where_wa: The first breeding record in Washington was in Tacoma (Pierce County) in 1976, and they are now found breeding throughout the lowlands of southeastern Puget Sound (from Edmonds in Snohomish County to Tacoma in Pierce County). Non-breeding populations can be found in riparian areas throughout the Columbia Basin. Christmas Bird Counts document the presence of Anna's Hummingbird throughout western Washington in the winter.
+photos:
+- file: anhu_m_gth_l.jpg
+  caption: Male
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: anhu_f_gl_l.jpg
+  caption: Female
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: anhu_ffl_tg_l.jpg
+  caption: Female
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: anhu_j_gl_l.jpg
+  caption: 'Juvenile male. Note: red gorget wider than centered single spot of female.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: anhu2.mp3
+  credit: null
+maps:
+  wa: caan.jpg
+  north_america: anhumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, R, R, R, R, R, R, R, R, R]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  east_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: annhum
+  current_common_name: Anna's Hummingbird
+  current_scientific_name: Calypte anna
+  clements_sort: 4814
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/annas_hummingbird
+  archived: '2026-09-12'

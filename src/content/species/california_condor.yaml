@@ -1,0 +1,46 @@
+slug: california_condor
+common_name: California Condor
+scientific_name: Gymnogyps californianus
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Cathartidae
+  slug: cathartidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: Large numbers of condors once came to the Columbia River to feast on salmon carcasses in fall spawning season. The last record is from 1897.
+photos:
+- file: caco_lb_l.jpg
+  caption: Adult in flight (picture taken in California)
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: calcon
+  current_common_name: California Condor
+  current_scientific_name: Gymnogyps californianus
+  clements_sort: 7808
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/california_condor
+  archived: '2026-09-12'

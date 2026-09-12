@@ -1,0 +1,61 @@
+slug: chukar
+common_name: Chukar
+scientific_name: Alectoris chukar
+order:
+  name: Galliformes
+  slug: galliformes
+family:
+  name: Phasianidae
+  slug: phasianidae
+status: Fairly common resident east.
+species_of_concern: false
+sections:
+  general_description: A chunky, medium-sized bird introduced into North America from Eurasia, the Chukar is a pale-colored, but boldly patterned bird. The bird's red bill and legs contrast with its pale gray upperparts. A black line surrounds the bird's whitish throat and cheek, and extends over its eyes. The Chukar's sides are cream with bold black stripes. Pale orange under-tail coverts and red outer feathers adorn its short gray tail.
+  habitat: Chukars can be found on steep, dry, rocky slopes with shrub-steppe vegetation. Because cheatgrass is a major food source, Chukars are often spotted near this introduced grass. They survive at elevations ranging from 500 to 4,000 feet.
+  behavior: Often found in small groups, especially in the winter, Chukars feed primarily on the ground, but will climb into shrubs or trees for berries.
+  diet: In Washington, cheatgrass and wheat seeds make up the majority of the Chukar's diet. In the winter, Chukars feed primarily on seeds, cheatgrass, and thistles, switching to insects and green leaves in the summer. Many of the Chukar's major food sources, like the bird itself, have been introduced from Eurasia.
+  nesting: To make the nest, the female creates a depression in the ground and lines it with grass, twigs, and feathers. The nest is typically hidden under a shrub or rock. Clutches are large, with 8-14 eggs that the female incubates. Female Chukars sometimes lay a second clutch of eggs that the male will incubate while she continues to incubate the first. Shortly after hatching, the young leave the nest to find their own food, although one or both parents will continue to tend them for some time.
+  migration_status: Permanent resident
+  conservation_status: The first Chukars were introduced in North America in 1893 and are still released regularly in Washington. They thrive on overgrazed open ranges where there is no agriculture. Chukars are one of the most popular upland game species in Washington, ranking second in the state for numbers harvested. Chukars typically exist in areas unoccupied by other upland birds, thus their introduction does not interfere with native species.
+  when_where_wa: Chukars are regularly released to provide opportunities for hunters and thus are often seen outside their regular range. They are common in rocky, shrub-steppe areas and deep river canyons east of the Cascades in the central and lower Columbia Basin. They can be found along the Columbia River in Klickitat County, and in the Methow and Okanogan Valleys, in the Banks Lake area, along the lower Yakima River and tributaries, and along the eastern portion of the Snake River.
+photos:
+- file: chuk_jh_l.jpg
+  caption: Adult
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: chuk_jh2_l.jpg
+  caption: Adult
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: chuk.mp3
+  credit: null
+maps:
+  wa: alch.jpg
+  north_america: chukmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
+  columbia_plateau: [F, F, F, F, F, F, F, F, F, F, F, F]
+taxonomy:
+  ebird_code: chukar
+  current_common_name: Chukar
+  current_scientific_name: Alectoris chukar
+  clements_sort: 1765
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/chukar
+  archived: '2026-09-12'

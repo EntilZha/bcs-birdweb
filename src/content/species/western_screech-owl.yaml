@@ -1,0 +1,61 @@
+slug: western_screech-owl
+common_name: Western Screech-Owl
+scientific_name: Megascops kennicottii
+order:
+  name: Strigiformes
+  slug: strigiformes
+family:
+  name: Strigidae
+  slug: strigidae
+status: Uncommon to fairly common resident.
+species_of_concern: true
+sections:
+  general_description: Western Screech-Owls are small owls with yellow eyes, dark bills, and ear-tufts that are often but not always raised. They have intricately streaked gray or gray-brown plumage, with owls of the eastern Washington subspecies lighter in color than those of the western. Flammulated Owls are smaller but similar in coloration; they can best be distinguished from Western Screech-Owls by their dark eyes.
+  habitat: Western Screech-Owls are common in open woodlands, forested streamsides, deserts, suburban areas, and parks. They tend to avoid dense forests without openings. Although they occur in a wide variety of habitats, they are most often found in deciduous or mixed forest microhabitats, often along streams. They commonly nest in cottonwood or big-leaf maple.
+  behavior: Western Screech-Owls are nocturnal, although the owls of the western Washington subspecies are sometimes active on cloudy days. Western Screech-Owls are aggressive for their size and can take even large prey such as grouse when feeding young. When threatened, Western Screech-Owls will often stand erect, slick their body feathers down, hold their ear-tufts up, and draw the feathers around their beaks forward. This posture allows the cryptically colored owl to blend in with the tree branch that it is perched on.
+  diet: Western Screech-Owls feed on arthropods, reptiles, amphibians, small mammals, and occasionally birds.
+  nesting: Monogamous pairs form long-term bonds. Western Screech-Owls are secondary cavity nesters, making use of natural cavities, old Pileated Woodpecker or Northern Flicker holes, and nest boxes. They nest at heights from 5 to 30 feet from the ground. They do not add material to the nest. Pairs typically hatch one brood per year. The female incubates 3-5 eggs for 33-34 days while the male brings her food. Once the young hatch, the female broods for about three weeks while the male brings food to her and the owlets. The young leave the cavity and venture onto nearby branches 7-10 days later. They stay close to the nest for a few nights while they develop their ability to fly, and they continue to remain near the adults for about five weeks after their first flights.
+  migration_status: Western Screech-Owls do not migrate, and pairs are resident on their territories year round.
+  conservation_status: Western Screech-Owls are difficult to survey because of their secretive nature. A limiting factor in their numbers is the available of suitable nest cavities. Urban development is a threat to habitat, although these owls will breed in the suburbs. The Washington Breeding Bird Survey has recorded a decline in numbers in recent years throughout the species' range, and declines have also been observed in southern British Columbia. There is speculation that predation from the expanding population of Barred Owls, recent arrivals in some areas, is a factor. Across America, Christmas Bird Counts have shown an increase in numbers, but this may be due to increased observer effort rather than an actual increase in population.
+  when_where_wa: Western Screech-Owls are fairly common at low to moderate elevations both east and west of the Cascades. They are absent from most of the central Columbia basin. They can be difficult to observe but will respond to playback tapes. They can be found in Lincoln and Schmitz Parks in West Seattle (King County), at Chuckanut Mountain (Whatcom County), at Rainbow Falls State Park (Lewis County), at Wenas Creek (Yakima County), and at Fish Hook Park (Walla Walla County).
+photos:
+- file: weso_gt_l.jpg
+  caption: ''
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: weso2_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: WESO01.mp3
+  credit: null
+maps:
+  wa: otke.jpg
+  north_america: wesomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, U, U, U, U, U, U, U]
+  puget_trough: [U, U, U, U, U, U, U, U, U, U, U, U]
+  north_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  west_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  east_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  okanogan: [R, R, R, R, R, R, R, R, R, R, R, R]
+  canadian_rockies: [R, R, R, R, R, R, R, R, R, R, R, R]
+  blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
+  columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
+taxonomy:
+  ebird_code: wesowl1
+  current_common_name: Western Screech-Owl
+  current_scientific_name: Megascops kennicottii
+  clements_sort: 8855
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/western_screech-owl
+  archived: '2026-09-12'

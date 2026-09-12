@@ -1,0 +1,67 @@
+slug: ferruginous_hawk
+common_name: Ferruginous Hawk
+scientific_name: Buteo regalis
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Accipitridae
+  slug: accipitridae
+status: Uncommon summer resident east.
+species_of_concern: true
+sections:
+  general_description: The Ferruginous Hawk, generally seen in eastern Washington, is the largest of Washington's hawks. This hawk can be seen soaring with its wings in a shallow dihedral. The Ferruginous Hawk has a light and a dark color phase. The dark phase is less common; 25% of the birds nesting near Hanford are the dark phase. The light-phase adult has a rufous back, gray and white wings, and a light rufous tail with white at the base. The head is streaked with light gray. The breast and belly are solid white, contrasting sharply with the rufous feathering on the legs. The flight feathers appear mostly white from below, the interiors of the wings are rufous and white, and the tail is white. Light-phase juveniles have similar patterning although the rufous color is a duller brown. Juveniles are lighter underneath overall and do not have the dark leg-feathering of adults. Dark phase birds are dark overall, except for the white feathers on the wings and tail.
+  habitat: Ferruginous Hawks inhabit dry, open country of the plains, prairies, grassland, shrub-steppe, and deserts, especially in those areas with native bunchgrasses. Compared to the Swainson's Hawk, another raptor of the prairies, the Ferruginous Hawk occurs in drier habitat and is more likely to nest on utility towers, nest platforms, or cliff ledges. They winter in open areas as well, especially in agricultural fields.
+  behavior: Various techniques are used for hunting, including soaring, hovering over open areas, and watching from a perch. The hawks also capture prey by waiting on the ground at burrow entrances, sometimes in groups. In courtship, both sexes soar in a circular pattern at high altitudes, during which time the male dives and ascends in a sky dance accompanied by loud vocalizations. The pair may grasp beaks, interlocking talons while spiraling toward the ground.
+  diet: Ferruginous Hawks' prey consists primarily of squirrels, jackrabbits, pocket gophers, (and in some states, prairie dogs). They will feed on snakes and other small animals, if available.
+  nesting: Nests are generally on the ground, on rock outcrops or cliff faces, in trees, or on utility towers or nest platforms. Both members of the monogamous pair help build the nest; the male collects nesting material and the female arranges it in the nest. Outside of Washington, Ferruginous Hawk nests historically included bison bones and were lined with bison dung and hair. Now they are made mostly of sticks and lined with a variety of material, including cow dung. Nests are often reused and added to from year to year. The female incubates the 2 to 4 eggs for 32 to 33 days. The male brings food to the female and may help incubate the eggs. The female broods the young for about three weeks. The male brings food to the nest, and the female tears it up and feeds it to the young. The young begin to fly at 40 to 50 days. They usually depend on their parents for food for another few weeks but rarely return to the nest.
+  migration_status: The Washington population of Ferruginous Hawks is migratory, with the majority of birds leaving, although some may stay. They return by early March, and adults may leave as early as July. Juveniles may stay until August. Some birds fly east to the eastern front of the Rockies to exploit ground squirrel populations before moving on to the southern Plains states or California. A joint study by the Washington Department of Fish and Wildlife and the Woodland Park Zoo is currently under way to track Ferruginous Hawks by satellite in order to better understand their migration routes.
+  conservation_status: Ferruginous Hawks have declined in recent years across North America, including in Washington, which is at the extreme western edge of the range. They are listed by the federal government as a species of concern and by the state of Washington as threatened; they are included on both the Audubon~Washington and Washington Gap Analysis at-risk lists. Threats to the population in Washington include increased human disturbance and habitat destruction, as shrub-steppe is one of the most threatened ecosystems in Washington at this time. The Conservation Reserve Program and other shrub-steppe conservation programs may help protect and restore habitat for Ferruginous Hawks. The Washington Department of Fish and Wildlife has constructed nest platforms to facilitate nesting, although more than this may be needed to protect the estimated 4,000 pairs range-wide, with fewer than 50 pairs remaining in Washington.
+  when_where_wa: Uncommon in Washington, Ferruginous Hawks occur in the greatest concentration in Franklin and Benton Counties. They are also seen rarely in other areas of the shrub-steppe zone. They are generally seen from mid-March through August, but are occasionally spotted in the winter in the lower Columbia Basin.
+photos:
+- file: feha_tg_l.jpg
+  caption: Adult
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: feha_jfl_gl_l.jpg
+  caption: Juvenile Ferruginous Hawk, light morph
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: feha_fl_tg_l.jpg
+  caption: Adult
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: FEHA01.mp3
+  credit: null
+maps:
+  wa: bure.jpg
+  north_america: fehamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', R, R, R, R, R, R, '', '', '', '']
+  columbia_plateau: [R, R, U, U, U, U, U, R, R, R, R, R]
+taxonomy:
+  ebird_code: ferhaw
+  current_common_name: Ferruginous Hawk
+  current_scientific_name: Buteo regalis
+  clements_sort: 8535
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/ferruginous_hawk
+  archived: '2026-09-12'

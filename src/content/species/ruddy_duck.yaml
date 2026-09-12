@@ -1,0 +1,91 @@
+slug: ruddy_duck
+common_name: Ruddy Duck
+scientific_name: Oxyura jamaicensis
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common winter. Fairly common breeder.
+species_of_concern: false
+sections:
+  general_description: The Ruddy Duck is Washington's only representative of the stiff-tail ducks, known for holding their spiky tails up in the air. They have large, flat bills, small wings, and feet set far back on the body. The male Ruddy Duck is cinnamon in color overall with a black head, large, white cheek-patch, and bright blue bill. The male in non-breeding plumage has a mottled gray body and gray bill. The markings on the head are similar to those of breeding plumage. The female is mottled gray overall with black on the top of her head and a dark, horizontal line that bisects her white cheek. Her bill is gray. The juvenile is similar to the female, but the black on its face is less pronounced.
+  habitat: In winter, Ruddy Ducks inhabit shallow, protected, saltwater bays and estuaries along the coast or ice-free, inland lakes and ponds. Breeding habitat is freshwater marshes and ponds with marshy borders mixed with open water.
+  behavior: Ruddy Ducks are often found in tight flocks. They forage by diving under water and straining mud through their bills to find food. Like many small-winged ducks, Ruddy Ducks must get a running start across the water to become airborne.
+  diet: Seeds and tubers from aquatic vegetation are a main staple of the Ruddy Duck's diet. Aquatic insect larvae are especially favored during the breeding season. Mollusks, crustaceans, and some small fish are also eaten.
+  nesting: Pairs form after the birds have arrived on the breeding grounds. Nests are situated in dense marsh vegetation. The female builds a platform of grasses and cattails, lines it with down, and anchors it to emergent vegetation a few inches above the water. Many nests are concealed by vegetation pulled over the nest, which gives them a basket-shaped appearance. Sometimes the nest is built on top of an old muskrat house or bird's nest. The female lays 5 to 10 eggs (usually 8), and commonly lays eggs in the nests of other Ruddy Ducks or another species. The female incubates the eggs for 22 to 26 days. Within a day after hatching, the young leave the nest and can swim and dive well. They are tended by the female, but feed themselves. They first fly at 42 to 49 days.
+  migration_status: Migration is drawn out over a long period in both spring and fall. The spring migration begins in late February, and continues through May. Males undergo a molt migration in July away from the breeding grounds before they head to the wintering grounds. The fall migration lasts from late August to November.
+  conservation_status: The current population of Ruddy Ducks is apparently much lower than historical levels, mostly due to unrestricted hunting at the beginning of the 20th Century and to loss of nesting habitat. Christmas Bird Count data show a slight decline in Washington.
+  when_where_wa: Ruddy Ducks are common in the summer at lower elevations in much of eastern Washington. Ruddy Ducks breed from the central Columbia Basin east through the Palouse and north along major river valleys in all the northern counties of eastern Washington. They are absent as a breeder west of the Columbia River in Chelan and Kittitas Counties as well as throughout most of western Yakima and Klickitat Counties. In western Washington, Ruddy Ducks breed uncommonly in the Puget Trough in King and Pierce Counties. They are abundant throughout the winter on open water. They are most common in the Strait of Juan de Fuca and Puget Sound, at major river estuaries, and locally along the Columbia River.
+photos:
+- file: rudu_f_gth_l.jpg
+  caption: 'Female. Note: rufous flanks and small spot on gorget.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rudu_f_lb_l.jpg
+  caption: Female
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: rudu_m_dp_l.jpg
+  caption: Male displaying.
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+- file: rudu_tg_l.jpg
+  caption: Male, summer/breeding plumage
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: rudu_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: rudu_w_tg_l.jpg
+  caption: Male, winter plumage
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: rudu_f_gl_l.jpg
+  caption: 'Female. Note: line on cheek.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: rudu.mp3
+  credit: null
+maps:
+  wa: oxja.jpg
+  north_america: rudumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, R, R, R, U, U, U, U]
+  puget_trough: [C, C, C, C, F, U, U, U, U, F, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [F, F, F, '', '', '', '', '', '', F, F, F]
+  east_cascades: [F, F, U, U, R, '', '', R, U, U, U, F]
+  okanogan: [U, U, U, C, C, C, C, C, C, C, U, U]
+  canadian_rockies: ['', '', U, F, F, F, F, F, F, U, '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [C, C, C, C, F, F, F, C, C, C, C, C]
+taxonomy:
+  ebird_code: rudduc
+  current_common_name: Ruddy Duck
+  current_scientific_name: Oxyura jamaicensis
+  clements_sort: 778
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/ruddy_duck
+  archived: '2026-09-12'

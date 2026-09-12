@@ -1,0 +1,59 @@
+slug: palm_warbler
+common_name: Palm Warbler
+scientific_name: Dendroica palmarum
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: Rare winter west. Casual migrant east.
+species_of_concern: false
+sections:
+  general_description: Palm Warblers are mostly brownish birds, with distinctive, yellow undertail coverts. They have small white corners on their tails that are visible in flight. Eastern birds are bright yellow below with rufous streaks on their breasts; western birds are lightly streaked and drabber in color. They have a dark eye-line through each eye. Adults in breeding plumage have rufous crowns and yellow throats.
+  habitat: Palm Warblers breed on the edges of boreal-forest bogs. During migration, when they are seen in Washington, they are usually found in hedgerows, thickets, and other edge habitats along the coast, often frequenting thickets of non-native Scots broom.
+  behavior: Outside of the breeding season, especially during migration, Palm Warblers may join mixed flocks. They are usually found fairly low, in the understory or on the ground. The almost constantly bobbing tail is an excellent field mark.
+  diet: Palm Warblers eat mostly insects and also some berries.
+  nesting: Monogamous pairs typically nest on or near the ground. Nests off the ground are often located close to the trunk of small spruces. The female builds an open cup of grass and bark, and lines it with feathers. The nest is usually concealed by a clump of grass or sphagnum moss hummock. Both members of a pair may help incubate 4 to 5 eggs for about 12 days. They both feed the young. The young typically fledge at about 12 days and can fly short distances within a few days of fledging. Pairs generally raise two broods each year.
+  migration_status: Palm Warblers migrate from their breeding grounds in northern Canada to their wintering grounds in the southeastern United States. It is during fall migration and early winter that they are most likely to be found in Washington.
+  conservation_status: Numbers appear to be stable. There are currently no major threats to Palm Warblers' habitats as most of their breeding range is remote, and they often winter in open and disturbed areas. They are fairly common within their normal range.
+  when_where_wa: Palm Warblers are rare visitors in western Washington, mostly during the fall, where they are uncommon on the outer coast, especially near Ocean Shores (Grays Harbor County). They are considerably more rare in Puget Sound, although one Palm Warbler wintered at the Union Bay Natural Area in Seattle (King County) in 2001.
+photos:
+- file: pawa_w_gl_l.jpg
+  caption: 'Nonbreeding. Note: long supercilium, dark eye line, and yellow undertail coverts.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: pawa_gl_l.jpg
+  caption: 'Breeding. Note: rufous crown as well as yellow throat and undertail coverts.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: depa.jpg
+  north_america: pawamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, R, '', '', '', '', R, R, R, R]
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: palwar
+  current_common_name: Palm Warbler
+  current_scientific_name: Setophaga palmarum
+  clements_sort: 34148
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/palm_warbler
+  archived: '2026-09-12'

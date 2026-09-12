@@ -1,0 +1,61 @@
+slug: western_flycatcher
+common_name: Western Flycatcher
+scientific_name: Empidonax difficilis
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Tyrannidae
+  slug: tyrannidae
+status: Common summer west. Fairly common east.
+species_of_concern: true
+sections:
+  general_description: The Western Flycatcher is yellowish underneath, with the yellow extending up to the throat. It has a broad bill, and its lower mandible is yellow. The white eye-ring extends to the back in a teardrop shape. The juvenile has two buffy wing-bars that change to white as it matures. These features are distinctive, as is its voice, making separation from other Empidonax species in its range relatively easy.
+  habitat: The habitat of Western Flycatchers includes both deciduous and mixed deciduous-coniferous forests. These birds are generally found in the sub-canopy of heavy, wet forest. Streamsides and shady areas with shrubby understory are often used. Along the outer coast, they are the only Empidonax flycatchers commonly found in the dense, wet rain forest of this region.
+  behavior: The Western Flycatcher generally watches from a perch in the lower or middle canopy, and flies out to catch prey in the air. It also hovers in front of foliage or twigs and gleans prey from their surfaces. This species can be very hard to see, but can be found readily once its call is known--a distinct, upslurred suweet, or a high, thin tseep.
+  diet: Western Flycatchers eat mostly flying insects as well as some crawling insects.
+  nesting: Western Flycatchers usually select natural sites such as trees for nesting. Very occasionally they nest under man-made bridges or eaves. Nests usually have some sort of shelter from above. Natural nesting sites include tree stumps and upturned tree roots, which are typically closer to the ground than nests on man-made objects. The female builds the nest of moss, grass, rootlets, bark, and lichen, and lines it with hair and feathers. She usually incubates three to four eggs for 14 to 15 days. Both parents feed the young, which leave the nest at about 15 days. The young stay near the nest for a few days after fledging.
+  migration_status: These medium-distance migrants arrive in Washington in late April or early May. Most birds leave in late July and early August; however, some stay into mid-September. They head to the lowlands of western and southern Mexico for the winter.
+  conservation_status: The Western Flycatcher is listed on the Audubon Washington watch list. The Breeding Bird Survey has recorded a significant decline in Washington from 1980-2000. While man-made structures may add potential nesting sites, logging and clearing underbrush degrades the habitat.
+  when_where_wa: Western Flycatchers are common throughout their Washington range. They breed in forests from low to moderate elevations throughout Washington, including streamside forests in the steppe zone of eastern Washington. Cordilleran Flycatchers, or intergrades between the two, may breed in coniferous forests in the Blue Mountains of southeastern Washington.
+photos:
+- file: psfl_tg_l.jpg
+  caption: 'Note: eye ring tapers to back of head.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: psfl_jh_l.jpg
+  caption: 'Note: slight crest.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: PSFL01.mp3
+  credit: null
+maps:
+  wa: emdi.jpg
+  north_america: psflmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', U, F, F, F, U, R, '', '', '']
+  puget_trough: ['', '', '', U, C, C, C, F, U, '', '', '']
+  north_cascades: ['', '', '', U, C, C, C, C, U, '', '', '']
+  west_cascades: ['', '', '', U, C, C, C, F, U, '', '', '']
+  east_cascades: ['', '', '', R, U, U, U, U, R, '', '', '']
+  okanogan: ['', '', '', '', F, F, F, F, '', '', '', '']
+  canadian_rockies: ['', '', '', '', U, U, U, U, '', '', '', '']
+  blue_mountains: ['', '', '', '', F, F, F, F, U, '', '', '']
+  columbia_plateau: ['', '', '', '', U, U, U, U, U, '', '', '']
+taxonomy:
+  ebird_code: wesfly
+  current_common_name: Western Flycatcher
+  current_scientific_name: Empidonax difficilis
+  clements_sort: 16975
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/western_flycatcher
+  archived: '2026-09-12'

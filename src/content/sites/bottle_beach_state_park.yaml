@@ -1,0 +1,31 @@
+slug: bottle_beach_state_park
+name: Bottle Beach State Park
+number: 101
+ecoregions:
+- pacific_northwest_coast
+sections:
+  site: |-
+    Bottle Beach State Park is a 3/4-mile stretch of waterfront along the South Bay of Grays Harbor, in the Pacific Northwest Coast Ecoregion. The park is the nucleus of 1,800 acres of tideflats and adjoining terrestrial habitats that make up the Bottle Beach Important Bird Area. Grays Harbor as a whole has been designated as a Hemispheric Reserve in the Western Hemisphere Shorebird Reserve Network.
+
+    Bottle Beach has an interesting history. The site was platted as the town of Ocosta in 1889, when the railroad designated Ocosta as their coastal terminus for shipments to the Orient and San Francisco. In 1894, when the terminus was relocated in Tacoma, Ocosta's population began to dwindle. Today, all that remains of this town is a Victorian mansion, pilings of the old dock, and the brick foundation of the railroad turntable (still visible along the beach). Horses and geese now feed in the fields that once housed the town of Ocosta.
+
+    The 75-acre day-use park offers a parking area, rest rooms, interpretive panels, trails, and viewing blinds.
+  birds: |-
+    Bottle Beach's extensive mudflats are great for spring migrating shorebirds such as Western and Least Sandpipers, Dunlin, and Semipalmated Plovers. This is the best place in Washington to find Red Knots in spring. Fall shorebirds include Black-bellied Plovers, Pacific and American Golden-Plovers, Whimbrels, Marbled Godwits, and Short-billed and Long-billed Dowitchers. Shorebird viewing is best an hour and a half before and after high tide, when the shorebirds are concentrated close to shore.
+
+    The spruce woods on the east edge of the park are worth investigation. Check the willow thickets for migrant passerines and the nearby freshwater marshes for Virginia Rails and migrating Lincoln's Sparrows. This state park hosts over 130 species of birds. Check the wetlands south of the highway along Ocosta Third Avenue for sparrows, ducks, rails, and blackbirds.
+  directions: From I-5, take exit 104 in Olympia and go west on US-101 to SR-8. Stay on SR-8 to US-12 (west), following signs to Aberdeen and Hoquiam. Take SR-105 west from Aberdeen. Watch for the park entrance signs on your right between mileposts 34 and 35. A boardwalk leads from the parking area to the beach.
+photos:
+- file: site_Bottle_Beach.jpg
+  caption: ''
+  credit:
+    name: Hal Opperman
+    url: null
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/bottle_beach_state_park/2
+  archived: '2026-09-12'

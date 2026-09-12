@@ -1,0 +1,67 @@
+slug: american_three-toed_woodpecker
+common_name: American Three-toed Woodpecker
+scientific_name: Picoides dorsalis
+order:
+  name: Piciformes
+  slug: piciformes
+family:
+  name: Picidae
+  slug: picidae
+status: Uncommon resident, mostly east.
+species_of_concern: false
+sections:
+  general_description: American Three-toed Woodpeckers have black and white barred backs, black wings, white breasts, black and white barred flanks, black tails with white outer tail feathers, and black heads with white moustchial and (usually) post-ocular stripes. Males have yellow crown-patches. As their name asserts, they have three rather than four toes on each foot. They can be distinguished from Black-backed Woodpeckers by the barring on their backs and by their slightly smaller size. Their foreheads are also speckled with white rather than being all black like those of Black-backed Woodpeckers, and their white moustachial stripes and yellow crown-patches are less clearly defined.
+  habitat: American Three-toed Woodpeckers breed in mature or old-growth boreal conifer forests, especially spruce, larch, fir, and pine. In North America they breed farther north than any other woodpecker, and in Washington they can be found at elevations from about 4,000 feet up to the tree line. They will come down lower to burned and flooded areas with standing dead trees and to other areas undergoing heavy infestations of wood-boring beetles. Their range and habitat overlap with those of Black-backed Woodpeckers, but they generally prefer denser forests.
+  behavior: American Three-toed Woodpeckers are not wary of humans, but they are also quiet and inconspicuous and can be difficult to see. They often perch against tree trunks, and are usually solitary, although pairs may forage together. They tend to forage higher on the trunk than Black-backed Woodpeckers, but like Black-backed Woodpeckers, they scale the bark off dead and dying trees while foraging, a behavior that often reveals their presence in an area.
+  diet: Bark beetle larvae, especially spruce bark beetles, are the most common prey of the American Three-toed Woodpecker. They also eat other insects and some fruit, and they visit sapsucker wells to feed on the sap.
+  nesting: American Three-toed Woodpeckers form monogamous pairs and may stay together for more than one season. Both members of the pair excavate a new nest cavity in a dead tree or branch every year. The nest is lined with woodchips from the excavation, but the woodpeckers do not add any other lining. Both sexes typically incubate the 4 eggs for 12 to 14 days and brood the young continuously for the first 4 days after they hatch. Both feed the young, which leave the nest after 22 to 26 days. The parents may divide the brood, each taking half tend for another 4 to 8 weeks. Typically they raise only a single brood each year.
+  migration_status: Although resident in many areas, with no regular latitudinal migration, American Three-toed Woodpeckers are somewhat nomadic and may move into areas after fires or insect outbreaks, although they are less responsive to fires than Black-backed Woodpeckers. There is also some evidence of winter withdrawal into the lowlands.
+  conservation_status: American Three-toed Woodpeckers are uncommon and local. Their inconspicuous nature, relatively small numbers, and irruptive behavior make it difficult to monitor the population. The quantity and distribution of mature and old-growth forests probably limit their numbers, and data suggest that North American populations are declining, probably because of fire suppression and logging practices that do not leave the diseased and dying timber that hosts their main food source.
+  when_where_wa: American Three-toed Woodpeckers are uncommon to rare permanent residents in Washington's mountainous conifer forests from the Cascade crest east. Some good places to look for this hard-to-find species are in the silver-fir forests on either side of Highway 12 at White Pass (Lewis County), in the Thunder Mountain burn (Okanogan County), Springs Campground (Okanogan County), Sherman Pass (Ferry County), Hart's Pass (Okanogan County), Colockum Pass (Kittitas County), and Fields Spring State Park (Asotin County).
+photos:
+- file: attw_fl_gth_l.jpg
+  caption: 'Note: barred back and unmarked outer tail feathers'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: attw_m_gth_l.jpg
+  caption: 'Male. Note: yellow on head'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: attw_f_gl_l.jpg
+  caption: 'Female. Note: lack of yellow (of male), speckled forecrown, and narrow white supercilium.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: ttwo.mp3
+  credit: null
+maps:
+  wa: pitr.jpg
+  north_america: ttwomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  west_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  east_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: [U, U, U, U, U, U, U, U, U, U, U, U]
+  blue_mountains: [R, R, R, R, R, R, R, R, R, R, R, R]
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: attwoo1
+  current_common_name: American Three-toed Woodpecker
+  current_scientific_name: Picoides dorsalis
+  clements_sort: 11216
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/american_three-toed_woodpecker
+  archived: '2026-09-12'

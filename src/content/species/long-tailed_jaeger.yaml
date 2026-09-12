@@ -1,0 +1,73 @@
+slug: long-tailed_jaeger
+common_name: Long-tailed Jaeger
+scientific_name: Stercorarius longicaudus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Stercorariidae
+  slug: stercorariidae
+status: Uncommon pelagic migrant.
+species_of_concern: false
+sections:
+  general_description: The Long-tailed Jaeger is the smallest jaeger, with a slender body and narrow wings. During the breeding season, the adult has long central tail feathers that extend 5-10" beyond the rest of the tail, but from August to November, these are often broken or missing. The breeding adult has grayish upperparts contrasting with darker secondaries, a whitish head and underparts, a blackish-brown cap, and a yellow cast to the sides of its neck. The underwing lacks a white patch. Dark phases are very rare in adults. The non-breeding adult (November to March) has a cap flecked with white and gray, and underparts (except the wing) barred with brown and white. It lacks long central tail feathers. Juveniles and immatures have both light and dark phases, but light is more common. In general, they have brown and white barring on underwing coverts, flanks, and uppertail and undertail coverts. In other parts of the world, jaegers are known as skuas.
+  habitat: Breeding birds are found both near the coast and farther inland on sparsely vegetated, dry Arctic tundra. At other times of the year, Long-tailed Jaegers are highly pelagic, usually at least ten miles from land. They often spend time on offshore banks, in areas with schools of small fish near the surface, and near commercial fishing vessels.
+  behavior: Although Long-tailed Jaegers usually migrate singly over the open ocean, small numbers may congregate around fishing vessels during the non-breeding season. They often hunt rodents by hovering like kestrels and swooping down on them. They will steal prey from other seabirds, but not as frequently as Parasitic and Pomarine Jaegers. Long-tailed Jaegers are the most agile and graceful of the jaegers, and the least aggressive. On their breeding grounds, pairs advertise and defend large territories with a variety of aerial displays. The Long-tailed Jaeger is generally silent away from breeding grounds.
+  diet: Little is known about their diet at sea, but it includes fish, crustaceans, and polychaete worms. During the breeding season, they eat mostly lemmings and voles.
+  nesting: Long-tailed Jaegers for monogamous long-term pair bonds. Both sexes build the nest, a shallow depression often on a slightly raised area. They are limited to 2 eggs because, while incubating, they hold an egg between one foot and its corresponding brood patch. Females incubate more than males. Chicks stay in the nest 1-2 days after hatching. One parent, usually the female, remains near the nest while the other one forages. Typically, the male brings food back, regurgitates, and the female feeds the young. Young often remain with their parents for 1-3 weeks after fledging, which occurs at 22-27 days.
+  migration_status: Long-tailed Jaegers are found off the Washington coast during fall migration from July to October. They are rare in spring migration. Peak migration is in August and September. They breed in Arctic Alaska, Canada, and Greenland, and winter at sea south of the Equator. They begin arriving on breeding grounds the last week of May or first week of June.
+  conservation_status: The Long-tailed Jaeger is the most abundant and widespread jaeger in the Arctic. Although local breeding populations fluctuate with the food supply, overall numbers appear stable.
+  when_where_wa: Long-tailed Jaegers are usually more than ten miles from land, so an offshore boat trip is usually necessary to find them. However, they are occasionally seen from land, particularly at Point No Point (Kitsap County), or at spots along the outer coast.
+photos:
+- file: ltja_gt_l.jpg
+  caption: Adult breeding (lack barred undertail coverts).
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: ltja_fl_jp_l.jpg
+  caption: Adult breeding (lack barred undertail coverts). Long central tail feathers diagnostic.
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: ltja_jfl_jp_l.jpg
+  caption: 'Juvenile, light morph. Note: pale head, 2-3 white shafts on upper primaries, and barred underwing coverts.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: ltja_jfl2_tg_l.jpg
+  caption: Juvenile, intermediate morph
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: ltja.mp3
+  credit: null
+maps:
+  wa: stlo.jpg
+  north_america: ltjamap.gif
+abundance:
+  oceanic: ['', '', '', '', R, '', U, F, U, R, '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: lotjae
+  current_common_name: Long-tailed Jaeger
+  current_scientific_name: Stercorarius longicaudus
+  clements_sort: 6358
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/long-tailed_jaeger
+  archived: '2026-09-12'

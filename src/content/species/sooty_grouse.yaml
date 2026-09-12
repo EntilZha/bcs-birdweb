@@ -1,0 +1,79 @@
+slug: sooty_grouse
+common_name: Sooty Grouse
+scientific_name: Dendragapus fuliginosus
+order:
+  name: Galliformes
+  slug: galliformes
+family:
+  name: Phasianidae
+  slug: phasianidae
+status: Fairly common resident.
+species_of_concern: true
+sections:
+  general_description: 'In 2006, the American Ornithologists’ Union split the species formerly known as Blue Grouse into two species: Dusky Grouse and Sooty Grouse. The two new species are the same size and resemble one another closely. In Washington, separating them can be challenging in the zone where their ranges meet on the east slope of the north Cascades (see below). The most useful field mark for the male Sooty is the broad gray terminal band on the dark tail; the male Dusky’s tail is all-dark with no more than a touch of gray at the very tips of the tail feathers. The air sacs on the male’s neck, visible when expanded in display, are yellow in Sooty and purplish-red in Dusky. Females of the two species are nearly impossible to separate in the field, although Sooty females are slightly darker and more uniformly brown (less gray) on average.'
+  habitat: In the breeding season, Sooty Grouse of the coastal population (subspecies *D.f. fuliginosus*) inhabit wet conifer forest from sea level to the subalpine and alpine zones at openings and edges that provide a well-developed understory vegetation of grasses, herbs, and shrubs. The population along the east slope of the south Cascades (subspecies *D.f. sierrae*) inhabits generally drier forests similar to those utilized by Dusky Grouse. Both populations winter in dense conifer stands, often at a higher elevation than their breeding habitat.
+  behavior: Sooty Grouse are usually found singly, not in flocks (except for hens with young), and are generally fairly wary. Males typically sing from high up in a coniferous tree, perched on a branch next to the trunk. The song, which is both louder and higher-pitched than that of Dusky Grouse, is a series of six deep-toned hoots that can carry as much as half a mile. To attract females, males also strut with tails raised and fanned, and neck feathers spread, revealing patches of bright skin.
+  diet: In summer, Sooty Grouse feed on the ground on leaves, flowers, buds, berries, conifer needles, and insects. In winter, they forage in trees for needles of pines, firs, and other conifers. In the western Cascades, 60 percent of their diet is made up of fir and Douglas-fir needles. Young birds eat mostly insects, especially in the first 10 days of life.
+  nesting: Females provide all parental care. Nests are a shallow scrape in the ground, sometimes with little or no cover, sparsely lined with dead twigs, needles, leaves, and feathers. Females lay and incubate 1–12 (normally 4–9) buffy, lightly speckled eggs. The young leave the nest within a day after hatching. Females tend the young, but do not feed them.
+  migration_status: During late summer and early autumn, many Sooty Grouse move from open breeding areas to dense conifer forests at higher elevations; this altitudinal migration is typically a short distance, but can be as much as 30 miles, much of which is undertaken on foot. Birds leave their breeding grounds by October and return by early April. However, populations in mature forests near the coast may winter on their breeding territories.
+  conservation_status: The Sooty Grouse’s rugged, mountainous habitat has helped protect it, although it is still vulnerable to habitat alteration and loss. It is popular as a game bird, but surveys indicate that hunting has had little permanent impact on population levels. Fall migration into dense forest may be a factor in reducing hunting mortality. Logging of coastal forests typically results in a boom-and-bust cycle of Sooty Grouse populations, with explosive increases after clear-cutting followed by steep declines as the replacement forest closes its canopy. Sooty Grouse do much less well in even-aged tree farms compared with old-growth forest. Sooty Grouse still occupy most of their original range, although they once inhabited the Puget Trough from Seattle to Portland. Deforestation for development and agriculture has eliminated habitat for Sooty Grouse in this area.
+  when_where_wa: Sooty Grouse are fairly common in mixed and coniferous forests at all elevations throughout their range, with the exception of the Puget lowlands where they are now only found locally in forested foothills as well as in the remnant forests and grasslands near Fort Lewis (Pierce County). Two subspecies of Sooty Grouse are found in Washington. The range of the interior subspecies *(D.f. sierrae)* lies along the east slopes of the south Cascades in southern Kittitas, Yakima, and Klickitat counties, from the crest down to the edge of the shrub-steppe zone. The range of the coastal subspecies *(D.f. fuliginosa)* is west of the Cascade crest, spilling across onto the upper east slopes of the north Cascades in Okanogan, Chelan, and northern Kittitas counties where it meets the range of Dusky Grouse in a substantial but poorly understood zone of overlap. Most birds in the wetter, higher-elevation forests are Sooty Grouse, while most of those farther downslope in drier, more open forest, grassland, and shrub-steppe are Dusky Grouse. However, many birds in this ill-defined transition zone show hybrid characteristics.
+photos:
+- file: sogr_ms_l.jpg
+  caption: ''
+  credit:
+    name: Mike Schroeder
+    url: null
+  hero: false
+- file: sogr_f_jh_l.jpg
+  caption: Female
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: sogr_j_jh_l.jpg
+  caption: Chick
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: sogr_f_gth1_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: sogr_j_gth1_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio:
+  file: sogr.mp3
+  credit: null
+maps:
+  wa: defu.jpg
+  north_america: sogrmap.jpg
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, F, F, F, F, F, F, F, F, F]
+  puget_trough: [U, U, U, U, U, U, U, U, U, U, U, U]
+  north_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: soogro1
+  current_common_name: Sooty Grouse
+  current_scientific_name: Dendragapus fuliginosus
+  clements_sort: 1320
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/sooty_grouse
+  archived: '2026-09-12'

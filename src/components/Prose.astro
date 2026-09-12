@@ -1,0 +1,46 @@
+---
+/**
+ * Render the extracted account prose.
+ *
+ * The extractor emits Markdown-ish text: paragraphs separated by blank lines, with `*em*`
+ * and `[text](url)` preserved because the volunteer authors used italics deliberately for
+ * scientific names. This handles exactly that subset rather than pulling in a Markdown
+ * library for four constructs -- and it escapes first, so nothing in the 2005 content can
+ * inject markup.
+ */
+interface Props {
+  text: string;
+  class?: string;
+}
+
+const { text, class: className = "" } = Astro.props;
+
+function escapeHtml(value: string): string {
+  return value
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+function renderInline(value: string): string {
+  let out = escapeHtml(value);
+  // Links first: their label may itself contain emphasis markers.
+  out = out.replace(
+    /\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g,
+    '<a href="$2" target="_blank" rel="noopener" class="text-brand underline decoration-sage underline-offset-2 hover:decoration-brand">$1</a>',
+  );
+  out = out.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+  out = out.replace(/\*([^*]+)\*/g, "<em>$1</em>");
+  return out;
+}
+
+const paragraphs = text
+  .split(/\n{2,}/)
+  .map((p) => p.trim())
+  .filter(Boolean);
+---
+
+<div class:list={["space-y-3 text-[0.9375rem] leading-relaxed text-black/85", className]}>
+  {paragraphs.map((paragraph) => <p set:html={renderInline(paragraph)} />)}
+</div>

@@ -1,0 +1,71 @@
+slug: stellers_eider
+common_name: Steller's Eider
+scientific_name: Polysticta stelleri
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: |-
+    The smallest of the four eider species, Steller’s Eider breeds on tundra along the Arctic Ocean and Bering Sea in Siberia and Alaska, and winters on ice-free rocky seacoasts southward to the Kuril Islands, Kamchatka, the Aleutian Islands, and the Alaska Peninsula. With its body boldly patterned in black, white, and buffy, and its white head with green and black markings, the fancy male in breeding plumage is unmistakable. In all other plumages, however, Steller’s Eider looks rather like a small, plain, dark-brown dabbling duck. The best clues to its identity are its short neck and flat-topped head. Unlike the other eider species, it has no feathering on the bill.
+
+    This seaduck is a very rare vagrant down the coast on both sides of the Pacific. The first Washington record was of a bird that spent the winter of 1986–1987 at Port Townsend (Jefferson County). Another stayed for several days at the Walla Walla River mouth (Walla Walla County) in September 1995, providing Washington’s only other accepted record. Oregon has a single record, California three, and Steller’s Eider has been seen four times in British Columbia.
+
+    The Alaska breeding population of Steller’s Eider was listed as Threatened under the Endangered Species Act in 1997.
+
+    *Revised June 2007*
+photos:
+- file: stei_m_do_l.jpg
+  caption: Male
+  credit:
+    name: Daniele Occhiato
+    url: http://www.pbase.com/dophoto
+  hero: false
+- file: stei_mf_do_l.jpg
+  caption: Female (front) with two males
+  credit:
+    name: Daniele Occhiato
+    url: http://www.pbase.com/dophoto
+  hero: false
+- file: stei_gt_l.jpg
+  caption: 'Breeding plumage. Note: stout gray bill.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: stei_fl_gt_l.jpg
+  caption: Breeding plumage
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: steimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: steeid
+  current_common_name: Steller's Eider
+  current_scientific_name: Polysticta stelleri
+  clements_sort: 710
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/stellers_eider
+  archived: '2026-09-12'

@@ -1,0 +1,67 @@
+slug: red-breasted_nuthatch
+common_name: Red-breasted Nuthatch
+scientific_name: Sitta canadensis
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Sittidae
+  slug: sittidae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: The Red-breasted Nuthatch is a compact bird with rufous undersides and slate upperparts. It has long, strong toes and claws, and a long, solid bill. This nuthatch has a white chin, black eyeline, and white line above the eye-line, in addition to a narrow, dark cap at the top of the head. The cap is black in males. Females have gray caps and a slightly lighter rufous color on the undersides. The white markings on either side of the short tail can be seen in flight in both sexes.
+  habitat: Red-breasted Nuthatches typically prefer mature, wet, coniferous forests with closed canopies, especially those of spruce or fir. They can also be found in more open forests and patches of smaller trees.
+  behavior: Like other nuthatches, Red-breasted Nuthatches use their strong legs and claws to walk up, down, and sideways on tree trunks, probing in the bark crevices for food. They readily come to seed and suet feeders and will cache food in crevices to return to later. Pishing and imitated Pygmy-Owl hooting, two typical attraction calls of birders, are very successful in bringing out Red-breasted Nuthatches. They are often the first species to respond, and will boldly come quite close to human observers.
+  diet: Insects and spiders are the main foods in the summer. During winter, Red-breasted Nuthatches eat many insects that they pry from food caches in bark crevices, but they also eat many seeds. In developed areas they have learned to eat suet and peanut butter mixes as well.
+  nesting: Red-breasted Nuthatches form monogamous pairs. They usually excavate their own cavities in a rotten snag, often aspen, and require fairly soft wood to excavate. They will occasionally use a natural cavity, old woodpecker hole, or artificial nest box. Both members of the pair create the nest hole, and the female builds the nest inside. The nest is a soft cup of grass, needles, bark fibers, moss, feathers, and hair. Both sexes coat the inside and outside of the nest hole entrance with pitch that may help keep predators and competitors away. They sometimes use a piece of bark to transport the pitch to the nest and then smear it on the entrance hole. They avoid the pitch by flying straight into the hole. The female incubates 5 to 8 eggs for 12 to 13 days. Both parents feed the young for 18 to 21 days on the nest, and for about two more weeks after they fledge. Second broods are rare within a single breeding season.
+  migration_status: Red-breasted Nuthatches are the only nuthatches that regularly migrate down-slope in winter. Thus many birds from mountainous nesting areas move into the lowlands for winter, migrating as far south and east as the Snake River, and even out of Washington. The numbers of birds migrating south for the winter varies considerably from year to year, depending on cone crop yields in the north. Canadian and Alaskan breeders also come into Washington during the winter.
+  conservation_status: Range-wide, Red-breasted Nuthatches have increased in population since 1966. In Washington, however, they have experienced a slight (non-significant) decline in the breeding season, although Christmas Bird Counts have recorded an increase in wintering populations. Red-breasted Nuthatches are limited by the availability of soft snags, softer than those suitable for woodpeckers. Many logging practices remove dead or diseased trees, especially those soft enough for Red-breasted Nuthatches to excavate.
+  when_where_wa: In Washington, Red-breasted Nuthatches are common in forested areas throughout the state, but are most abundant in old-growth and mature Douglas-fir forests with standing dead trees. They are less common in outer coastal forests, where they do not appear to breed. During winter, they can also be found in small groves of trees in the Columbia Basin.
+photos:
+- file: rbnu_jh_l.jpg
+  caption: 'Male. Note: deep orange breast and belly with orangish throat.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: rbnu_f_gl_l.jpg
+  caption: 'Female. Note: pale orangish breast and white throat.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: rbnu_ffl_tg_l.jpg
+  caption: In flight
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: rbnu1.mp3
+  credit: null
+maps:
+  wa: sitca.jpg
+  north_america: rbnumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [C, C, C, C, C, C, C, C, C, C, C, F]
+  blue_mountains: [C, C, C, C, C, C, C, C, C, C, C, C]
+  columbia_plateau: [U, U, U, F, U, R, R, U, F, U, U, U]
+taxonomy:
+  ebird_code: rebnut
+  current_common_name: Red-breasted Nuthatch
+  current_scientific_name: Sitta canadensis
+  clements_sort: 26937
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/red-breasted_nuthatch
+  archived: '2026-09-12'

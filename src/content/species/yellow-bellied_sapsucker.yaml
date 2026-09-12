@@ -1,0 +1,58 @@
+slug: yellow-bellied_sapsucker
+common_name: Yellow-bellied Sapsucker
+scientific_name: Sphyrapicus varius
+order:
+  name: Piciformes
+  slug: piciformes
+family:
+  name: Picidae
+  slug: picidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Accidental in winter east and west. Reports increasing.
+photos:
+- file: ybsa_f_gl_l.jpg
+  caption: 'Female. Note: white throat (compare to all red throat of male)'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: ybsa_gt_l.jpg
+  caption: 'Male. Note: red throat with complete black border and extensive barring on the back (compare to no black border and more constrained barring of Red-naped).'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: ybsa_j_gl_l.jpg
+  caption: Juvenile
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: spva.jpg
+  north_america: ybsamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: yebsap
+  current_common_name: Yellow-bellied Sapsucker
+  current_scientific_name: Sphyrapicus varius
+  clements_sort: 11126
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/yellow-bellied_sapsucker
+  archived: '2026-09-12'

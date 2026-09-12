@@ -1,0 +1,67 @@
+slug: marbled_godwit
+common_name: Marbled Godwit
+scientific_name: Limosa fedoa
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Uncommon migrant and winter coast. Rare east.
+species_of_concern: true
+sections:
+  general_description: Marbled Godwits are large shorebirds with slightly upturned bills. They are mottled brown with cinnamon underwings that are distinctive in flight. In winter, they are plain underneath, but during the breeding season they have dark barring on their breasts and bellies.
+  habitat: 'They nest in native prairie habitats: wet meadows and grassy areas near water. During migration and winter, they are coastal, foraging on mudflats, salt marshes, estuaries, and coastal pools.'
+  behavior: Marbled Godwits are commonly seen in flocks with Whimbrels and Long-billed Curlews, both large and brown like the Marbled Godwit. The Marbled Godwit moves slowly, probing for food under the mud with its sensitive bill. It often inserts its entire bill into the mud, and its head is totally submerged at times.
+  diet: In summer, Marbled Godwits eat insects, roots, and seeds. During migration, they may forage almost exclusively on tubers. In coastal areas, they eat mollusks, crustaceans, and other aquatic creatures that live in the sand and mud.
+  nesting: Marbled Godwits form loose colonies without obvious territorial boundaries. To attract a female, the male performs a high, circling flight display, followed by a steep dive. The male selects a nest site in a dry spot with short grass and starts a shallow scrape. If the female approves it, both will add grass, and sometimes a canopy of grass is arched over the nest. Both parents incubate the four eggs for 24 to 26 days. The young leave the nest soon after hatching and find their own food. Both parents protect and tend the young for the first 15 to 26 days, after which the female usually leaves. The male stays with the young until they can fly.
+  migration_status: Most Marbled Godwits winter in coastal California or Mexico, and some range as far as South America. They migrate in flocks, with juveniles following a few weeks behind the adults. Birds migrate south through Washington in late August through mid-September, and return to the breeding grounds in April through early May.
+  conservation_status: Marbled Godwits breed in Canada and the interior and north-central area of the United States. The Canadian Wildlife Service estimates the population at 171,500 birds. They were common in the 1800s, but were over-hunted in the early 1900s. Protection from hunting has helped the population rebound, but the destruction of grassland breeding habitat now limits the population.
+  when_where_wa: Marbled Godwits are most likely to be seen in protected estuaries along the outer coast, from Grays Harbor south, from April to early May, and from July into October. Birds seen later in the fall, from September to October, are usually juveniles. Large flocks often feed on the golf course in Ocean Shores (Grays Harbor County) in the spring. A flock also winters regularly at Tokeland in Willapa Bay (Pacific County). Other possible sites are Blaine (Whatcom County) and Sequim (Clallam County).
+photos:
+- file: mago_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: mago_ad2_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: mago_a_dp_l.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: mago.mp3
+  credit: null
+maps:
+  wa: life.jpg
+  north_america: magomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, U, R, U, C, C, C, C, C]
+  puget_trough: [R, R, R, R, '', '', R, R, R, R, R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', R, R, '', '', '']
+taxonomy:
+  ebird_code: margod
+  current_common_name: Marbled Godwit
+  current_scientific_name: Limosa fedoa
+  clements_sort: 6051
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/marbled_godwit
+  archived: '2026-09-12'

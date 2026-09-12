@@ -1,0 +1,87 @@
+slug: rosss_gull
+common_name: Ross's Gull
+scientific_name: Rhodostethia rosea
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: ''
+species_of_concern: true
+sections:
+  general_description: |-
+    A glamorous native of the high Arctic in the Old World, Ross’s Gull is rarely seen by North American birders except along the northern Alaska coast (where it occurs in fall migration) or at Churchill, Manitoba, where a small, isolated population was discovered nesting some years ago. A small gull—the size of a Bonaparte’s—it has a tiny, dark bill, pale gray upperparts, and underparts washed with pink in adults. In flight, the long, wedge-shaped tail and prominent white trailing edge of the wing are evident; the underwing usually appears darker than the upperwing. Consult a good field guide for separating immature plumages of Ross’s Gull and other small gull species.
+
+    Ross’s Gull has been recorded only about two dozen times in the Lower 48, from coast to coast and as far south as Maryland, Missouri, and California. Washington’s only Ross’s Gull visited McNary Dam on the Columbia River, on both the Oregon and Washington sides, from 27 November to 1 December 1994. Oregon had one previous record, at Yaquina Bay from 18 February to 1 March 1987. Idaho also has a single record, from 21 to 27 January 1998 at the American Falls Reservoir. The first Ross’s Gull to be found in temperate North America visited Victoria, British Columbia, from 27 October to 9 November 1966. This is still the only record for the province.
+
+    *Revised June 2007*
+photos:
+- file: rogu_w1_gth_l.jpg
+  caption: 'Winter plumage adult. Note: small black bill, white primaries, and pinkish hue.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rogu_w2_gth_l.jpg
+  caption: Winter plumage adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rogu_wfl_gth_l.jpg
+  caption: 'Winter plumage adult. Note: dark underwing and white trailing edge of wing.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: rogu_w3_gth_l.jpg
+  caption: Winter plumage adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rogu_w4_gth_l.jpg
+  caption: Winter plumage adult feeding on deer carcass.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rogu_wfl_gth2_l.jpg
+  caption: 'Note: wedge-shaped tail.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rogu_wfl_gth3_l.jpg
+  caption: 'Note: white trailing edge to wing.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: rosgul
+  current_common_name: Ross's Gull
+  current_scientific_name: Rhodostethia rosea
+  clements_sort: 6448
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/rosss_gull
+  archived: '2026-09-12'

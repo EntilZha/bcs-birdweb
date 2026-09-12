@@ -1,0 +1,70 @@
+slug: glossy_ibis
+common_name: Glossy Ibis
+scientific_name: Plegadis falcinellus
+order:
+  name: Ciconiiformes
+  slug: ciconiiformes
+family:
+  name: Threskiornithidae
+  slug: threskiornithidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: The first state record was photographed at Nisqually National Wildlife Refuge (Thurston County) on 30 May 2005.
+photos:
+- file: glib_kb_l.jpg
+  caption: ''
+  credit:
+    name: Keith Brady
+    url: http://www.pbase.com/slickslug
+  hero: false
+- file: glib_kb2_l.jpg
+  caption: ''
+  credit:
+    name: Keith Brady
+    url: http://www.pbase.com/slickslug
+  hero: false
+- file: glib_gl_l.jpg
+  caption: 'Note: dark iris and thin white line on face.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: glib_w_gl_l.jpg
+  caption: Non-breeding plumage
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: glib_fl_tg_l.jpg
+  caption: ''
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: gloibi
+  current_common_name: Glossy Ibis
+  current_scientific_name: Plegadis falcinellus
+  clements_sort: 7467
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/glossy_ibis
+  archived: '2026-09-12'

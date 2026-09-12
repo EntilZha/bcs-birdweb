@@ -1,0 +1,46 @@
+slug: murphys_petrel
+common_name: Murphy's Petrel
+scientific_name: Pterodroma ultima
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Procellariidae
+  slug: procellariidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Several records between April and September, the earliest in 1992'mostly far offshore in the Pacific.
+photos:
+- file: mupe_ck_l.jpg
+  caption: ''
+  credit:
+    name: Cam Kepler
+    url: http://www.pbif.org/images/default.html
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: murpet
+  current_common_name: Murphy's Petrel
+  current_scientific_name: Pterodroma ultima
+  clements_sort: 7115
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/murphys_petrel
+  archived: '2026-09-12'

@@ -1,0 +1,73 @@
+slug: common_merganser
+common_name: Common Merganser
+scientific_name: Mergus merganser
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: The Common Merganser is a fish-eating duck that rides low in the water on freshwater lakes and rivers. The male in breeding plumage has a white belly, breast, and flanks with a gray rump and black back. The crestless head is dark green, the bill is red, and the eye is dark. The female Common Merganser has a solid gray body with a reddish-brown head. She has a narrow, red, serrate bill and white chin-patch at the base of the lower mandible. The short crest of the female is often not obvious. The male in non-breeding plumage is similar to the female, with some white on his back. Juveniles are also similar, but have a white bar across the face.
+  habitat: Range-wide, Common Mergansers prefer fresh water in all seasons. They use deep, clear, forested lakes, reservoirs, and rivers for breeding. In winter, they occupy similar habitat, as well as bays, coastal estuaries, and harbors. They frequent salt-water habitats in Washington in the winter.
+  behavior: Common Mergansers often form large rafts, or floating flocks, in the winter. They dive and swim under water, finding most of their food by sight.
+  diet: Fish make up the majority of the diet of adult birds. Aquatic insects are a primary source of food for young birds. Mussels, crustaceans, and other aquatic creatures are also eaten.
+  nesting: Females usually start breeding in their second year. Pair bonds form in late winter or early spring. Nests are located near water, usually in a large tree cavity, but may also be in rock crevices, under tree roots, and in nest boxes. Nests are made of wood chips and other debris found in the cavity. Down is added by the female. The female usually lays 9 to 12 eggs, although nest parasitism is common. Incubation lasts from 28 to 35 days, and is done by the female alone. The male usually remains near the nest until incubation begins, and rarely stays with the brood once they hatch. The young jump from the cavity within a day or so of hatching and head for the water. The female leads the young to food, and they feed themselves. The young feed mostly by dabbling at first, but after about a week can dive well. Females usually abandon the young before they can fly, sometimes as early as the end of the first week. Broods often join together in crèches after they are about a week old.
+  migration_status: Most Common Mergansers migrate short to medium distances in small groups. The post-breeding molt migration of males is not well understood, but it is thought that they migrate north to large lakes, bays, and rivers. Females molt alone after they leave their broods. The migration of the Common Merganser takes place late in the fall and early in the spring. Adult males seem to winter farther north than females and juvenile birds.
+  conservation_status: Numbers appear to be stable across North America, and the Christmas Bird Count has reflected a slight increase in Washington in recent years. Common Mergansers are an important indicator of the health of wetlands. Habitat degradation can remove nesting cavities. River channelization increases sediment in the water. Agriculture and industry often alter water quality. All of these affect the Common Merganser, as well as many other species. Common Mergansers have come under fire for preying on salmon, but studies in British Columbia show that the most common prey item there for Common Mergansers is the sculpin.
+  when_where_wa: Common Mergansers are common breeders in appropriate habitat on both sides of the Cascades. They do not appear to breed in the dry regions of the Columbia Basin, but non-breeding birds can be found there in the summer. In winter, they can be found throughout the state in appropriate habitat where water remains open throughout the year. They are abundant during this time in the Strait of Juan de Fuca and in Puget Sound.
+photos:
+- file: come_f_dp_l.jpg
+  caption: 'Female. Note: white chin patch.'
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+- file: come_tg_l.jpg
+  caption: 'Male. Note: white body and dark head.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: come_f_tg_l.jpg
+  caption: 'Female. Note: contrasting red head with gray body and white patch on throat.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: come_ffl_tg_l.jpg
+  caption: Female in flight.
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: come.mp3
+  credit: null
+maps:
+  wa: merme.jpg
+  north_america: comemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, F, F, F, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [C, C, C, C, F, F, C, C, C, C, C, C]
+  okanogan: [U, U, F, F, F, U, U, U, U, F, F, U]
+  canadian_rockies: [C, C, C, F, F, F, F, F, F, F, C, C]
+  blue_mountains: [R, R, U, U, U, U, U, U, U, U, U, R]
+  columbia_plateau: [C, C, C, F, U, U, U, U, U, C, C, C]
+taxonomy:
+  ebird_code: commer
+  current_common_name: Common Merganser
+  current_scientific_name: Mergus merganser
+  clements_sort: 762
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/common_merganser
+  archived: '2026-09-12'

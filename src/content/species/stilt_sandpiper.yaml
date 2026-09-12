@@ -1,0 +1,53 @@
+slug: stilt_sandpiper
+common_name: Stilt Sandpiper
+scientific_name: Calidris himantopus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Rare fall migrant.
+species_of_concern: false
+sections:
+  general_description: Often described as looking like a yellowlegs and feeding like a dowitcher, the Stilt Sandpiper is a medium-sized, long-legged wader. Its breeding plumage is distinctive, but rarely seen in Washington. It is heavily barred brown-and-white above and below, with a white eye-line that separates a rufous cap and cheek. In non-breeding plumage, the Stilt Sandpiper is pale gray, with a light, unstreaked belly and white eye-line. Juveniles are light brownish-gray with lightly streaked breasts and scaled backs. In flight, they show gray and white underwings, solid gray upperwings, white rumps, and gray tails.
+  habitat: Stilt Sandpipers' breeding grounds are in the Arctic tundra, north of the tree line. They nest in wet sedge-meadows with raised ridges and hummocks. During the non-breeding season, they are usually found in fresh water ponds, marshes, lagoons, and flooded fields.
+  behavior: Large flocks of Stilt Sandpipers are common in areas where they are abundant, but in Washington, single birds or a few birds are generally seen mixed with flocks of dowitchers or Lesser Yellowlegs. Stilt Sandpipers usually forage in shallow water up to their bellies. They probe in the mud for food, often moving their heads up and down, sometimes under water, in a sewing-machine motion like that of a dowitcher. They also pick food from the surface of the water.
+  diet: Stilt Sandpipers eat a wide variety of insects and insect larvae during the breeding season. At other times of the year, they eat seeds, leaves, and roots of aquatic plants, marine worms, and other aquatic invertebrates.
+  nesting: Stilt Sandpipers generally don't breed until they are two years old. Males arrive on the breeding grounds a few days before females. Pairs form once the females arrive. The male makes a few scrapes in a dry spot on the ground, often on a ridge or hummock of sedge, surrounded by water. The female then chooses one of the scrapes for the nest. The nest may be sparsely lined with sedge leaves. Both parents incubate the four eggs for 19 to 21 days. The young leave the nest within a day of hatching and find their own food. Both parents tend the young at first, but the female usually leaves within seven days. The male stays with the young for 10 to 14 days, but abandons the young before they can fly well, at 17 to 18 days. Each pair raises only one brood per season.
+  migration_status: These long-distance travelers migrate through the Great Plains on both their northward and southward routes. They winter as far south as northern South America, although a few can be found wintering in the southern United States. During the fall migration, when juveniles follow about a month behind adults, the migration route is spread out, and some birds stray as far as the West Coast.
+  conservation_status: The Canadian Wildlife Service estimates the population of Stilt Sandpipers at 200,000 birds. Populations in some areas have declined, while others have increased. The range-wide status of the population is unknown. This species has a limited and disconnected breeding range, and degradation of some of that habitat is of conservation concern. Changes in land use on South American wintering grounds are also of concern, because some winter gathering spots are being developed. Stilt Sandpipers are listed on the Partners in Flight watch list because of their narrow breeding and wintering distributions, relatively small population, and unknown trends in population.
+  when_where_wa: Stilt Sandpipers are rare in Puget Sound and coastal Washington from mid-June through September, with occasional sightings before and after. In eastern Washington, they are rarely reported from early July through September, with scattered later sightings.
+photos:
+- file: stsa_br_dp_l.jpg
+  caption: 'Breeding plumage. Note: barred breast/belly and rufous cheeks.'
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio: null
+maps:
+  wa: cahi.jpg
+  north_america: stsamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', R, R, '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', R, R, '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', R, R, R, '', '']
+taxonomy:
+  ebird_code: stisan
+  current_common_name: Stilt Sandpiper
+  current_scientific_name: Calidris himantopus
+  clements_sort: 6183
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/stilt_sandpiper
+  archived: '2026-09-12'

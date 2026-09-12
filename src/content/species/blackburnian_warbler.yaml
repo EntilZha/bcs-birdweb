@@ -1,0 +1,63 @@
+slug: blackburnian_warbler
+common_name: Blackburnian Warbler
+scientific_name: Dendroica fusca
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    The adult male Blackburnian Warbler in breeding plumage is instantly recognizable by the bright red-orange of the throat, upper breast, and face, where it surrounds a dark triangular ear patch. The coloration quickly fades into the white lower breast. Otherwise the bird is mostly black-and-white: sides strongly streaked black, large white wing patch, dark back with white streaks. Adult females and non-breeding males are similar in general pattern but less boldly marked and with a more subdued, yellow-orange coloration. First-fall females, the dullest of all, are gray and yellow in appearance, but even then the facial pattern and broad, pale-yellow eyebrow are good identification clues.
+
+    Closely tied to boreal hemlock forests, this songbird breeds from eastern Alberta to Atlantic Canada, the upper Midwest, New England, and south in the eastern mountains to the Carolinas. Its migration route takes it across the Gulf of Mexico in direct flight to and from winter grounds in the humid conifer forests of South America. It is a casual vagrant in the Northwest. Washington has four accepted records—two from the Eastside in spring and two in fall from west of the Cascades. British Columbia’s six records occurred from 5 June to 29 August. Idaho has about five records, mostly in fall. Oregon also has five records, two in fall and three in spring, all but one of them from east of the Cascades.
+
+    *Revised November 2007*
+photos:
+- file: blbw_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: blbw_f_gl_l.jpg
+  caption: Female.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: blbw_gl2_l.jpg
+  caption: 'Male. Note: orange throat and dark auriculars.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: blbwmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: bkbwar
+  current_common_name: Blackburnian Warbler
+  current_scientific_name: Setophaga fusca
+  clements_sort: 34084
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/blackburnian_warbler
+  archived: '2026-09-12'

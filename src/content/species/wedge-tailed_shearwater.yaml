@@ -1,0 +1,52 @@
+slug: wedge-tailed_shearwater
+common_name: Wedge-tailed Shearwater
+scientific_name: Puffinus pacificus
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Procellariidae
+  slug: procellariidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One bird found dead on Pacific beach in September 1999.
+photos:
+- file: wtsh_tp_l.jpg
+  caption: ''
+  credit:
+    name: Tony Palliser
+    url: http://www.sossa-international.org/forum/
+  hero: true
+- file: wtsh_br_lb_l.jpg
+  caption: Adult on nest on Midway Island (South Pacific)
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: wetshe
+  current_common_name: Wedge-tailed Shearwater
+  current_scientific_name: Ardenna pacifica
+  clements_sort: 7209
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/wedge-tailed_shearwater
+  archived: '2026-09-12'

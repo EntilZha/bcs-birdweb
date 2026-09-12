@@ -1,0 +1,97 @@
+slug: bohemian_waxwing
+common_name: Bohemian Waxwing
+scientific_name: Bombycilla garrulus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Bombycillidae
+  slug: bombycillidae
+status: Uncommon winter east. Irregular west.
+species_of_concern: false
+sections:
+  general_description: Bohemian Waxwings are sleek, masked birds with unusual red, waxy deposits at the tips of their secondary feathers. They are grayish-brown with white and yellow wing-patches and yellow terminal tail-bands. They have distinctive crested heads, black throats, and black masks lightly lined with white. Their heads have a rufous tinge, and their undertail coverts are rufous. Juveniles have most of the aforementioned field marks, but are mottled gray-brown and lack the feather-tips. The feather-tips seem to increase in number and size as the birds age. The only bird in Washington that could be confused with a Bohemian Waxwing is a Cedar Waxwing, a far more common relative. Cedars are smaller and browner than Bohemians and have a yellow tinge underneath. They lack the rufous undertail coverts and white and yellow wing markings of Bohemian Waxwings.
+  habitat: Bohemian Waxwings breed in open areas and edges of boreal forests, often in places with sparse tree cover above brushy understory. During winter, they can be found in a variety of habitats, as long as there is fruit available. They often congregate in towns with abundant plantings of fruit-bearing trees.
+  behavior: Flocks are common in all seasons, but nomadic winter flocks of hundreds of birds are the most common sighting in Washington. Bohemian Waxwings may be mixed in with more common Cedar Waxwing flocks during the winter. They often perch atop trees to forage for fruits and berries. In summer, they fly out to catch aerial insects.
+  diet: Bohemian Waxwings eat some insects, but are primarily fruit-eaters, a trait that dictates much of their behavior. They eat almost nothing but fruit in the winter, relying on the berries of mountain ash, juniper, holly, and others. They also forage on fruit crops and ornamental plantings. Waxwings are susceptible to alcohol intoxication, and even death, from eating fermented fruit. Like most songbirds, they feed insects to their young at first, but switch to feeding the young berries within a few days.
+  nesting: Bohemian Waxwings are monogamous, and both members of the pair help build the nest, which is usually on a horizontal branch of a spruce tree. The nest is a loose, open cup made of grass, twigs, and moss, lined with feathers and fine grass. The female incubates 4 to 6 eggs for about 14 to 15 days. Both parents feed the young, which leave the nest at 14 to 18 days. The young stay close to the nest and are fed by the parents for another few days. Family groups may stay together through the fall.
+  migration_status: This nomadic and irruptive species wanders in search of food sources, rather than undertaking a typical migration. Food availability seems to be a more important predictor of winter presence than temperature or latitude.
+  conservation_status: Populations fluctuate considerably from year to year, but Christmas Bird Count data reveal a slightly declining long-term trend.
+  when_where_wa: Most Bohemian Waxwings in Washington are northern breeders that come down into Washington in winter. In most years they are fairly common in winter in northeastern Washington (Ferry, Douglas, Okanogan, Stevens, and Pend Oreille Counties), especially in cities and towns where they feed on fruit trees. In some years they extend farther west into the Columbia Basin (Cle Elum and Ellensburg), and can rarely be seen west of the Cascades. Bohemian Waxwings are rare breeders in Washington in the North Cascades at Hart's Pass (Whatcom County) and Holman Pass (Okanogan County).
+photos:
+- file: bowa_jh_l.jpg
+  caption: 'Note: rufous face and undertail coverts and grayish belly.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: bowa_a_gth1_l.jpg
+  caption: Adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: bowa_a_gth2_l.jpg
+  caption: Adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: bowa_a_gth3_l.jpg
+  caption: Adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: bowa_a_gth4_l.jpg
+  caption: Adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: bowa_a_gth5_l.jpg
+  caption: Adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: bowa_a_gth6_l.jpg
+  caption: 'Adult. Note: gray body, yellow tail tip, and rufous undertail coverts.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: bowa_a_gth7_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio:
+  file: BOWA01.mp3
+  credit: null
+maps:
+  wa: boga.jpg
+  north_america: bowamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: [I, I, I, '', '', '', '', '', '', '', '', I]
+  north_cascades: [I, I, '', '', '', '', '', '', '', I, I, I]
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: [I, I, I, '', '', '', '', '', '', I, I, I]
+  okanogan: [F, F, U, '', '', '', '', '', '', U, F, F]
+  canadian_rockies: [F, F, F, '', '', '', '', '', U, F, F, F]
+  blue_mountains: [R, R, '', '', '', '', '', '', '', '', R, R]
+  columbia_plateau: [U, U, U, '', '', '', '', '', '', R, U, U]
+taxonomy:
+  ebird_code: bohwax
+  current_common_name: Bohemian Waxwing
+  current_scientific_name: Bombycilla garrulus
+  clements_sort: 29885
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/bohemian_waxwing
+  archived: '2026-09-12'

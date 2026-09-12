@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+/* Same BCS palette as the site, so the editor never looks like a different product. */
+@theme {
+  --color-brand: #0a3c23;
+  --color-brand-dark: #062a18;
+  --color-leaf: #36ba3a;
+  --color-sage: #7cc68d;
+  --color-cream: #faf5f0;
+  --color-pop: #e6ff55;
+
+  --color-abundance-c: #0a3c23;
+  --color-abundance-f: #2f7a4a;
+  --color-abundance-u: #7cc68d;
+  --color-abundance-r: #c3e5cb;
+  --color-abundance-i: #e8dfb4;
+  --color-abundance-none: #ece7e1;
+}
+
+body {
+  background-color: var(--color-cream);
+  color: #1c1c1c;
+}

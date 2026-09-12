@@ -1,0 +1,58 @@
+slug: vermilion_flycatcher
+common_name: Vermilion Flycatcher
+scientific_name: Pyrocephalus rubinus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Tyrannidae
+  slug: tyrannidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Three fall-winter records, all from western Washington lowlands.
+photos:
+- file: vefl_gl_l.jpg
+  caption: Male.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: vefl_f_gl_l.jpg
+  caption: 'Female. Note: pinkish vent.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: vefl_ffl_gl_l.jpg
+  caption: 'Female in flight. Note: short dark tail and rounded wings.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: veflmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: verfly
+  current_common_name: Vermilion Flycatcher
+  current_scientific_name: Pyrocephalus rubinus
+  clements_sort: 17029
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/vermilion_flycatcher
+  archived: '2026-09-12'

@@ -1,0 +1,79 @@
+slug: lesser_scaup
+common_name: Lesser Scaup
+scientific_name: Aythya affinis
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common winter. Uncommon breeder.
+species_of_concern: false
+sections:
+  general_description: The Lesser Scaup is one of the most abundant diving ducks in the Northwest. Male Lesser Scaups have white flanks, black rumps and breasts, and lined gray backs. They have purplish-black, iridescent heads and yellow eyes. Their bills are light gray-blue. Males in non-breeding plumage have black heads and breasts, brown bodies, and black rumps. Females are brownish overall, also with yellow eyes, and white at the base of their bills. Greater and Lesser Scaups can be difficult to distinguish in the field. Lesser Scaups average about 10% shorter and 25% lighter than Greater Scaups. The Lesser has a peaked, angular head that the Greater lacks. Seen in flight, the white on the Lesser Scaup's wings fades to gray in the primaries. In the Greater Scaup, the white extends into the primaries. As always, taking into account habitat, range, and season may help differentiate between the two species, as well as using a field guide and working with experienced observers.
+  habitat: In winter, Lesser Scaups are often found in dense flocks of hundreds and even thousands, on lakes, reservoirs, rivers, and sheltered bays. Lesser Scaup are far more likely than Greater Scaup to be found on fresh water inland during the winter. In summer, nesting habitat is small wetlands with emergent vegetation in boreal forests and parklands. During migration, Lesser Scaups spend their time on rivers, lakes, and large wetlands.
+  behavior: Lesser Scaups are divers, and can be very active when feeding. These scaups, like other ducks, form new pair bonds each year. They are one of the latest North American ducks to pair, with most pairs forming late in migration. They are gregarious throughout the year, with the exception of the laying and incubation period.
+  diet: Aquatic invertebrates such as insect larvae, crustaceans, and mollusks make up the majority of the Lesser Scaup's diet. Seeds and other parts of plants are also eaten.
+  nesting: Most Lesser Scaups probably breed at the age of two, nesting in late May through June. The nests are usually located on dry land close to water, in areas with dense cover, especially bulrush. The female builds the nest, which is a shallow bowl lined with grass and down. She lays 8 to 10 eggs and incubates them for 21 to 27 days. The male leaves when incubation begins. The young leave the nest within a day of hatching and head to the water, where they are tended by the female, but feed themselves. Two or more broods may come together and be cared for jointly by the females. The young fledge at 47 to 54 days, usually in late August or early September.
+  migration_status: Lesser Scaups are among the latest migrants moving north in the spring, still moving toward their breeding grounds in mid-May. In the fall, migration is equally late, with the last birds leaving the breeding grounds only when the water freezes.
+  conservation_status: Declines have been observed in response to degradation of habitat, but the Lesser Scaup remains one of the most numerous and widespread North American ducks. It is difficult to determine long-term population trends of Lesser Scaup due to the similarity between the two species of scaups, large yearly fluctuations, and the late migration and breeding season of the Lesser Scaup. The North American population is not currently endangered, but is lower than desired by wildlife officials. Protection, restoration, and enhancement of habitats used during all seasons is under way to enable the population to rebound.
+  when_where_wa: Most Lesser Scaups breed north of Washington, in sedge-dominated marshes in boreal climates, but some do breed in Washington. Although they are commonly found year round in appropriate habitat in eastern Washington, they are uncommon breeders here. They are rare and local breeders in lowland ponds in the Puget Trough, with breeding confirmed at the Kent Sewage Ponds (King County), in Everett (Snohomish County), and Whidbey Island (Island County). They are common winter residents (from November to early May) in western Washington, and uncommon non-breeding residents the rest of the year.
+photos:
+- file: lesc_f_lb_l.jpg
+  caption: Female
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: lesc_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: lesc_gl_l.jpg
+  caption: 'Male. Note: small nail on bill.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: lesc_f_gl_l.jpg
+  caption: 'Female. Note: peak on back of head.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: lesc_fl_gl_l.jpg
+  caption: 'Note: white stripe on wing with gray toward the tip.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: lesc.mp3
+  credit: null
+maps:
+  wa: ayaf.jpg
+  north_america: lescmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, R, R, R, U, U, U, U]
+  puget_trough: [C, C, C, C, U, U, U, U, U, F, C, C]
+  north_cascades: [U, U, U, U, R, R, R, R, R, U, U, U]
+  west_cascades: [C, C, C, C, F, R, R, R, R, U, C, C]
+  east_cascades: [F, U, U, U, U, R, R, U, U, F, F, F]
+  okanogan: [U, U, C, C, C, C, C, C, C, C, C, U]
+  canadian_rockies: [F, F, F, C, F, U, U, U, F, C, C, F]
+  blue_mountains: ['', '', '', R, '', '', '', '', '', R, '', '']
+  columbia_plateau: [C, C, C, C, C, F, F, F, F, F, C, C]
+taxonomy:
+  ebird_code: lessca
+  current_common_name: Lesser Scaup
+  current_scientific_name: Aythya affinis
+  clements_sort: 700
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/lesser_scaup
+  archived: '2026-09-12'

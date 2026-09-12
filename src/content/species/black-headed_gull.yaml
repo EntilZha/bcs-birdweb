@@ -1,0 +1,57 @@
+slug: black-headed_gull
+common_name: Black-headed Gull
+scientific_name: Larus ridibundus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    A widespread Eurasian resident, the Black-headed Gull has increased in numbers and extended its range during the last century. It now winters regularly in small numbers, and has bred, in Atlantic Canada and the northeastern United States. Elsewhere in North America it is a rare visitor, mostly along the coasts. Of the commonly seen gulls in Washington, Black-headed most closely resembles Bonaparte’s but is significantly larger with a longer, heavier red (not black) bill. In flight, the upperwing shows a white wedge, similar to Bonaparte’s, but the dark primaries visible on the underwing are a distinctive field mark. The adult in breeding plumage has a dark brown hood, red legs, and a pale gray mantle. In winter the head is white with a prominent dark spot behind the eye. Black-headed Gull and Bonaparte’s Gull both attain full adult plumage in two years; see field guides for the immature plumages.
+
+    In Washington, Black-headed Gull is a casual fall migrant and winter resident on and near marine waters. The 12 accepted records range in date from mid-August to early April with a strong peak in early fall. British Columbia has more than a dozen records, the majority of them from the Greater Victoria area. Oregon has three records, California more than 20.
+
+    *Revised June 2007*
+photos:
+- file: bhgu_w_tg_l.jpg
+  caption: 'Adult nonbreeding. Note: redish bill and legs.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: bhgu_wfl_tg_l.jpg
+  caption: 'Adult nonbreeding. Note: redish bill and legs and dark under primaries.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: bkhgul
+  current_common_name: Black-headed Gull
+  current_scientific_name: Chroicocephalus ridibundus
+  clements_sort: 6474
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black-headed_gull
+  archived: '2026-09-12'

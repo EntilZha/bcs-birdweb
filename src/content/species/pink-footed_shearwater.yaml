@@ -1,0 +1,59 @@
+slug: pink-footed_shearwater
+common_name: Pink-footed Shearwater
+scientific_name: Puffinus creatopus
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Procellariidae
+  slug: procellariidae
+status: Common pelagic.
+species_of_concern: true
+sections:
+  general_description: The largest of the shearwaters commonly seen off the Pacific Coast, the Pink-footed Shearwater is the only large, white-bellied shearwater found in our area besides the Buller's Shearwater. Stocky, with broad wings, the Pink-footed Shearwater has a dark, brown-gray head, uniform dark, gray-brown upperparts, and a pink bill and feet. The underside of the wings is white-mottled-with-dark, and the belly is white. On the water, the bird appears mostly brownish-gray with some white on its flanks.
+  habitat: The Pink-footed Shearwater is found in the open ocean, well offshore in the waters over the continental shelf. Its nesting habitat is on islands off Chile, with soil suitable for digging nest burrows.
+  behavior: Found alone or in groups, often with other species of shearwaters, the Pink-footed Shearwater flies low over the sea with stiff-winged glides intermixed with quick wing-beats. It often tilts on its side, one wing almost slicing the water's surface. It plunges into the water after prey, or dives from the surface while swimming, and swims under water using its wings to propel itself.
+  diet: The diet of the Pink-footed Shearwater is not well known, but is mostly likely fish, squid, and possibly crustaceans. Pink-footed Shearwaters also follow fishing boats and feed on the offal from the boats.
+  nesting: Colony nesters, Pink-footed Shearwaters nest only on islands far off the coast of Chile. They are active on the colonies mostly at night. They nest in underground burrows that may be over four feet long. The female lays a single egg in December, and both parents incubate. Once the egg hatches, both parents feed the chick, which leaves the island and heads to sea in April or May.
+  migration_status: In April or May, after the breeding season, the population migrates as far north as southeastern Alaska.
+  conservation_status: Although the Pink-footed Shearwater population is currently strong, it is declining on some nesting islands due to introduced predators. The Pink-footed and Flesh-footed Shearwaters are closely related, and some authorities consider them to be the same species.
+  when_where_wa: Pink-footed Shearwaters are commonly seen on boat trips from May to October. They are more often spotted in summer and fall than in spring. While rarely seen from land, they can sometimes be spotted from the north jetty at the mouth of the Columbia River (Pacific County).
+photos:
+- file: pfshdp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+- file: pfsh2dp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+audio: null
+maps:
+  wa: pucr.jpg
+  north_america: pfshmap.gif
+abundance:
+  oceanic: ['', '', R, C, C, C, C, C, C, C, U, '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: pifshe
+  current_common_name: Pink-footed Shearwater
+  current_scientific_name: Ardenna creatopus
+  clements_sort: 7205
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/pink-footed_shearwater
+  archived: '2026-09-12'

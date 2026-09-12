@@ -1,0 +1,55 @@
+slug: american_tree_sparrow
+common_name: American Tree Sparrow
+scientific_name: Spizella arborea
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Uncommon winter resident.
+species_of_concern: false
+sections:
+  general_description: The American Tree Sparrow is a small sparrow with a long notched tail. The adult has a streaked back and wings, with two white wing bars, but is otherwise unstreaked, while the juvenile is streaky overall. Adults have an unstreaked gray-brown breast and belly, with a dark spot in the center. The tail, rump, and nape of the neck are all solid gray. The upper mandible of the bill is dark and the lower is yellow. The head is mostly gray, with a rufous crown and eye-line.
+  habitat: The American Tree Sparrow is actually not closely associated with trees. Its breeding habitat is in the far north, in the shrubby tundra beyond the tree-line. In winter and during migration, they inhabit a variety of open habitats, including dry grassland, sagebrush desert, and farmland. They can also be found in woodlands bordering rivers, shrubby thickets and other weedy edges, and yards with birdfeeders.
+  behavior: Outside of the nesting season, Tree Sparrows are usually found foraging in flocks in low bushes or on the ground. In snowy fields, they will beat tall weeds with their wings and collect the fallen seeds from atop the snow.
+  diet: Seeds, insects, and berries make up most of the American Tree Sparrow's diet. In winter, they eat primarily seeds and berries, while in summer their diet shifts to insects, especially when feeding young.
+  nesting: The male defends a territory, and the monogamous pair forms shortly after the birds arrive on the breeding grounds. The nest is an open cup of twigs, grass, and moss, often lined with ptarmigan feathers and other fine material. It is situated on the ground, on grass clumps or hummocks in the open tundra. The female incubates the 4-6 eggs for 12-13 days. Both parents feed the young who leave the nest after 8-10 days and can fly at two weeks of age. The parents continue to feed the young for about two weeks after they leave the nest.
+  migration_status: American Tree Sparrows are complete migrants, meaning there is no overlap between breeding and wintering range. Migration is late in the fall and early in the spring, with the birds spending the breeding season in the far north.
+  conservation_status: Most of the American Tree Sparrow's nesting area is remote from human disturbance and well protected, although large-scale development in the far north may threaten this species. On the wintering grounds, residential gardening practices such as clearing underbrush, removing weeds, and cutting grass reduce the food supply, but feeding stations often make up for this and American Tree Sparrows have adapted well to living in suburban environments and are currently considered abundant.
+  when_where_wa: Mostly an eastern Washington species, the American Tree Sparrow is found in Washington only during the winter. It is locally uncommon in eastern Washington from October to March, with some birds lingering into early April. In western Washington, it is locally uncommon to rare in scattered areas, including Bellingham (Whatcom County), Camano Island (Island County), Snoqualmie and Snohomish River valleys, Skagit River delta, and Monroe (Snohomish County). Look for it in deciduous trees and brush along edges and watercourses in relatively open habitat.
+photos:
+- file: atsp_jh_l.jpg
+  caption: 'Note: bicolored bill and dark spot on breast.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+audio:
+  file: ATSP01.mp3
+  credit: null
+maps:
+  wa: spar.jpg
+  north_america: atspmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: [R, R, '', '', '', '', '', '', '', R, R, R]
+  north_cascades: [R, R, '', '', '', '', '', '', '', '', R, R]
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: [R, R, R, '', '', '', '', '', '', R, R, R]
+  okanogan: [U, U, R, '', '', '', '', '', '', '', R, U]
+  canadian_rockies: [U, U, U, '', '', '', '', '', '', U, U, U]
+  blue_mountains: [R, R, '', '', '', '', '', '', '', '', '', R]
+  columbia_plateau: [U, U, R, '', '', '', '', '', '', R, U, U]
+taxonomy:
+  ebird_code: amtspa
+  current_common_name: American Tree Sparrow
+  current_scientific_name: Spizelloides arborea
+  clements_sort: 33095
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/american_tree_sparrow
+  archived: '2026-09-12'

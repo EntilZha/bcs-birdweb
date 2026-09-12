@@ -1,0 +1,31 @@
+slug: bowerman_basin
+name: Bowerman Basin
+number: 102
+ecoregions:
+- pacific_northwest_coast
+sections:
+  site: The highlight of the Grays Harbor National Wildlife Refuge, a.k.a. Bowerman Basin, is the spring migration of shorebirds. Lying within the Pacific Northwest Coast Ecoregion, the refuge's 1,500 acres of salt marsh and mudflats play host each year to tens of thousands of shorebirds that stop to feed and rest during their 7,000 mile journey from South America to their nesting grounds in the Arctic. One of the four most important estuaries in North America for migrating shorebirds, Grays Harbor as a whole has been named a Western Hemisphere Shorebird Reserve Network Site. Bowerman Basin and five other sites within the estuary have been designated as Washington State Important Bird Areas.
+  birds: |-
+    The most common shorebird at the refuge in spring migration is the Western Sandpiper, followed by Dunlin, Short-billed Dowitcher, Semipalmated Plover, and Black-bellied Plover, with a few Red Knots and Least Sandpipers.
+
+    Peregrine Falcons and Merlins regularly hunt the shorebird flocks and provide a fascinating sight, as the balls of shorebirds maneuver to avoid these predators. The nearby sewage lagoon hosts grebes, gulls, waterfowl, and occasional phalaropes. Flocks of migrating shorebirds and waterfowl (check for Greater White-fronted Goose and Eurasian Wigeon) are present in smaller numbers in fall. In winter, flocks of Canada Geese (often with Cackling Geese) feed on the airport fields, while large flocks of Dunlin may be found on the mudflats.
+  directions: |-
+    The annual Grays Harbor Shorebird Festival is timed to coincide with the peak of migration in late April and early May.
+
+    From I-5, take Exit 104 and follow US-101 west to SR-8. Stay on SR-8 to US-12 (west), following signs to Aberdeen. Then join US-101 in Aberdeen and drive west to Hoquiam. Pick up SR-109 to its junction with Paulson Road. Take Paulson Road south to the sewage treatment lagoon. Go right on Airport Way past the lagoon, and park across from Lana's Hangar Cafe by the refuge kiosk. Walk around the gate and west along the pavement to the end of the hangars, and then take the one-mile Sandpiper Trail and boardwalk to the shorebird-viewing area.
+
+    The best place to see the shorebirds is at the end of the Sandpiper Trail. The best time is two hours before and after high tide, when the birds are feeding close to the boardwalk. At low tide, the shorebirds are dispersed throughout the estuary.
+photos:
+- file: haematopodidae.jpg
+  caption: ''
+  credit:
+    name: ''
+    url: null
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/bowerman_basin/2
+  archived: '2026-09-12'

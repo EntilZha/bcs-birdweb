@@ -1,0 +1,61 @@
+slug: grasshopper_sparrow
+common_name: Grasshopper Sparrow
+scientific_name: Ammodramus savannarum
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Uncommon summer resident east.
+species_of_concern: true
+sections:
+  general_description: The Grasshopper Sparrow is an inconspicuous grassland sparrow with a short tail and a proportionally large, flat head. It has a plain face, with a white eye-ring and a white stripe through the middle of its crown. Its back is intricately patterned with gray and chestnut, a color combination that is unique among Washington's sparrows. It has an entirely clear, buff-colored breast, with no streaks or spot. Juveniles are streaked overall until they reach adult plumage at the end of their first summer.
+  habitat: A grassland bird, the Grasshopper Sparrow appears to prefer areas with significant grass cover and a few scattered shrubs for perching. They don't use habitats with dense shrub cover or sites that have been over-grazed. During migration and winter, they will use many types of open fields.
+  behavior: Grasshopper Sparrows are not typically a flocking species. They run or walk along the ground when foraging. A secretive bird, the Grasshopper Sparrow will fly a short distance when flushed, and then drop back into the grass out of sight. They usually stay out of sight unless they are singing, when they will perch on a weed stalk, shrub, or fence wire and belt out their buzzy song. The Grasshopper Sparrow's song sounds like the buzz of a grasshopper.
+  diet: Seeds and insects are part of their diet year round, but the ratio of animal and vegetable matter fluctuates throughout the year. The winter diet is made up primarily of weed and grass seed, as well as waste grain. In summer, insects, especially grasshoppers, make up a larger part of the diet.
+  nesting: Males sing from perches to defend their territories and advertise for a mate. Females arrive on the breeding grounds a few days after the males. Pair bonds are usually monogamous, but polygyny is not unheard of. The nest is well hidden on the ground, usually placed in a slight depression so the rim of the nest is level with the ground. The female builds the open cup of dry grass and lines it with finer grass, rootlets, and hair. It is usually partly domed, with grass woven into overhanging vegetation creating a back and sides to the nest, leaving a side entrance. The female incubates the 4-5 eggs for 11-13 days. Both parents help feed the young, who leave the nest after 8-9 days. When they leave the nest, the young are not yet able to fly well, and the parents continue to provide care for 4-19 more days.
+  migration_status: The migratory Grasshopper Sparrow arrives in Washington in May and leaves in August. Their secretive behavior makes it difficult to document their migration, but it is believed that the fall migration is prolonged.
+  conservation_status: Breeding Bird Survey data have shown significant declines in Grasshopper Sparrow populations throughout North America, and in the West generally. However in Washington, The Survey shows a small, not statistically significant increase between 1980 and 2002. Surveys may under-represent this species, as its song is very high pitched and near the limit of human hearing, and thus many people may miss it on counts. Grasshopper Sparrows were more numerous before large tracts of shrub-steppe habitat were converted to intensive agriculture. The Conservation Reserve Program, which sets aside fields of perennial grasses and does not allow plowing or grazing, has added considerable Grasshopper Sparrow habitat to eastern Washington in recent years. Grasshopper Sparrows may be a species of successional habitats, moving in after a fire for a few years until the brush gets too thick again, then moving on.
+  when_where_wa: Grasshopper Sparrows are fairly selective about habitat, but range from common to uncommon in grasslands throughout much of eastern Washington. They are absent from the Methow Valley but can be found in the Columbia Basin grasslands, at the Ponderosa pine border in central and southern Spokane County. They can also be found in the small Palouse prairie fragments at the Turnbull National Wildlife Refuge (also in Spokane County). The Kahlotus Ridgetop Preserve (Franklin County) and lands in the Conservation Reserve Program are also potential breeding locations, as is the area north of Moses Lake.
+photos:
+- file: grsp_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: grsp_ad2_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio:
+  file: GRSP01.mp3
+  credit: null
+maps:
+  wa: amsa.jpg
+  north_america: grspmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', U, U, U, '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', R, R, R, R, '', '', '', '']
+  columbia_plateau: ['', '', '', F, F, F, F, '', '', '', '', '']
+taxonomy:
+  ebird_code: graspa
+  current_common_name: Grasshopper Sparrow
+  current_scientific_name: Ammodramus savannarum
+  clements_sort: 32943
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/grasshopper_sparrow
+  archived: '2026-09-12'

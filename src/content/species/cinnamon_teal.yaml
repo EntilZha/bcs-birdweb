@@ -1,0 +1,85 @@
+slug: cinnamon_teal
+common_name: Cinnamon Teal
+scientific_name: Anas cyanoptera
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Fairly common to locally common summer resident, rare in winter.
+species_of_concern: false
+sections:
+  general_description: In many ways, the striking Cinnamon Teal is similar to the Blue-winged Teal and the Northern Shoveler, intermediate in size and overlapping habitat. The male Cinnamon Teal in breeding plumage is one of the most striking of Washington's waterfowl, with a deep, overall cinnamon color and red eyes. Females, juveniles, and males in eclipse plumage are mottled brown and look very similar to the closely related female Blue-winged Teal. However the Cinnamon Teal is slightly larger and has a longer, wider bill. Both sexes have green-black speculums with pale blue patches on the forewing.
+  habitat: Cinnamon Teal are found in small, shallow, freshwater wetlands with emergent vegetation.
+  behavior: Cinnamon Teal forage in shallow water, swimming forward with their heads partly submerged and filtering mud through their bills. These birds sometimes follow each other, taking advantage of food stirred up by the first bird. They occasionally feed on land near water. Cinnamon Teal, like most dabblers, form pairs before arriving on the breeding grounds.
+  diet: Aquatic plant seeds and invertebrates make up the majority of the Cinnamon Teal's diet. The invertebrates become more important in the spring and summer, when breeding females and growing young need a high-protein diet.
+  nesting: The nest is typically located close to water where it is concealed in dense cover. It is a shallow depression with dead grass and weeds, lined with down. The female selects the site, builds the nest, and incubates 9 to 10 eggs for 21 to 25 days without the help of the male. The male stays at the breeding area during most of the incubation, however, and may guard the female. Shortly after the young hatch, they leave the nest for the water and find their own food. The male Cinnamon Teal has occasionally been seen with the female and her young brood, an occurrence unusual in ducks. The female (occasionally with the help of the male) continues to tend the young until they fledge at about 7 weeks of age.
+  migration_status: The Cinnamon Teal is highly migratory, beginning its fall migration early, peaking in August and September. It is rare on the breeding grounds by November. The spring migration begins in late March, but doesn't peak until late April into May. The molt migration for males, from the breeding grounds to the sites where they gather and molt, typically occurs in mid-July, before the birds head south again.
+  conservation_status: The Cinnamon Teal is a western species and is the most common breeding teal in Washington. It is more limited in range than most North American dabbling ducks and as such, is one of the least abundant of this group, with an estimated population of about 300,000 birds. Its limited range and early fall migration protect it from high levels of hunting, and numbers appear to be stable. In the past century, however, humans have changed the landscape in such a way as to favor the Blue-winged Teal in some areas at the expense of the Cinnamon Teal. This may become a matter of concern if this trend continues.
+  when_where_wa: Females, juveniles, and males in eclipse plumage (from July to September) can be difficult to distinguish from Blue-winged Teal, but Cinnamon Teal are the most common teal in most areas in Washington. They are much more common in eastern Washington, but can be found throughout the state in appropriate low-lying wetland habitat from early April to the end of September. They are extremely rare in these habitats the rest of the year.
+photos:
+- file: cite_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: cite_m_dp_l.jpg
+  caption: Male
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+- file: cite_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: cite_f_jh_l.jpg
+  caption: 'Female. Note: heavy Northern Shoveler like bill.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: cite_fl_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: cite_eclipse_tg_l.jpg
+  caption: 'Male in eclipse plumage. Note: red eye (female has dark eye) and warm coloration.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: cite.mp3
+  credit: null
+maps:
+  wa: ancy.jpg
+  north_america: citemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, U, U, F, F, F, F, U, R, R, R]
+  puget_trough: [R, R, R, F, F, F, F, F, U, R, R, R]
+  north_cascades: ['', '', '', U, U, U, U, U, '', '', '', '']
+  west_cascades: ['', '', '', '', F, F, F, F, U, '', '', '']
+  east_cascades: ['', '', U, U, U, R, R, U, U, '', '', '']
+  okanogan: ['', '', '', U, C, C, C, C, '', '', '', '']
+  canadian_rockies: ['', '', '', F, F, F, F, F, '', '', '', '']
+  blue_mountains: ['', '', '', '', U, U, U, U, R, '', '', '']
+  columbia_plateau: ['', '', F, C, C, C, C, F, U, R, '', '']
+taxonomy:
+  ebird_code: cintea
+  current_common_name: Cinnamon Teal
+  current_scientific_name: Spatula cyanoptera
+  clements_sort: 487
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/cinnamon_teal
+  archived: '2026-09-12'

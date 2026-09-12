@@ -1,0 +1,55 @@
+slug: olive-sided_flycatcher
+common_name: Olive-sided Flycatcher
+scientific_name: Contopus cooperi
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Tyrannidae
+  slug: tyrannidae
+status: Fairly common summer resident.
+species_of_concern: true
+sections:
+  general_description: The Olive-sided Flycatcher has dark sides bordering a white hourglass on its breast; markings that make the bird look as if it is wearing a vest. It is a bulky flycatcher, with a relatively short tail and large head.
+  habitat: This forest flycatcher historically used recently burned areas, but now that most fires are suppressed, it often takes advantage of areas that have been logged, as well as other clearings and edges, which are superficially similar to post-fire stands.
+  behavior: The Olive-sided Flycatcher sits high in a treetop, darting out after a flying insect, then returns to its perch. It vocalizes frequently, and is readily identified by its distinctive "quick-THREE-beers" or "pip-pip-pip" call.
+  diet: Large flying insects, especially bees, are the preferred diet of the Olive-sided Flycatcher.
+  nesting: The male defends his nesting territory and attracts a mate by singing from a prominent perch. Both members of the monogamous pair aggressively defend the nest, which is an open cup of twigs, weeds, and grass, with a fine lining. The nest is usually at varying heights in a conifer, on a horizontal branch well away from the trunk, hidden amidst dense twigs or needles. The female builds the nest and incubates the 3 to 4 eggs for 14 to 16 days. Both parents feed the young, which fledge at 19 to 21 days. The young continue to depend on the adults for about a week after leaving the nest, and family groups may stay together until fall migration.
+  migration_status: Olive-sided Flycatchers undertake one of the longest and most drawn out migrations of Washington's birds. High-elevation nesters usually move downslope after the breeding season. All of Washington's breeders generally leave in August for wintering grounds from Panama south to the Andes. They begin returning to Washington during the last days of April and continue arriving until June.
+  conservation_status: The Breeding Bird Survey and other studies have detected significant declines throughout the range of this species in recent decades. This decline is especially evident in the areas of greatest abundance, including the Cascade Mountains. Olive-sided Flycatchers are listed by the US Fish and Wildlife Service as a species-of-concern, and are included on the Audubon~Washington watch list. The cause of the decline is unknown, but scientists speculate that it may be due to habitat loss on the wintering grounds, or a decrease in suitability of habitat on the breeding grounds. Logged areas and other clearings appear similar to post-fire clearings, and Olive-sided Flycatchers certainly use those areas. Unfortunately, studies on rates of productivity have shown that they fledge fewer young from these areas, which may account for some of the decline as well. The most significant decrease has occurred in eastern North America
+  when_where_wa: Olive-sided Flycatchers are common in most forest openings throughout the state from mid-May to mid-August. They are less common in the far southeastern corner of the state and sometimes can also be found in city parks or suburban areas, especially during migration.
+photos:
+- file: osfl_tg_l.jpg
+  caption: 'Note: dark'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+audio:
+  file: OSFL01.mp3
+  credit: null
+maps:
+  wa: cobo.jpg
+  north_america: osflmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', R, F, F, F, F, U, '', '', '']
+  puget_trough: ['', '', '', R, U, F, F, F, R, '', '', '']
+  north_cascades: ['', '', '', '', F, F, F, F, R, '', '', '']
+  west_cascades: ['', '', '', '', U, F, F, F, R, '', '', '']
+  east_cascades: ['', '', '', '', U, F, F, U, R, '', '', '']
+  okanogan: ['', '', '', '', U, F, F, F, '', '', '', '']
+  canadian_rockies: ['', '', '', '', R, F, F, F, '', '', '', '']
+  blue_mountains: ['', '', '', '', U, U, U, U, R, '', '', '']
+  columbia_plateau: ['', '', '', '', R, R, R, R, R, '', '', '']
+taxonomy:
+  ebird_code: olsfly
+  current_common_name: Olive-sided Flycatcher
+  current_scientific_name: Contopus cooperi
+  clements_sort: 16890
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/olive-sided_flycatcher
+  archived: '2026-09-12'

@@ -1,0 +1,55 @@
+slug: common_poorwill
+common_name: Common Poorwill
+scientific_name: Phalaenoptilus nuttallii
+order:
+  name: Caprimulgiformes
+  slug: caprimulgiformes
+family:
+  name: Caprimulgidae
+  slug: caprimulgidae
+status: Fairly common summer resident east.
+species_of_concern: false
+sections:
+  general_description: The highly cryptic Common Poorwill is heard far more often than it is seen. It is smaller than a nighthawk, with a shorter tail. Common Poorwills are mottled gray and brown with a white band across the chest and a pale collar around the neck. The upperparts vary from dark brown to light gray. Most, if not all, of the Common Poorwills in Washington are dark. Like other members of the family, Common Poorwills have large heads, short necks, and little difference between males and females.
+  habitat: Common Poorwills typically inhabit dry, open areas, including desert, grasslands, and open forests. They require a combination of rocky ledges or canyons and open, shrubby areas.
+  behavior: These nocturnal birds hunt from the ground, looking up into the sky and flying up to grab prey. They often hunt from roadsides and can be spotted when their eyes reflect in car headlights. The Common Poorwill was the first bird discovered to hibernate, or go into torpor. The birds' temperature can drop to as low as 41 degrees, and their rate of respiration is reduced up to 90%. They can remain in this state for days or weeks at a time. When vocalizing, Common Poorwills give repeated calls that sound like, 'Poor Will,' followed by a weak, lower, third note. The calls are almost always made from the ground.
+  diet: Common Poorwills eat mostly flying insects, especially moths and beetles.
+  nesting: The male calls from the ground or a low perch to attract a female. Both parents incubate two eggs, which are laid on bare ground. No nest is built, but sometimes a slight scrape is present. The eggs are often placed in the shelter of a shrub or rock. If disturbed, the eggs (or young) will be moved. Incubation lasts for 20 to 21 days. Once the eggs have hatched, both parents brood and feed the young regurgitated insects. The young begin to fly at 20 to 23 days. Pairs often raise two broods a year. It is not uncommon for the female to be incubating the second clutch while the male is still tending the first.
+  migration_status: Common Poorwills leave in late August or early September and migrate to Mexico. They return in April.
+  conservation_status: This cryptic species is very difficult to survey accurately, although recent studies show it to be more abundant in many places than was previously thought. It is widespread, and numbers are probably stable, although more study is needed to get a better sense of the population status.
+  when_where_wa: Common Poorwills are very difficult to see but are common in canyons and shrubby areas at the ecotone where the Ponderosa pine forests and shrub-steppe habitats meet in eastern Washington from late April through August. They can also be found in mountainous sagebrush habitat and in the Columbia Basin. Migrants have been recorded in western Washington as well but are extremely rare.
+photos:
+- file: copo_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio:
+  file: copo1.mp3
+  credit: null
+maps:
+  wa: phnu.jpg
+  north_america: copomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', F, F, F, F, F, F, '', '', '']
+  okanogan: ['', '', '', U, U, U, U, U, U, '', '', '']
+  canadian_rockies: ['', '', '', '', U, U, U, U, '', '', '', '']
+  blue_mountains: ['', '', '', R, U, U, U, U, R, '', '', '']
+  columbia_plateau: ['', '', '', U, U, U, U, U, U, R, '', '']
+taxonomy:
+  ebird_code: compoo
+  current_common_name: Common Poorwill
+  current_scientific_name: Phalaenoptilus nuttallii
+  clements_sort: 3588
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/common_poorwill
+  archived: '2026-09-12'

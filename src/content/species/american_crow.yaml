@@ -1,0 +1,61 @@
+slug: american_crow
+common_name: American Crow
+scientific_name: Corvus brachyrhynchos
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Corvidae
+  slug: corvidae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: American Crows are shiny, black birds with strong, stout bills. They can be distinguished from Common Ravens by their smaller size, their straight to slightly rounded tails (seen from below, ravens' tails are wedge-shaped), and their higher-pitched calls. Ravens also have more massive bills and longer, shaggier feathers at their throats. American Crows are larger than the closely related Northwestern Crows but have higher pitched voices.
+  habitat: American Crows inhabit a wide variety of semi-open habitats. They can generally be found in any habitat in Washington, except unbroken coniferous forest, as long as it has suitable nesting trees. They are usually tolerant of the presence of humans.
+  behavior: Outside of the breeding season, American Crows are sociable and form large winter roosts. Crows are intelligent and opportunistic, and they quickly take advantage of new sources of food. They generally feed on the ground and are often found feeding along roadsides and at garbage dumps. They will drop hard-shelled items on hard surfaces such as roads or rocks to break them open. Crows can be aggressive toward other birds, mobbing ravens or raptors in flight.
+  diet: Omnivores, American Crows eat just about anything, including garbage, carrion, seeds, the eggs and young of other birds, marshmallows, and invertebrates.
+  nesting: American Crows are monogamous and form long-term pair bonds. Sometimes one of the offspring from a previous year stays with the pair to help feed the nestlings. Both members of the pair build the nest, which is a bulky stick platform, lined with mud, moss, grass, and feathers, usually in the canopy of a tree. The female incubates 4-6 eggs for about 18 days. She broods the young continuously at first and then helps the male bring food. The young venture out of the nest onto nearby branches at first and begin to fledge at about 4-5 weeks.
+  migration_status: American Crows are mostly permanent residents, although they may migrate from northern regions in the fall. Flocks gather in large winter roosts, which may draw some birds short distances from their breeding areas.
+  conservation_status: American Crows are abundant throughout the United States, despite earlier attempts to eradicate them. They are well adapted to life among humans. Their numbers are increasing in Washington, especially in urban areas such as Seattle. They were absent in the Columbia Basin until recently, but with the proliferation of orchards and of urban plantings that provide nesting trees, American Crows have spread into this part of Washington as well. The spread and increase of American Crows adversely affects a number of other species that are not able to compete with the aggressive and adaptable crow.
+  when_where_wa: American Crows can be found year round in the proper habitat throughout Washington, except in alpine snowfields and in coastal areas occupied by Northwestern Crows if, in fact, the two are separate species (see Northwestern Crow.) They are relatively uncommon in eastern Washington away from urban areas.
+photos:
+- file: amcr_tg_l.jpg
+  caption: Adult
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: amcr_fl_gl_l.jpg
+  caption: 'In flight. Note: short rounded tail.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: amcr1.mp3
+  credit: null
+maps:
+  wa: cobr.jpg
+  north_america: amcrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [C, C, C, C, C, C, C, C, C, C, C, C]
+  blue_mountains: [R, R, R, R, R, R, R, R, R, R, R, R]
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: amecro
+  current_common_name: American Crow
+  current_scientific_name: Corvus brachyrhynchos
+  clements_sort: 21557
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/american_crow
+  archived: '2026-09-12'

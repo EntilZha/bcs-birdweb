@@ -1,0 +1,73 @@
+slug: american_goldfinch
+common_name: American Goldfinch
+scientific_name: Carduelis tristis
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Fringillidae
+  slug: fringillidae
+status: Common summer resident, uncommon winter.
+species_of_concern: false
+sections:
+  general_description: The American Goldfinch is the state bird of Washington. It is common throughout the lowlands of Washington, often coming to bird feeders. The male in breeding plumage is bright yellow with a black forehead, wings, and tail. He has one white wing-bar on each wing and white on his tail. Outside of the breeding season, the male is drab brown with hints of yellow and white wing-bars. In both breeding and non-breeding plumage, he has white undertail coverts contrasting with the yellow undertail coverts of the Lesser Goldfinch. The female in breeding plumage is yellowish-gray-brown on top and varies in color from bright yellow to dull yellow underneath. She has two light wing-bars on each wing and a light-colored bill. Her tail is black with white outer tips. Outside of the breeding season, she is gray above and below, and has less distinct wing-bars and a darker bill.
+  habitat: American Goldfinches can generally be found in brushy and weedy habitats at the edges of fields, rivers, and hedgerows, especially when thistle is present. Suburban gardens, poplar plantations, orchards, and other brushy areas with scattered deciduous trees are commonly used.
+  behavior: Flocks are common outside of the breeding season, and American Goldfinches often flock with redpolls and Pine Siskins. They are active foragers, and climb about nimbly when foraging, often hanging from seed-heads and other objects. Like many finches, American Goldfinches have an undulating flight. They often give call notes on the upward strokes
+  diet: Small seeds, especially thistle, make up the majority of the American Goldfinch's diet. In the summer, they eat some insects, especially aphids, but seeds dominate their diet. They feed regurgitated seeds to their young.
+  nesting: American Goldfinches breed later in the summer than most songbirds. Their breeding is timed to coincide with the peak abundance of thistle seed. They often nest in loose colonies. The nest is located in an upright fork of a shrub, tree, or occasionally a dense weed. The female builds a tightly woven, compact cup of plant fibers and spider webs and lines it with thistle-down. The female incubates 4 to 6 eggs for 12 to 14 days. The male brings her food while she incubates, and while she broods the young for the first few days after they hatch. After that, both parents bring food to the young. The young leave the nest after 12 to 17 days, but the parents continue to feed the young for a few weeks. American Goldfinches generally raise one or two broods each year.
+  migration_status: Many southern US populations of American Goldfinch are resident, but northern populations migrate. They migrate by day in flocks, and many of Washington's breeders leave the state in winter. Wintering flocks often wander about nomadically in search of food.
+  conservation_status: Throughout their range, American Goldfinches are widespread and common. The Cascades divide the two subspecies found in Washington. In western Washington, they were formerly rare, but with European settlement and the cutting of the western Washington forests that created weedy second-growth and suburban habitat, they have become common. Numbers recorded on Christmas Bird Counts vary from year to year, but appear to reflect an upward trend in winter populations in the Northwest.
+  when_where_wa: American Goldfinches are common from mid-April to mid-October in appropriate habitat throughout Washington's lowlands. They are generally present in these same areas in winter, but are much less common. They are more common in winter east of the Cascades than west, especially along the Columbia and Snake Rivers. In winter, they are less common along the outer coast than elsewhere in Washington. They breed below 500 feet on the outer coast, below 1,000 feet in the Puget Trough, and below 2,000 feet along major river valleys in northeastern Washington.
+photos:
+- file: amgo_lb_l.jpg
+  caption: Breeding male.
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: amgo_tg_l.jpg
+  caption: 'Breeding plumage male. Note: black forehead.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: amgo_w_gl_l.jpg
+  caption: Winter plumage male.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: amgo_f_tg_l.jpg
+  caption: 'Breeding plumage female. Note: buffy wing bars and pinkish bill.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: amgo1.mp3
+  credit: null
+maps:
+  wa: catr.jpg
+  north_america: amgomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, F, C, C, C, C, C, C, U, U]
+  puget_trough: [U, U, U, C, C, C, C, C, C, C, U, U]
+  north_cascades: [R, R, R, U, C, C, C, C, F, R, R, R]
+  west_cascades: [R, R, U, F, C, C, C, C, F, F, U, R]
+  east_cascades: [F, F, F, C, C, C, C, C, F, F, F, F]
+  okanogan: [F, F, F, F, C, C, C, C, C, F, F, F]
+  canadian_rockies: [F, F, F, F, F, F, F, F, F, F, F, F]
+  blue_mountains: [R, R, R, U, U, U, U, U, U, U, R, R]
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: amegfi
+  current_common_name: American Goldfinch
+  current_scientific_name: Spinus tristis
+  clements_sort: 32617
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/american_goldfinch
+  archived: '2026-09-12'

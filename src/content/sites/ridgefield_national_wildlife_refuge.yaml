@@ -1,0 +1,23 @@
+slug: ridgefield_national_wildlife_refuge
+name: Ridgefield National Wildlife Refuge
+number: 210
+ecoregions:
+- puget_trough
+sections:
+  site: Ridgefield National Wildlife Refuge has long attracted birders of all skill levels. The refuge is situated in the southernmost part of the Puget Trough ecoregion, on the Columbia River floodplain. Many areas are diked and managed by refuge personnel to benefit waterfowl, geese, and Sandhill Cranes. Marshes and riparian areas with deciduous trees, flooded fields, lakes, and oak woodlands make for good birding year round, but especially in the winter. Two of the five refuge units are open for birding - Carty Unit and River "S" Unit.
+  birds: 'Ridgefield is an especially important site in Washington for two species: Cackling Canada Geese (Dusky subspecies) and Sandhill Cranes. It is the only wintering site for the Sandhills and hosts most of the “Dusky” Cackling Canada Geese in the state. The River “S” Unit circles two of the lakes and offers wonderful waterfowl and shorebird viewing. The flooded areas and lakes have produced counts of up to 45,000 geese and 40,000 ducks. Trumpeter and Tundra Swans winter here. There is a Great Blue Heron rookery. Black-crowned Night-Herons and Great Egrets are here. A wintering Red-shouldered Hawk has been a regular visitor. Uncommon west-side passerine species include White-breasted Nuthatch and House Wren. A Vermilion Flycatcher was a big attraction one year.'
+  directions: 'From I-5, take Exit #14 (Ridgefield, Route 501), and travel two+ miles west into the town of Ridgefield. To visit the River "S" Unit, bear left on South 9th Street and then, in a scant mile, turn right onto the entrance road. Head downhill and cross a bridge to the information kiosk and the start of the driving tour. Information on regulations and restrictions (hunting) are posted at the kiosk. During hunting season, driving is permissible, but birders must stay in the car most of the tour. To visit the Carty Unit (hiking loop), go into the town of Ridgefield and take a right at North Main Street. There is a parking area at the start of the loop trail.'
+photos:
+- file: site_ridgefield.jpg
+  caption: ''
+  credit:
+    name: Hal Opperman
+    url: null
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/ridgefield_national_wildlife_refuge/3
+  archived: '2026-09-12'

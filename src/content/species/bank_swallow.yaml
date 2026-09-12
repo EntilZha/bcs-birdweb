@@ -1,0 +1,61 @@
+slug: bank_swallow
+common_name: Bank Swallow
+scientific_name: Riparia riparia
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Hirundinidae
+  slug: hirundinidae
+status: Common summer resident east. Rare west.
+species_of_concern: false
+sections:
+  general_description: Called the Sand Martin in some parts of the world, the Bank Swallow is North America's smallest swallow. It has slender wings and a long, narrow, slightly forked tail that appears almost square in flight. Like other swallows, Bank Swallows have tiny feet and bills, although their bills are more conical than those of other swallows. They are brown above and slightly darker on the wings than on the back and rump. They have a distinct breast-band and white throat, with some white wrapping back to their ears. Juveniles look like adults. Bank Swallows can be confused with Northern Rough-winged Swallows, but Northern Rough-wingeds lack the dark breast-band and forked tail.
+  habitat: Usually found near water, Bank Swallows are closely associated with sandy, vertical banks along rivers and lakes or where a bank has been created by human excavation. Bank Swallows forage over water or open fields.
+  behavior: Bank Swallows are usually seen in flocks, flying low over ponds and rivers. They usually forage in flight, but in severe weather they may forage on the ground. Their quick, fluttery wing-beats are more shallow and rapid than those of other swallows. These highly social birds nest in dense colonies of from 10 to 2,000 nests.
+  diet: Bank Swallows feed almost entirely on flying insects.
+  nesting: Bank Swallows are monogamous, although extra-pair copulations are common. These swallows use their tiny, conical bills and small feet to dig burrows in sandy banks. These banks are often not stable, and colonies move frequently because the banks collapse. The male generally digs the burrow, which can be up to five feet long. Deep inside the burrow, the female builds the nest of grass, rootlets, and weeds, lined with feathers. Both members of the pair incubate the 4 to 5 eggs for 14 to 16 days. Both feed the young, which leave the nest 18 to 24 days after hatching. The parents continue to feed the young for 3 to 5 days after they leave the nest.
+  migration_status: Long-distance migrants, Bank Swallows are the last of Washington's swallows to arrive here in the spring. They begin their migration to South America soon after the young become independent, in late July or early August. Another wave of migrants, possibly Canadian breeders, appears here in early September. Bank Swallows gather in large groups before heading south, and they migrate in mixed flocks with Cliff, Tree, and Barn Swallows.
+  conservation_status: According to the Breeding Bird Survey, the number of Bank Swallows in Washington has increased (although not significantly) since 1966. Because Bank Swallows are patchily distributed, the Breeding Bird Survey might not accurately reflect their true status, but the population of Bank Swallows in Washington is probably large and stable. Bank Swallows adapt well to new surroundings and colonize areas quickly, necessary traits, since the banks in which they nest are often unstable and easily eroded.
+  when_where_wa: Bank Swallows are common in eastern Washington from late April through August. They are found in open areas with sand banks near water or wetlands. There is a large breeding area with an estimated 10,000 burrows along the Columbia River opposite White Bluffs (Benton County). Bank Swallows are rare during migration in western Washington. They do occasionally breed west of the Cascades; nesting colonies have recently been discovered along the Toutle River (Cowlitz County) and the Green River near Auburn (King County).
+photos:
+- file: bans_gl_l.jpg
+  caption: 'Juvenile. Note: slender tail and yellow gape.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: bans_fl_gl_l.jpg
+  caption: 'Juvenile. Note: slender tail and yellow gape.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: bans1.wma
+  credit: null
+maps:
+  wa: riri.jpg
+  north_america: bansmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', R, U, U, U, U, R, '', '', '']
+  north_cascades: ['', '', '', '', U, U, U, R, '', '', '', '']
+  west_cascades: ['', '', '', R, U, U, U, U, R, '', '', '']
+  east_cascades: ['', '', '', U, F, F, F, F, R, '', '', '']
+  okanogan: ['', '', '', U, C, C, C, C, U, '', '', '']
+  canadian_rockies: ['', '', '', F, C, C, C, C, C, U, '', '']
+  blue_mountains: ['', '', '', '', '', R, R, R, R, '', '', '']
+  columbia_plateau: ['', '', '', C, C, C, C, C, C, R, '', '']
+taxonomy:
+  ebird_code: banswa
+  current_common_name: Bank Swallow
+  current_scientific_name: Riparia riparia
+  clements_sort: 24051
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/bank_swallow
+  archived: '2026-09-12'

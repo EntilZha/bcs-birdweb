@@ -1,0 +1,73 @@
+slug: european_starling
+common_name: European Starling
+scientific_name: Sturnus vulgaris
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Sturnidae
+  slug: sturnidae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: The European Starling is a medium-sized, black songbird with short, triangular wings, spotted plumage, and a short tail. The adult in breeding plumage has a distinctive thin, pointed, yellow bill and black, speckled plumage with purple-green iridescence. The non-breeding adult has a black beak and light spots. Juveniles are drab gray-brown overall. Males and females look alike.
+  habitat: Starlings are typically associated with disturbed areas and human-altered settings. They can be found in practically all habitats, with the exception of large tracts of undisturbed forests and undeveloped alpine areas. They usually forage in open areas, especially lawns, agricultural fields, or other developed areas, but require nearby nesting cavities.
+  behavior: European Starlings tend to form flocks year round, but flocks are generally larger'and often huge'in fall and winter. They often forage with other species, including Red-winged Blackbirds, Brown-headed Cowbirds, American Robins, House Sparrows, crows, and Rock Doves. When foraging, they generally walk or run along the ground and probe the soil with their bills, looking for food. Starlings can be aggressive and will persistently harass other species to take over nesting cavities. They will also mob predators in flight, gathering into tight flocks and dive-bombing a hawk or other predator. Starlings are intelligent and adaptable, and are capable mimics.
+  diet: Starlings eat a diverse, omnivorous diet of invertebrates, berries and other fruit, grains, and seeds. They commonly come to seed and suet feeders.
+  nesting: Starlings are generally monogamous, but can be polygamous. They begin nesting early in the breeding season. Males establish territories and choose nest sites, then attract females. European Starlings are cavity nesters, and nests are generally located in natural hollows, old woodpecker holes, birdhouses, or building eaves and crevices. The male generally starts the nest, and the female finishes the job, often removing material that the male placed initially. The nest is a loose pile of twigs, weeds, grass, feathers, leaves, and other material, with a depression in the middle. Both members of the pair help incubate 4 to 6 eggs for about 12 days. Females will sometimes lay eggs in other starlings' nests. Both adults help brood the young and bring food to the nest. The young leave the nest after about three weeks. The parents may continue to feed the young for a day or two after they fledge, but the young can forage on their own at that time. If this is the first brood, the female typically starts laying a second brood shortly after the first one fledges. The male may provide support for up to 12 days after the young leave the nest, and the young often join other newly fledged young on communal roosts.
+  migration_status: European Starlings appear to be partially migratory, but patterns vary regionally and individually. Many birds move into valleys and urban areas during the winter.
+  conservation_status: It is hard to imagine now, but European Starlings were purposefully introduced into the United States from Europe. The effort failed twice before a successful introduction of about 60 birds was made in New York City's Central Park in 1890. Those birds reproduced and spread quickly across developed and other human-altered habitats. European Starlings were first recorded in Washington in 1943, only 53 years later. The first confirmed breeding was in 1951, and by then starlings had crossed into western Washington. The first record in the Puget Sound region was in 1949, and the first western Washington breeding was in 1955. By 1977, only 34 years after they first appeared in Washington, European Starlings were abundant throughout the state. The Breeding Bird Survey recorded only a slight, not statistically significant, increase in Washington between 1966 and 2002. However even if the population increase is leveling off, current numbers are high enough that European Starlings are considered pests. European Starlings have had a strong negative impact on many cavity-nesting birds, Western Bluebirds, Lewis' Woodpeckers, and Purple Martins among them. A number of control methods have been proposed, but as yet no successful, cost-effective, sustainable methods have been discovered.
+  when_where_wa: European Starlings are abundant year round in most lower-elevation habitats throughout Washington, especially in proximity to human development.
+photos:
+- file: eust_gl_l.jpg
+  caption: 'Breeding plumage. Note: yellow bill.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: eust_w_gl_l.jpg
+  caption: 'Nonbreeding plumage. Note: white spots.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: eust_j_gl_l.jpg
+  caption: 'Juvenile. Note: drab brown overall and black bill.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: eust_fl_gl_l.jpg
+  caption: Breeding plumage in flight.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: eust1.mp3
+  credit: null
+maps:
+  wa: stvu.jpg
+  north_america: eustmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [C, C, C, C, C, C, C, C, C, C, C, C]
+  blue_mountains: ['', '', '', R, R, R, R, R, R, R, '', '']
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: eursta
+  current_common_name: European Starling
+  current_scientific_name: Sturnus vulgaris
+  clements_sort: 27813
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/european_starling
+  archived: '2026-09-12'

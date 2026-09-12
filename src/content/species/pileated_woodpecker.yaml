@@ -1,0 +1,67 @@
+slug: pileated_woodpecker
+common_name: Pileated Woodpecker
+scientific_name: Dryocopus pileatus
+order:
+  name: Piciformes
+  slug: piciformes
+family:
+  name: Picidae
+  slug: picidae
+status: Fairly common resident west. Uncommon east.
+species_of_concern: true
+sections:
+  general_description: Pileated Woodpeckers are the largest woodpeckers in North America (with the exception of the Ivory-billed Woodpecker, which probably no longer lives within the borders of the United States). They are crow-sized and black, with bright red pointed crests, the red more extensive on the crests of males. A broad white stripe on each side of their faces below their eyes continues down along each side of their necks. Males have red moustachial stripes, females black. White underwing linings and some white at the wrist above are visible when the bird flies.
+  habitat: Any forest type (broadleaved, coniferous, or mixed) can sustain Pileated Woodpeckers as long as there are trees large enough for roosting and nesting. Pileated Woodpeckers are often associated with mature and old-growth forests but can breed in younger forests if they contain some large trees. In western Washington, they typically roost in western hemlock and western red cedar.
+  behavior: These powerful woodpeckers chip out characteristic oval or rectangular excavations in the trees in which they forage. Their drumming can be heard for long distances, as can their loud 'laughing' call. They roost in hollow trees with multiple entrance holes.
+  diet: Pileated Woodpeckers eat wood-boring insects and insects that nest in trees, including long-horned beetles and especially carpenter ants. They eat some fruits and nuts as well.
+  nesting: Long-term monogamous pairs stay together on territories year round. Both members of the pair excavate a new nest cavity in a dead tree or branch every year. The excavation can take the pair up to six weeks to complete. The nest is lined only with woodchips from the excavation. Both sexes typically incubate the 3 to 5 eggs (usually 4) for about 18 days and brood the young for the first 7 to 10 days after they hatch. Both regurgitate food for the young, which leave the nest after 24 to 28 days but may stay with the parents for another 2 to 3 months while they learn to forage.
+  migration_status: Although generally resident, Pileated Woodpeckers sometimes wander from their breeding areas and many move down-slope or into streamside forests or suburban areas in winter.
+  conservation_status: Pileated Woodpeckers play an important role within their ecosystems by excavating nesting and roosting cavities that are subsequently used by many other birds and by many small mammals, reptiles, amphibians, and invertebrates. Shooting for sport and food was formerly a significant source of mortality. Although shooting Pileated Woodpeckers is now illegal, the practice may continue in some places but probably not enough to significantly affect the population. Clear-cutting of old-growth and other forests currently has the most significant impact on Pileated Woodpecker habitat, but Pileated Woodpeckers are fairly adaptable, which offsets some of the impact from habitat loss. They are, however, currently candidates for endangered species listing by the Washington Department of Fish and Wildlife and are included on the Gap Analysis list of species-at-risk.
+  when_where_wa: Pileated Woodpeckers are uncommon residents in appropriate habitats at low to mid-elevations throughout the state. They are more common in western than in eastern Washington. They can be found even in city parks where large trees are present, and they breed in Seward Park, Discovery Park, and Camp Long (all in Seattle, King County).
+photos:
+- file: piwo_gl_l.jpg
+  caption: 'Male. Note: red forecrown and red malar.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: piwo_fl_gl_l.jpg
+  caption: 'Male in flight. Note: red forecrown and red malar.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: piwo_ffl_gl_l.jpg
+  caption: 'Female in flight. Note: dark forecrown and black malar.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: piwo1.mp3
+  credit: null
+maps:
+  wa: drpi.jpg
+  north_america: piwomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, F, F, F, F, F, F, F, F, F]
+  puget_trough: [F, F, F, F, F, F, F, F, F, F, F, F]
+  north_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: [U, U, U, U, U, U, U, U, U, U, U, U]
+  blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: pilwoo
+  current_common_name: Pileated Woodpecker
+  current_scientific_name: Dryocopus pileatus
+  clements_sort: 11762
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/pileated_woodpecker
+  archived: '2026-09-12'

@@ -1,0 +1,67 @@
+slug: northern_rough-winged_swallow
+common_name: Northern Rough-winged Swallow
+scientific_name: Stelgidopteryx serripennis
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Hirundinidae
+  slug: hirundinidae
+status: Fairly common summer resident.
+species_of_concern: false
+sections:
+  general_description: The name, 'Rough-winged,' refers to the tiny serrations on the outermost wing feathers of this swallow, visible only when the bird is in the hand. Adults are plain brown above with a white belly and buffy throat and upper breast. They have square tails and white under-tail coverts, sometimes visible from above on the sides of their rumps when the bird is in flight. Juveniles are similar in appearance to adults but have reddish-brown wing-bars. Northern Rough-winged Swallows can be confused with Bank Swallows, but Bank Swallows have distinct breast-bands and white throats, with some white wrapping back to their ears. Northern Rough winged Swallows have shorter tails than those of Bank Swallows. Northern Rough-winged Swallows are also broader-winged and stockier than Bank Swallows. Bank Swallows have backs and rumps that are paler than their wings. Consult a field guide or experienced observer for assistance in identification.
+  habitat: Northern Rough-winged Swallows are usually found at lower elevations near water, especially along sandy, coastal cliffs or rivers with high, sandy banks and nearby open areas. They also nest in man-made banks. They are the principal bank-nesting swallow in western Washington. In eastern Washington, their habitat overlaps almost completely with Bank Swallows, although Bank Swallows are more restricted to the Columbia Basin.
+  behavior: Northern Rough-winged Swallows generally do not gather in large flocks. Like other swallows, Northern Rough-winged Swallows are aerial foragers, flying low over open water, fields, and narrow gullies. They feed over water more than most swallows, and sometimes pluck food from the water's surface. Northern Rough-winged Swallows have a distinctive slow and deliberate wing-beat.
+  diet: Northern Rough-winged Swallows feed almost exclusively on flying insects.
+  nesting: Northern Rough-winged Swallows usually nest in small colonies of a few pairs, occasionally as isolated pairs. Where their range overlaps with that of Bank Swallows, they can often be found on the outskirts of Bank Swallow colonies. They usually nest in burrows in sandy, vertical banks. They may dig their own burrows, from one to six feet long, or use burrows dug by Bank Swallows, kingfishers, or ground squirrels. Sometimes they nest in pipes, crevices, or holes in buildings. Their bulky nests are made of twigs, weeds, and fibers of bark, lined with grass and sometimes horse manure. The female incubates five to seven eggs for 12 to 16 days. Both parents feed the young, which leave the nest after 19 to 20 days. The parents continue to feed the young for a few days after they leave the nest.
+  migration_status: Medium-distance migrants, Northern Rough-winged Swallows typically migrate in flocks of mixed swallow species to Mexico and Central America. They arrive in Washington in April and leave in the late summer, soon after the young fledge. Because both fall and spring migrations extend over many weeks, large concentrations of migrants are unusual.
+  conservation_status: According to the Breeding Bird Survey, the population of Northern Rough-winged Swallows has declined in Washington since 1966 (although the decline is not statistically significant). However, since Northern Rough-winged Swallows are patchily distributed, they might not be accurately counted by the methods employed by the Breeding Bird Survey. River flooding and cattle grazing, both of which cause stream erosion, have exposed many sandy banks suitable for nesting, and increased development in Washington has created more artificial nest sites as well. As the populations of most cavity-nesting species tend to be limited by the availability of cavities, the abundance of potential nest sites should bode well for the Northern Rough-winged Swallow.
+  when_where_wa: Northern Rough-winged Swallows are common from mid-April through August at lower elevations throughout Washington were there is appropriate nesting habitat nearby, especially around farms and the floodplains of major rivers.
+photos:
+- file: nrws_fl_gl_l.jpg
+  caption: 'In flight. Note: square tail, plain brown upperparts and dusky breast fading to a white belly.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: nwrs_gl_l.jpg
+  caption: 'Adult. Note: short tail, plain brown head/back/wings, and dusky breast.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: nrws_j_tg_l.jpg
+  caption: 'Juvenile. Note: buffy throat, yellow bill gape, and cinnamon wing-bars.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: NRWS01.mp3
+  credit: null
+maps:
+  wa: stse.jpg
+  north_america: nrwsmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', U, F, F, F, U, R, '', '', '']
+  puget_trough: ['', '', '', U, F, F, F, F, U, '', '', '']
+  north_cascades: ['', '', '', F, F, F, F, U, R, '', '', '']
+  west_cascades: ['', '', '', F, F, F, F, U, R, '', '', '']
+  east_cascades: ['', '', '', F, F, F, F, F, U, '', '', '']
+  okanogan: ['', '', '', F, F, F, F, F, '', '', '', '']
+  canadian_rockies: ['', '', '', F, F, F, F, U, '', '', '', '']
+  blue_mountains: ['', '', '', R, R, R, R, R, R, '', '', '']
+  columbia_plateau: ['', '', U, F, F, F, U, U, R, '', '', '']
+taxonomy:
+  ebird_code: nrwswa
+  current_common_name: Northern Rough-winged Swallow
+  current_scientific_name: Stelgidopteryx serripennis
+  clements_sort: 24106
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/northern_rough-winged_swallow
+  archived: '2026-09-12'

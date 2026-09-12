@@ -1,0 +1,61 @@
+slug: vesper_sparrow
+common_name: Vesper Sparrow
+scientific_name: Pooecetes gramineus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Common summer resident east. Rare west.
+species_of_concern: true
+sections:
+  general_description: The Vesper Sparrow is a chunky bird with a finely streaked breast and an unstreaked belly, a short to medium-length notched tail, and white outer tail feathers visible in flight. It has a white eye-ring and a dark ear patch bordered in white along the lower and rear edges. The small chestnut patches on its shoulders are not always visible. Vesper Sparrows west of the Cascades have a pinkish hue and are smaller and browner than eastern Washington birds. Vesper Sparrows are somewhat similar to both the Song and Savannah Sparrows, but are lighter than both. Vesper Sparrows also lack the bold eyeline found in the Savannah Sparrow. Vesper Sparrows are the only nesting sparrows of the open, low valleys of Washington that display white outer tail feathers in flight. This characteristic, along with the chestnut patch occasionally visible on the bend of the wing, distinguishes it from other local sparrows.
+  habitat: Vesper Sparrows are commonly found in dry grasslands, sagebrush, and agricultural fields at low to moderate elevations. They are uncommon in heavily grazed sagebrush country with little grass cover. These sparrows breed in native shrub-steppe habitats or in small patches of unplowed grass and shrubs near agricultural fields.
+  behavior: Vesper Sparrows are often seen in loose flocks before fall migration. They spend most of their time on the ground and take frequent dust baths. Males sing from the highest perches in their territories--often a fence post, shrub, or tree limb. During courtship, the male walks or runs along the ground with his wings raised and his tail spread widely, then periodically rises into the air to give a short flight-song. The female has been known to protect the nest by dragging her leg or wing in a distraction display when threatened. The call is distinctively different from those of the Song Sparrow and the Savannah Sparrow.
+  diet: Vesper Sparrows eat mostly insects and the seeds of grasses and weeds.
+  nesting: They build a bulky, loose, cup-like nest of grasses and rootlets on the ground in a small depression, often near the base of a grass clump, weed, or shrub. The female typically lays 3-5 eggs in mid-May, and incubates them for 11-13 days. The young fledge in 7-12 days, and pairs commonly raise two broods per season.
+  migration_status: Vesper Sparrows winter in the southern to east-central US south to the Gulf Coast and central Mexico. West of the Cascades, birds arrive in early April. The eastern Washington Two subspecies of Vesper Sparrows occur in Washington, divided by the Cascades. The subspecies found west of the Cascades is rare and declining locally. This population is in danger of extirpation in Washington due to conversion of prairies to residential areas, farmland, shrub fields, and forest. The eastern Washington subspecies is common and widespread. Breeding Bird Survey data have shown a statewide increase of 4.4% per year from 1966-1991. Loss of habitat due to development is a potential threat to both subspecies, as are Brown-headed Vesper Sparrows winter in the southern to east-central US south to the Gulf Coast and central Mexico. West of the Cascades, birds arrive in early April. The eastern Washington subspecies arrives in mid-March. Both start to migrate south in mid-September.
+  conservation_status: Two subspecies of Vesper Sparrows occur in Washington, divided by the Cascades. The subspecies found west of the Cascades is rare and declining locally. This population is in danger of extirpation in Washington due to conversion of prairies to residential areas, farmland, shrub fields, and forest. The eastern Washington subspecies is common and widespread. Breeding Bird Survey data have shown a statewide increase of 4.4% per year from 1966-1991. Loss of habitat due to development is a potential threat to both subspecies, as are Brown-headed Cowbirds and nest destruction by farm equipment in agricultural areas.
+  when_where_wa: Most occur in the grass, sagebrush, and open Ponderosa pine areas of eastern Washington, but small populations occur in the open prairies around the southern end of Puget Sound and in grassy, weedy areas along salt water. Western Washington populations may be found in Dungeness (Clallam County) (although this population may be extirpated), San Juan Island (San Juan County), the Chambers Lake area, Weir Prairie, and Scatter Creek Wildlife Recreation Area (Pierce and Thurston Counties).
+photos:
+- file: vesp_tg_l.jpg
+  caption: 'Note: large bill and reddish spot at leading edge of wing.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: vesp_w_gl_l.jpg
+  caption: 'Winter plumage. Note: streaked back, white eye ring, and large light gray bill.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: VESP01.mp3
+  credit: null
+maps:
+  wa: poogr.jpg
+  north_america: vespmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', R, R, R, R, R, R, R, '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', U, U, U, U, U, U, '', '', '']
+  okanogan: ['', '', F, C, C, C, C, C, U, '', '', '']
+  canadian_rockies: ['', '', '', U, U, U, U, U, U, '', '', '']
+  blue_mountains: ['', '', '', R, F, F, F, F, F, '', '', '']
+  columbia_plateau: ['', '', F, C, C, C, C, C, F, '', '', '']
+taxonomy:
+  ebird_code: vesspa
+  current_common_name: Vesper Sparrow
+  current_scientific_name: Pooecetes gramineus
+  clements_sort: 33217
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/vesper_sparrow
+  archived: '2026-09-12'

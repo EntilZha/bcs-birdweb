@@ -1,0 +1,55 @@
+slug: boreal_chickadee
+common_name: Boreal Chickadee
+scientific_name: Poecile hudsonica
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Paridae
+  slug: paridae
+status: Uncommon resident east.
+species_of_concern: true
+sections:
+  general_description: Boreal Chickadees look similar to Black-capped Chickadees, but have brownish-gray caps, less white on their cheeks, and smaller black throat-patches than Black-cappeds. Their sides are deep buff, and their backs are gray-brown. Males, females, and juveniles share the same plumage.
+  habitat: Boreal Chickadees are specialists of the far-northern or high-altitude boreal spruce-fir forest. They use both young and mature forests, especially stands dominated by Engleman Spruce at elevations of 5,500 feet and above.
+  behavior: During the breeding season Boreal Chickadees are territorial, but will join mixed-species flocks in winter. They forage by hopping on twigs and branches and gleaning the surfaces, probing into bark crevices, and occasionally hovering in front of branches. They often hang upside-down to get at the undersides of branches, cones, and needles. These chickadees store food in the fall and retrieve it later in winter, which may allow them to be resident at high altitudes and latitudes. This species has a reputation among birdwatchers as an elusive bird, as its range is remote and it is not as likely to call as often as other chickadees. Boreal Chickadees also forage more within the thick foliage than the other North American chickadees, and this makes them difficult to see.
+  diet: Insects (including pupae and eggs), spiders, and seeds make up the majority of these omnivores' diets. During the breeding season they eat many caterpillars and other animal matter.
+  nesting: Boreal Chickadees are monogamous cavity-nesters, and females (often joined by males) may excavate their own or enlarge an existing nest cavity in soft rotten wood. They also will use an old woodpecker or other hole or even hollows in the earth beneath exposed tree roots. The nest is usually low, typically within 12 feet of the ground. The female builds a foundation of moss, lichen, and bark strips in the nest cavity, and then adds a lining of soft hair, feathers, and plant down. The female incubates 4 to 9 eggs for about 15 days. The male brings food while the female incubates and for the first few days after the young hatch, while the female broods the young almost continuously. As the young grow, the female joins the male in providing food. The young leave the nest at about 18 days, but stay on the breeding territory for another two weeks. The adults supplement their food while they learn to forage on their own.
+  migration_status: Boreal Chickadees are one of only a few species of songbird that are year-round residents in boreal forest. They do undertake short-distance movements in some parts of their range, and irruptions occur in some years. Both of these movements are probably induced by lack of available food rather than by cold weather.
+  conservation_status: Boreal Chickadees inhabit a wide range across much of the far north. The remoteness of much of their range probably helps secure their future. This remoteness also makes reliable trend data difficult to obtain, although the population is considered stable. Their ability to use both mature and younger forests should help Boreal Chickadees withstand the effects of logging within their range. Boreal Chickadees in Washington probably comprise two different subspecies, with the birds in the northern Cascades from one population and the birds in the Kettle and Selkirk Mountains in eastern Washington from another population.
+  when_where_wa: Boreal Chickadees are uncommon year round in high-elevation forests at the northern border of Washington in the North Cascades, Kettle, and Selkirk Mountains. Only Whatcom, Okanogan, Ferry, and Pend Oreille Counties have confirmed breeding-season records. They can be common in some areas including Freezeout Ridge, Roger Lake, and Long Swamp in Okanogan County.
+photos:
+- file: boch_gt_l.jpg
+  caption: 'Note: brown cap, olive back, and buffy sides.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+audio:
+  file: BOCH01.mp3
+  credit: null
+maps:
+  wa: pahu.jpg
+  north_america: bochmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: [U, U, U, U, U, U, U, U, U, U, U, U]
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: borchi2
+  current_common_name: Boreal Chickadee
+  current_scientific_name: Poecile hudsonicus
+  clements_sort: 22099
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/boreal_chickadee
+  archived: '2026-09-12'

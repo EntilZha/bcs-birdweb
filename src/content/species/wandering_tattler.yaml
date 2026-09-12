@@ -1,0 +1,67 @@
+slug: wandering_tattler
+common_name: Wandering Tattler
+scientific_name: Tringa incana
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Fairly common coastal migrant.
+species_of_concern: true
+sections:
+  general_description: The Wandering Tattler is the only shorebird in this region that is plain gray above and heavily barred below. Its bill is of medium length for a shorebird, and it has short, yellow legs. Wandering Tattlers seen in Washington are typically in breeding plumage. Juveniles and adults in non-breeding plumage look similar to adults, but lack the barring below. In flight, the Wandering Tattler appears entirely gray above, with a solid gray tail and gray wings.
+  habitat: Wandering Tattlers nest in the far north by rocky mountain streams. During migration and winter, they inhabit rocky coasts, reefs, jetties, and breakwaters.
+  behavior: Wandering Tattlers are basically solitary birds, on the ground and especially in flight. They bob and teeter while feeding, and move nervously and quickly over rocks, probing for active prey on the surface. On the breeding grounds, they walk or wade along streams to find food. The Wandering Tattler gets part of its name from its practice of giving alarm calls when perceived threats are nearby, alerting other shorebirds to the danger. Its call is a series of clear, hollow whistles, all on one pitch.
+  diet: Wandering Tattlers eat insects, crustaceans, worms, and small animals that scramble among the rocks.
+  nesting: The nest of the Wandering Tattler is located on the ground in a hollow in rocks or gravel, usually near a stream. It is a shallow depression that may or may not be lined with small twigs, rootlets, or leaves. Both parents help incubate the 4 eggs for 23-25 days. Once hatched, the young leave the nest within a day and can feed themselves immediately. Both parents tend the young, although within a week or two, one parent leaves. The remaining parent tends the young until they are independent.
+  migration_status: Long-distance migrants, Wandering Tattlers travel from Alaska and northwest Canada to the southern California coast and beyond, with some birds crossing the Pacific Ocean to spend the winter in Australia and on islands in the South Pacific.
+  conservation_status: The Canadian Wildlife Service estimates the population of Wandering Tattlers to number 10,000 birds, with half of that number breeding in Canada. They are widely dispersed across their breeding and wintering range. This distribution makes the population difficult to survey, but probably also helps their numbers to remain stable.
+  when_where_wa: Wandering Tattlers are common migrants on the coast of Washington. They are rare in Puget Sound and other parts of Washington. In the spring, they are common from mid-April to mid-May. They are usually gone from the Washington coast by the second week of May. The post-breeding migration is more protracted, with adults common on Washington's rocky outer coast from mid-July into August. By the second week of August, most of the Wandering Tattlers coming through are juveniles, and are common into October.
+photos:
+- file: wata_br_gth_l.jpg
+  caption: Breeding plumage
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: wata_br2_gth_l.jpg
+  caption: Breeding plumage
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: wata_br_dp_l.jpg
+  caption: 'Breeding plumage. Note: barred breast/belly.'
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+audio:
+  file: wata.mp3
+  credit: null
+maps:
+  wa: hein.jpg
+  north_america: watamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', F, F, '', F, F, F, R, '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: wantat1
+  current_common_name: Wandering Tattler
+  current_scientific_name: Tringa incana
+  clements_sort: 6134
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/wandering_tattler
+  archived: '2026-09-12'

@@ -1,0 +1,73 @@
+slug: caspian_tern
+common_name: Caspian Tern
+scientific_name: Hydroprogne caspia
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Summer resident.
+species_of_concern: true
+sections:
+  general_description: The largest of the terns, the Caspian Tern is one of the most widespread tern species in the world, occurring on every continent except Antarctica. It is white with a light gray mantle and white undersides. The breast and face are also white. The legs and eyes are black, and the bill is large, heavy, and bright red-orange. It has a shallowly forked tail and a slight crest that gives the head a squared-off look. In breeding plumage, the Caspian Tern sports a solid black cap, which recedes in the non-breeding season, resulting in a spray of white at the face mixing with black. Juveniles appear similar to adults in non-breeding plumage but have a lighter mantle that is mottled with light tan.
+  habitat: Caspian Terns use fresh- and saltwater wetlands, especially estuaries, coastal bays, and beaches. They are not usually found on open ocean, but prefer protected waters. Nesting usually takes place on low sand or gravel islands with sparse vegetation. In Washington, the birds have shifted their preferred habitat from natural sites inland to coastal, human-altered sites (often islands made from dredged material). They have also shifted from nesting in small groups mixed with gulls to large colonies of only Caspian Terns.
+  behavior: Caspian Terns are less gregarious than other terns, nesting in smaller colonies, although this is changing in Washington. They can be quite aggressive. When foraging, they fly with their bills pointing downward. When they spot a fish, they hover and then plunge into the water after it, often submerging completely. Their broad wings allow them to soar, gull-like, flapping with strong, slow wing-beats.
+  diet: The vast majority of the diet of the Caspian Tern is fish, especially those that swim near the surface of the water. In the Columbia River estuary, where most of Washington's population breeds, salmonid smolts are a major prey item.
+  nesting: First breeding at the age of three years, Caspian Terns nest in colonies in areas with no vegetation, often on islands. Both parents help build the nest, which is located on the ground and can range from a scrape in the sand to a depression lined with a sturdy rim of vegetation and mollusk and crustacean shells. Both parents incubate the 1 to 3 eggs for about three weeks. A few days after hatching, the young may leave the nest but stay nearby, or they may remain at the nest until ready to fly. Both parents help feed the young during the long adolescent period. The young first fly about a month after hatching, but may stay with, and be fed by, the parents for many more months.
+  migration_status: Some Caspian Terns in Washington are medium-distance migrants, wintering on the coast of California, while others travel greater distances, wintering as far south as Colombia and Venezuela.
+  conservation_status: Susceptible to disturbance at the nesting site and quick to abandon colonies when disturbed, Caspian Tern populations have declined in Europe and Africa to the point of extirpation in some areas. Meanwhile, the Caspian Tern has dramatically expanded its population in Washington. Caspian Terns on the Pacific coast have been shifting northward for about 50 years. While they are native to the Columbia estuary and have been present in this area for many years, the first recorded colonies established in Washington were in inland lakes, marshes, and impoundments in the eastern part of the state in the 1930s. The first colony recorded in western Washington was established at Grays Harbor (Grays Harbor County) in 1957. From 1960 to 1980, the Pacific coast population increased almost 74%, with much of the growth occurring in the Washington colonies. These colonies were scattered along the outer coast and in Puget Sound until the mid-1980s, when a colony began to form in the Columbia River estuary. The estuary population has increased by over 600% since 1986 with an annual growth rate of 15-20%. Habitat loss elsewhere and islands created from dredged materials within the estuary have contributed to this dramatic increase. The nesting population in Washington is now by far the largest on the West Coast north of Mexico, and it is estimated that over 70% of the Pacific coast population nests in the Columbia River estuary. During their nesting period, Caspian Terns in the estuary eat small fish, including young salmon making their way to the ocean, of which there are an estimated 60+ million in the Columbia River. Not surprisingly, the Caspian Tern nesting season coincides with the peak migration period of young salmon. In 2000, the US Army Corps of Engineers attempted to relocate the Caspian Tern colony from Rice Island to East Sand Island, hoping to reduce predation on migrating salmon smolts. Active harassment of the terns was planned, but was stopped through a lawsuit brought by the Seattle Audubon Society, Defenders of Wildlife, American Bird Conservancy, and the National Audubon Society. A settlement reached in 2002 called for the Army Corps of Engineers to complete a comprehensive Environmental Impact Statement to provide responsible management for Caspian Tern colonies in the Columbia River estuary. The Corps will also prepare a long-term management plan that focuses on establishing additional nesting sites outside the Columbia River estuary and reviews the science of tern predation. For more information about Caspian Terns in the Columbia River estuary, go to http://www.columbiabirdresearch.org/ and click on Background. See also http://www.seattleaudubon.org/conservation/ax_caspian_tern_lawsuit.html.
+  when_where_wa: Caspian Terns are most common in the nesting season in the Columbia River estuary (Wahkiakum and Pacific Counties) where the majority of the Washington population nests. A small colony has nested on the Asarco Superfund site on Commencement Bay in southern Puget Sound. During the breeding season, non-breeders can be found in bays and estuaries along the coast and in the Puget Sound region. The birds start leaving the breeding colonies in late June and July, but can be seen through October. In spring, birds first start appearing in late March and April.
+photos:
+- file: cate_fl_jp_l.jpg
+  caption: 'Adult breeding. Note: heavy red bill'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: true
+- file: cate_gl_l.jpg
+  caption: Adult breeding
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: cate_wfl_gl_l.jpg
+  caption: Adult nonbreeding.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: cate_w_tg_l.jpg
+  caption: 'Adult nonbreeding. Note: faded black cap.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: cate1.mp3
+  credit: null
+maps:
+  wa: stca.jpg
+  north_america: catemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', R, C, C, C, C, C, F, U, R, '']
+  puget_trough: ['', '', R, C, C, C, C, C, F, R, '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', R, F, F, F, F, F, U, '', '', '']
+  east_cascades: ['', '', '', R, R, R, U, U, U, R, '', '']
+  okanogan: ['', '', '', '', R, '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', R, R, '', '', '', '', '']
+  columbia_plateau: ['', '', U, F, F, F, F, F, U, '', '', '']
+taxonomy:
+  ebird_code: caster1
+  current_common_name: Caspian Tern
+  current_scientific_name: Hydroprogne caspia
+  clements_sort: 6718
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/caspian_tern
+  archived: '2026-09-12'

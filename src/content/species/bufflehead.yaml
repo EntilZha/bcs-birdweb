@@ -1,0 +1,85 @@
+slug: bufflehead
+common_name: Bufflehead
+scientific_name: Bucephala albeola
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common winter. Rare breeder east.
+species_of_concern: false
+sections:
+  general_description: Washington's smallest diving duck, the Bufflehead, is easily distinguished from other ducks. The male has a white underside and a dark back that appears black, but upon closer inspection, is actually a deep iridescent greenish-purple. At the back of the black head is a wedge of white. This mark distinguishes the Bufflehead from the larger goldeneyes, which have white in front of their eyes. The smaller female is a drab, brownish, dusty-black with white ear- and wing-patches.
+  habitat: Buffleheads' breeding habitat is small lakes and ponds in boreal forests with nearby stands of poplar and aspen. In the winter, they are most often found in coastal areas in shallow bays and inlets.
+  behavior: Aggressive and monogamous during the breeding season, Buffleheads sometimes keep the same mate, and often the same nest, for several years. Females almost always return to their hatch-sites to breed. Territorial disputes between females with young often end up with the winning female going away with more or perhaps all of the young. Buffleheads have numerous elaborate courtship displays that they perform throughout the year, except during the post-breeding molt and in the early fall.
+  diet: When nesting, Buffleheads eat mostly insect larvae and other invertebrates. In winter, their diet shifts to crustaceans and mollusks. They dive and swallow their prey under water.
+  nesting: Buffleheads nested historically in abandoned flicker holes, which are too small for other cavity-nesting ducks. They now also nest in man-made boxes. Nests are located within 25 yards of the water and from 2 to 42 feet above the ground. The female uses enough down to cover the eggs but adds no other material. She lays a median of 9 eggs, which she incubates alone. Once the young hatch, the female continues to care for them, although they are able to feed themselves almost immediately.
+  migration_status: Birds found in Washington in winter come from many western breeding areas. The birds arrive in Washington in late October to early November. Like many ducks, Buffleheads migrate at night.
+  conservation_status: Buffleheads are among the few species of ducks whose numbers have dramatically increased since the mid-1950s when over-hunting was a significant factor. Protection from and regulation of hunting have helped these birds. Habitat degradation, on the other hand, has eliminated nesting habitat. The tendency of females to return to the areas where they were hatched makes it difficult to repopulate an area once a population is gone. Populating a new area is similarly difficult.
+  when_where_wa: In winter, densities of Bufflehead are high in sheltered bays and inlets throughout the state's coastal areas. They also winter on fresh water in smaller numbers. In the breeding season, they rarely breed in the northeastern corner of the state. They have recently been recorded breeding at Big Meadow Lake (Pend Orielle County), and the Turnbull National Wildlife Refuge (Spokane County). Washington is at the southwestern edge of their breeding range, but non-breeders can be spotted in the summer throughout the state.
+photos:
+- file: buff_f_lb_l.jpg
+  caption: Female
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: buff_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: buff_tg_l.jpg
+  caption: Male
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: buff_f_tg_l.jpg
+  caption: 'Female. Note: auricular white patch'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: buff_ffl_gt_l.jpg
+  caption: Female
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: buff_fl_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: buff.mp3
+  credit: null
+maps:
+  wa: bual.jpg
+  north_america: buffmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, F, R, R, R, R, C, C, C]
+  puget_trough: [C, C, C, C, C, R, R, R, U, C, C, C]
+  north_cascades: [C, C, C, C, U, '', '', '', '', '', C, C]
+  west_cascades: [C, C, C, C, F, '', '', '', R, F, C, C]
+  east_cascades: [C, C, C, C, U, '', '', R, U, F, C, C]
+  okanogan: [U, C, C, C, F, R, R, R, R, C, C, C]
+  canadian_rockies: [F, F, F, F, U, R, R, R, F, F, F, F]
+  blue_mountains: ['', '', '', R, R, '', '', '', R, R, '', '']
+  columbia_plateau: [C, C, C, C, F, R, R, R, R, C, C, C]
+taxonomy:
+  ebird_code: buffle
+  current_common_name: Bufflehead
+  current_scientific_name: Bucephala albeola
+  clements_sort: 742
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/bufflehead
+  archived: '2026-09-12'

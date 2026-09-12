@@ -1,0 +1,67 @@
+slug: northern_waterthrush
+common_name: Northern Waterthrush
+scientific_name: Seiurus noveboracensis
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: Uncommon summer east. Rare winter west.
+species_of_concern: true
+sections:
+  general_description: The Northern Waterthrush is a large warbler with a long, heavy bill and a flattish head. Males and females look alike. They are dark brown above and buff-white with dark streaks below. They have distinctive dark eye-lines with a white line above that, and dark caps. Their wings and tails appear solid dark-brown from above.
+  habitat: Northern Waterthrushes breed in cool, dark, forested wetlands, frequently along the margins of ponds or lakes. They are found in both coniferous and broadleaved forests, but in Washington, they typically inhabit alder or willow stands near standing water. During migration, they can be found in back yards and city parks, often away from water, but they are most likely to be found in thick cover along streams or ponds. Northern Waterthrushes often winter in mangrove swamps.
+  behavior: Northern Waterthrushes spend much of their time on the ground, wading through standing water, walking along the ground, and hopping over downed logs and other obstacles. They bob their rear ends constantly'a good identifying behavior. They will forage in foliage, but most foraging is on the ground, in shallow water, or around partially submerged logs and other objects. They toss aside dead and soggy debris as they search for food. Males sing to attract mates, and once paired, they continue to sing throughout the mating season.
+  diet: Northern Waterthrushes eat large aquatic and terrestrial insects, small crustaceans, and other invertebrates.
+  nesting: Pairs typically form as soon as females arrive on the nesting grounds. Monogamous pairs are the norm, but males with multiple mates are not unheard of. The male selects a general area for nesting, and the female chooses the exact nest site and builds the nest. The nest is usually on the ground, tucked under an upturned tree root, along a bank, in a fern clump, or up to two feet off the ground in a moss-covered stump. The nest is usually covered and has a side entrance. It is built of moss, pine needles, leaves, twigs, bark, and other plant material, and lined with hair. The female incubates 4 to 5 eggs for 12 to 13 days, and then broods the young for about 5 days after they hatch. Both parents feed the young. Nine to 10 days after hatching, the young leave the nest, and the parents divide the brood, each taking half. The young can fly well within a week or so of leaving the nest, but remain with the parent. The parents provide food for at least four weeks after the young fledge. Each pair raises only one brood a season.
+  migration_status: Northern Waterthrushes migrate to Central and northern South America, although small numbers winter in Florida. They migrate mostly at night. Populations breeding in British Columbia may migrate south along the Cascades, but many northwest populations take a more easterly route in the fall than they do in the spring.
+  conservation_status: The population of Northern Waterthrushes is considered stable and of low management concern at this time. Most of their breeding range is fairly well protected, but their wintering range is at risk because many mangrove forests have been cut to make way for increasing human populations in the tropics. Northern Waterthrushes are also hosts for Brown-headed Cowbirds, but not at a rate that warrants conservation concern at this time.
+  when_where_wa: Although there are a few records from western Washington (Skagit and King Counties), the Northern Waterthrush is a bird of northeastern Washington. These birds can be found uncommonly from mid-May through the end of August in eastern Okanogan, Ferry, Stevens, Pend Oreille, and northern Spokane Counties. There is a breeding population in northeastern Oregon, so breeders are possible in the Blue Mountains of southeastern Washington. They are also rare on the east slope of the Cascades. Western Washington sightings generally occur during migration or in winter.
+photos:
+- file: nowa_gth1_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: nowa_gth2_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: nowa_gl_l.jpg
+  caption: 'Note: narrow buffy supercilium and dense streaks across breast.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio:
+  file: NOWA01.mp3
+  credit: null
+maps:
+  wa: seno.jpg
+  north_america: nowamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', U, U, U, U, '', '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, U, '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: norwat
+  current_common_name: Northern Waterthrush
+  current_scientific_name: Parkesia noveboracensis
+  clements_sort: 33953
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/northern_waterthrush
+  archived: '2026-09-12'

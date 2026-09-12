@@ -1,0 +1,29 @@
+slug: pelagic_trips
+name: Pelagic Trips
+number: 1
+ecoregions:
+- oceanic
+sections:
+  site: The offshore waters of the Pacific Ocean in Washington comprise the Oceanic Ecoregion. Much of this area is included within the Olympic Coast National Marine Sanctuary—one of 13 federally protected marine sanctuaries in the United States—and has been designated by Audubon Washington as the Olympic Continental Shelf Important Bird Area, out to the limit reached by most pelagic birding trips. "Pelagic" means "of the open ocean." We generally use this term to apply to the waters 25 or more miles offshore, at the edge of the continental shelf and beyond.
+  birds: |-
+    Marine waters may appear to be uniform, but they vary in salinity, temperature, currents, and nutrients, and are a mosaic of different biological communities. A number of bird species are specifically adapted to feed in these pelagic waters and are very rarely seen from shore, except when they come ashore to breed.
+
+    Peak birding time off Washington's coast is April through October. Species breeding in all corners of the Western Hemisphere spend some or all of this time feeding in the productive waters off our coast. Sooty Shearwaters (from New Zealand) occur in flocks of thousands, often with Pink-footed Shearwaters (from Chile) mixed with them. Black-footed Albatrosses (from Hawaii) are attracted to fishing boats where they feed on bycatch. Pomarine Jaegers, Long-tailed Jaegers, Sabine's Gulls, and Red Phalaropes (all from the Arctic) are migrants through the pelagic zone, and in late summer one encounters small numbers of South Polar Skuas (from Antarctica). Several species that breed in Washington, such as Fork-tailed Storm-Petrels and Cassin's Auklets, feed in pelagic waters, spending several days feeding offshore before they return to their burrows to feed their young.
+  directions: |-
+    Currently, the only practical way to get to pelagic waters is through an organized birding charter. Sport-fishing charters generally do not get far enough offshore to encounter albatrosses, storm-petrels, and other pelagic species.
+
+    There is a handful of pelagic tour operators on the West Coast. Westport Seabirds offers pelagic birding tours in Washington waters from April through October, with trips scheduled every weekend during the peak of migration. Most trips generally leave the dock at 6:00AM and return between 3:00 and 4:00PM. All have experienced leaders on board for each trip. For reservations, past trip reports, photographs, and directions to Westport, see References below.
+photos:
+- file: site_pelagic1.jpg
+  caption: ''
+  credit:
+    name: Michael Donahue
+    url: null
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/pelagic_trips/1
+  archived: '2026-09-12'

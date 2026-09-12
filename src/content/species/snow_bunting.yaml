@@ -1,0 +1,77 @@
+slug: snow_bunting
+common_name: Snow Bunting
+scientific_name: Plectrophenax nivalis
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Fairly common winter east, rare west.
+species_of_concern: false
+sections:
+  general_description: In breeding plumage, male Snow Buntings are unmistakable, with white bodies, long, black wings, and white wing-patches. In winter plumage, which is how they look most of the time they are in Washington, males are whitish, with black streaks down the back and a rusty wash over the upperparts. The tail is white, bordering a black wedge. The wings are mostly white with black tips. Females in non-breeding plumage look like non-breeding males. During the breeding season, females look similar to breeding-season males, but the black back is streaked with white, and the head is streaky gray. Unlike most birds with different breeding and non-breeding plumages, buntings molt only once a year. In the fall, they molt into the non-breeding plumage. By spring, the outer tips of the feathers have worn off to reveal the breeding plumage underneath.
+  habitat: Breeding habitat is barren tundra with rock piles, boulder fields, and other rocky outcroppings that are used as nesting sites. In winter, Snow Buntings inhabit a variety of open lands, including short-grass prairie, farmland, beaches, and roadsides.
+  behavior: Across their range, flocks can reach the thousands and are often in the hundreds, although in Washington, flocks are usually much smaller. These flocks move around a lot from place to place, so their winter distribution can be spotty and ever changing. As they move through a field, birds at the back of the flock fly over the rest of the group to move to the front, making it appear that the flock is rolling. Ground-foragers, Snow Buntings are found in flocks outside of the breeding season.
+  diet: Seeds are part of the Snow Bunting's diet year round, but especially in winter. During summer, they eat more insects and spiders, and the young are fed almost entirely an invertebrate diet. Birds in coastal areas may also eat tiny crustaceans.
+  nesting: Males arrive on the breeding grounds up to six weeks before the females. Territories with rock piles appropriate for nesting are hard to come by, so competition for territories is strong. They also sometimes nest on buildings. Nests are usually in protected crevices and rock cavities, although in populated areas, artificial nests may be used. The female builds a thick-walled nest of grass, lichen, moss, and roots, lined with fine grass, rootlets, plant down, feathers, and hair. She incubates 3 to 9 eggs for 10 to 16 days. Rock crevices in this harsh environment can be cold places, and the male feeds the female while she is on the nest so she doesn't often need to leave the nest during incubation. Both parents help feed the young, which leave the nest at 10 to 17 days. The parents continue to feed the young for 8 to 12 days after they leave the nest, although the young start catching some of their own food within 3 to 5 days. Snow Buntings typically only raise one brood a year.
+  migration_status: Snow Buntings migrate in small, loose flocks. Males arrive on their Arctic breeding grounds in early April. Females follow in May, and both leave in the fall, arriving in and passing through Washington in mid-October. They winter throughout the open country of the northern United States and temperate Canada.
+  conservation_status: Throughout their range, Snow Buntings are common and widespread, although the number of birds present in one area in any given year varies greatly. Pesticides and Arctic habitat destruction are potential threats, but at the moment their nesting and wintering habitats are extensive and numbers appear stable.
+  when_where_wa: A winter visitor to Washington, the Snow Bunting is seen from Mid-October through March. They are found in open areas of central and eastern Washington, and can often be seen along US Route 2. Along the coast they can be seen in open dunes and grassy areas. They can occasionally be seen in the Puget Trough, rarely in Seattle, and more often in the northern Sound by Bellingham.
+photos:
+- file: snbu_w_gth_l.jpg
+  caption: Winter plumage.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: snbu_w_gth1_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: snbu_w_gth2_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: snbu_w_jh_l.jpg
+  caption: Nonbreeding plumage.
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: snbu_tg_l.jpg
+  caption: Breeding plumage (male on right).
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio: null
+maps:
+  wa: plni.jpg
+  north_america: snbumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, '', '', '', '', '', '', '', R, R, R]
+  puget_trough: [R, R, '', '', '', '', '', '', '', '', R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: [U, U, U, R, '', '', '', '', '', R, U, U]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [F, F, U, '', '', '', '', '', '', '', F, F]
+taxonomy:
+  ebird_code: snobun
+  current_common_name: Snow Bunting
+  current_scientific_name: Plectrophenax nivalis
+  clements_sort: 32674
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/snow_bunting
+  archived: '2026-09-12'

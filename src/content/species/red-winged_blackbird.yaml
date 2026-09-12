@@ -1,0 +1,85 @@
+slug: red-winged_blackbird
+common_name: Red-winged Blackbird
+scientific_name: Agelaius phoeniceus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Icteridae
+  slug: icteridae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: Red-winged Blackbirds display marked sexual dimorphism. Males in breeding plumage are very familiar birds to many people. They are solid black, with red wing-patches. Each patch has a light yellow stripe below, and can be displayed in varying amounts. Tricolored Blackbirds, which are rare in Washington, look similar, but have more pointed wing-tips, thinner bills, and white edging on the red patches. Female Red-winged Blackbirds are smaller, dark, and streaked. They have a white line over each eye and are evenly streaked all down the back. First-year males look like mature males but with rusty edgings on their black feathers. They have red wing-patches, but they are generally paler than mature males and may be darkly spotted.
+  habitat: Cattail marsh is the quintessential Red-winged Blackbird habitat, although these birds will breed in wooded or brushy swamps, wet meadows, hay fields, salt marshes, irrigation canals, and roadside ditches. They prefer wetlands with emergent vegetation, but may nest in shrubby upland areas occasionally. They do not require large territories and are often seen in very small patches of habitat. In winter they often congregate in agricultural areas.
+  behavior: Red-winged Blackbirds are among the most well studied birds, especially in regard to behavior. They form flocks outside of the breeding season and nest close together. Although they pack tightly into small areas, they are very territorial during the breeding season. Males often sit up high on tall cattails surveying their territories and will aggressively fly after intruders with their red wing-patches displayed boldly. They forage on the ground, but will also forage in shrubs and trees.
+  diet: About 75% of the annual Red-winged Blackbird diet is seeds. During the breeding season, they also eat insects, especially dragonflies, mayflies, and caddis flies as they emerge from their aquatic larval stage. In winter, grain is an important source of food, and many birds feed on corn stubble and at feedlots.
+  nesting: 'Red-winged Blackbirds can breed colonially, but that may be more as a result of patchy breeding habitats than true colonialism. They are polygynous: males commonly mate with 2 to 4 females and can have as many as 15 mates. Nests are made of grass, and are usually lashed to cattails, bulrushes, or other emergent vegetation close to the water. The female incubates 3 to 4 eggs for 11 to 13 days. She broods the young and brings them food. The male may help feed young at the nest his primary mate, but additional mates do not generally get help from the male. The young leave the nest 11 to 14 days after hatching but stay on the territory for another two weeks. The female (and occasionally the male) feeds the young while they are on the territory and for up to three more weeks after they leave the nesting territory. Females occasionally will raise second broods, but single broods are the norm.'
+  migration_status: Red-winged Blackbirds are year-round residents across much of their range. Northern breeders migrate to the southern United States, but are usually late-fall migrants and very early arrivals on the breeding grounds.
+  conservation_status: Red-winged Blackbirds are highly adaptable and quickly colonize newly created and small wetlands. They do well in human-altered settings, and are considered a pest species in many areas where huge flocks damage crops. Large roosts may be considered nuisances because of the noise and mess, and because they may harbor histoplasmosis, a fungal lung infection that is contagious to humans. Many Red-winged Blackbirds have been killed to limit crop predation and nuisance impacts, but some evidence shows that estimates of their impacts on crops have been overestimated.
+  when_where_wa: Red-winged Blackbirds are widespread and abundant breeders throughout Washington's lowlands. In winter they are often less widespread, but can be abundant in the Puget Trough, along the Columbia and Snake Rivers, at the Potholes, and at dairy farms along the outer coast. Many birds in Washington are migratory, and others move to lowlands forming large winter flocks.
+photos:
+- file: rwbl_f_gth_l.jpg
+  caption: Female
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rwbl_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: rwbl_f_gl_l.jpg
+  caption: 'Female. Note: rufous tinged throat and densce streaking.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: rwbl_gl2_l.jpg
+  caption: Displaying male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: rwbl_mfl_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: rwbl_ffl_gl_l.jpg
+  caption: Female
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: rwbl1.mp3
+  credit: null
+maps:
+  wa: agph.jpg
+  north_america: rwblmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [U, F, C, C, C, C, C, C, C, F, F, U]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [F, F, F, C, C, C, C, C, C, C, F, F]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [U, F, F, C, C, C, C, C, C, F, U, U]
+  blue_mountains: [R, R, R, U, F, F, F, F, F, F, U, R]
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: rewbla
+  current_common_name: Red-winged Blackbird
+  current_scientific_name: Agelaius phoeniceus
+  clements_sort: 33779
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/red-winged_blackbird
+  archived: '2026-09-12'

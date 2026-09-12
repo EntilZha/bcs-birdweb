@@ -1,0 +1,58 @@
+slug: northern_parula
+common_name: Northern Parula
+scientific_name: Parula americana
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    A short-tailed “eastern” warbler, the Northern Parula is predominantly bluish-gray with a greenish back, yellow throat and breast, white belly, white wingbars, and white crescents above and below the eye. Adults have a black-and-reddish breast band (more prominent in males). The Northern Parula breeds east of the Great Plains from southern Manitoba and the Gaspé Peninsula south to the Gulf Coast and winters in the West Indies, on the Gulf and Caribbean slope of Mexico, and in Central America.
+
+    This species is a regular vagrant in the western United States, particularly in California, which has about 900 records of which about two-thirds have been in spring. Northern Parula is much rarer farther north. Oregon has close to 40 records—again, mostly in spring. Washington’s 11 accepted records show a different pattern, with ten of them spread rather evenly from 30 May to 7 September and the eleventh—the state’s first—remaining at Richland (Benton County) from 10 January to 3 February 1975. Nine of the 11 Washington records are from west of the Cascades. Idaho has about a dozen records, although only one has been reviewed and accepted by the state’s bird records committee. British Columbia has two or three.
+
+    *Revised August 2007
+    *
+photos:
+- file: nopa_gl_l.jpg
+  caption: 'Male. Note: gray head, white eye arcs, black/rufous breast band, and white belly.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: nopa_f_gl_l.jpg
+  caption: 'Female. Note: slight eye arcs, yellow throat/breast, and green mantle.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: nopamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: norpar
+  current_common_name: Northern Parula
+  current_scientific_name: Setophaga americana
+  clements_sort: 34063
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/northern_parula
+  archived: '2026-09-12'

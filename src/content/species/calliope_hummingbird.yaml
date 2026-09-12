@@ -1,0 +1,73 @@
+slug: calliope_hummingbird
+common_name: Calliope Hummingbird
+scientific_name: Stellula calliope
+order:
+  name: Apodiformes
+  slug: apodiformes
+family:
+  name: Trochilidae
+  slug: trochilidae
+status: Fairly common summer resident east. Rare west.
+species_of_concern: true
+sections:
+  general_description: The Calliope Hummingbird is the smallest of Washington's hummingbirds, and in fact, is the smallest bird that breeds north of Mexico. Body coloring is green above and buff-gray below. The short, square tail is green at the base, with a black band in males. In females, the black band is tipped with white. Adult males have a pink-streaked iridescent throat-patch that can be held erect.
+  habitat: Calliope Hummingbirds are found in northwestern montane environments. They breed in mixed brush-land, forest edges, and openings. The majority of breeders in Washington can be found in the Ponderosa pine zone, although they are found higher as well.
+  behavior: They tend to perch and forage closer to the ground than other hummingbirds. The male conducts an aerial display consisting of a series of swooping flights. At the bottom of a U-shaped dive, the male makes a two-part sound, produced by a combination of vocalizations and feathers. During courtship, the male hovers in front of and above the female, producing a loud buzz. Sometimes the pair will go into an aerial dance, circling around each other, a constant distance apart. Like many hummingbirds, they are highly territorial during the breeding season. Calliope Hummingbirds make mechanical buzzing and twittering sounds, both vocally and with their wings. Their vocalizations are, however, quieter than those of many other hummingbirds.
+  diet: The Calliope Hummingbird feeds on nectar from flowers and feeders. It catches insects in flight and uses sapsucker holes to feed on sap and insects attracted to the sap.
+  nesting: Calliope Hummingbirds do not form extended pair bonds. The female builds the nest, incubates the eggs, and feeds the young on her own. The male provides no parental care. Nest height varies from 2 to 65 feet above the ground. Typically built in a conifer, often near cones or knots or on an old cone base, the nest can easily be mistaken for a cone. Situated on a small branch, often below a larger one, the nest is protected from the elements. The female incubates two eggs for 15-16 days. She feeds and cares for the young by herself until they become independent at 18-21 days.
+  migration_status: The Calliope Hummingbird is the smallest long-distance avian migrant in the world. It winters in central Mexico and arrives in Washington from late April to mid-May. Adult males may wander a bit in late summer, and typically migrate south before females and young born that year.
+  conservation_status: The use of feeders may have an impact on the population and could potentially result in a range expansion. Since Calliope Hummingbirds use edges and forest openings, they respond positively in the short term to logging, which opens up gaps in the canopy, allowing flowers to grow. Breeding Bird Survey results indicate a decline in numbers in Washington, but the BBS recognizes that there are important deficiencies in their data for Calliope Hummingbirds.
+  when_where_wa: Calliope Hummingbirds are commonly found on the east side of the Cascades in brush-lands, dry open forests (especially Ponderosa pine), meadows, and openings at mid- to high elevations. In western Washington, they can be found breeding along the upper Skagit River near Newhalem (Whatcom County). Non-breeders and migrants can be found above the treeline, west of the Cascades, and in the Columbia Basin. Look for them in mountain meadows when the flowers are in bloom.
+photos:
+- file: cahu_m_gth_l.jpg
+  caption: Male. Note streaked gorget (throat)
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: cahu_jh_l.jpg
+  caption: Male
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: cahu_fl_tg_l.jpg
+  caption: Male
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: cahu_f_gt_l.jpg
+  caption: Female
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: cahu.mp3
+  credit: null
+maps:
+  wa: stelca.jpg
+  north_america: cahumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', R, R, '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', R, R, R, '', '', '', '']
+  west_cascades: ['', '', '', U, U, U, U, U, R, '', '', '']
+  east_cascades: ['', '', '', F, F, F, F, '', '', '', '', '']
+  okanogan: ['', '', '', U, C, C, C, F, R, '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, F, '', '', '', '']
+  blue_mountains: ['', '', '', R, F, F, F, F, R, '', '', '']
+  columbia_plateau: ['', '', '', U, U, R, R, R, '', '', '', '']
+taxonomy:
+  ebird_code: calhum
+  current_common_name: Calliope Hummingbird
+  current_scientific_name: Selasphorus calliope
+  clements_sort: 4823
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/calliope_hummingbird
+  archived: '2026-09-12'

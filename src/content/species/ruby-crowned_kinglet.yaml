@@ -1,0 +1,55 @@
+slug: ruby-crowned_kinglet
+common_name: Ruby-crowned Kinglet
+scientific_name: Regulus calendula
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Regulidae
+  slug: regulidae
+status: Common migrant winter west. Fairly common breeder.
+species_of_concern: false
+sections:
+  general_description: Ruby-crowned Kinglets are tiny, active, olive-green to gray songbirds. Their wings are dark, with two white wing-bars. There is a black smudge below the second wing-bar, which is a field mark useful in distinguishing a Ruby-crowned Kinglet from the similar-appearing Hutton's Vireo. Ruby-crowned Kinglets have bold, incomplete white eye-rings. Their legs are black and their feet, yellow. They are slightly larger than the closely related Golden-crowned Kinglet and lack that species' black and white head stripes. Male Ruby-crowned Kinglets have bright red crests (that can vary in color to orange), which can be raised when the bird is excited but which are more often completely hidden. Females look like males but lack the red crest.
+  habitat: Ruby-crowned Kinglets breed in dry, open, coniferous and mixed forests at high elevations, typically in small forest openings or wetlands within these forest zones. They nest in higher, drier habitats than Golden-crowned Kinglets. During migration and in winter, they come down into the lowlands and can be found in a wide variety of forest and shrub habitats.
+  behavior: Ruby-crowned Kinglets join mixed-species feeding flocks, but are generally less numerous in these flocks than Golden-crowned Kinglets. Ruby-crowned Kinglets glean food from foliage. They often hover to get at the undersides of leaves and twigs, and less often hang upside-down from twigs and branches as Golden-crowned Kinglets do. They tend to forage lower down than Golden-crowned Kinglets, especially outside of the breeding season. They are very active and frequently flick their wings.
+  diet: Ruby-crowned Kinglets eat tiny insects, spiders, and eggs, especially eggs that are stuck to the undersides of leaves and twigs. In winter they also eat some seeds, sap, and berries.
+  nesting: Ruby-crowned Kinglets are monogamous but form new pair bonds each breeding season. Their nests are usually 40 or more feet from the ground. Females build the nests, which are usually in conifers. The typical Ruby-crowned Kinglet nest is deep and is suspended from two hanging twigs. It is usually well hidden and protected from above by an overhanging branch. Moss, grass, lichen, bark strips, twigs, rootlets, needles, and spider webs comprise its outer walls, and feathers, plant down, and hair form a soft lining. Females incubate large clutches. In fact, Ruby-crowned Kinglets have the largest clutch relative to size of any North American passerine. Clutches in the Pacific Northwest typically contain 9 to 10 eggs, sometimes as many as 12. Incubation lasts for about two weeks. During this time the male brings food to the female on the nest. The female broods the young for a few days after hatching, and then joins the male in bringing food to the young. The young leave the nest about 16 days after hatching. The male continues to feed the young from the first brood for another 10 days, but the female may leave the breeding territory. Ruby-crowned Kinglets raise only one brood a year.
+  migration_status: Ruby-crowned Kinglets migrate slightly earlier in the fall and later in the spring than Golden-crowned Kinglets. They are less well adapted to cold and thus winter farther south than Golden-crowned Kinglets. How far north they remain in any given year is typically determined by temperature.
+  conservation_status: Ruby-crowned Kinglets are widespread and common. Their populations fluctuate because of winter die-offs in particularly cold years, but the Breeding Bird Survey has not detected any significant, long-term population changes in Washington. The Ruby-crowned Kinglet's ability to use a variety of habitats outside of the breeding season has allowed it to adapt to the changing landscape, although logging and uncontrolled wildfires have shrunk its breeding range.
+  when_where_wa: Ruby-crowned Kinglets breed in the eastern Cascades and at very high elevations just west of the Cascade crest (e.g. on Mt. Rainier.) They also breed in the Olympics. They are common in winter in the western Washington lowlands as far as the outer coast, but are uncommon in winter in eastern Washington lowlands, where they may be found in pear and apple orchards, towns, and streamside woods. During fall and spring migrations (September to October and mid-April to early May), they are conspicuous in isolated patches of trees, orchards, and other lowland areas throughout the state.
+photos:
+- file: rcki_a_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+audio:
+  file: rcki1.mp3
+  credit: null
+maps:
+  wa: reca.jpg
+  north_america: rckimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, F, R, R, R, F, C, C, C]
+  puget_trough: [C, C, C, C, U, '', '', R, C, C, C, C]
+  north_cascades: [U, U, U, C, F, R, R, F, C, F, U, U]
+  west_cascades: [C, C, C, C, F, F, F, F, F, C, C, C]
+  east_cascades: [U, U, U, F, C, C, C, C, C, C, C, F]
+  okanogan: [R, R, R, C, C, C, C, C, C, C, R, R]
+  canadian_rockies: ['', '', '', F, F, F, F, F, F, U, '', '']
+  blue_mountains: [R, R, U, C, C, C, C, C, U, U, R, R]
+  columbia_plateau: [U, U, F, C, F, '', '', '', C, C, U, U]
+taxonomy:
+  ebird_code: ruckin
+  current_common_name: Ruby-crowned Kinglet
+  current_scientific_name: Corthylio calendula
+  clements_sort: 26844
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/ruby-crowned_kinglet
+  archived: '2026-09-12'

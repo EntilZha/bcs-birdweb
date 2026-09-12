@@ -1,0 +1,79 @@
+slug: ring-necked_duck
+common_name: Ring-necked Duck
+scientific_name: Aythya collaris
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common winter. Uncommon breeder.
+species_of_concern: false
+sections:
+  general_description: A compact duck with a peaked head, the Ring-necked Duck does have a ringed neck, but the ring is almost never visible in the field. Overall, the Ring-necked Duck is similar in appearance to both the Greater and Lesser Scaups. The male Ring-necked Duck in breeding plumage has a deep-black, iridescent head, breast, and rump, and light flanks. Unlike the scaups, the Male Ring-necked Duck has a black back. He also has a white spur at the shoulder, gray bill outlined with white and with a white ring near the black tip, and yellow eyes. The male in non-breeding plumage is browner on the flanks, but with a darker head, breast, and back. Its bill lacks the white outline, and has a black tip. The Female Ring-necked Duck looks similar to female Greater and Lesser Scaups. She is brown overall with lighter-gray cheeks. Like the scaups, she has a white crescent at the base of her bill, although it is less distinctive than that of either the Greater or Lesser Scaup. The Female Ring-necked Duck can be distinguished from the scaups by the thin, white eye-ring that trails back to her ear, and the peaked shape of her head, as well as by differing habitat. Juveniles look like females.
+  habitat: Ring-necked Ducks nest in small, wooded ponds in boreal forests and some prairie regions. In migration and during winter, they inhabit ponds, lakes, slow-moving rivers, and occasionally coastal estuaries, but generally do not inhabit saltwater bays. Shallow, freshwater marshes with dense stands of submergent and emergent vegetation are preferred in all seasons.
+  behavior: The Ring-necked Duck forages by diving, but is usually found in shallow water and forages and dabbles at the surface as well. This duck is strong and fast and, unlike many diving ducks, can take flight directly from the water without a running start.
+  diet: More generalized than other diving ducks, the Ring-necked Duck eats mostly seeds, roots, and tubers. Aquatic invertebrates are also eaten, especially by breeding females and the young.
+  nesting: Pairs form during spring migration. Ring-necked Ducks nest on dry hummocks close to water or on mats of floating vegetation in the water. The nest is a shallow bowl of vegetation and down. Most of the nest construction (by the female alone) is complete when incubation begins. The female typically lays 8 to 10 eggs and incubates them for 25 to 29 days. The pair bond dissolves when the female begins to incubate. Twelve to 24 hours after the ducklings hatch, they head to the water where they feed themselves. The female tends the young, and may continue to brood them at night for some time. Unlike many divers, which bring their broods out into the open water, the female Ring-necked Duck hides her brood in the marsh. The young are capable of flight at 49 to 55 days. The female usually stays with the young until this point, but she may leave before the young have fledged.
+  migration_status: Fall migration starts in September and lasts until early December, with the majority of movement in October and November. Breeding birds from east of the Cascades move through the Great Plains to winter in the highlands of Arizona, New Mexico, and northern Mexico. Western Washington breeders winter along the Pacific coast from British Columbia to northern Central America with the greatest concentration in California's Central Valley. Males tend to winter farther north than females. Spring migration lasts from early February through March.
+  conservation_status: Numbers of Ring-necked Ducks across North America appear stable, but they are difficult to survey and estimates are not precise. Historically, Ring-necked Ducks were dispersed in small flocks across the winter range in available habitat. Changes in habitat have resulted in a concentration of Ring-necked Ducks at a smaller number of sites. Habitat degradation has been less of an issue on breeding grounds, as they are fairly remote. A generalized diet may allow the Ring-necked Duck to colonize new areas and habitats that other species might not be able to use, and this may be why it seems to be faring well. Lead poisoning is an issue of concern, and lead-shot ingestion rates for Ring-necked Ducks are among the highest of North American waterfowl. Although lead shot is banned for hunting waterfowl in the United States and Canada, it is still used in upland game-hunting, and many wetlands hold sunken pellets from years past.
+  when_where_wa: Ring-necked Ducks are uncommon as breeders in low-elevation wetlands in eastern Washington, but rare east of the channeled scablands. In the higher-elevation wetlands in the northeastern corner of the state and in the eastern Cascades, where wooded wetlands are more common, they are fairly common breeders. In the Puget Trough, the Ring-necked Duck is a rare breeder. Its preference for shallow water in breeding areas may account for its relative scarcity in western Washington where many of the ponds, lakes, and reservoirs are quite deep. On both sides of the Cascades, in appropriate habitat, Ring-necked Ducks are common during migration and through the winter.
+photos:
+- file: rndu_f_lb_l.jpg
+  caption: Female
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: rndu_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: rndu_gl_l.jpg
+  caption: 'Male. Note: dark back, ring around the base of the bill and the ring on the bill.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: rndu_f_tg_l.jpg
+  caption: 'Female. Note: white eye ring, ring around bill, and pale face around bill base.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: rndu_ffl_gl_l.jpg
+  caption: Female
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: rndu.mp3
+  credit: null
+maps:
+  wa: ayco.jpg
+  north_america: rndumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, R, R, R, U, U, U, U]
+  puget_trough: [C, C, C, F, F, U, U, U, U, F, C, C]
+  north_cascades: [F, F, F, F, U, R, R, R, R, U, F, F]
+  west_cascades: [C, C, C, F, U, R, R, U, F, C, C, C]
+  east_cascades: [F, F, U, U, R, R, R, R, R, U, F, F]
+  okanogan: [U, C, C, C, C, C, C, C, C, C, C, F]
+  canadian_rockies: [F, F, F, F, U, U, U, U, F, F, F, F]
+  blue_mountains: ['', '', '', R, U, '', '', '', U, U, '', '']
+  columbia_plateau: [C, C, C, C, F, R, R, U, F, C, C, C]
+taxonomy:
+  ebird_code: rinduc
+  current_common_name: Ring-necked Duck
+  current_scientific_name: Aythya collaris
+  clements_sort: 673
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/ring-necked_duck
+  archived: '2026-09-12'

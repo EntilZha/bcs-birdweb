@@ -1,0 +1,55 @@
+slug: pacific_wren
+common_name: Pacific Wren
+scientific_name: Troglodytes pacificus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Troglodytidae
+  slug: troglodytidae
+status: Common resident west. Fairly common east.
+species_of_concern: false
+sections:
+  general_description: In 2010, the American Ornithologist's Union split the North American populations of Winter Wren into two separate species, the "Eastern Wren" of eastern North America and "Pacific Wren" of the West. The Old World counterpart is now a separate species as well, called "Eurasian Wren." The Pacific Wren is a tiny woodland bird whose song is as elaborate as its plumage is drab. This wren is dark brown and mottled overall, with a buff eye-line. It has a short tail that it holds upright.
+  habitat: Pacific Wrens are found most often in closed-canopy conifer forests at all elevations, although they also live in other forest types as long as there is dense understory. Within these forests, brush piles, fallen logs, and stream banks are all good places to find Pacific Wrens.
+  behavior: Often seen creeping about among the aforementioned structures, Pacific Wrens glean prey from foliage, trunks, the ground, and from the surface of the water. In spring, males sing their extended complex songs from mid-level and high perches, and also from low down, in the understory, on fallen logs, etc.
+  diet: Insects and spiders are the predominant prey of the Pacific Wren.
+  nesting: Males establish and defend territories and attract females by singing. Males may nest with more than one female at a time. Nests are built in natural cavities, usually within six feet of the ground. The cavities can be in upturned roots of downed trees or rotten stumps, old woodpecker holes, rock crevices, under porches, or any other low cavity. Male and female build the nest together on a platform of twigs. The nest cup is made of grass, weeds, moss, and rootlets, lined with hair and feathers. The male may build several dummy nests that remain unlined. The female incubates 5 to 6 eggs for 12 to 16 days. Both parents feed the young, which leave the nest at about 19 days.
+  migration_status: On the coast and in the milder Washington lowlands, the Pacific Wren is a permanent resident. In colder parts of the state, they leave late in the fall for wintering grounds throughout the western United States. They return early in the spring.
+  conservation_status: The Pacific Wren is the only wren found in the Old World, where it is known simply as the 'Wren.' Although Pacific Wrens are still common in Washington, Breeding Bird Survey data show a significant decline of 5.6% per year from 1982 to 1991.
+  when_where_wa: The Pacific Wren is a common, permanent resident in all forested habitats of western Washington, including large, forested city parks. They are especially common in the dense undergrowth of coastal forests. In mountainous regions, Pacific Wrens are summer residents, breeding as high as 6,000 feet on Mount Rainier. In eastern Washington, they are less common but can still be found year round in moist coniferous forests, usually above the Ponderosa pine zone and confined to north-facing slopes with dense trees and water nearby.
+photos:
+- file: pawr_gt_l.jpg
+  caption: 'Note: plain brown with buffy eye-brow; short, often cocked tail.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+audio:
+  file: wiwr1.mp3
+  credit: null
+maps:
+  wa: trtr.jpg
+  north_america: wiwrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, '']
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [U, U, U, F, F, F, F, U, U, U, U, U]
+  okanogan: [R, R, U, F, F, F, F, F, F, F, U, R]
+  canadian_rockies: [U, U, U, F, F, F, F, F, F, U, U, U]
+  blue_mountains: [U, U, U, F, F, F, F, F, F, F, U, U]
+  columbia_plateau: [U, U, U, U, '', '', '', '', U, U, U, U]
+taxonomy:
+  ebird_code: pacwre1
+  current_common_name: Pacific Wren
+  current_scientific_name: Troglodytes pacificus
+  clements_sort: 27288
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/pacific_wren
+  archived: '2026-09-12'

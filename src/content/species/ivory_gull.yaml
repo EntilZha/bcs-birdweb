@@ -1,0 +1,53 @@
+slug: ivory_gull
+common_name: Ivory Gull
+scientific_name: Pagophila eburnea
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: ''
+species_of_concern: true
+sections:
+  general_description: |-
+    Ivory Gull is perhaps the most immediately recognizable gull in North America but unfortunately it also one of the least often seen. Small and white-plumaged, it has a black eye, black legs, and a two-toned black-and-yellow bill; immatures have small amounts of black spotting or streaking, including a narrow band on the end of the tail.
+
+    The Ivory Gull breeds right around the northern hemisphere but rarely ventures south of the Arctic Circle, nesting on boulder fields and rocky cliffs inland from the frozen sea and wintering mostly on pack ice. It regularly appears in Labrador and Newfoundland in late winter and early spring and is a rare winter visitor to the Maritime Provinces and the northeastern and midwestern United States. It is an exceedingly rare winter visitor in western North America. British Columbia has six records going back more than a century, the most recent of them in December 2001 at Delta, a few miles north of the U.S. border. Washington’s lone record is from Ocean Shores (Grays Harbor County) in December 1975. The only record farther south along the Pacific Coast was of a bird found dying in Orange County, California, in January 1996.
+
+    The estimated world population of Ivory Gull has been placed at somewhere between 20,000 and 50,000 birds, most of them breeding in the Old World with Canada and Greenland accounting for perhaps 10–20 percent of the total. However, recent surveys in Canada point to a dramatic decline in numbers. It is thought that by 2003 only about 300 birds remained in the country. Suggested causes for the population crash include global warming, which is rapidly altering the fragile ecology of the high Arctic; high concentrations of mercury in the gull’s eggs that may be negatively affecting its reproductive success; and disturbances resulting from industrial-scale exploitation of mineral resources within this species’ nesting and foraging territories. Ivory Gull has recently been added to Canada’s Endangered Species List.
+
+    *Revised June 2007*
+photos:
+- file: ivgu_gt_l.jpg
+  caption: Adult
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: ivogul
+  current_common_name: Ivory Gull
+  current_scientific_name: Pagophila eburnea
+  clements_sort: 6454
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/ivory_gull
+  archived: '2026-09-12'

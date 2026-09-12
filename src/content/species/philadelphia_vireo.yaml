@@ -1,0 +1,52 @@
+slug: philadelphia_vireo
+common_name: Philadelphia Vireo
+scientific_name: Vireo philadelphicus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Vireonidae
+  slug: vireonidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One record, from Grant County in September.
+photos:
+- file: phvi_gl_l.jpg
+  caption: 'Note: yellowish throat and darker gray crown.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: phvi_fl_gl_l.jpg
+  caption: 'Note: yellowish throat and darker gray crown.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: phvimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: phivir
+  current_common_name: Philadelphia Vireo
+  current_scientific_name: Vireo philadelphicus
+  clements_sort: 19244
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/philadelphia_vireo
+  archived: '2026-09-12'

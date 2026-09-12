@@ -1,0 +1,56 @@
+slug: golden-winged_warbler
+common_name: Golden-winged Warbler
+scientific_name: Vermivora chrysoptera
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: |-
+    The male is gray overall with a yellow patch on the wing, black mask bordered by white, black throat, and yellow crown; the female is similar but less strongly marked. This species nests from southern Manitoba eastward across the northern tier of states and southern Ontario to New England, and southward in the Appalachians to northern Georgia; it winters from southern Mexico to Colombia. Like the Blue-winged Warbler—a close relative with which it hybridizes where their ranges meet—the Golden-winged is a trans-Gulf migrant, and hence one of the rarest vagrant “eastern” warblers in the West. Oregon has two accepted records, Idaho one, and British Columbia none. Washington’s single accepted record was netted and banded at Turnbull National Wildlife Refuge (Spokane County) on 20 August 1998.
+
+    *Revised August 2007
+    *
+photos:
+- file: gwwa_gl_l.jpg
+  caption: 'Male. Note: yellow crown and black throat and auriculars.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: gwwa_f_gl_l.jpg
+  caption: 'Female. Note: greenish yellow crown and yellowish wingpatch.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: gwwamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: gowwar
+  current_common_name: Golden-winged Warbler
+  current_scientific_name: Vermivora chrysoptera
+  clements_sort: 33956
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/golden-winged_warbler
+  archived: '2026-09-12'

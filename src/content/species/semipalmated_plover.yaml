@@ -1,0 +1,61 @@
+slug: semipalmated_plover
+common_name: Semipalmated Plover
+scientific_name: Charadrius semipalmatus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Charadriidae
+  slug: charadriidae
+status: Fairly common migrant. Rare winter west. Uncommon migrant east.
+species_of_concern: false
+sections:
+  general_description: The Semipalmated Plover is a small plover with a short bill and yellow-orange legs. It has brown upperparts with white below and a single, dark breast band. The breast band, sides of head, and forecrown are black in breeding adults, and brown in non-breeding adults and juveniles.
+  habitat: During migration and in winter, Semipalmated Plovers inhabit coastal mudflats and exposed sandy beaches. They also migrate through the interior in small numbers, spending time on lakeshores, alkaline ponds, and shores of sloughs and flooded fields. They breed throughout the North American Arctic and subarctic, often on gravel bars along rivers and ponds. They tend to avoid marsh vegetation.
+  behavior: Semipalmated Plovers walk or run with their heads up, pausing to look for prey. They commonly 'foot-stir," holding one foot forward and vibrating the substrate to cause invertebrates to move and be detected. They typically run if disturbed, but they are also fast, powerful fliers. Semipalmated Plovers roost and fly in flocks, but forage singly. They are territorial around nesting and feeding areas.
+  diet: On the coast, the plovers' diet consists of marine worms, crustaceans, and small mollusks. On breeding grounds and during migration inland, Semipalmated Plovers eat mostly insects.
+  nesting: The male Semipalmated Plover arrives on the breeding grounds before the female and establishes a nesting territory. He performs a 'butterfly flight' during courtship. The male constructs a scrape nest in sand or gravel and lines it with material found near the nest. The female usually lays four eggs, and male and female spend nearly equal time incubating. Chicks can walk and feed themselves within hours of hatching, but are brooded for several days. Both sexes tend the young, but females may leave approximately 15 days after hatching. Semipalmated Plovers have one brood per season.
+  migration_status: Semipalmated Plovers migrate through Washington from mid-April to mid-May, and from July through September. Small numbers regularly winter on the outer coast north to southern British Columbia. Breeding is rare in Washington, but it has occurred at Damon Point. Non-breeding birds occasionally summer on the coast. Semipalmated Plovers are uncommon migrants in the interior part of the state.
+  conservation_status: Numbers of Semipalmated Plovers declined in the late 19th Century due to unrestricted shooting, but have since recovered. Semipalmated Plovers are not threatened or endangered in any part of their range.
+  when_where_wa: Semipalmated Plovers are abundant on the outer coast and its estuaries, and less so around Puget Sound, during peak migration at the end of April and the end of July. Leadbetter Point has the largest counts of summer non-breeders.
+photos:
+- file: sepl_lb_l.jpg
+  caption: 'Non-breeding adult. Note: light white eyebrow and lack of black on forehead.'
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: sepl_br_dp_l.jpg
+  caption: 'Breeding plumage. Note: orange bill with black tip.'
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: sepl.mp3
+  credit: null
+maps:
+  wa: chse.jpg
+  north_america: seplmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, C, C, R, C, C, F, U, R, R]
+  puget_trough: ['', '', '', U, F, '', F, F, F, R, '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', R, R, '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', R, '', R, U, U, '', '', '']
+taxonomy:
+  ebird_code: semplo
+  current_common_name: Semipalmated Plover
+  current_scientific_name: Charadrius semipalmatus
+  clements_sort: 5834
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/semipalmated_plover
+  archived: '2026-09-12'

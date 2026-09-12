@@ -1,0 +1,58 @@
+slug: white_wagtail
+common_name: White Wagtail
+scientific_name: Motacilla alba
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Motacillidae
+  slug: motacillidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Casual visitor from November to May, mostly in spring. Almost all records are from Puget Sound or outer coast with one from east slope of Cascades. Half are of "Black-backed" subspecies, until recently considered a separate species.
+photos:
+- file: whwash.jpg
+  caption: ''
+  credit:
+    name: Sherry Hagen
+    url: null
+  hero: true
+- file: whwa_a_ma_l.jpg
+  caption: ''
+  credit:
+    name: Mark Andrews
+    url: http://web.mac.com/s.m.andrews/smandrews.com_/HOME.html
+  hero: false
+- file: whwa_a2_ma_l.jpg
+  caption: ''
+  credit:
+    name: Mark Andrews
+    url: http://web.mac.com/s.m.andrews/smandrews.com_/HOME.html
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: whwamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: whiwag
+  current_common_name: White Wagtail
+  current_scientific_name: Motacilla alba
+  clements_sort: 31720
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/white_wagtail
+  archived: '2026-09-12'

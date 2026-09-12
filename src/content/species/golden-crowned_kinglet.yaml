@@ -1,0 +1,55 @@
+slug: golden-crowned_kinglet
+common_name: Golden-crowned Kinglet
+scientific_name: Regulus satrapa
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Regulidae
+  slug: regulidae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: Golden-crowned Kinglets are tiny, active, strikingly marked olive-green to gray songbirds. Their wings are dark, with two white wing-bars. There is a black smudge below the second wing-bar. Their legs are black and their feet, yellow. Their faces are white with a black stripe through the eye and another at the base of their yellow crests. These bold stripes and the yellow crests are distinctive field marks on both sexes. Crests on males shade to orange-red in the center. Females look like males but lack the orange within the yellow crest.
+  habitat: Most Golden-crowned Kinglets breed in dense fir and spruce forests with closed canopies, often in remote locations. Some also breed in heavily wooded urban areas. During migration and in winter they can be found in a wide variety of habitats, including lowland deciduous woodlands, orchards, Ponderosa pine forests, and along tree-lined streams, though they tend to prefer conifers.
+  behavior: Golden-crowned Kinglets are fairly easy to see during the winter when they flock with other small birds and can occur in large numbers. They are often found foraging high in the canopy, where they hover in front of and under branches or hang from twig-tips to glean food from their undersides and from the undersides of leaves. They also fly out to catch tiny, flying insects. Their flight is quick and fluttery, and they frequently flick their wings. In winter and on migration they often forage much lower.
+  diet: Golden-crowned Kinglets are primarily insectivorous. They eat tiny insects, spiders, and insect eggs, especially those eggs that are stuck to the undersides of leaves and twigs. They also eat some seeds, sap, and occasionally fruit.
+  nesting: Golden-crowned Kinglets are monogamous, but form new pair bonds each breeding season. Their nests are not often found, as they are usually located 50 or more feet from the ground. Both members of the pair build the nest, which is typically in a conifer. The nest usually hangs close to the trunk between two horizontal twigs and is well protected from above by an overhanging branch. Moss, lichen, bark strips, twigs, and spider webs comprise the outer walls of the deep nest, and feathers, plant down, rootlets, and hair provide a soft lining. Females incubate large clutches, typically of 8 to 9 eggs but sometimes as many as 11. Incubation lasts about two weeks. During this time the male brings food to the female on the nest. The female broods the young for 3 to 5 days after they hatch, and then joins the male in bringing them food. The young leave the nest 16 to 19 days after hatching. The male continues to feed the young from the first brood for another 12 to 16 days while the female begins a second clutch.
+  migration_status: Golden-crowned Kinglets migrate but travel later in the fall and earlier in the spring than most other insect-eaters. They are hardier than Ruby-crowned Kinglets and winter farther north, although some winter as far south as southern Mexico. Some birds may be permanent residents, and there is considerable overlap between summer and winter ranges, all of which makes their migration pattern difficult to understand.
+  conservation_status: Golden-crowned Kinglets have expanded their range into new areas in the northeastern United States, and the population appears stable across its range. Much of their breeding area is remote and has escaped most human impact. However, in other areas, including Washington, large sections of their former breeding grounds have been cleared. The Washington Christmas Bird Count records an increase in the numbers of wintering birds, but this may represent breeders from more remote areas north of Washington.
+  when_where_wa: The Columbia Basin separates the two subspecies of Golden-crowned Kinglet that breed in Washington. In western Washington, the Golden-crowned Kinglet is one of the most common species of wet coniferous forests all the way to the outer coast. They are common year round in appropriate habitat, from the lowlands up to Snoqualmie and Stevens Passes. They can be especially abundant in the winter in the foothills and at mid-elevations. They are less abundant but still common in eastern Washington, where they breed in higher forests (above the Ponderosa pine zone) and migrate through the shrub-steppe zone.
+photos:
+- file: gcki_ad_gth_l.jpg
+  caption: 'Adult female. Note: entirely yellow crown (no orange).'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+audio:
+  file: GCKI01.mp3
+  credit: null
+maps:
+  wa: resa.jpg
+  north_america: gckimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [U, U, U, C, C, C, C, C, C, C, U, U]
+  canadian_rockies: [F, F, F, F, F, F, F, F, F, F, F, F]
+  blue_mountains: [U, U, F, F, F, F, F, F, F, F, U, U]
+  columbia_plateau: [U, U, F, C, U, '', '', '', F, F, U, U]
+taxonomy:
+  ebird_code: gockin
+  current_common_name: Golden-crowned Kinglet
+  current_scientific_name: Regulus satrapa
+  clements_sort: 26848
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/golden-crowned_kinglet
+  archived: '2026-09-12'

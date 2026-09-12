@@ -1,0 +1,61 @@
+slug: pacific_golden-plover
+common_name: Pacific Golden-Plover
+scientific_name: Pluvialis fulva
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Charadriidae
+  slug: charadriidae
+status: Uncommon to rare migrant west, mostly fall.
+species_of_concern: true
+sections:
+  general_description: Pacific Golden-Plovers have dark brown upperparts, spangled with gold to pale yellow or white. A white stripe extends from the forehead, over the eyes, to the wings. Breeding males are solid black from chin to under-tail coverts. Females are duller in color. They are similar in appearance to American Golden-Plovers, but have shorter wings, brighter yellow markings on their upperparts, and mostly white under-tail coverts and sides. Non-breeding adults have yellow-edged upperparts and yellowish heads and necks. Juveniles have a golden cast to head and neck and spotted upperparts. Distinction between these two species is not easy. Be sure to consult a good field guide.
+  habitat: Migrating Pacific Golden-Plovers are typically found in coastal habitats such as mudflats, estuaries, and open ocean beaches. They nest on Arctic and subarctic Alaskan tundra, and may winter on islands in the Pacific Ocean as far south as Australia. Others go no farther for the winter than California beaches.
+  behavior: Pacific Golden-Plovers are territorial on breeding grounds, and some individuals defend feeding territories on wintering grounds. They are swift in flight, but are more commonly seen roosting or foraging on the ground. Pacific Golden-Plovers spread out while foraging. They are visual foragers and feed by running and seizing prey.
+  diet: Pacific Golden-Plovers feed on a variety of invertebrates such as mollusks, crustaceans, and insects. They also eat berries, leaves, seeds, and occasionally small vertebrates.
+  nesting: Males may begin territorial display flights the day of arrival on tundra nesting grounds. Pairs form within a few days. The male builds a shallow scrape nest lined with lichen in sites with more vegetation than those chosen by American Golden-Plovers. The female lays four eggs, and both parents incubate. The male usually incubates during the day, the female at night. Chicks are precocial and can feed themselves within a few hours of hatching. Both parents tend the young. Pacific Golden-Plovers have one brood per season.
+  migration_status: Pacific Golden-Plovers may cover 2,000 miles in a single nonstop flight from Alaska to the Pacific Islands, or they may stop along the way. Pacific Golden-Plovers and American Golden-Plovers overlap in time and location during migration, but Pacifics tend to migrate later. Spring migration takes place mainly in April and May, and fall migration lasts from August through October. A few individuals may not migrate.
+  conservation_status: Pacific Golden-Plovers were hunted in Hawaii until 1941, but with subsequent protection, populations have recovered. Pacific Golden-Plovers do not appear to be threatened at this time, although commercialized exploitation and habitat loss still occur in parts of their winter range.
+  when_where_wa: These plovers are found mostly on the outer coast. A few may be found on the outer coast in the spring. During the fall, flocks are seen regularly along the coast near Grays Harbor and Leadbetter Point. Pacific Golden-Plovers may be more common than American Golden-Plovers on the Washington coast.
+photos:
+- file: pgpl_w_dp_l.jpg
+  caption: Adult winter plumage.
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+- file: pagp_br_lb_l.jpg
+  caption: 'Breeding plumage male. Note: spotted flanks.'
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+audio:
+  file: pagp.mp3
+  credit: null
+maps:
+  wa: plfu.jpg
+  north_america: pagpmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', R, R, '', R, U, U, U, R, '']
+  puget_trough: ['', '', '', '', '', '', '', R, R, R, '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: pagplo
+  current_common_name: Pacific Golden-Plover
+  current_scientific_name: Pluvialis fulva
+  clements_sort: 5816
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/pacific_golden-plover
+  archived: '2026-09-12'

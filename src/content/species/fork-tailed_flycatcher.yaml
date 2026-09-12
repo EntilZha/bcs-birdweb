@@ -1,0 +1,52 @@
+slug: fork-tailed_flycatcher
+common_name: Fork-tailed Flycatcher
+scientific_name: Tyrannus savana
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Tyrannidae
+  slug: tyrannidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One record, from Chinook River Valley in September 1995.
+photos:
+- file: ftfl_gl_l.jpg
+  caption: 'Adult. Note: dark head, white breast, and long forked black tail.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: ftfl_fl_gl_l.jpg
+  caption: 'In flight. Note: long forked tail, and white underwing coverts'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: fotfly
+  current_common_name: Fork-tailed Flycatcher
+  current_scientific_name: Tyrannus savana
+  clements_sort: 17494
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/fork-tailed_flycatcher
+  archived: '2026-09-12'

@@ -1,0 +1,69 @@
+slug: great_black-backed_gull
+common_name: Great Black-backed Gull
+scientific_name: Larus marinus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    Although variable in size, the Great Black-backed Gull is on average the largest of all gulls, with some individuals weighing more than five pounds. In adult plumage, attained in four years, it has a large head and heavy bill, yellow eye (usually), and light pink legs. Its dark gray-black mantle is darker than that of any other gull likely to be seen in Washington. However, in immature plumages this species is less easily separated from other large gulls, especially Herring Gull. Consult field guides for the fine points.
+
+    This North Atlantic native breeds from the Arctic to the Carolinas, the Great Lakes, Britain, France, and the Baltic Sea, with some southward movement in winter to the Gulf Coast, the Caribbean, and the Iberian Peninsula. In recent years small numbers of birds have been straying farther and farther westward in North America. There are now four records from the Pacific Northwest and Alaska. The first, an adult, came at Kamloops, British Columbia, in December 1988. The second was a second-winter bird at Kodiak, Alaska, in February 1995. The third was a first-winter bird found at Boise, Idaho, in December 2003. The fourth came a month later in Washington, when a second-winter bird was discovered at the mouth of the Cedar River in Renton (King County), in January 2004.
+
+    *Revised June 2007*
+photos:
+- file: gbbg_tg_l.jpg
+  caption: 'Adult. Note: dark mantle and pale pink legs.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: gbbg_tg2_l.jpg
+  caption: 'Adult. Note: dark mantle, massive bill, and red orbital ring.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: gbbg_1st_tg_l.jpg
+  caption: '1st year. Note: massive bill with pronounced gonydeal angle.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: gbbg_3rd_tg_l.jpg
+  caption: 3rd year
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: gbbgul
+  current_common_name: Great Black-backed Gull
+  current_scientific_name: Larus marinus
+  clements_sort: 6562
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/great_black-backed_gull
+  archived: '2026-09-12'

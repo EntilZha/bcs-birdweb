@@ -1,0 +1,122 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+  description?: string;
+  /** Constrain the main column. Off for pages that manage their own width (maps). */
+  narrow?: boolean;
+}
+
+const {
+  title = "BirdWeb — Birds Connect Seattle",
+  description =
+    "Birds Connect Seattle's guide to the birds of Washington: species accounts, " +
+    "birding sites, and month-by-month abundance across the state's ten ecoregions.",
+  narrow = true,
+} = Astro.props;
+
+// BASE_URL is "/" locally and "/bcs-birdweb/" on GitHub Pages. Every internal link and
+// public asset goes through it; hardcoding "/" ships a page of 404s on Pages.
+const base = import.meta.env.BASE_URL;
+
+const path = Astro.url.pathname.replace(/\/$/, "");
+const NAV = [
+  { href: "birds/", label: "Birds", match: "/birds" },
+  { href: "sites/", label: "Birding Sites", match: "/sites" },
+  { href: "ecoregions/", label: "Ecoregions", match: "/ecoregions" },
+  { href: "whats-around/", label: "What's Around", match: "/whats-around" },
+];
+const isActive = (match: string) => path.endsWith(match) || path.includes(`${match}/`);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/png" href={`${base}bcs-favicon.png`} />
+    <title>{title}</title>
+  </head>
+  <body class="min-h-screen flex flex-col antialiased">
+    <header class="bg-brand text-white shadow-md sticky top-0 z-30">
+      <div class="mx-auto max-w-6xl px-4 py-3 flex items-center justify-between gap-4">
+        <a href={base} class="flex items-center gap-3 shrink-0">
+          <img
+            src={`${base}bcs-logo-white.png`}
+            alt="Birds Connect Seattle"
+            class="h-10 w-10"
+            width="40"
+            height="40"
+          />
+          <div class="leading-tight">
+            <span class="block font-semibold text-base sm:text-lg">BirdWeb</span>
+            <span class="block text-sage text-xs sm:text-sm">
+              <span class="sm:hidden">Birds of Washington</span>
+              <span class="hidden sm:inline">Birds Connect Seattle's Guide to the Birds of Washington</span>
+            </span>
+          </div>
+        </a>
+        <a
+          href="https://birdsconnectsea.org/"
+          target="_blank"
+          rel="noopener"
+          class="hidden sm:block text-xs text-sage hover:text-pop transition-colors shrink-0"
+          >BCS Website &rarr;</a
+        >
+      </div>
+      <!-- One scrolling row, never wrapping: a second row costs vertical space on a
+           phone and the wrap point moves every time a section is added. -->
+      <nav class="mx-auto max-w-6xl px-4 pb-2 flex gap-2 overflow-x-auto flex-nowrap">
+        {
+          NAV.map((item) => (
+            <a
+              href={`${base}${item.href}`}
+              aria-current={isActive(item.match) ? "page" : undefined}
+              class:list={[
+                "rounded-full px-3 py-1.5 text-xs font-semibold whitespace-nowrap transition min-h-11 sm:min-h-0 flex items-center",
+                isActive(item.match)
+                  ? "bg-pop text-brand"
+                  : "bg-white/10 text-sage hover:bg-white/20 hover:text-white",
+              ]}
+            >
+              {item.label}
+            </a>
+          ))
+        }
+      </nav>
+    </header>
+
+    <main class="flex-1 w-full">
+      {
+        narrow ? (
+          <div class="mx-auto max-w-6xl px-4 py-6 sm:py-8">
+            <slot />
+          </div>
+        ) : (
+          <slot />
+        )
+      }
+    </main>
+
+    <footer class="bg-brand-dark text-sage/80 text-xs mt-10">
+      <div class="mx-auto max-w-6xl px-4 py-6 flex flex-col sm:flex-row gap-3 sm:items-center sm:justify-between">
+        <p>
+          &copy; Birds Connect Seattle. Species accounts, maps and abundance data by BCS
+          volunteers since 1999.
+        </p>
+        <div class="flex gap-4">
+          <a href={`${base}credits/`} class="hover:text-pop transition-colors">Credits</a>
+          <a href={`${base}about/`} class="hover:text-pop transition-colors">About</a>
+          <a
+            href="https://birdsconnectsea.org/donate/"
+            target="_blank"
+            rel="noopener"
+            class="hover:text-pop transition-colors">Donate</a
+          >
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

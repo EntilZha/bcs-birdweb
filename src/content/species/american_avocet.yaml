@@ -1,0 +1,55 @@
+slug: american_avocet
+common_name: American Avocet
+scientific_name: Recurvirostra americana
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Recurvirostridae
+  slug: recurvirostridae
+status: Fairly common summer east. Rare west.
+species_of_concern: false
+sections:
+  general_description: The American Avocet is a large shorebird with a bold black and white pattern on its back, long bluish legs, and a long, thin, upwardly curved bill. The bill of the female is shorter and slightly more upturned than that of the male. The underparts of males and females are white, and breeding adults have buffy-orange plumage on the head and neck. Heads and necks are gray to whitish in non-breeding adults (September to February) and pale pinkish-orange in juveniles.
+  habitat: American Avocets occupy shallow freshwater habitat in open country. They typically feed in open water 10-20 centimeters deep, but they also swim regularly in water too deep for wading. Highly productive alkaline ponds and lakes are ideal for foraging.
+  behavior: American Avocets often forage by sweeping their long bills from side to side with the tip of the bill, which is extremely sensitive to touch, barely submerged in water. They also feed visually by capturing prey from the surface of mud or water, by plunging their heads into water, and by snatching insects from the air. American Avocets are semi-colonial breeders. They remain monogamous within a breeding season. They defend their young vigorously with an array of alarm calls and distraction displays, and will also dive-bomb predators if eggs or young are directly threatened.
+  diet: Small crustaceans and insects make up the majority of their diet. American Avocets also occasionally eat small fish and seeds.
+  nesting: Most pairing takes place before or during migration. Both sexes select the nest site, on bare or sparsely vegetated open ground near water, or islands when available. Either sex may scrape out the nest depression while the other one watches. The pair adds lining such as grass, pebbles, and feathers throughout incubation. The female usually lays four eggs, and both sexes incubate. Another female will sometimes lay 1-4 additional eggs in the same nest, however these 'dump nests' rarely succeed. Chicks are precocial and able to leave the nest within 1-2 hours of hatching. The young form flocks with other fledglings and adults when leaving the nesting area after breeding season. American Avocets normally raise one brood per season.
+  migration_status: Migrants typically arrive on Washington breeding grounds by early April and leave by mid-September. They are rare west of the Cascades. American Avocets winter on the coasts of the southern United States and western Mexico.
+  conservation_status: Wetland losses have led to population declines from historic levels. Selenium contamination of wetlands due to irrigation drain water has been associated with embryo deformities and decreased hatching of young. Wetland conservation and mitigation efforts are under way, and populations are now thought to be stable or increasing.
+  when_where_wa: American Avocets are locally common in freshwater ponds and wetlands of the Columbia Basin in central Washington. Recently a few pairs have nested, or attempted to nest, in western Washington, in the lowlands of Clark County and at Crockett Lake on Whidbey Island.
+photos:
+- file: amav_m_dp_l.jpg
+  caption: 'Male. Note: bill slightly less curved than female.'
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: amav.mp3
+  credit: null
+maps:
+  wa: ream.jpg
+  north_america: amavmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', U, F, F, F, F, U, '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', R, '', '', R, R, '', '', '', '']
+  columbia_plateau: ['', '', U, C, C, C, C, C, U, R, '', '']
+taxonomy:
+  ebird_code: ameavo
+  current_common_name: American Avocet
+  current_scientific_name: Recurvirostra americana
+  clements_sort: 5780
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/american_avocet
+  archived: '2026-09-12'

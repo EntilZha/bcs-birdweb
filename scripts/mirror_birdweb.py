@@ -1,0 +1,505 @@
+"""Mirror the legacy birdweb.org into archive/.
+
+The original BirdWeb source code and database are lost and nobody at Birds Connect
+Seattle can reach the host, so the live site is the only surviving copy of the content.
+This script pulls raw bytes off it exactly once and records a checksum manifest;
+everything downstream (extract_birdweb.py) parses that mirror offline.
+
+Two consequences shape the design:
+
+* The server is a fragile, unattended IIS 7.5 / ASP.NET 4.0 box. If it falls over nobody
+  can restart it, so the crawl is single-connection with a delay between requests. There
+  is no robots.txt and no observed rate limiting; we go slow anyway.
+* Bytes are stored undecoded. The pages are iso-8859-1 with entity soup, and deciding how
+  to normalize that is the *extractor's* job. An archive that has already been through
+  someone's idea of cleanup is not an archive.
+
+Usage:
+    pixi run mirror                 # crawl (resumable; re-running skips what's done)
+    pixi run mirror -- --force      # refetch everything
+    pixi run verify-archive         # re-hash every file against the manifest
+    python scripts/mirror_birdweb.py rewrite   # build archive/browsable/
+"""
+
+from __future__ import annotations
+
+import hashlib
+import json
+import re
+import sys
+import time
+from collections import deque
+from datetime import datetime, timezone
+from pathlib import Path
+from urllib.parse import unquote, urljoin, urlsplit
+
+import httpx
+import typer
+from rich.console import Console
+from rich.progress import (
+    BarColumn,
+    MofNCompleteColumn,
+    Progress,
+    SpinnerColumn,
+    TextColumn,
+    TimeElapsedColumn,
+)
+from rich.table import Table
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+ARCHIVE = REPO_ROOT / "archive"
+PAGES_DIR = ARCHIVE / "pages"
+ASSETS_DIR = ARCHIVE / "assets"
+MANIFEST = ARCHIVE / "manifest.jsonl"
+
+ORIGIN = "https://birdweb.org"
+ROOT = f"{ORIGIN}/birdweb/"
+
+USER_AGENT = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+)
+
+# Page URL shapes we archive. Anything not matching one of these is not a BirdWeb page
+# and is left alone -- this is what keeps the crawl from wandering into birdsconnectsea.org
+# or the dead `countries.www.birdweb.org` rewrite artifact.
+PAGE_PATTERNS = [
+    re.compile(r"^/birdweb/$"),
+    re.compile(
+        r"^/birdweb/(birds|sites|acknowledgments|resources|aboutbirdingsites"
+        r"|ecoregiondefinition|audiosource|specialconcern)$"
+    ),
+    re.compile(r"^/birdweb/abundancecode/(bird_detail|ecoregion)$"),
+    re.compile(r"^/birdweb/bird/[^/]+$"),
+    re.compile(r"^/birdweb/family/[^/]+$"),
+    re.compile(r"^/birdweb/ecoregion/[^/]+$"),
+    re.compile(r"^/birdweb/ecoregion/sites/[^/]+/site$"),
+    re.compile(r"^/birdweb/site/[^/]+/\d+$"),
+]
+
+ASSET_DIR_PATTERN = re.compile(r"^/birdweb/(images|sounds|web_images|css)/[^/]+$", re.I)
+ROOT_ASSET_PATTERN = re.compile(
+    r"^/birdweb/[^/]+\.(ico|png|svg|webmanifest|jpg|gif|css|js)$", re.I
+)
+
+# Photos exist in four renditions: _s (small), _t (filmstrip thumb), _l (180px) and -- the
+# one that matters -- an UNSUFFIXED file that is the 500x500 original.
+#
+# Nothing in the page markup links the unsuffixed file directly. The filmstrip points at
+# `bigger_image.aspx?id=...`, which returns an HTML wrapper around `<img src='images/
+# MALL_fl_gl.jpg' width='500'>`. Following that endpoint per-photo would double the crawl;
+# deriving the name from any sibling gets the same bytes in one request. Missing this is
+# the difference between archiving 180px thumbnails and archiving the real photographs,
+# so the sibling set is expanded eagerly and a 404 simply records as a 404.
+VARIANT_RE = re.compile(r"^(?P<stem>.+)_(?P<variant>[stl])\.(?P<ext>jpg|jpeg|gif|png)$", re.I)
+VARIANTS = ("s", "t", "l")
+
+# href/src/data-* attributes, plus url() inside the stylesheets.
+LINK_ATTR_RE = re.compile(
+    r"""(?:href|src|data-large_file|data-image_url)\s*=\s*(?P<q>["'])(?P<url>[^"']+)(?P=q)""",
+    re.I,
+)
+CSS_URL_RE = re.compile(r"""url\(\s*(?P<q>["']?)(?P<url>[^"')]+)(?P=q)\s*\)""", re.I)
+
+console = Console()
+app = typer.Typer(add_completion=False, help=__doc__)
+
+
+# --------------------------------------------------------------------------------------
+# URL handling
+# --------------------------------------------------------------------------------------
+
+
+def canonical(url: str) -> str | None:
+    """Normalize a URL to its canonical archive form, or None if it is out of scope.
+
+    The legacy site is wildly inconsistent about case (`/birdweb/`, `/Birdweb/`,
+    `/BIRDWEB/`) and some pages carry a `countries.www.birdweb.org` host that is a broken
+    server-side rewrite rather than a real subdomain. Both collapse to one origin here so
+    the same page is never archived twice under two names.
+    """
+    url = url.strip()
+    if not url or url.startswith(("mailto:", "javascript:", "data:", "#", "tel:")):
+        return None
+
+    parts = urlsplit(url)
+    host = parts.netloc.lower()
+    if host:
+        # Accept birdweb.org and any of its bogus rewrite hosts; reject everything else.
+        if not (host.endswith("birdweb.org") or host.endswith("birdweb.org:443")):
+            return None
+
+    path = parts.path
+    if not path.startswith("/"):
+        return None
+
+    # Normalize only the leading /birdweb segment; the rest of the path is case-sensitive
+    # data (slugs are lowercase in practice, but we do not assume it).
+    if re.match(r"^/birdweb/?$", path, re.I):
+        path = "/birdweb/"
+    elif re.match(r"^/birdweb/", path, re.I):
+        path = "/birdweb/" + path[len("/birdweb/") :]
+    else:
+        return None
+
+    path = unquote(path)
+    # bigger_image.aspx returns an HTML wrapper, not an image. Verified, do not chase it.
+    if "bigger_image.aspx" in path.lower():
+        return None
+    if path.lower().endswith("/searchresults"):
+        return None
+
+    query = f"?{parts.query}" if parts.query and path.lower().endswith((".ico", ".css")) else ""
+    return f"{ORIGIN}{path}{query}"
+
+
+def url_kind(url: str) -> str | None:
+    """Classify a canonical URL as 'page', 'asset', or None (not archived)."""
+    path = urlsplit(url).path
+    for pattern in PAGE_PATTERNS:
+        if pattern.match(path):
+            return "page"
+    if ASSET_DIR_PATTERN.match(path) or ROOT_ASSET_PATTERN.match(path):
+        return "asset"
+    return None
+
+
+def local_path(url: str) -> Path:
+    """Map a canonical URL to its on-disk location inside archive/."""
+    path = urlsplit(url).path
+    rest = path[len("/birdweb/") :]
+    if not rest:
+        return PAGES_DIR / "index.html"
+    if ASSET_DIR_PATTERN.match(path) or ROOT_ASSET_PATTERN.match(path):
+        return ASSETS_DIR / rest
+    # Pages have no extension on this site; give them one so they open in a browser.
+    return PAGES_DIR / f"{rest}.html"
+
+
+def variant_siblings(url: str) -> list[str]:
+    """Given an image URL, return the sibling _s/_t/_l renditions."""
+    parts = urlsplit(url)
+    directory, _, filename = parts.path.rpartition("/")
+    match = VARIANT_RE.match(filename)
+    if not match:
+        return []
+    stem, ext = match.group("stem"), match.group("ext")
+    siblings = [
+        f"{ORIGIN}{directory}/{stem}_{v}.{ext}"
+        for v in VARIANTS
+        if v != match.group("variant").lower()
+    ]
+    # The unsuffixed 500x500 original.
+    siblings.append(f"{ORIGIN}{directory}/{stem}.{ext}")
+    return siblings
+
+
+def extract_links(body: bytes, base_url: str) -> list[str]:
+    """Pull every in-scope URL out of a fetched document."""
+    text = body.decode("iso-8859-1", errors="replace")
+    found: list[str] = []
+    for match in LINK_ATTR_RE.finditer(text):
+        found.append(match.group("url"))
+    if base_url.lower().endswith(".css"):
+        for match in CSS_URL_RE.finditer(text):
+            found.append(match.group("url"))
+
+    out: list[str] = []
+    for raw in found:
+        absolute = urljoin(base_url, raw.replace("&amp;", "&"))
+        normalized = canonical(absolute)
+        if normalized and url_kind(normalized):
+            out.append(normalized)
+    return out
+
+
+# --------------------------------------------------------------------------------------
+# Manifest
+# --------------------------------------------------------------------------------------
+
+
+def load_manifest() -> dict[str, dict]:
+    if not MANIFEST.exists():
+        return {}
+    records: dict[str, dict] = {}
+    with MANIFEST.open(encoding="utf-8") as handle:
+        for line in handle:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                record = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            records[record["url"]] = record  # later entries win
+    return records
+
+
+def append_manifest(record: dict) -> None:
+    MANIFEST.parent.mkdir(parents=True, exist_ok=True)
+    with MANIFEST.open("a", encoding="utf-8") as handle:
+        handle.write(json.dumps(record, ensure_ascii=False) + "\n")
+
+
+# --------------------------------------------------------------------------------------
+# Crawl
+# --------------------------------------------------------------------------------------
+
+
+@app.command()
+def crawl(
+    delay: float = typer.Option(0.6, help="Seconds to wait between requests."),
+    force: bool = typer.Option(False, help="Refetch URLs already present in the manifest."),
+    limit: int = typer.Option(0, help="Stop after N fetches (0 = no limit). For smoke tests."),
+    skip_assets: bool = typer.Option(False, help="Archive pages only; useful for a dry run."),
+) -> None:
+    """Crawl the legacy site into archive/ (resumable)."""
+    PAGES_DIR.mkdir(parents=True, exist_ok=True)
+    ASSETS_DIR.mkdir(parents=True, exist_ok=True)
+
+    done = load_manifest()
+    if force:
+        console.print("[yellow]--force: refetching everything[/yellow]")
+        done = {}
+
+    # Two tiers, drained pages-first. The page graph is what makes the archive
+    # *navigable*, and it is only ~650 URLs, so finishing it early means an interrupted
+    # crawl still leaves something coherent -- and the expected-count check can catch a
+    # crawler regression minutes in rather than an hour in.
+    page_queue: deque[tuple[str, str]] = deque()
+    asset_queue: deque[tuple[str, str]] = deque()
+    seen: set[str] = set()
+
+    def enqueue(url: str, referrer: str) -> None:
+        if url in seen:
+            return
+        kind = url_kind(url)
+        if not kind or (skip_assets and kind == "asset"):
+            return
+        seen.add(url)
+        (page_queue if kind == "page" else asset_queue).append((url, referrer))
+
+    enqueue(ROOT, "seed")
+
+    fetched = skipped = failed = 0
+    headers = {"User-Agent": USER_AGENT, "Accept-Language": "en-US,en;q=0.9"}
+
+    with httpx.Client(
+        headers=headers, follow_redirects=True, timeout=45.0, http2=False
+    ) as client, Progress(
+        SpinnerColumn(),
+        TextColumn("[bold blue]{task.description}"),
+        BarColumn(),
+        MofNCompleteColumn(),
+        TimeElapsedColumn(),
+        console=console,
+    ) as progress:
+        task = progress.add_task("mirroring", total=1)
+
+        while page_queue or asset_queue:
+            url, referrer = (page_queue or asset_queue).popleft()
+            progress.update(task, total=len(seen), description=f"mirroring {url[-52:]}")
+
+            target = local_path(url)
+            prior = done.get(url)
+            if prior and prior.get("http_status") == 200 and target.exists():
+                skipped += 1
+                progress.advance(task)
+                # Still need this page's links to reach the rest of the graph.
+                if url_kind(url) == "page":
+                    for link in extract_links(target.read_bytes(), url):
+                        enqueue(link, url)
+                        for sibling in variant_siblings(link):
+                            enqueue(sibling, url)
+                continue
+
+            body, status, content_type, error = fetch(client, url, delay)
+            if body is None:
+                failed += 1
+                append_manifest(
+                    {
+                        "url": url,
+                        "local_path": None,
+                        "sha256": None,
+                        "content_type": content_type,
+                        "content_length": 0,
+                        "http_status": status,
+                        "error": error,
+                        "fetched_at": now_iso(),
+                        "referrer": referrer,
+                    }
+                )
+                progress.advance(task)
+                continue
+
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_bytes(body)
+            append_manifest(
+                {
+                    "url": url,
+                    "local_path": str(target.relative_to(ARCHIVE)),
+                    "sha256": hashlib.sha256(body).hexdigest(),
+                    "content_type": content_type,
+                    "content_length": len(body),
+                    "http_status": status,
+                    "error": None,
+                    "fetched_at": now_iso(),
+                    "referrer": referrer,
+                }
+            )
+            fetched += 1
+
+            if url_kind(url) == "page" or url.lower().endswith(".css"):
+                for link in extract_links(body, url):
+                    enqueue(link, url)
+                    for sibling in variant_siblings(link):
+                        enqueue(sibling, url)
+
+            progress.advance(task)
+            if limit and fetched >= limit:
+                console.print(f"[yellow]--limit {limit} reached; stopping[/yellow]")
+                break
+
+    console.print(
+        f"\n[green]done[/green]  fetched={fetched}  skipped={skipped}  failed={failed}  "
+        f"discovered={len(seen)}"
+    )
+    summarize()
+    if failed:
+        console.print(f"[red]{failed} URL(s) failed — re-run to retry them.[/red]")
+
+
+def fetch(
+    client: httpx.Client, url: str, delay: float
+) -> tuple[bytes | None, int, str | None, str | None]:
+    """Fetch one URL with backoff. Returns (body, status, content_type, error)."""
+    backoff = 2.0
+    for attempt in range(4):
+        try:
+            response = client.get(url)
+        except httpx.HTTPError as exc:
+            if attempt == 3:
+                return None, 0, None, f"{type(exc).__name__}: {exc}"
+            time.sleep(backoff)
+            backoff *= 2
+            continue
+
+        if response.status_code == 200:
+            time.sleep(delay)
+            return (
+                response.content,
+                200,
+                response.headers.get("content-type"),
+                None,
+            )
+        if response.status_code in (429, 500, 502, 503, 504) and attempt < 3:
+            time.sleep(backoff)
+            backoff *= 2
+            continue
+        time.sleep(delay)
+        return None, response.status_code, response.headers.get("content-type"), "http error"
+    return None, 0, None, "exhausted retries"
+
+
+def now_iso() -> str:
+    return datetime.now(timezone.utc).isoformat(timespec="seconds")
+
+
+# --------------------------------------------------------------------------------------
+# Verify
+# --------------------------------------------------------------------------------------
+
+# What the live site held when this tool was written, verified by hand against the
+# homepage autocomplete array and the /birds family index on 2026-09-11. If a later crawl
+# disagrees, either the site changed or the crawler regressed -- both are worth knowing.
+EXPECTED = {"species": 491, "sites": 69, "ecoregions": 10, "families": 64}
+
+
+@app.command()
+def verify() -> None:
+    """Re-hash every archived file against the manifest and report coverage."""
+    records = load_manifest()
+    if not records:
+        console.print("[red]No manifest found. Run `pixi run mirror` first.[/red]")
+        raise typer.Exit(1)
+
+    missing: list[str] = []
+    corrupt: list[str] = []
+    errored = [r for r in records.values() if r.get("http_status") != 200]
+
+    for url, record in records.items():
+        if record.get("http_status") != 200:
+            continue
+        path = ARCHIVE / record["local_path"]
+        if not path.exists():
+            missing.append(url)
+            continue
+        if hashlib.sha256(path.read_bytes()).hexdigest() != record["sha256"]:
+            corrupt.append(url)
+
+    summarize()
+
+    table = Table(title="Integrity", show_header=True)
+    table.add_column("check")
+    table.add_column("result", justify="right")
+    table.add_row("manifest records", str(len(records)))
+    table.add_row("missing files", f"[red]{len(missing)}[/red]" if missing else "0")
+    table.add_row("checksum mismatches", f"[red]{len(corrupt)}[/red]" if corrupt else "0")
+    table.add_row("non-200 URLs", f"[yellow]{len(errored)}[/yellow]" if errored else "0")
+    console.print(table)
+
+    for url in missing[:10]:
+        console.print(f"  [red]missing[/red] {url}")
+    for url in corrupt[:10]:
+        console.print(f"  [red]corrupt[/red] {url}")
+    for record in errored[:10]:
+        console.print(f"  [yellow]{record.get('http_status')}[/yellow] {record['url']}")
+
+    counts = page_counts()
+    shortfall = {k: v - counts.get(k, 0) for k, v in EXPECTED.items() if counts.get(k, 0) < v}
+    if missing or corrupt or shortfall:
+        if shortfall:
+            console.print(f"[red]Short of expected counts: {shortfall}[/red]")
+        raise typer.Exit(1)
+    console.print("[green]Archive verified.[/green]")
+
+
+def page_counts() -> dict[str, int]:
+    def count(pattern: str) -> int:
+        return len(list(PAGES_DIR.glob(pattern))) if PAGES_DIR.exists() else 0
+
+    return {
+        "species": count("bird/*.html"),
+        "sites": count("site/*/*.html"),
+        "ecoregions": count("ecoregion/*.html"),
+        "families": count("family/*.html"),
+    }
+
+
+def summarize() -> None:
+    counts = page_counts()
+    table = Table(title="Archive contents", show_header=True)
+    table.add_column("kind")
+    table.add_column("archived", justify="right")
+    table.add_column("expected", justify="right")
+    for key, expected in EXPECTED.items():
+        got = counts.get(key, 0)
+        marker = "[green]" if got >= expected else "[red]"
+        table.add_row(key, f"{marker}{got}[/]", str(expected))
+
+    images = len(list((ASSETS_DIR / "images").glob("*"))) if (ASSETS_DIR / "images").exists() else 0
+    sounds = len(list((ASSETS_DIR / "sounds").glob("*"))) if (ASSETS_DIR / "sounds").exists() else 0
+    table.add_row("images", str(images), "~3000")
+    table.add_row("sounds", str(sounds), "~400")
+    console.print(table)
+
+    if ARCHIVE.exists():
+        total = sum(f.stat().st_size for f in ARCHIVE.rglob("*") if f.is_file())
+        console.print(f"archive size: [bold]{total / 1e9:.2f} GB[/bold]  at {ARCHIVE}")
+
+
+if __name__ == "__main__":
+    # A bare `python mirror_birdweb.py` should crawl; subcommands are opt-in.
+    if len(sys.argv) == 1 or sys.argv[1].startswith("-"):
+        sys.argv.insert(1, "crawl")
+    app()

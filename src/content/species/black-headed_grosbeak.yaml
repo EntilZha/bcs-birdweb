@@ -1,0 +1,73 @@
+slug: black-headed_grosbeak
+common_name: Black-headed Grosbeak
+scientific_name: Pheucticus melanocephalus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Cardinalidae
+  slug: cardinalidae
+status: Common summer resident.
+species_of_concern: false
+sections:
+  general_description: Black-headed Grosbeaks are medium-sized songbirds with short, thick bills. The male is striking, with a black head, rusty-orange breast, nape, and rump, black back, wings, and tail, and white patches on its wings. The under-wing linings are yellow, and the outer tail feathers are white; both of these can be seen in flight. The female is drab and streaked, but also has yellow under-wing linings. She has a dark crown, a white line above the eye and below the cheek, and two white wing-bars on each wing. First-year males are streaked like females but have more orangey underparts.
+  habitat: Black-headed Grosbeaks are typically found in broadleaved or mixed forests, and especially in brushy, riparian areas. They are generally not found in coniferous vegetation, but will inhabit patches of broadleaved trees and shrubs within conifer forests, including streamside corridors, wetlands, and suburban areas.
+  behavior: Black-headed Grosbeaks sing their robin-like song from conspicuous perches, and forage in the foliage. They also forage on the ground or in low vegetation. During courtship, males fly with their wings and tails spread. Both sexes sing, but have different songs.
+  diet: On the wintering grounds, Black-headed Grosbeaks eat many seeds. During summer, they eat insects, spiders, snails, and berries. The Black-headed Grosbeak is one of the few birds than can eat monarch butterflies, despite the noxious chemicals that the monarchs accumulate from their milkweed diet. Black-headed Grosbeaks eat many monarchs on their wintering grounds.
+  nesting: Black-headed Grosbeaks are monogamous, but pair bonds last for only one breeding season. The female builds the nest on an outer branch of a small willow, alder, big-leafed maple, cottonwood, or other broadleaved tree or shrub. The nest is a bulky, open cup made of twigs, weeds, rootlets, and needles, lined with rootlets, hair, and fine plant material. Both sexes help incubate 2-5 eggs for 12-14 days. They both brood the young for about a week, and both bring food to the nest. The young leave the nest at 10-14 days but can't fly for another two weeks. The adults continue to feed the young until after they can fly, and raise only one brood a year.
+  migration_status: Black-headed Grosbeaks are highly migratory and winter in Mexico. After the breeding season, they wander into berry-rich areas and may form migrating flocks at this time. They migrate early in the fall and return late in the spring.
+  conservation_status: According to the Breeding Bird Survey, the population of Black-headed Grosbeaks in Washington has increased significantly since 1966. They benefit from some human activity on the breeding grounds. Suburban development and logging generally increase the amount of broadleaved vegetation in the coniferous-dominated Pacific Northwest, and the increasing numbers of orchards in eastern Washington has provided more habitat as well. Development creates habitat to some extent, but increasing urbanization reduces available habitat. Black-headed Grosbeaks are not found in typical suburbs, but in more outlying areas that are still semi-rural. These birds need a certain density of big deciduous trees.
+  when_where_wa: Black-headed Grosbeaks can be seen in appropriate habitats at lower elevations throughout Washington from mid-May to mid-August, and sometimes into mid-September. They can be quite common in Garry oak stands in Klickitat County and in streamside forests in the eastern Washington shrub-steppe zone.
+photos:
+- file: bhgr_f_lb_l.jpg
+  caption: Female
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: bhgr_m_lb_l.jpg
+  caption: 'Male. Note: yellow underwing coverts.'
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: bhgr_jh_l.jpg
+  caption: Male
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: bhgr_f_tg_l.jpg
+  caption: 'Female. Note: bicolored bill and fine streaks on breast.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: BHGR01.mp3
+  credit: null
+maps:
+  wa: phme.jpg
+  north_america: bhgrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', R, U, U, U, R, R, '', '', '']
+  puget_trough: ['', '', '', R, C, C, C, C, F, '', '', '']
+  north_cascades: ['', '', '', '', C, C, C, C, U, '', '', '']
+  west_cascades: ['', '', '', U, C, C, C, F, U, '', '', '']
+  east_cascades: ['', '', '', '', F, C, C, F, U, '', '', '']
+  okanogan: ['', '', '', '', C, C, C, U, '', '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, F, '', '', '', '']
+  blue_mountains: ['', '', '', '', F, F, F, F, F, '', '', '']
+  columbia_plateau: ['', '', '', R, C, C, C, C, R, '', '', '']
+taxonomy:
+  ebird_code: bkhgro
+  current_common_name: Black-headed Grosbeak
+  current_scientific_name: Pheucticus melanocephalus
+  clements_sort: 34559
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black-headed_grosbeak
+  archived: '2026-09-12'

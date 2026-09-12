@@ -1,0 +1,63 @@
+slug: black_turnstone
+common_name: Black Turnstone
+scientific_name: Arenaria melanocephala
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Common migrant. Winter resident on coast.
+species_of_concern: true
+sections:
+  general_description: The Black Turnstone is a compact, short-billed bird found on rocky shores. All plumages are mostly black with white bellies. Their bellies and underwings are white, and their heads and breasts are black. In flight, they show white on the back, wings, and base of the tail. In breeding plumage, the Black Turnstone has a white mustache and some white on the breast. Its legs are orange-brown and can be quite bright, although not as bright as those of the Ruddy Turnstone. Males and females appear similar, but males are brighter with more contrast in color on the head. Their long, black wing coverts contrast with their white sides.
+  habitat: A coastal species at all times of the year, Black Turnstones nest in the wet tundra of coastal Alaska, often near estuaries or lagoons. They migrate and winter along the rocky shorelines of the Pacific Coast. They are most often found foraging on rocky shores, jetties, and islets. They also forage on top of kelp beds.
+  behavior: |-
+    Black Turnstones are usually found in small flocks, but they may number 100 or more.
+    The Black Turnstone moves steadily and slowly over rocks, looking for prey to pry off with its strong bill, thus its name. On beaches it turns over rocks and shells in search of food, although not as often as the related Ruddy Turnstone.
+  diet: Limpets and acorn barnacles are the most important food items on the wintering grounds of the Black Turnstone. During the breeding season, they eat many insects as well as some berries and seeds.
+  nesting: Black Turnstones return to the same nest and pair with the same mate year after year. They nest on the ground, among sedges or grasses close to water. The nest is sometimes out in the open, sometimes hidden by tall vegetation. Both parents help make the shallow scrape lined with grass. Both help incubate the four eggs for 22-24 days. The young leave the nest shortly after hatching and find their own food. Both parents tend the young, but the female leaves about two weeks post-hatching, and the male cares for the young until they are independent. They begin to make short flights at 23 days, and have mastered sustained flight by 28-30 days.
+  migration_status: Migrants follow the coastline closely in spring on their way back to coastal breeding grounds in Alaska. In the fall, some birds cut across the Gulf of Alaska to shorten their trip south. They winter from the southern coast of Alaska down the Pacific to Mexico.
+  conservation_status: The Canadian Wildlife Service estimates the population at 80,000 birds. Christmas Bird Count data suggest that there has been a decline in recent years. Black Turnstones are listed as a species of special concern on the Partners in Flight watch list.
+  when_where_wa: Black Turnstones are common throughout the winter on rocky shores along the outer coast of Washington and in Puget Sound south to Seattle. They start leaving for the breeding grounds in mid-May and are rare in Washington by the first half of June. A few birds return in late June, more arrive in July, and they are once again common by mid-July. Juveniles follow in August. There are a few scattered records inland, but the Black Turnstone is primarily a bird of the coast. Penn Cove on Whidbey Island (Island County) is an excellent place to see them, as are Alki Beach in West Seattle (King County) and Drayton Harbor (Whatcom County).
+photos:
+- file: bltu_w_gth_l.jpg
+  caption: Winter plumage
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: bltu_m_dp_l.jpg
+  caption: Winter plumage
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: bltu.mp3
+  credit: null
+maps:
+  wa: arme.jpg
+  north_america: bltumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, U, '', U, C, C, C, C, C]
+  puget_trough: [C, C, C, C, U, '', U, U, F, C, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: blktur
+  current_common_name: Black Turnstone
+  current_scientific_name: Arenaria melanocephala
+  clements_sort: 6164
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black_turnstone
+  archived: '2026-09-12'

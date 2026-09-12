@@ -1,0 +1,79 @@
+slug: ruffed_grouse
+common_name: Ruffed Grouse
+scientific_name: Bonasa umbellus
+order:
+  name: Galliformes
+  slug: galliformes
+family:
+  name: Phasianidae
+  slug: phasianidae
+status: Fairly common resident.
+species_of_concern: false
+sections:
+  general_description: The Ruffed Grouse is a medium-sized bird measuring approximately 17' in length. The bird is the size and shape of a small chicken, with two distinct color morphs, gray and red. Both forms are cryptically patterned with black and white barring. The tail has a dark band at the end, with a lighter tip, which, like the dark ruff around the neck, is evident when fanned open. A white eye-line, small crest on top of the head, and a short, curved bill are other distinguishing characteristics.
+  habitat: Ruffed Grouse are found in mixed woods and hardwood forests. They can also be found along river corridors and throughout forested areas of Washington. They do well in early successional woods, forest openings, and along forest edges. In western Washington, they are most often found near black cottonwood, bigleaf maple, vine maple, and Sitka spruce. In eastern Washington, the quaking aspen is the most important tree species for Ruffed Grouse.
+  behavior: Although not prone to flocking, they are often found in small groups, especially around winter food sources or when the families are still together. In the breeding season, males carry out their courtship display on a fallen log, puffing out their feathers, fanning their tails, and showing their ruffs while drumming the air with their wings. The drumming can be heard from far away, each drum roll starting out slowly and quickly picking up speed.
+  diet: Ruffed Grouse forage on the ground and in shrubs and trees. They are omnivores, although they feed mostly on plant material. In the winter, they eat the buds of deciduous trees, especially in areas where it snows. The large buds of aspen trees are an important winter food source. They also eat fruits, berries, twigs, leaves, catkins, and seeds. In the summer, they eat insects, spiders, snails, small snakes, and frogs. Young Ruffed Grouse eat mostly insects.
+  nesting: One male may mate with several females and does not participate in caring for the young. The female builds a nest on the ground in dense cover, usually next to a log, rock, or at the base of a tree or shrub. The nest is a depression lined with leaves, grass, needles, and some feathers. The female lays and incubates 9-12 eggs. The well-camouflaged young leave the nest shortly after hatching. The female leads them to feeding sites where the young feed themselves.
+  migration_status: Ruffed Grouse are permanent residents in Washington, although they will make short, seasonal movements to areas with more dense cover in the winter.
+  conservation_status: There are three separate subspecies of Ruffed Grouse in Washington. Bonasa umbellus castanea is found on the Olympic Peninsula and in southwest Washington. B. u. sabini is found in the Puget Trough and the western Cascades. B. u. phaia is the subspecies found in eastern Washington. Logging throughout western Washington has resulted in the conversion of mature coniferous forests to second-growth hardwood and mixed stands, which has probably led to increased numbers of Ruffed Grouse. They are widespread and common, although their populations fluctuate in regular cycles.
+  when_where_wa: Ruffed Grouse are commonly found in hardwood and mixed forests at lower elevations throughout the state. They also inhabit forested river corridors at higher elevations and so are absent from the Columbia basin. Their habitat typically overlaps with that of the Blue Grouse, although the Blue Grouse is often found at higher elevations. Where they occur together, the Ruffed Grouse occupies river corridors.
+photos:
+- file: rugr_a_gth1_l.jpg
+  caption: 'Note: crest and dark tail band.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rugr_a_gth2_l.jpg
+  caption: Note crest.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rugr_a_gth3_l.jpg
+  caption: 'Note: dark slanted barring on flanks.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rugr_jh2_l.jpg
+  caption: 'Note: crest and dark tail band.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: rugr_jh_l.jpg
+  caption: Note crest.
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: rugr.mp3
+  credit: null
+maps:
+  wa: boum.jpg
+  north_america: rugrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, F, F, F, F, F, F, F, F, F]
+  puget_trough: [U, U, U, U, U, U, U, U, U, U, U, U]
+  north_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: [F, F, F, F, F, F, F, F, F, F, F, F]
+  blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
+  columbia_plateau: [R, R, R, R, R, R, R, R, R, R, R, R]
+taxonomy:
+  ebird_code: rufgro
+  current_common_name: Ruffed Grouse
+  current_scientific_name: Bonasa umbellus
+  clements_sort: 1283
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/ruffed_grouse
+  archived: '2026-09-12'

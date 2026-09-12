@@ -1,0 +1,73 @@
+slug: swainsons_hawk
+common_name: Swainson's Hawk
+scientific_name: Buteo swainsoni
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Accipitridae
+  slug: accipitridae
+status: Fairly common summer resident east.
+species_of_concern: true
+sections:
+  general_description: The Swainson's Hawk is a slender buteo, similar in length to the Red-tailed Hawk, but with a longer wingspan and weighing about 20% less. The pointed wings are held in a strong dihedral in flight. There are three different color phases, light, dark, and intermediate (or rufous), all of which occur in Washington. Pairs are often of mixed color phases. Light-phase adults have a white or mostly white belly, with matching underwings. They have rufous breasts, or bibs, that contrast sharply with their white bellies. The head is dark with white surrounding the bill, extending down to the throat and up to the eyes. The back is solid dark brown. Dark adults are almost solid dark brown with rufous on the belly and underwings. Intermediate plumages fall along a continuum between dark and light phases. All adults have dark flight feathers. Juveniles are generally mottled versions of the adults, with the juvenile of the light phase having a fairly white head at times.
+  habitat: Swainson's Hawks forage in open farmland, sagebrush desert, or prairies. Compared to Ferruginous Hawks, Swainson's inhabit moister areas. They nest in wooded groves along streams, windbreaks, or other treed or brushy areas near open habitats, often building nests in introduced locust or cottonwood trees. During migration they are often found in grasslands and harvested fields.
+  behavior: During migration, Swainson's Hawks often stop over at recently tilled fields, where insect larvae have been brought to the surface by plowing. In these instances, large flocks can be seen foraging on the ground. They also hunt by soaring over open areas, scanning the ground for prey. They have been known to congregate at the leading edge of a grassfire, waiting for prey to be driven into the open by the oncoming flames.
+  diet: During the breeding season, Swainson's Hawks eat many small mammals. In Washington, almost 90% of their diet is made up of ground squirrels. During migration and winter, however, they are almost exclusively insectivorous, with grasshoppers and dragonflies both major components of their diet.
+  nesting: Swainson's Hawks nest later than any other raptors in Washington. Courtship begins when they arrive on the breeding grounds. The male Swainson's Hawk makes steep display flights. Both members of the monogamous pair help with nest building, although the male does most of the work. The nest is usually in a tree or shrub from 15-30 feet off the ground, often on top of an old magpie or crow nest, although it can be on a ledge. The nest itself is a platform made of sticks and lined with finer material, often including greenery. The female incubates 2 to 3 eggs for 34 to 35 days. The male brings her food while she is incubating and may take short stints at the nest when she leaves to feed. The female broods the young for about nine days, after which she helps the male provide food. The young birds begin climbing about on tree limbs near the nest at 27 to 33 days, and take their first flights at about 38 to 46 days. Once they begin to fly, the young stay near the nest for 11 to 20 more days.
+  migration_status: Swainson's Hawks are long-distance migrants, some traveling more than 6,000 miles each way. They often migrate in large flocks and spend the winter in the native grasslands and agricultural areas of southern Argentina.
+  conservation_status: Although they prey on agricultural pests, Swainson's Hawks were formerly presumed to be pests themselves and were killed by farmers and ranchers. With attitudes towards predators changing, this is less of a problem, but habitat destruction and pesticides still pose threats to the Swainson's Hawk population. In the mid-1990s, thousands of Swainson's Hawks were killed on their wintering grounds from direct pesticide spraying, and by eating pesticide-covered grasshoppers. This particular pesticide has since been removed from use. As agricultural practices become more intensive, available habitat shrinks, and there is some evidence that the population is declining in Washington. For these reasons, the Swainson's Hawk is listed on the Audubon watch list for Washington.
+  when_where_wa: Swainson's Hawks are fairly common summer residents in higher grasslands in most of eastern Washington. Most arrive by mid-April and leave in late August or early September. During migration they are sometimes seen in the Cascade Mountains.
+photos:
+- file: swha_gl_l.jpg
+  caption: 'Adult (light morph). Note: white throat and rufous breast.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: swha_fl_gl_l.jpg
+  caption: 'Adult (light morph). Note: pale body with dark head and breast (with white throat), and tapered wings.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: swha_j_gl_l.jpg
+  caption: Juvenile (intermediate morph)
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: swha_jfl_gt_l.jpg
+  caption: Juvenile (intermediate morph) in flight
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: SWHA01.mp3
+  credit: null
+maps:
+  wa: busw.jpg
+  north_america: swhamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', R, U, U, U, U, R, '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', R, '', '', '']
+  columbia_plateau: ['', '', R, F, F, F, F, F, U, '', '', '']
+taxonomy:
+  ebird_code: swahaw
+  current_common_name: Swainson's Hawk
+  current_scientific_name: Buteo swainsoni
+  clements_sort: 8504
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/swainsons_hawk
+  archived: '2026-09-12'

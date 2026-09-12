@@ -1,0 +1,79 @@
+slug: gadwall
+common_name: Gadwall
+scientific_name: Anas strepera
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: Gadwalls are medium-sized, streamlined ducks with mottled brown-and-black body plumage and light brown heads. Females and males in eclipse plumage may look superficially similar to Mallards. Both sexes have a black and white wing-patch, or speculum, that is distinctive in flight. Males also have chestnut on the forewing. Males in breeding plumage have gray and black striations on their bodies and heads, and black rumps. Females, immatures, and eclipse-plumaged males have thin, black bills with orange on the sides, while males in breeding plumage have solid black bills.
+  habitat: Ponds and marshes are the preferred habitat of the Gadwall, which is often found in deeper water than many other dabblers. In western Washington, it is associated with developed and cleared areas and, on Puget Sound, shows a preference for urbanized habitats over less developed areas. Gadwalls are often found at sewage ponds.
+  behavior: Gadwalls forage mainly while swimming, either taking items from the surface or dabbling in shallow water, or diving, which they are more likely to do than most other dabblers. They often follow American Coots, foraging on plants that have been brought up to the surface. Gadwalls seldom forage on land. They are more strongly monogamous than other ducks, with over 90% paired by November, 4 to 5 months prior to the breeding season. This monogamy is limited, however, and as with other ducks, the pair bonds dissolve upon the start of incubation, and males leave the breeding area to gather in bachelor flocks.
+  diet: The preferred diet of the Gadwall is the invasive, exotic submergent, Eurasian Water Milfoil. Gadwalls, especially when they are young, also eat aquatic invertebrates and the occasional small fish.
+  nesting: A late nester, the female Gadwall picks the nest site, which is usually near water and surrounded by dense weeds or grass. The nest itself is on the ground, made of grasses and weeds and lined with down. The female lays 8 to 10 eggs, which she incubates for 24 to 27 days. Shortly after hatching, the young leave the nest and can swim and find their own food. The female remains with the young until they fledge at about ten weeks of age.
+  migration_status: Gadwalls are short-distance migrants, most wintering north of the tropics. Many do not migrate at all, and they can be found year round in both western and eastern Washington. Most pairs arrive on the breeding grounds in early April. Fall migration lasts from late August to October and peaks in September.
+  conservation_status: The Gadwall was traditionally a duck of the Midwestern prairies and was an uncommon sight in Washington. The conversion of the coniferous landscape to a more open one has helped create habitats more inviting to Gadwalls, as has the spread of Eurasian Water Milfoil into urban lakes. The first Gadwall nests in Washington were reported in the mid-1960s. Range-wide, the Gadwall population fluctuates greatly, but it continues to expand its range and does not appear to be in decline overall.
+  when_where_wa: Gadwalls are common breeders in the Columbia Basin of eastern Washington. They also breed in western Washington along the Columbia River and on the east shore of Puget Sound from Mount Vernon to Olympia. They are common in winter in wetland habitats in these areas, as well as along the coast.
+photos:
+- file: gadw_f_lb_l.jpg
+  caption: Female
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: gadw_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: gadw_tg_l.jpg
+  caption: 'Male. Note: puffy head and black rear.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: gadw_f_gl_l.jpg
+  caption: 'Female. Note: high forehead, orange on sides of bill, and plain face.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: gadw_fl_gl_l.jpg
+  caption: Pair in flight (male leading).
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: GADW01.mp3
+  credit: null
+maps:
+  wa: anst.jpg
+  north_america: gadwmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, C, C, C, U, U, U, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [F, F, F, F, F, F, F, F, F, C, C, C]
+  okanogan: [U, U, C, C, C, C, C, C, C, C, C, U]
+  canadian_rockies: [F, F, F, C, C, U, U, U, C, F, F, F]
+  blue_mountains: ['', '', '', U, U, '', '', '', U, U, '', '']
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: gadwal
+  current_common_name: Gadwall
+  current_scientific_name: Mareca strepera
+  clements_sort: 505
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/gadwall
+  archived: '2026-09-12'

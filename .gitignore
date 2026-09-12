@@ -1,0 +1,28 @@
+# Build output
+dist/
+.astro/
+node_modules/
+
+# pixi
+.pixi/
+
+# Phase 1 archive: the raw mirror of the legacy site and its packed tarballs.
+# Deliberately not committed — it is 500MB-1GB of 2005-era JPEGs and MP3s, and its
+# durable home is the BCS Google Drive (see scripts/pack_archive.py). The site ships
+# WebP derivatives under src/assets/ instead.
+archive/
+dist-archive/
+
+# Editor autosave insurance
+*.yaml.backup.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Misc
+.DS_Store
+.cache/
+.netlify/
+.claude/settings.local.json

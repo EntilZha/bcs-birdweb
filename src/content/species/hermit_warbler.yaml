@@ -1,0 +1,61 @@
+slug: hermit_warbler
+common_name: Hermit Warbler
+scientific_name: Dendroica occidentalis
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: Uncommon to locally fairly common summer resident.
+species_of_concern: true
+sections:
+  general_description: Hermit Warblers are small, yellow-headed birds with distinctive, unstreaked flanks. They are white below and gray above, with white outer tail feathers and two white wing-bars. Males have black throats. Females' throats are grayish, with some black. In parts of Washington, Hermit Warblers hybridize with Townsend's Warblers, resulting in birds with plumage intermediate between the two species.
+  habitat: Hermit Warblers are most often found in mature coniferous forests, from sea level to the mountains. During breeding season, they are most common in stands over 30 years old, and are generally absent from stands under 20 years old. They are generally found in the interior of large forests, high in the canopy.
+  behavior: During migration and post-breeding, Hermit Warblers are commonly found in mixed flocks. When foraging they hop about the foliage, moving from the trunk outward to branch tips and then starting back at the trunk. They also glean items from the foliage while hovering, and will fly out to catch aerial prey. Hermit Warblers can hang upside-down to glean from the undersides of leaves and twigs. Their preference for high, dense foliage makes them difficult to spot, but they can be heard singing regularly during the breeding season.
+  diet: Insects, spiders, and other invertebrates make up most of the Hermit Warbler's diet. Young birds are fed many caterpillars.
+  nesting: Males arrive on the breeding grounds before females. They establish and defend territories by singing. Monogamous pairs form shortly after the females arrive. The female builds the nest, which is saddled across high limbs and concealed by overhanging branches. The nest is an open cup of weeds, needles, twigs, moss, rootlets, and spider webbing, lined with feathers, hair, and other soft material. The female incubates 4 to 5 eggs for about 12 days, and both parents feed the young. The young leave the nest 8 to 10 days after hatching, and the parents continue to feed them for at least a few days following fledging.
+  migration_status: Most Hermit Warblers winter in the mountains of Mexico and Guatemala, although some winter on the California coast and north to Oregon in small numbers. In spring, they return along the coast in a fairly quick northward migration. Fall migration is generally through the mountains and is usually more drawn out than the spring movement.
+  conservation_status: Hermit Warblers formerly bred as far north as British Columbia. However as Townsend's Warblers expand their range, Hermit Warblers are being supplanted, that is, they are slowly being extirpated. The northernmost edge of their current range is a zone of hybridization between Hermit and Townsend's Warblers. Hermit Warblers require specialized habitat, and that habitat (mature coniferous forest) is at risk from logging within their range. Hermit Warblers will use forests that have been lightly thinned, but will not inhabit heavily thinned or clear-cut stands. They have a relatively small range that is decreasing due to logging and the expansion of Townsend's Warblers. Although still common in many areas, Hermit Warblers are listed as a species-at-risk by Partners in Flight.
+  when_where_wa: Hermit Warblers are common from mid-April to early August in the southern Cascades and southeastern Olympic Mountains. Pure Hermit Warblers are found in southern Washington, from Mount Adams and Mount Rainier west, north to the southern Olympic Peninsula. Hybrid zones are approximately 50-mile-wide bands in the southern Cascades and the Olympic Peninsula. Within the hybrid zone in the Olympic Mountains, Hermit Warblers can be found at mid-elevations between higher- and lower-elevation Townsend's Warblers.
+photos:
+- file: hewa_gl_l.jpg
+  caption: 'Male. Note: yellow crown and face, gray back, and plain white sides.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: hewa_f_gl_l.jpg
+  caption: 'Female. Note: white wing bars and yellowish face with plain eye-ring.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: HEWA01.mp3
+  credit: null
+maps:
+  wa: deoc.jpg
+  north_america: hewamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', U, U, U, U, '', '', '', '']
+  puget_trough: ['', '', '', '', U, U, U, U, R, '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', R, F, F, F, U, U, '', '', '']
+  east_cascades: ['', '', '', '', U, U, U, U, '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: herwar
+  current_common_name: Hermit Warbler
+  current_scientific_name: Setophaga occidentalis
+  clements_sort: 34210
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/hermit_warbler
+  archived: '2026-09-12'

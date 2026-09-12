@@ -1,0 +1,52 @@
+slug: bristle-thighed_curlew
+common_name: Bristle-thighed Curlew
+scientific_name: Numenius tahitiensis
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: A dozen or more individuals observed the length of outer coast, in May 1998. One prior record from Leadbetter Point (Pacific County), in May 1982.
+photos:
+- file: btcu_lb_l.jpg
+  caption: 'Adult. Note: boldly striped head, clean buffy flanks.'
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: btcu_a_dp_l.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: btcumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: brtcur
+  current_common_name: Bristle-thighed Curlew
+  current_scientific_name: Numenius tahitiensis
+  clements_sort: 6010
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/bristle-thighed_curlew
+  archived: '2026-09-12'

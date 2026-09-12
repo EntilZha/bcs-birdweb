@@ -1,0 +1,67 @@
+slug: black-footed_albatross
+common_name: Black-footed Albatross
+scientific_name: Phoebastria nigripes
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Diomedeidae
+  slug: diomedeidae
+status: Common pelagic.
+species_of_concern: true
+sections:
+  general_description: A pelagic bird, usually seen only from boats, the Black-footed Albatross is solid brownish-gray, with a pale face and a lighter patch at the base of its tail. It is unusual in that it is a dark albatross; most other albatrosses are predominantly white. The Black-footed Albatross is relatively small for an albatross, but it is a very large, long-winged bird nonetheless.
+  habitat: Breeding habitat consists of sandy beaches and other open, flat areas on islands in the Hawaiian chain and a few islands off southern Japan. During the non-breeding season, Black-footed Albatrosses remain on the open ocean. They are most commonly found over upwellings or the continental shelf, rarely close to shore.
+  behavior: Once they leave their breeding colony at the age of 5½ months, young birds spend the next three years at sea, never touching land. After that, they spend July through November at sea as well. During this time they land on the water to feed and sleep, and it is speculated that they can sleep even while airborne. They follow ships at sea, feeding on the refuse left in their wakes. The Black-footed Albatross forages while swimming, dabbling like a duck to reach food near the surface of the water. It will also dive under water with its wings partially spread. Albatrosses have difficulty flying without wind.
+  diet: Early morning and late afternoon are prime feeding times for the Black-footed Albatross. It preys on fish, squid, and crustaceans and also scavenges. Squid, fish, fish eggs, and crustaceans are its major food items, which it locates with its keen sense of smell. It also ingests floating plastic, apparently without harm to an adult; however, the plastic is harmful if fed to the chicks.
+  nesting: A long-lived species, Black-footed Albatrosses do not breed until they are at least five years old. First-time breeders engage in an elaborate courtship display to establish pair bonds, which are kept for life. After that, they generally breed annually. Colony nesters, they build their nests high on sandy, open beaches. Both sexes help build the nest, which is a shallow depression in the ground with a rim built up slightly around it. The nest is similar to that of the closely related Laysan Albatross, although with a less defined rim. The female lays a single egg which both sexes take turns incubating for over 9 weeks. For the first few weeks, the parents take turns tending the chick and foraging, with foraging trips taking many days. The parents regurgitate food for the chick. After 140-150 days on the island, the chick heads out to sea.
+  migration_status: Adults spend the breeding season from November to June on the breeding colonies, after which they go to sea for the remainder of the year. Non-breeders and failed breeders leave the colony earlier, in April. While at sea, they can be found all across the northern Pacific.
+  conservation_status: The total population of Black-footed Albatrosses is estimated at 200,000 individuals, far fewer than that of Laysan Albatrosses. Like the Laysan, the Black-footed Albatross population has experienced a recovery from the devastation by feather hunters and habitat degradation on nesting islands in the early part of the 20th Century. However drift nets and long-line fisheries kill thousands of birds each year. The IUCN (International Union for Conservation of Nature and Natural Resources) has recently changed the status of this species from threatened to endangered on the basis of a projected future decline of more than 60% over the next three generations (56 years), based on present rates of incidental mortality from longline fisheries in the north Pacific Ocean. One population in Japan nests near an active volcano which has the potential to destroy that entire population if it erupts. DDT and other pesticides were found at serious levels in 1969. This appears to be more of a concern for Black-footed than for Laysan Albatrosses because Black-footed Albatrosses get a greater portion of their food from scavenging.
+  when_where_wa: Black-footed Albatrosses are the only albatrosses commonly seen off the Washington coast. The best way to see them is on offshore boat trips, where they are commonly seen from April through October, and uncommonly seen from November through March.
+photos:
+- file: bfal_b_lb_l.jpg
+  caption: Courting adults on Midway Island (South Pacific)
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: bfalmd.jpg
+  caption: ''
+  credit:
+    name: Michael Donahue
+    url: null
+  hero: true
+- file: bfal2.jpg
+  caption: ''
+  credit:
+    name: Seattle Audubon
+    url: http://seattleaudubon.org/sas/
+  hero: false
+audio:
+  file: BFAL01.mp3
+  credit: null
+maps:
+  wa: dini.jpg
+  north_america: bfalmap.gif
+abundance:
+  oceanic: [R, R, R, C, C, C, C, C, C, C, U, R]
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', U]
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: bkfalb
+  current_common_name: Black-footed Albatross
+  current_scientific_name: Phoebastria nigripes
+  clements_sort: 6988
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black-footed_albatross
+  archived: '2026-09-12'

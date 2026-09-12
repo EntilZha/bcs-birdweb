@@ -1,0 +1,91 @@
+slug: yellow_warbler
+common_name: Yellow Warbler
+scientific_name: Dendroica petechia
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: Common summer resident.
+species_of_concern: true
+sections:
+  general_description: Yellow Warblers are bright yellow birds. Their upperparts have a slight greenish tinge, and their tails are greenish yellow. Their heads and faces are plain, without lines or streaks. Males have reddish streaks down their breasts and bellies. Females are also yellow, but not as bright as males, and they lack red streaks. Females and immatures show a fine, yellowish eye-ring. First-year birds are drab yellow-gray, with yellow undertail coverts.
+  habitat: Throughout their range, Yellow Warblers use a variety of brushy habitats on forest edges. In Washington, their breeding habitat is restricted to hardwood thickets near water, especially those with willow, alder, and cottonwood. They use similar habitat during migration, but can be found in more varied habitats also. In winter, they can be found in semi-open tropical habitats and are often associated with mangroves.
+  behavior: Yellow Warblers forage at various levels in the vegetation, although males generally forage higher than females. They glean prey from small limbs and foliage, but also fly out to catch prey in midair. They can be difficult to see because they generally inhabit dense vegetation, but during the breeding season, the males' distinctive song is a helpful way to locate them.
+  diet: Insects, especially caterpillars, make up the Yellow Warbler's diet.
+  nesting: Yellow Warblers are primarily monogamous and form pair bonds soon after females arrive on the breeding grounds (about ten days behind males). The female builds the nest, often in an upright fork in a tree or shrub. The nest is made of bark and grass, and lined with plant down and hair. The male brings food to the female while she incubates 4 to 5 eggs for 11 to 12 days. Both parents feed the young, which leave the nest 8 to 10 days after hatching. The parents continue to feed the young for up to three weeks after they leave the nest.
+  migration_status: Long-distance migrants, Yellow Warblers leave their breeding grounds in midsummer to winter in southern Mexico and Central America.
+  conservation_status: Yellow Warblers are one of the most common and widely distributed warblers in North America. They are a common host for the nest parasite, the Brown-headed Cowbird. However, Yellow Warblers may respond aggressively to cowbirds near their nests, and will sometimes build new nests over nests with cowbird eggs. Cowbirds can have adverse effects on localized Yellow Warbler populations, although it is not likely that cowbirds have a significant impact on the population as a whole at this time. Yellow Warblers' use of edge and second-growth habitat enables them to survive in logged and developed areas. In Washington, livestock grazing along willow-lined rivers damages habitat, and Yellow Warblers have declined along some rivers and creeks in the Columbia Basin. According to the Breeding Bird Survey, the Washington population declined significantly from 1966 to 1979, but has rebounded since then, with a statewide, non-significant increase since 1980.
+  when_where_wa: Yellow Warblers breed all over Washington in appropriate habitat, but are most common in streamside thickets in the eastern Washington lowlands. They breed in western Washington as well, where appropriate habitat remains, but are less common in the western Olympic Peninsula, as there is not much deciduous habitat in that part of the state. Yellow Warblers are common in Washington from May through mid-August. They are sighted uncommonly through the end of September.
+photos:
+- file: yewa_m_gth_l.jpg
+  caption: 'Male. Note: reddish streaking on breast.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: yewa_m2_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: yewa_m3_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: yellowwarbler_1_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: yellowwarbler_2_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: yellowwarbler_3_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: ywar_j_gl_l.jpg
+  caption: 'Juvenile. Note: thin pointed bill, and white edging on tertials.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: YellowWarbler.mp3
+  credit: null
+maps:
+  wa: depe.jpg
+  north_america: ywarmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', C, C, C, C, F, R, '', '']
+  puget_trough: ['', '', '', R, C, C, C, C, C, R, '', '']
+  north_cascades: ['', '', '', '', C, C, C, F, U, '', '', '']
+  west_cascades: ['', '', '', R, F, C, C, F, U, '', '', '']
+  east_cascades: ['', '', '', R, C, C, C, F, R, '', '', '']
+  okanogan: ['', '', '', '', C, C, C, C, U, '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, U, '', '', '', '']
+  blue_mountains: ['', '', '', '', U, F, F, F, U, '', '', '']
+  columbia_plateau: ['', '', '', R, F, C, C, F, F, '', '', '']
+taxonomy:
+  ebird_code: yelwar1
+  current_common_name: Northern Yellow Warbler
+  current_scientific_name: Setophaga aestiva
+  clements_sort: 34087.0
+  historic_common_name: Yellow Warbler
+  display_historic: false
+  note: Published on BirdWeb as Yellow Warbler (Dendroica petechia). The genus Dendroica was merged into Setophaga, and the Yellow Warbler was later split; Washington's breeding bird is the Northern Yellow Warbler.
+source:
+  url: https://birdweb.org/birdweb/bird/yellow_warbler
+  archived: '2026-09-12'

@@ -1,0 +1,67 @@
+slug: california_quail
+common_name: California Quail
+scientific_name: Callipepla californica
+order:
+  name: Galliformes
+  slug: galliformes
+family:
+  name: Odontophoridae
+  slug: odontophoridae
+status: Common resident east. Fairly common west.
+species_of_concern: false
+sections:
+  general_description: The California Quail is a gray, ground-dwelling bird, more slender than most other quail. It has a light breast with scaled patterning, white streaks along brown sides, and black and gray scaling on the nape of the neck. The female has a tan head with a small feather plume. The male has a bold black face outlined in white, with a brown crown and a pendulous feather plume hanging forward from his forehead.
+  habitat: California Quail are most often found in edge habitat with food-producing plants and shrubs for cover. Many forest types provide such habitat at their edges, as do steppe zones, low- to mid-density residential areas, parks, roadsides, and traditional agriculture.
+  behavior: California Quail are predominantly ground dwellers, although the males spend much time off the ground in bushes, trees, and on manmade structures, especially when calling. They live in groups called 'coveys' that move about within a home range during the non-breeding season. During the breeding season, coveys break up into breeding pairs that spread out across the home range to nest.
+  diet: In Washington, California Quail rely heavily on seeds, especially those from legumes. They will also eat leaves, fresh shoots, berries, acorns, and insects.
+  nesting: Ground nesters, California Quail usually find a spot under a shrub or brush-pile or next to a log or other cover where they build a shallow depression lined with grasses and leaves. Sometimes they nest above ground, on a broken branch or in the old nest of another bird. Females lay and incubate a clutch of 10-16 eggs. Although the young are able to walk about and feed themselves almost immediately after hatching, both parents continue to tend to them, the female brooding them at night and in cold weather, and the male acting as a sentry, watching for danger.
+  migration_status: Although the California Quail is a permanent resident, it moves seasonally within its home range.
+  conservation_status: The California Quail was introduced into Washington from the southwestern United States. It adapts well to encroaching human populations and is often found in wooded suburbs and city parks, where it is subject to predation by cats. Changing habitats that increase edge and maintain early successional habitat benefit the quail. Conversion of small farms to large agribusiness without hedgerows has a negative impact on the population.
+  when_where_wa: California Quail are common and widespread in Washington. They are found in shrubby areas, farmlands, residential areas, and city parks. In western Washington, they can be found in the Puget Trough south to the Willamette Valley, in the San Juan Islands, and on the Olympic Peninsula in Sequim. In eastern Washington, they can be found in most areas with water below the lower tree line. In the Blue Mountains, the species is expanding up creek and river valleys. They are absent from the vast tracts of dry wheat and from the moist river valleys in the northeast corner of the state.
+photos:
+- file: caqu_lb_l.jpg
+  caption: ''
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: caqu_tg_l.jpg
+  caption: Male
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: caqu_f_tg_l.jpg
+  caption: Female with chick.
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: caqu1.mp3
+  credit: null
+maps:
+  wa: cacal.jpg
+  north_america: caqumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, R, R, R, R, R, R, R, R, R]
+  puget_trough: [F, F, F, F, F, F, F, F, F, F, F, F]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [C, C, C, C, C, C, C, C, C, C, C, C]
+  blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: calqua
+  current_common_name: California Quail
+  current_scientific_name: Callipepla californica
+  clements_sort: 1094
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/california_quail
+  archived: '2026-09-12'

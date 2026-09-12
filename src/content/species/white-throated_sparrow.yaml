@@ -1,0 +1,73 @@
+slug: white-throated_sparrow
+common_name: White-throated Sparrow
+scientific_name: Zonotrichia albicollis
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Uncommon winter resident, mostly west.
+species_of_concern: false
+sections:
+  general_description: The White-throated Sparrow has two color morphs that are equally represented in the population--white-striped and tan-striped. Both varieties have a brown-striped back and a clear, grayish-brown rump and tail. Their wings are brown-streaked with two white wing-bars. White-striped birds have alternating black and white stripes on their head, with white at the crown and above each eye, and yellow patches in front of the eyes. They have bright white throat-patches, clear gray breasts, and white bellies. Tan-striped birds have a similar head pattern, but the white is replaced with tan and the black with brown (with darker streaks). The yellow patches are less distinctive. The throat is still white, but dark streaks descending from each side of the bill split the white into three sections. The breast is more streaked, with less distinction between the breast and belly colors. Most birds seen in Washington are juveniles, which are streaky overall. The juvenile plumage is less brightly colored and streakier than that of the adult, and lasts through the first winter.
+  habitat: White-throated Sparrows breed in coniferous and mixed woodlands, especially those with openings and thick undergrowth. Second growth after logging or fire is especially productive breeding habitat. Other openings around beaver ponds, roadsides, and near the treeline are also used. These sparrows migrate through, and winter in, similar edgy habitats with dense understory, including suburban yards and parks, often near water.
+  behavior: White-throated Sparrows usually forage on the ground in loose flocks, kicking the leaf litter back with both feet to uncover food. They will come to bird feeders if there is cover nearby. During the breeding season, they sing from trees, although they usually do not sing from very exposed perches. The two color morphs have a number of interesting behavioral differences. Either sex can be white-striped or tan-striped, but they usually pair with a member of the other color morph. Pairs of tan-striped females and white-striped males nest in more open forest and forest edge areas. Pairs of white-striped females and tan-striped males tend to nest in denser forests. Pairs of white-striped females and tan-striped males usually form pair bonds more quickly than the reverse combination. White-striped birds tend to be dominant. White-striped males are usually more aggressive and sing more than tan-striped males. They are also more likely to seek extra-pair copulations than tan-striped males. White-striped females also sing, but their tan-striped counterparts usually do not. Tan-striped adults tend to provide more food and care for the young than white-striped birds.
+  diet: In fall and winter, the White-throated Sparrow eats small seeds and berries. Insects are a more important food source in the summer, although greens and fruit are still part of the sparrow's diet.
+  nesting: The male sings to defend a territory and attract a mate. Early nests are often in a shrub or on a bracken fern, and later nests are usually on the ground under a shrub, often a blueberry. The female builds the nest, which is an open cup made of grass, twigs, roots, and pine needles, lined with fine grass, rootlets, and hair. The female incubates the 4 to 5 eggs for 11 to 14 days. Both parents feed the young, which leave the nest 8 to 9 days after hatching. The parents continue to feed and tend the young for at least two more weeks. Four to five days after the young fledge, they can make short flights, and within a week they are strong flyers.
+  migration_status: Most populations of White-throated Sparrows are migratory, although there is some overlap of breeding and wintering ranges. They arrive on the central Canadian breeding grounds in the spring, soon after the snow has melted enough to expose the forest floor. In the fall, they migrate late, usually not until snow starts to fall. Wintering range is across the southeastern and entire western coast of the United States. Birds that winter on the West Coast probably breed in northern British Columbia, but migration routes are not well documented.
+  conservation_status: Although the White-throated Sparrow is still widespread and common, with an estimated 10-20 million pairs range-wide, they are declining through much of their breeding range.
+  when_where_wa: White-throated Sparrows are uncommon to rare winter visitors in western Washington from October to April. White-throats are usually found with White-crowned and Golden-crowned Sparrows. They are occasionally sighted east of the Cascades in the winter as well. Numbers fluctuate considerably from year to year.
+photos:
+- file: wtsp_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: wtsp_ad2_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: wtsp_wt_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: wtsp_jw_gl_l.jpg
+  caption: Adult
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: WTSP01.mp3
+  credit: null
+maps:
+  wa: zoal.jpg
+  north_america: wtspmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, R, '', '', '', '', R, R, R, R]
+  puget_trough: [U, U, U, U, R, '', '', '', R, U, U, U]
+  north_cascades: [R, R, R, R, '', '', '', '', '', R, R, R]
+  west_cascades: [R, R, R, R, '', '', '', '', '', R, R, R]
+  east_cascades: ['', '', '', '', '', '', '', '', R, R, '', '']
+  okanogan: ['', '', '', '', R, '', '', '', R, R, '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', R, R, '']
+  columbia_plateau: [R, R, R, R, '', '', '', '', R, R, R, R]
+taxonomy:
+  ebird_code: whtspa
+  current_common_name: White-throated Sparrow
+  current_scientific_name: Zonotrichia albicollis
+  clements_sort: 33201
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/white-throated_sparrow
+  archived: '2026-09-12'

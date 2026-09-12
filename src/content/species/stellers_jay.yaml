@@ -1,0 +1,55 @@
+slug: stellers_jay
+common_name: Steller's Jay
+scientific_name: Cyanocitta stelleri
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Corvidae
+  slug: corvidae
+status: Fairly common resident.
+species_of_concern: false
+sections:
+  general_description: The Steller's Jay is a striking bird with deep blue and black plumage and a long, shaggy crest. The front of its body is black, and the rear is deep blue. The black extends midway down its back and down its breast. It has faint, dark barring on its wings. Adults have blue vertical 'eyebrows' above each eye. The juvenile appears similar to the adult, but has a slightly browner head and lacks the blue eyebrows of the adult. The inland form has a small white patch over the eye.
+  habitat: Steller's Jays breed primarily in dense conifer forests, but they use a wider variety of forested habitats at other times of year. They can be found from low to moderate elevations. They are common in treed residential areas and agricultural areas with adjacent forests. They breed up to the tree line, particularly in open or fragmented forests, but are typically found at lower elevations than are Gray Jays.
+  behavior: Steller's Jays form flocks outside of the nesting season and often fly across clearings in single file. They are highly vocal outside of the nesting season. When they are raising young or robbing nests, Steller's Jays become very quiet and inconspicuous. They are well known at feeders, picnic areas, and campgrounds where they beg boldly for handouts with loud, raspy calls. These intelligent and opportunistic birds are quick to take advantage of new food sources, including bird feeders, especially those full of peanuts. They cache extra nuts, making sure that the food is covered from all directions. They pound on hard nuts with their bills to break them open. They forage primarily in trees, but may forage lower at times. Steller's Jays have complex social hierarchies and dominance patterns.
+  diet: Steller's Jays are omnivores, and their diets are about 2/3 vegetable-matter and 1/3 animal-matter. The vegetable portion of their diet consists of seeds, nuts, berries, and fruits, and the animal-matter portion consists of bird eggs and nestlings, invertebrates, suet, small rodents, reptiles, and carrion. They eat almost any scraps that humans give them. They appear to be major predators of other species' eggs.
+  nesting: Steller's Jays form monogamous, long-term pair bonds. They remain together year round. They typically nest in a conifer, and both members of the pair help build the nest. The nest is a bulky cup made of twigs, weeds, moss, and leaves, held together with mud. The nest is usually lined with rootlets, pine needles, and other fine material, often with bits of paper adorning the outside. The female typically incubates 4-5 eggs for 16-18 days. Both members of the pair feed the young, which leave the nest at about 16 days. They begin making short flights within a few days of fledging, and can make sustained flights by the age of 30 days, which is about when they begin to find their own food. The adults continue to provide some food for the fledglings for about a month after they fledge.
+  migration_status: Steller's Jays are generally considered resident, but some migration does occur in the fall and spring. A number of birds wander into higher altitudes in the fall, and in winter, higher-elevation birds often move down-slope.
+  conservation_status: Steller's Jays have expanded into a wider variety of habitats within the past 20 years, and are now more common in towns and cities than they previously were. Development and forestry both generally benefit Steller's Jays, and the Christmas Bird Count and the Breeding Bird Survey have recorded increases in Washington in recent years. Two subspecies are found in Washington, divided by the Cascade Mountains. Steller's Jays are not found breeding or wintering in some parts of Seattle (and possibly other urban areas), probably due to the impact from expanding crow populations.
+  when_where_wa: Steller's Jays can be found year round in forested areas throughout Washington. They are more common than they were previously on the Olympic Peninsula, due to expanded development.
+photos:
+- file: stja_jh_l.jpg
+  caption: Adult
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+audio:
+  file: stja1.mp3
+  credit: null
+maps:
+  wa: cyst.jpg
+  north_america: stjamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [C, C, C, C, C, C, C, C, C, C, C, C]
+  blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
+  columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
+taxonomy:
+  ebird_code: stejay
+  current_common_name: Steller's Jay
+  current_scientific_name: Cyanocitta stelleri
+  clements_sort: 21274
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/stellers_jay
+  archived: '2026-09-12'

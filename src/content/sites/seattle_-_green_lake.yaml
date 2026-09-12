@@ -1,0 +1,30 @@
+slug: seattle_-_green_lake
+name: Seattle - Green Lake
+number: 215
+ecoregions:
+- puget_trough
+sections:
+  site: |-
+    Two-hundred-fifty-six-acre Green Lake forms the heart of 400-acre Green Lake Park in the north end of Seattle. While the park is maintained for a variety of uses, nature appears to take a back seat to recreational uses. Despite this, more than 170 species of birds have been spotted in the park.
+
+    The lake was formed after the retreat of the Vashon Glacier from the area, approximately 15,000 years ago. The area was developed starting with the first white settler in the 1850s. Natural in- and outflows have been diverted. The lake receives water from nearby reservoirs and from rainfall, as well as some storm-water overflow. Nutrients have accumulated in the lake's bowl, and for the past 7,000 years, algal blooms have occurred regularly. The rich food supply attracts many water birds.
+  birds: A few species, such as Mallards, Gadwalls, Pied-billed Grebes, and Bald Eagles, are found nesting on or near the lake, but the widest bird variety is found during winter time. Winter flocks of American Wigeons usually contain one or more Eurasian Wigeons that allow close scrutiny due to habituation. Double-crested Cormorants and diving ducks like goldeneyes, Buffleheads, and Hooded and Common Mergansers are regulars. Various small riparian areas around the lake are good for Red-winged Blackbirds, Song Sparrows, and Bewick's and Marsh Wrens.
+  directions: |-
+    Bus lines 26, 16, 48, 358.
+    From I-5 southbound, exit NE 71st Street. At the end of the ramp, turn right, go straight four blocks. From I-5 northbound, take the NE 65th & Ravenna Boulevard exit. At the end of the ramp, turn left (divided Ravenna Boulevard) and go straight half a mile. On State Highway 99 (Aurora Avenue), Green Lake Park is located east of the road between N. 50th and N. 78th Streets.
+
+    Parking is free in parking lots around the lake, or in adjacent neighborhoods. A three-mile, paved path circles the lake, within the park. The path and bathrooms around the lake are wheelchair accessible.
+photos:
+- file: site_greenlake.jpg
+  caption: ''
+  credit:
+    name: Gail Barker
+    url: http://www.friendsofgreenlake.org/
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/seattle_-_green_lake/3
+  archived: '2026-09-12'

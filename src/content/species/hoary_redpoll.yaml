@@ -1,0 +1,57 @@
+slug: hoary_redpoll
+common_name: Hoary Redpoll
+scientific_name: Carduelis hornemanni
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Fringillidae
+  slug: fringillidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    A close relative of the Common Redpoll and extremely similar in appearance, the Hoary Redpoll nests on High Arctic tundra in the Old and New Worlds. In North America it winters southward across Canada and rarely into the northern contiguous United States, usually in small numbers mixed in with flocks of Common Redpolls. In general Hoary Redpoll appears grayer (less brown) than Common, as if dredged in flour; it is also slightly larger and has a shorter bill. Specific field marks to look for include the Hoary’s unstreaked white rump; undertail coverts either unstreaked or with a single fine streak; and streaking on the sides less extensive and finer than on Common. Adult males are lightly flushed pale pink on the breast, as opposed to the uniform deep-rose breast coloration of Common. However, characteristics of the two species overlap, and not all redpolls can be safely separated in the field.
+
+    Although irregularly common in northeastern British Columbia east of the Continental Divide, Hoary Redpoll is a casual visitor elsewhere in the province, as it is in Idaho. During the unprecedented irruption of Common Redpolls in the winter of 2001–2002 at least 15 Hoary Redpolls were reported in Idaho. Six of Washington’s 12 accepted records came during that same winter. Oregon has just two accepted records, both of them from the northeastern part of the state.
+
+    *Revised November 2007*
+photos:
+- file: hore_tg_l.jpg
+  caption: 'Male. Note: frosty appearance and stubby bill.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: hore_f_tg_l.jpg
+  caption: Female
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: horemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: redpol1
+  current_common_name: Redpoll
+  current_scientific_name: Acanthis flammea
+  clements_sort: 32483.0
+  historic_common_name: Hoary Redpoll
+  display_historic: true
+  note: Published on BirdWeb as Hoary Redpoll. Common, Hoary and Lesser Redpolls were merged into a single species, Redpoll, in 2024. This account describes the pale northern birds formerly treated as Hoary.
+source:
+  url: https://birdweb.org/birdweb/bird/hoary_redpoll
+  archived: '2026-09-12'

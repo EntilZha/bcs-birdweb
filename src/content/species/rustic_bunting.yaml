@@ -1,0 +1,58 @@
+slug: rustic_bunting
+common_name: Rustic Bunting
+scientific_name: Emberiza rustica
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Accidental winter visitor. Two records from Kent (King County) (two years apart'possibly the same bird) and one from Leavenworth (Chelan County).
+photos:
+- file: rubu_do_l.jpg
+  caption: ''
+  credit:
+    name: Daniele Occhiato
+    url: http://www.pbase.com/dophoto
+  hero: false
+- file: rubu_m_do_l.jpg
+  caption: Singing male
+  credit:
+    name: Daniele Occhiato
+    url: http://www.pbase.com/dophoto
+  hero: false
+- file: rubu_w_ma_l.jpg
+  caption: Winter plumage male.
+  credit:
+    name: Mark Andrews
+    url: http://web.mac.com/s.m.andrews/smandrews.com_/HOME.html
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: rusbun
+  current_common_name: Rustic Bunting
+  current_scientific_name: Emberiza rustica
+  clements_sort: 32831
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/rustic_bunting
+  archived: '2026-09-12'

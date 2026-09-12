@@ -1,0 +1,82 @@
+slug: chestnut-sided_warbler
+common_name: Chestnut-sided Warbler
+scientific_name: Dendroica pensylvanica
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    Breeding adults have a yellowish crown, black eye line and mustache mark, dark wings with two pale-yellow wing-bars, chestnut on the sides, white underparts, and a streaked back. Immature (first-fall) birds are much plainer, with a greenish crown and back, gray underparts, and a prominent white eye-ring. Fall adults are similar to immatures but usually show some chestnut on the sides.
+
+    Chestnut-sided Warblers nest in forests from eastern Alberta across southern Canada to Nova Scotia, the upper Midwest and northeastern U.S., and southward along the Appalachian spine. They winter in southern Mexico and Central America, migrating mostly east of the Great Plains and in direct flight across the Gulf of Mexico. However, this is one of the commoner “eastern” warblers encountered in the West. British Columbia has many records from all regions of the province, including confirmed breeding. Idaho has about 30 records equally divided between spring and fall. The species occurs just about annually in Oregon, with spring records outnumbering fall records by about 3:1. Washington shows a similar early-season bias, with 14 of 17 accepted records in June and the first half of July and the remaining three from late August to October. Twelve of these records are from east of the Cascade crest and five are from the westside lowlands.
+
+    *Revised October 2007
+    *
+photos:
+- file: cswa_m_gth_l.jpg
+  caption: Breeding male
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: cswa_gl_l.jpg
+  caption: 'Breeding male. Note: yellow crown, white cheeks, and extensive chestnut flanks.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: cswa_m2_gth_l.jpg
+  caption: Breeding male
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: cswa_f_gl_l.jpg
+  caption: 'Breeding female. Note: less demarcated malar and less extensively chestnut flanks.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: cswa_w_gl_l.jpg
+  caption: 'Nonbreeding male. Note: plain gray face and faint chestnut sides.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: cswa_jfw_gt_l.jpg
+  caption: 'Juvenile. Note: white eye ring, gray underparts, and pale bill.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: cswamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: chswar
+  current_common_name: Chestnut-sided Warbler
+  current_scientific_name: Setophaga pensylvanica
+  clements_sort: 34133
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/chestnut-sided_warbler
+  archived: '2026-09-12'

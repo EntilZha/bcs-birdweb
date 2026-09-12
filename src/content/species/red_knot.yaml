@@ -1,0 +1,55 @@
+slug: red_knot
+common_name: Red Knot
+scientific_name: Calidris canutus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Uncommon migrant outer coast.
+species_of_concern: true
+sections:
+  general_description: The Red Knot is a sturdy, medium-sized shorebird with a short, straight bill and olive-yellow legs. In breeding plumage, it is bright rufous below and mottled gray and black above. The adult in non-breeding plumage is gray overall. The juvenile has white-tipped feathers on its wings, giving the wings a scalloped look.
+  habitat: Red Knots breed in the far north, mostly above the Arctic Circle in both North America and Eurasia. Breeding grounds are often inland from the coast, and usually near a pond or stream. Red Knots migrate through and winter along shorelines around the world. Large sandy estuaries and tidal flats are most preferred.
+  behavior: Red Knots form enormous flocks during migration and in winter. They are often found in flocks with Black-bellied Plovers and Short-billed Dowitchers. In the tundra, they feed by sight, picking food from the surface. On tidal flats, they probe for food with their bills--probing a few times and then running to a new spot.
+  diet: On their breeding grounds, Red Knots eat insects (especially flies) as well as plant matter, especially early in the season before many insects are out. Small invertebrates including mollusks, crustaceans, and marine worms are part of the diet during migration and winter. Eastern populations eat numerous horseshoe crabs during migration.
+  nesting: Males perform aerial displays high over the moist tundra and glacial till that are their nesting grounds. The nest is on the ground, usually near water. It is a shallow scrape lined with leaves, lichen, and moss. Both parents incubate the 3 to 4 eggs for 21 to 22 days. The young leave the nest shortly after hatching and feed themselves. The female departs shortly after the young hatch, leaving the male to tend the young for 18 to 20 days, until they can fly.
+  migration_status: Red Knots winter on shorelines around the world. Many of the birds migrating through Washington are on their way to southern South America for the winter. These are late-spring migrants and are seldom seen before mid-April. They are usually present through May.
+  conservation_status: The Canadian Wildlife Service estimates the global population at 1,290,000 birds, with 400,000 in North America. They were once more abundant in North America but were reduced by hunting in the late 1800s. Protection from hunting has led to some recovery, but the population has declined sharply for unknown reasons since the 1960s. Red Knots are currently listed on the Partners in Flight watch list. Over-harvesting of horseshoe crabs on the East Coast has resulted in the loss of a critical food supply during migration. Other threats to the population are the development of shorelines, limiting habitat, increased human disturbance, and oil spills along their migration routes and wintering range.
+  when_where_wa: Red Knots migrate through Washington and are far more common in spring than fall. Some areas of Washington consistently have large flocks of Red Knots, while they are absent elsewhere. This patchy distribution is typical of the species. The largest flock is typically at Bottle Beach in Grays Harbor (Grays Harbor County). Other flocks are often seen around the perimeter of Willapa Bay and at Leadbetter Point. There are also usually flocks at Bowerman Basin in Grays Harbor. Spring migrants begin to arrive in mid- to late April. By late April, they are common, and then begin to taper off by the end of May. Red Knots are not common anywhere else on the Pacific Coast south of southern Alaska. Outside of these flocks, they are uncommon throughout coastal Washington in spring. In the fall, birds are seen in small numbers, but not in the huge flocks of the spring. They are found in western Washington from mid-August to mid-October, and there are rare reports in winter. Some birds, usually juveniles, also come through eastern Washington in the fall and have been sighted at the Walla Walla River delta (Walla Walla County) from early July to mid-October.
+photos:
+- file: rekn_br_dp_l.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: rekn.mp3
+  credit: null
+maps:
+  wa: caca.jpg
+  north_america: reknmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, F, C, R, U, F, F, U, R, R]
+  puget_trough: ['', '', '', '', R, '', '', R, R, R, '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: redkno
+  current_common_name: Red Knot
+  current_scientific_name: Calidris canutus
+  clements_sort: 6166
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/red_knot
+  archived: '2026-09-12'

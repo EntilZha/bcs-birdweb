@@ -1,0 +1,61 @@
+slug: pied-billed_grebe
+common_name: Pied-billed Grebe
+scientific_name: Podilymbus podiceps
+order:
+  name: Podicipediformes
+  slug: podicipediformes
+family:
+  name: Podicipedidae
+  slug: podicipedidae
+status: Common west. Fairly common east.
+species_of_concern: false
+sections:
+  general_description: A small grebe with a thick, relatively short bill, the Pied-billed Grebe is grayish-brown with lighter underparts. Juveniles and adults have similar plumages, but during the breeding season adults have black at the throat and a whitish bill with a black band.
+  habitat: During the breeding season, Pied-billed Grebes are found at low elevations in ponds, lakes, and marshes. Nesting areas typically have emergent vegetation to which these birds anchor their nests and open water in which they can forage. During the winter they are found on both fresh and salt water, although they are much more likely to be found on fresh water. More open water is used during winter, as the birds do not have nests to anchor at this time. Pied-billed Grebes often use areas near rivers, typically bodies of still water. In migration Pied-billed Grebes can be found at higher elevations, even in mountain lakes.
+  behavior: Pied-billed Grebes are less social than most species of grebes and are rarely found in flocks. When disturbed, they dive headfirst under water, or they sink slowly into the water until only their heads are above water, like submarine periscopes. The courtship displays of Pied-billed Grebes are less ritualized than those of other grebes, but still include much calling, sometimes in duet.
+  diet: Insects, fish, and other aquatic creatures make up the bulk of the Pied-billed Grebe's diet. The birds' heavy bills are adapted to crushing large crustaceans, but Pied-billed Grebes are also opportunistic feeders, preying on a wide variety of aquatic creatures including fish. Like other grebes, Pied-billed Grebes will eat and feed their own feathers to their young. It is thought that these feathers help them regurgitate bones and other non-digestible parts of their diet.
+  nesting: Both parents build a nest in shallow water in a marsh. Floating, or built up from the bottom, the nest is a dense mat of plant material anchored to emergent vegetation. The nest can be approached from under water. The female lays five to seven eggs that both parents help incubate for about 23 days. When the nest is unattended for a prolonged period of time, the adults cover the nest with nesting material to protect it. Both parents feed the young and may carry them around on their backs, even while swimming underwater. Soon after hatching, the young can swim on their own.
+  migration_status: Populations are found year round in the southern part of North America and along both coasts. Farther north, where the water freezes during winter, Pied-billed Grebes migrate. Migratory birds arrive to winter with the year-round populations during September and October. Migratory populations depart for the breeding grounds in March or April, although many stay behind to breed in suitable habitat.
+  conservation_status: Pied-billed Grebes are still common and widespread, although there is evidence of recent declines, especially in the Northeast, where they have become extremely rare in some places for reasons unknown. Habitat loss is the major threat, although Pied-billed Grebes will nest in created and restored wetlands.
+  when_where_wa: With the widest distribution of any grebe found in the Western Hemisphere, Pied-billed Grebes are common in freshwater wetlands with marshy, emergent vegetation at lower elevations throughout the state, with the exception of the lower slopes of the eastern Cascades. Although they have been known to nest even in city parks such as Seattle's Green Lake and Union Bay Natural Area, while breeding they are secretive and can be difficult to locate. In winter resident populations increase as local birds are joined by northern migratory birds, which begin arriving in western Washington in September and October. Eastern Washington migratory breeders are typically gone by December and return in late March or early April.
+photos:
+- file: pbgr_b_jh_l.jpg
+  caption: 'Breeding adult. Note: black band around bill.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: pbgr_w_gl_l.jpg
+  caption: Non-breeding adult
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: PBGR01.mp3
+  credit: null
+maps:
+  wa: popo.jpg
+  north_america: pbgrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [F, F, U, U, R, R, R, U, U, F, F, F]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [F, F, U, U, U, U, U, F, F, F, F, F]
+  okanogan: [U, U, F, C, F, F, F, F, F, C, U, U]
+  canadian_rockies: [F, F, F, F, U, U, U, U, F, F, F, F]
+  blue_mountains: ['', '', U, U, U, U, U, U, R, R, '', '']
+  columbia_plateau: [F, F, C, C, C, C, C, C, C, C, C, F]
+taxonomy:
+  ebird_code: pibgre
+  current_common_name: Pied-billed Grebe
+  current_scientific_name: Podilymbus podiceps
+  clements_sort: 6855
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/pied-billed_grebe
+  archived: '2026-09-12'

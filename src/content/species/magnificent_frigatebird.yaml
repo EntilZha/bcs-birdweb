@@ -1,0 +1,70 @@
+slug: magnificent_frigatebird
+common_name: Magnificent Frigatebird
+scientific_name: Fregata magnificens
+order:
+  name: Pelecaniformes
+  slug: pelecaniformes
+family:
+  name: Fregatidae
+  slug: fregatidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: The first state record is from the interior, at Umatilla NWR in July 1975. A second bird was seen at several Westside locations (Puget Sound, South Coast, mouth of Columbia River) for much of October 1988.
+photos:
+- file: mafrdp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+- file: mafr1.jpg
+  caption: ''
+  credit:
+    name: Seattle Audubon
+    url: http://seattleaudubon.org/sas/
+  hero: false
+- file: mafr_ffl_gl_l.jpg
+  caption: Female
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: mafr_fl_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: mafr_jfl_gl_l.jpg
+  caption: 'Juvenile. Note: pale head and bill.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: mafrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: magfri
+  current_common_name: Magnificent Frigatebird
+  current_scientific_name: Fregata magnificens
+  clements_sort: 7315
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/magnificent_frigatebird
+  archived: '2026-09-12'

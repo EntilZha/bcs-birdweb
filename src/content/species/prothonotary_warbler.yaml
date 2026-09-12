@@ -1,0 +1,63 @@
+slug: prothonotary_warbler
+common_name: Prothonotary Warbler
+scientific_name: Protonotaria citrea
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: |-
+    Size and structure—large, full-bodied, long-billed—make the Prothonotary Warbler an unlikely candidate for confusion with other warbler species. It is also distinctive in plumage, with bright-yellow head and breast, greenish-yellow back, and bluish wings. When spread, the bluish upperside of the tail shows large white spots. The underside of the tail is mostly white, extending onto the undertail coverts. The Blue-winged Warbler is somewhat similar in coloration but has a dark line through the eye and prominent white wingbars, in addition to being considerably smaller and more slender.
+
+    The Prothonotary Warbler inhabits wet woodlands and stream corridors, nesting mostly in tree cavities, in the lower Midwest, Middle Atlantic states, and Southeast. Its main wintering grounds extend from Honduras to Columbia and Venezuela. It migrates directly across the Gulf of Mexico or along the Gulf coastal lowlands. Prothonotary Warbler is an accidental vagrant in the Pacific Northwest, with 80 percent of the small number of records coming in fall. Washington’s two accepted records are from Richland (Benton County) on 5 September 1970 and Burbank (Walla Walla County) on 20–21 October 2005. British Columbia has one record (November) as does Idaho (September). Five of Oregon’s seven records fall between mid-August and mid-November; the other two are from May–June.
+
+    *Revised November 2007*
+photos:
+- file: prow_gl2_l.jpg
+  caption: 'Male. Note: golden yellow face and underparts'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: prow_f_gl_l.jpg
+  caption: 'Female. Note: pale bill.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: prow_fl_gl_l.jpg
+  caption: 'Note: white on tail and blue gray wings.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: prowmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: prowar
+  current_common_name: Prothonotary Warbler
+  current_scientific_name: Protonotaria citrea
+  clements_sort: 33963
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/prothonotary_warbler
+  archived: '2026-09-12'

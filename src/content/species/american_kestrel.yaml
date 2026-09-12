@@ -1,0 +1,67 @@
+slug: american_kestrel
+common_name: American Kestrel
+scientific_name: Falco sparverius
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Falconidae
+  slug: falconidae
+status: Fairly common resident.
+species_of_concern: false
+sections:
+  general_description: The American Kestrel is one of the few raptors in Washington with strongly sexually dimorphic plumage. It is the smallest and most delicate-looking of our falcons, with long wings and a long tail. Its head is blue, brown, and white. Males are brightly colored, with reddish-brown backs, slate-blue wings streaked with black, and tan breasts with black spots. The male's head is blue and brown, and both sexes have bold, black eyespots at the napes of their necks. Females are brown streaked with black on the back, and white streaked with brown on the breast. The female has multiple bands on her tail. Both sexes have two bold, vertical face stripes.
+  habitat: American Kestrels are found in a wide variety of open habitats, among them agricultural areas, grasslands, sagebrush, shrub-steppe, steppe, and dry forest zones. They take advantage of clear-cuts and are typically found where open areas are combined with perching spots, such as trees, utility wires, and fence posts.
+  behavior: Kestrels are often seen hovering in flight or perched upon wires in open areas. An American Kestrel can often be identified from afar by its characteristic tail-bob and its hunched silhouette.
+  diet: The diet of the American Kestrel consists mainly of large insects such as grasshoppers, small mammals, small birds, and occasionally reptiles.
+  nesting: American Kestrels nest primarily in cavities, usually 10-30 feet off the ground. In eastern Washington, they often use cliffs as nesting locations. Old woodpecker holes, natural cavities, and man-made nesting boxes are all used. They will also nest in openings in man-made structures. The female lays 4 to 5 eggs, although this may vary. Pair bonds are monogamous, and both parents incubate for 29 to 31 days. When the young hatch, the female broods them and the male brings food.
+  migration_status: American Kestrels living in northern climates typically migrate south, while kestrels at southern and mid-latitudes do not typically migrate. In Washington, they are present year round, although some eastern Washington birds leave in winter, and some wintering birds may be migrants from farther north.
+  conservation_status: Recent counts suggest a declining population in the Northeast, but overall numbers appear to be healthy. The kestrels' readiness to use man-made nesting boxes bodes well for the species, since cavity-nesters are often limited by available natural cavities. There has been a significant decline (indicated by Breeding Bird Atlas data) in Washington from 1966-2002, probably due to a loss of nesting cavities. Another cause may be increased predation by Cooper's Hawks, a species that has rebounded in recent years.
+  when_where_wa: American Kestrels are common in open habitat at lower elevations in eastern Washington. They are present but much less common in similar habitat in western Washington, especially in the north. They can also be seen at high elevations in open, rocky areas and in high meadows, up to about 6,000 feet. They can be found in the southern Puget Trough, the Upper Skagit River area, eastern King and Pierce Counties south to Trout Lake, and above the tree line along the crest of the Cascades. They are absent as a breeder on the Olympic Peninsula, except in the Sequim-Port Townsend area, although it is possible that they are breeding there and have not been reported.
+photos:
+- file: amke_tg_l.jpg
+  caption: 'Male. Note: bright rufous and blue on the back.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: amke_f_gl_l.jpg
+  caption: 'Female. Note: weakly patterned face and lack of blue wings.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: amke_fl_gl_l.jpg
+  caption: 'Male. Note: broad black terminal band on tail.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: amke.mp3
+  credit: null
+maps:
+  wa: fasp.jpg
+  north_america: amkemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, U, U, U, U, U, U, U]
+  puget_trough: [U, U, U, U, U, U, U, U, U, U, U, U]
+  north_cascades: [R, R, R, U, U, U, U, U, U, U, U, R]
+  west_cascades: [F, F, F, F, U, U, U, U, F, F, F, F]
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [U, U, U, F, F, F, F, F, F, F, U, U]
+  blue_mountains: [U, U, F, F, F, F, F, F, F, F, U, U]
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: amekes
+  current_common_name: American Kestrel
+  current_scientific_name: Falco sparverius
+  clements_sort: 12028
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/american_kestrel
+  archived: '2026-09-12'

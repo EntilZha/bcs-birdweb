@@ -1,0 +1,61 @@
+slug: black-chinned_hummingbird
+common_name: Black-chinned Hummingbird
+scientific_name: Archilochus alexandri
+order:
+  name: Apodiformes
+  slug: apodiformes
+family:
+  name: Trochilidae
+  slug: trochilidae
+status: Uncommon summer resident east.
+species_of_concern: true
+sections:
+  general_description: Compared to other Washington hummingbirds, the Black-chinned Hummingbird has a smaller head, thinner neck, and more slender body. The body of both male and female adults is green with white underparts. The adult male has a black chin underlined with a wide purple band. Often the entire head looks black.
+  habitat: In Washington, they are found in the steppe and Ponderosa pine zones. Within these vegetation zones, they are found in wetland areas, along rivers, and in towns. Males are often found in drier areas than nearby females.
+  behavior: The courtship dive of the male is a long, pendulum-like swoop above a perched female. At the bottom of the dive, he produces a long-drawn-out vocalization. Sometimes the dive takes the shape of a narrow, horizontal figure eight. During this dive, the wing and tail feathers make a loud whistling sound. Black-chinned Hummingbirds produce a variety of call notes, typically used while chasing other birds. Their rapid wing-beats also produce a buzzing sound.
+  diet: Black-chinned Hummingbirds feed on small insects, spiders, nectar from a wide variety of flowers, and sugar-water from feeders. They feed at varying levels, from close to the ground to high up in trees. They catch insects in the air, glean them from vegetation, or take them from spider webs or from the ground.
+  nesting: All parental care is by females, who have been observed feeding young in one nest while incubating eggs in another. As is typical with hummingbirds, Black-chinned Hummingbirds lay two eggs. Nests are usually built 3-10 feet off the ground in a fork or branch of a deciduous tree, often over a small creek bed. Nests are composed of plant down held together with spider webbing, and adorned on the outside with lichen, bud scales, bark, and other small items. The female incubates the eggs for 13-16 days. She feeds and cares for the young by herself until they become independent at 20-21 days.
+  migration_status: Most Black-chinned Hummingbirds winter in Mexico, although some spend the winter in southern Texas. Males arrive in Washington in late May, and females arrive 1-2 weeks later. The males start to leave the breeding ground in mid- to late June, and most are gone by the end of July. The females and young remain longer, but start to head south in July, and most have left by the middle of August.
+  conservation_status: Suburban areas with tall trees, exotic flowering shrubs and vines, and hummingbird feeders have all supplied beneficial habitat for Black-chins. Population levels in urban and suburban areas have increased, although protection of river corridors is important for their continued success.
+  when_where_wa: The least common of Washington's breeding hummingbirds, Black-chinned Hummingbirds can be found east of the Cascades at low elevations in wetlands, urban and suburban areas, and along rivers. They are common in northeastern Washington and along the Idaho border, south to the Blue Mountains. Areas of highest density are around the city of Spokane and the Turnbull National Wildlife Refuge in Spokane County.
+photos:
+- file: bchu_fl_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: bchu_f_gl_l.jpg
+  caption: 'Female. Note: long, slightly drooping bill, tail reaches slightly beyond wingtips.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: bchu.mp3
+  credit: null
+maps:
+  wa: aral.jpg
+  north_america: bchumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', U, U, U, U, '', '', '', '']
+  east_cascades: ['', '', '', '', R, R, R, '', '', '', '', '']
+  okanogan: ['', '', '', '', F, F, F, F, '', '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, F, '', '', '', '']
+  blue_mountains: ['', '', '', '', F, F, F, F, R, '', '', '']
+  columbia_plateau: ['', '', '', '', U, U, U, U, R, '', '', '']
+taxonomy:
+  ebird_code: bkchum
+  current_common_name: Black-chinned Hummingbird
+  current_scientific_name: Archilochus alexandri
+  clements_sort: 4803
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black-chinned_hummingbird
+  archived: '2026-09-12'

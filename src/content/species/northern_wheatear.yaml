@@ -1,0 +1,52 @@
+slug: northern_wheatear
+common_name: Northern Wheatear
+scientific_name: Oenanthe oenanthe
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Turdidae
+  slug: turdidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Washington’s first Northern Wheatear was found at Nisqually National Wildlife Refuge (Thurston County) on 4 September 2004.
+photos:
+- file: nowh_do_l.jpg
+  caption: ''
+  credit:
+    name: Daniele Occhiato
+    url: http://www.pbase.com/dophoto
+  hero: true
+- file: nowh_gl_l.jpg
+  caption: Non-breeding plumage
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: norwhe
+  current_common_name: Northern Wheatear
+  current_scientific_name: Oenanthe oenanthe
+  clements_sort: 29783
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/northern_wheatear
+  archived: '2026-09-12'

@@ -1,0 +1,59 @@
+---
+import { Image } from "astro:assets";
+import type { CollectionEntry } from "astro:content";
+import { heroImage } from "../lib/images";
+import { displayName, scientificName } from "../lib/species";
+
+interface Props {
+  entry: CollectionEntry<"species">;
+  /** Larger type and touch targets for the storefront display. */
+  kiosk?: boolean;
+}
+
+const { entry, kiosk = false } = Astro.props;
+const data = entry.data;
+const base = import.meta.env.BASE_URL;
+const hero = heroImage(entry.id, data.photos);
+const name = displayName(data);
+---
+
+<li class="list-none">
+  <a
+    href={`${base}birds/${entry.id}/`}
+    class:list={[
+      "group block overflow-hidden rounded-xl bg-white shadow-sm ring-1 ring-black/5 transition",
+      "hover:shadow-md hover:ring-brand/20 active:scale-[0.99]",
+      kiosk && "min-h-touch",
+    ]}
+  >
+    {
+      hero ? (
+        <Image
+          src={hero.image}
+          alt={name}
+          widths={kiosk ? [300, 600] : [200, 400]}
+          sizes={kiosk ? "(min-width: 1536px) 22rem, 40vw" : "(min-width: 1024px) 14rem, 45vw"}
+          class="w-full aspect-square object-cover bg-black/5"
+          loading="lazy"
+        />
+      ) : (
+        <div class="w-full aspect-square bg-black/5 flex items-center justify-center text-xs text-black/35">
+          No photo
+        </div>
+      )
+    }
+    <div class:list={["px-3 py-2", kiosk && "px-4 py-3"]}>
+      <p
+        class:list={[
+          "font-semibold text-brand leading-snug group-hover:underline",
+          kiosk ? "text-k-meta" : "text-sm",
+        ]}
+      >
+        {name}
+      </p>
+      <p class:list={["italic text-black/50 leading-snug", kiosk ? "text-base" : "text-xs"]}>
+        {scientificName(data)}
+      </p>
+    </div>
+  </a>
+</li>

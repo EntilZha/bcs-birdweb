@@ -1,0 +1,23 @@
+slug: chehalis_river_valley
+name: Chehalis River Valley
+number: 105
+ecoregions:
+- pacific_northwest_coast
+sections:
+  site: The portion of the Chehalis River Valley that lies between the cities of Elma, Satsop, and Brady is a great place to view many different species of birds during the year. The area is dominated by the presence of the Chehalis River and to a lesser extent the Satsop River. The valley consists mainly of agricultural land with several pockets of wetlands and riparian zones that provide a haven for birds through every season. Some of the larger wetlands are the products of gravel mining. Through late fall into early spring, the valley is also subject to flooding, which creates numerous ponds in the fields that allow great viewing of the wintering waterfowl. Most birding is done by car with common routes starting in Elma and finishing in Brady. Sites such as Vance Creek County Park, the Chehalis Wildlife Area, and the Brady Loop complex are some of most heavily birded because of the their various habitats.
+  birds: During the winter, hundreds of ducks and geese utilize the Chehalis River Valley. Tundra and Trumpeter Swans also winter here. Raptors increase in numbers during the winter, with occasional sightings of Golden Eagle and White-tailed Kite. Shorebirds can also be seen during the winter. A Ruff has been sighted in past years. Springtime brings an increase in shorebirds, along with migrant passerines. Flycatchers, vireos, and warblers are often seen in the riparian/wetland areas. Sandhill Cranes often pass through during the early spring. Several Osprey nests are scattered through the valley, and Turkey Vultures are common during the summer. Virginia Rail, Sora, and American Bittern are found in the wetlands. Some of the rare sightings include Garganey, Gyrfalcon, Yellow-billed Cuckoo, and Loggerhead Shrike.
+  directions: 'From I-5, exit at #104, and take Route 101 west to Route 8. Follow Route 8 west until you reach Elma. Take the second exit for Elma (Third Street), and follow the signs to Vance Creek County Park. To reach the Chehalis Wildlife Area, continue west on US-12 past Elma to the first crossroad. Take a left turn here onto Schouweiler Road and follow it to a stop sign. Go left at the stop and follow the road to a small gravel parking lot. A Washington State Department of Fish and Wildlife parking permit is required here. To reach the Brady Loop complex, continue west on US-12 past Elma, crossing over the Satsop River, to the next crossroad. Turn left here to a stop sign with a wooden sign that depicts the entire Brady Loop area. Turning left or right here are both good options to cover the whole Brady Loop complex. Foster Road splits the area in half.'
+photos:
+- file: site_chehalis_river_valley.jpg
+  caption: ''
+  credit:
+    name: Dan Roscoe
+    url: null
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/chehalis_river_valley/2
+  archived: '2026-09-12'

@@ -1,0 +1,65 @@
+slug: white-tailed_ptarmigan
+common_name: White-tailed Ptarmigan
+scientific_name: Lagopus leucura
+order:
+  name: Galliformes
+  slug: galliformes
+family:
+  name: Phasianidae
+  slug: phasianidae
+status: Uncommon resident.
+species_of_concern: false
+sections:
+  general_description: The smallest grouse in North America, the White-tailed Ptarmigan is pure white in the winter, and streaked brown and gray during the summer. The tail remains white throughout the year. In Washington, this is the only species of grouse with white tail feathers.
+  habitat: This species is found in remote, rocky, alpine areas at around 7,000 feet in Washington.
+  behavior: These birds generally prefer walking over flight, perhaps as a means to conserve energy in their unforgiving habitat. Once pair bonds are formed, the male shadows the female constantly until she begins to incubate the eggs. These pair bonds can last up to 3 months within a season, which is atypical of the grouse family, and often the same pair bonds will reform the following year. During the fall and winter, they can be found in loose flocks, but are more territorial during the breeding season. They commonly make use of willows and the moist vegetation at the edge of snowfields. In winters with heavy snowfall, they will often move below the timberline.
+  diet: Like most members of the family, the White-tailed Ptarmigan eats predominantly buds, leaves, and seeds. In the summer, this staple diet is supplemented with fruit, flowers, and insects. They are highly dependent on willow, especially in the winter. They have been known, like other members of this group, to swallow grit to help grind coarse food in their gizzards.
+  nesting: The male guards the female while she selects a spot on the ground in a meadow or rocky area where she scrapes the ground and pulls vegetation around her in a rim. She keeps adding to this rim until she begins to incubate the eggs, at which point, the male ceases to guard her. Within 6-12 hours of hatching, the female leads her clutch of 4-8 chicks to food sources where they are able to feed themselves. They do not return to the nest.
+  migration_status: White-tailed Ptarmigans are permanent residents, although they do tend to move to lower elevations where they can find vegetation to feed on during the winter. Even at these lower elevations, however, they remain above the snowline. Females move farther down slope than males, although both arrive in wintering areas in early-mid October. Males arrive on the breeding grounds in late April and females follow in mid-May.
+  conservation_status: White-tailed Ptarmigans still occupy most of their historic range since much of that alpine habitat is fairly undisturbed. They generally live in areas that are open to the public and can potentially be negatively affected by a number of man-made influences, especially since the alpine zone is so slow to recover from disturbance.
+  when_where_wa: The White-tailed Ptarmigan is common in appropriate habitat in the Cascade Mountains. It is not found in the Olympic Mountains. This can be a very difficult bird to find, because much of the area that it inhabits is remote, it is cryptically colored, and it does not move when approached.
+photos:
+- file: wtpt_lb_l.jpg
+  caption: Breeding plumage adult.
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: wtpt_gl_l.jpg
+  caption: Breeding plumage
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: wtpt_gl2_l.jpg
+  caption: Breeding plumage
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: lale.jpg
+  north_america: wtptmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  west_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  east_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: whtpta1
+  current_common_name: White-tailed Ptarmigan
+  current_scientific_name: Lagopus leucura
+  clements_sort: 1345
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/white-tailed_ptarmigan
+  archived: '2026-09-12'

@@ -1,0 +1,57 @@
+slug: red-necked_phalarope
+common_name: Red-necked Phalarope
+scientific_name: Phalaropus lobatus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Common migrant, mostly pelagic.
+species_of_concern: false
+sections:
+  general_description: The Red-necked Phalarope (formerly the Northern Phalarope) is the smallest of the three phalaropes and has the shortest bill. It has black legs and lobed toes. The adult female in breeding plumage is dark with a gray breast and dark gray back with brown stripes. Her head and cheeks are dark, and her neck is deep rufous, with a white throat patch and small white spot above the eye. The male looks similar but is not as brightly colored and has more white over his eye, making an eye-line rather than a spot. The non-breeding adult Red-necked Phalarope and Red Phalarope appear similar. Both are gray above and white below, with a white head and face and dark ear-patch. However, the Red-necked Phalarope's back is streaked gray, and the Red Phalarope's back is unstreaked. The juvenile Red-necked Phalarope is buff and black streaked, but it has molted out of that plumage by the time it moves through Washington. In flight, all plumages show a white stripe down the middle of their wings. The Red-necked Phalarope has a dark center stripe down its tail, with lighter sides. From below, it appears mostly white, but with more dark edging on its wings than the Red Phalarope.
+  habitat: Red-necked Phalaropes spend up to nine months at a time at sea. They nest in the low Arctic, on tundra ponds with marshy shores and bogs. They usually breed farther inland and at higher elevations than do Red Phalaropes, which prefer coastal breeding areas. During migration, large numbers gather at hyper-saline lakes before heading south. Many migrate over the open ocean, often within sight of land. Some migrate over land and can be seen on reservoirs, lakes, and coastal marshes. At sea, they gather at upwellings and convergence zones where food is brought to the surface. They are sometimes blown onshore by storms and during these times can be found anywhere, especially at sewage ponds.
+  behavior: Outside of the breeding season, Red-necked Phalaropes are highly social and are often found in flocks. These active birds pick small bits of food from the water's surface. When swimming in shallow water, they will spin in tight circles and create upwellings of food.
+  diet: During the breeding season and when on fresh water, they eat mostly insects. At saline lakes, they consume brine shrimp in large numbers. When at sea, they eat zooplankton and other small creatures that rise to the surface at convergence zones.
+  nesting: Females arrive on the breeding grounds before males. They establish territories and display to attract mates. Both sexes start scrapes on mounds or tussocks near the water, and the female picks one. The male adds a lining of grass, sedge, lichen, and leaves in a shallow depression concealed in sedge, ferns, grass, or shrubs. After laying four eggs, the female leaves the male to incubate the eggs and provide all parental care. The female often tries to attract another mate. The male incubates the eggs for 17 to 21 days and tends the brood once they hatch. The young leave the nest within a day of hatching and find their own food. The male leaves the young after about two weeks. The young start to fly at 16 to 17 days, and can fly well by 20 to 22 days.
+  migration_status: These migrants travel long distances from their Arctic breeding grounds to winter in tropical seas around the globe. They migrate over land and over the ocean, and gather in the fall at saline lakes in the North American west before heading to their wintering grounds.
+  conservation_status: The Canadian Wildlife Service estimates the global population of Red-necked Phalaropes at 4,000,000 birds, with 2,500,000 in North America. The remainder breed throughout the far Northern Hemisphere. While the population is difficult to monitor, there has been some evidence of declines in some areas, and Red-necked Phalaropes have disappeared from some traditional staging areas in recent years. Very little is known about the status of their wintering areas or what effect El Niño events have on the population. More study is necessary to understand the status of the population and its conservation needs.
+  when_where_wa: |-
+    Red-necked Phalaropes are common offshore migrants which at times can also be seen from the coast. Northbound Red-necked Phalaropes are most easily seen during offshore boat trips, especially where two ocean currents converge. Offshore and along the coast, Red-necked Phalaropes begin to arrive in April and become more common during May, but moving through quickly, they are seen only rarely in June. Offshore and along the coast, returning migrants can be found in good numbers from early July through mid-Sepember or October in some years. Numbers then taper off until the end of the migration in late November.
+    In the inland Spring migration, Red-necked Phalaropes begin to appear in small numbers in mid-April, inrease to "uncommon" status in May, and are again seen only rarely in early June. After a gap of several weeks, southbound migrants appear, increasing from early July, peaking in August through early September, and decreasing again through late September and October.
+photos:
+- file: renp_fbr_dp_l.jpg
+  caption: Female breeding plumage
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: rnph.mp3
+  credit: null
+maps:
+  wa: phlo.jpg
+  north_america: rnphmap.gif
+abundance:
+  oceanic: ['', '', '', U, C, R, C, U, U, U, '', '']
+  pacific_northwest_coast: ['', '', '', U, F, R, U, F, F, '', '', '']
+  puget_trough: ['', '', '', R, F, '', R, C, F, R, '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', U, '', R, U, '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', U, '', U, F, F, '', '', '']
+taxonomy:
+  ebird_code: renpha
+  current_common_name: Red-necked Phalarope
+  current_scientific_name: Phalaropus lobatus
+  clements_sort: 6121
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/red-necked_phalarope
+  archived: '2026-09-12'

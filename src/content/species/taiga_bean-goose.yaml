@@ -1,0 +1,57 @@
+slug: taiga_bean-goose
+common_name: Taiga Bean-Goose
+scientific_name: Anser fabalis
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Accidental visitor. Washington Bird Records Committee review list species.
+species_of_concern: false
+sections:
+  general_description: |-
+    This large goose is rather similar to the Greater White-fronted Goose but has a larger, dark bill with an orange band, no white frontal patch, and a uniformly lighter-gray belly. The Taiga Bean-Goose breeds right across Eurasia from Norway to Siberia, and winters south to southern Europe and China, favoring open grassland and farmland. It is a rare but regular visitor to the Aleutians and the Bering Sea region of Alaska during its northward migration in spring but has been seen only extremely rarely elsewhere in North America. The Pacific Northwest has two records, both from Grays Harbor County, Washington: a bird that made a brief appearance at Bowerman Basin on 26 April 1993, and another that stayed for nearly two weeks in December 2002 in Hoquiam, where it was seen closely by many observers, and photographed. This second bird was identified as belonging to the subspecies *A.f. middendorffii* that breeds in eastern Asia.
+
+    Another similar, closely related goose, the Pink-footed Goose *(Anser brachyrhyncus)*, has been recorded in Washington. In November 2003 two Pink-footed Geese visited the same location in Hoquiam that hosted the Bean Goose the year before. The Pink-footed Goose breeds along the east coast of Greenland, on Iceland, and on Svalbard, winters in Great Britain and other countries around the North Sea, and is a rare vagrant to Atlantic Canada and the northeastern United States. However, its appearance in the West was unprecedented, causing the Washington Bird Records Committee to reject the record as possibly representing escaped birds from a waterfowl collection. Pink-footed Goose is somewhat lighter brown than Taiga Bean-Goose and slightly smaller, with pink rather than orange legs and a smaller bill with a pink band.
+
+    *Revised June 2007*
+photos:
+- file: tabg_a_ja_l.jpg
+  caption: ''
+  credit:
+    name: John Anderson
+    url: http://www.pbase.com/crail_birder/root
+  hero: false
+- file: tabg_a2_ja_l.jpg
+  caption: ''
+  credit:
+    name: John Anderson
+    url: http://www.pbase.com/crail_birder/root
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: taibeg1
+  current_common_name: Taiga Bean-Goose
+  current_scientific_name: Anser fabalis
+  clements_sort: 301
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/taiga_bean-goose
+  archived: '2026-09-12'

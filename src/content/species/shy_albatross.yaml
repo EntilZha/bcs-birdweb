@@ -1,0 +1,53 @@
+slug: shy_albatross
+common_name: Shy Albatross
+scientific_name: Thalassarche cauta
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Diomedeidae
+  slug: diomedeidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    The Shy Albatross nests on islands in southern oceans and has been recorded only a handful of times north of the equator. It is about the same size as Short-tailed Albatross and somewhat larger than Laysan, and like them is basically black-and-white. The adult has white underparts, white underwings narrowly edged with black, grayish back, white rump, dark tail, and white to grayish head. The upperwing appears all-dark except for a white flash at the base of the primaries. The black notch on the underwing at the point where the leading edge of the wing joins the body is diagnostic. Bill color is also a useful field mark: gray (with yellow tip in adults) in Shy, yellow in Laysan, and pink in Short-tailed. See specialized field guides for other distinctions, including separation of the geographical races of Shy Albatross.
+
+    Albatross taxonomy is in a near-constant state of flux. The Shy Albatross, as currently recognized by the American Ornithologists’ Union, includes four subspecies, each of which has sometimes been accorded full species status by various other authorities. Two of these subspecies have been recorded in Washington waters; a third has occurred elsewhere in the northeastern Pacific and might easily turn up off the Washington coast some day. Nominate Shy Albatross *(T.c. cauta)* nests on islands off Tasmania. The closely similar *T.c. steadi* nests in the Auckland Islands about 300 miles south of the South Island of New Zealand; the common name White-capped Albatross has been suggested for this form if it is recognized as a full species. The first record of Shy Albatross in the northern hemisphere was a bird collected in Washington 39 miles off the mouth of the Quillayute River (Clallam County) on 1 September 1951, subsequently identified as *T.c. steadi.* The second of Washington’s two records was an individual of the *T.c. cauta* subspecies closely studied and photographed on a pelagic boat trip from Westport (Grays Harbor County) on 22 January 2000. A very similar bird found a few months earlier on a pelagic boat trip off Point Arena, California, on 24 August 1999, and also identified as *T.c. cauta,* may have been the same individual. Two records of Shy Albatross from Heceta Bank, Oregon (5 October 1996 and 7 October 2001) could be either *T.c. cauta* or *T.c.steadi.*
+
+    The third subspecies, *T.c. salvini* (Salvin’s Albatross), breeds on three small subantarctic island groups—the Bounty Islands and the Snares southeast and south of the South Island of New Zealand, and the Crozet Islands about 1,400 miles south of Madagascar—and has been recorded five times since 2000 in California, Hawaii, and Alaska. The fourth subspecies is *T.c. eremita,* or Chatham Albatross, which nests on Chatham Island, New Zealand. It is markedly different from the other three (slightly smaller, gray-hooded, uniform yellow bill) and is not known to venture beyond the central South Pacific Ocean.
+
+    *Revised November 2007*
+photos:
+- file: shal_pi_l.jpg
+  caption: ''
+  credit:
+    name: Patrick et Sandrine Ingremeau
+    url: http://www.pbase.com/tamandua
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: whcalb1
+  current_common_name: White-capped Albatross
+  current_scientific_name: Thalassarche cauta
+  clements_sort: 7000.0
+  historic_common_name: Shy Albatross
+  display_historic: false
+  note: Published on BirdWeb as Shy Albatross (Thalassarche cauta), which is now called White-capped Albatross. Records in the Shy/White-capped complex are difficult to assign at sea, and Washington's few reports should be read with that caution.
+source:
+  url: https://birdweb.org/birdweb/bird/shy_albatross
+  archived: '2026-09-12'

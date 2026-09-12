@@ -1,0 +1,63 @@
+---
+import { getCollection } from "astro:content";
+import { getImage } from "astro:assets";
+import Layout from "../../layouts/Layout.astro";
+import WhatsAround, { type CompactSpecies } from "../../components/WhatsAround.tsx";
+import { ECOREGION_SLUGS, type EcoregionSlug } from "../../config/ecoregions";
+import { heroImage } from "../../lib/images";
+import { displayName, scientificName } from "../../lib/species";
+
+const base = import.meta.env.BASE_URL;
+const species = await getCollection("species");
+
+// Flatten for the client. Abundance goes over as ten 12-character strings rather than
+// nested arrays: at 491 species that is ~75KB instead of ~300KB, and this page has to feel
+// instant on a phone and on shop wifi.
+const compact: CompactSpecies[] = await Promise.all(
+  species.map(async (entry) => {
+    const hero = heroImage(entry.id, entry.data.photos);
+    const thumb = hero
+      ? (await getImage({ src: hero.image, width: 260, height: 260, fit: "cover", format: "webp" })).src
+      : null;
+    return {
+      slug: entry.id,
+      name: displayName(entry.data),
+      latin: scientificName(entry.data),
+      family: entry.data.family.name,
+      a: ECOREGION_SLUGS.map((slug) =>
+        (entry.data.abundance[slug] ?? []).map((c) => c || " ").join(""),
+      ),
+      thumb,
+    };
+  }),
+);
+compact.sort((a, b) => a.name.localeCompare(b.name));
+
+// Default to this month and to Puget Trough, where most BirdWeb visitors are. Resolved at
+// build time, so a display parked in the shop may be a few weeks stale — acceptable for a
+// month selector, and it avoids a hydration flash.
+const initialMonth = new Date().getMonth();
+const initialEcoregion: EcoregionSlug = "puget_trough";
+---
+
+<Layout
+  title="What's around — BirdWeb"
+  description="Pick a Washington ecoregion and a month to see which birds you can expect to find, ranked by how common they are."
+>
+  <h1 class="text-3xl font-bold text-brand">What's around?</h1>
+  <p class="mt-1 max-w-2xl text-black/70">
+    Choose a region and a month to see which of Washington's {species.length} birds you can
+    expect to find, and how likely each one is — drawn from abundance records kept by the
+    Birds Connect Seattle Science Committee.
+  </p>
+
+  <div class="mt-6">
+    <WhatsAround
+      species={compact}
+      base={base}
+      initialMonth={initialMonth}
+      initialEcoregion={initialEcoregion}
+      client:load
+    />
+  </div>
+</Layout>

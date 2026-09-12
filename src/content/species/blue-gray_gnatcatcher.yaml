@@ -1,0 +1,52 @@
+slug: blue-gray_gnatcatcher
+common_name: Blue-gray Gnatcatcher
+scientific_name: Polioptila caerulea
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Sylviidae
+  slug: sylviidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Casual in fall and winter (October'February) at low elevations in western Washington, one May'June record from Yakima County and one September record from Walla Walla (Walla Walla County).
+photos:
+- file: bggn_f_gl_l.jpg
+  caption: 'Female. Note: thin, white eye-ring; long tail with white underside.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: bggn_gl_l.jpg
+  caption: 'Male. Note: black forehead.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: bggnmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: buggna
+  current_common_name: Blue-gray Gnatcatcher
+  current_scientific_name: Polioptila caerulea
+  clements_sort: 27123
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/blue-gray_gnatcatcher
+  archived: '2026-09-12'

@@ -1,0 +1,66 @@
+slug: snowy_egret
+common_name: Snowy Egret
+scientific_name: Egretta thula
+order:
+  name: Ciconiiformes
+  slug: ciconiiformes
+family:
+  name: Ardeidae
+  slug: ardeidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Rare but regular visitor to eastern and western Washington, now seen annually. Most occur in spring (peak May).
+photos:
+- file: sneg_lb_l.jpg
+  caption: ''
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: sneg_tg_l.jpg
+  caption: 'Adult. Note: yellow lores and yellow feet.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: sneg_j_tg_l.jpg
+  caption: 'Juvenile. Note: yellow/green legs.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: sneg_fl_tg_l.jpg
+  caption: 'Note: yellow feet.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: sneg1.mp3
+  credit: null
+maps:
+  wa: snegwa.jpg
+  north_america: snegmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: snoegr
+  current_common_name: Snowy Egret
+  current_scientific_name: Egretta thula
+  clements_sort: 7645
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/snowy_egret
+  archived: '2026-09-12'

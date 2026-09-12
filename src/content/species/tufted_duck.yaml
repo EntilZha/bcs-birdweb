@@ -1,0 +1,81 @@
+slug: tufted_duck
+common_name: Tufted Duck
+scientific_name: Aythya fuligula
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    The most frequently encountered of Washington’s rare waterfowl, Tufted Duck is a Eurasian member of a widely distributed genus of diving ducks that includes Greater and Lesser Scaups and Ring-necked Duck. The male in breeding plumage is told from these similar species by its solid black back and bright white sides with no vermiculation and by a tuft of plumes that hangs down from the rear of the crown (difficult to see when wet and plastered against the head, as it often is when the duck has been diving). The bill has a broad black tip with little or no white behind it. Tufted Duck females, juveniles, and non-breeding-plumaged males are more or less uniformly brown with a much smaller plume or none at all. They are easily confused with scaups and Ring-necked Ducks in similar plumages, and are best separated from them by subtle details of head and bill shape and markings. Hybrids—especially with Greater Scaup—further complicate field identification.
+
+    The Tufted Duck breeds at high and middle latitudes from Iceland eastward to Siberia and winters farther south in Europe, Africa, and Asia. Significant numbers reach North America in fall migration and spend the winter, mostly along the Atlantic and Pacific coasts. They are usually found as single birds associating with flocks of scaup or Ring-necked Ducks, often in city parks, and sometimes return for successive years. Washington has had about 50 records since the first one in Seattle (King County) in 1967, and Tufted Duck has been an almost annual visitor to the state since 1979, mostly west of the Cascades. There are now about 10 eastern Washington records, with the first from Wenatchee (Chelan County) in 1986. Oregon has had about 30 records since 1960, and Tufted Duck is annual in British Columbia. Three records have been accepted in Idaho.
+
+    *Revised June 2007*
+photos:
+- file: tudu_fl_gth_l.jpg
+  caption: 'Male. Note: long white stripe in wing.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: tudu_m_gth1_l.jpg
+  caption: Immature male (front) with two male Ring-necked Ducks.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: tudu_m_gth2_l.jpg
+  caption: 'Immature male. Note: pale flanks and dark back with a shorter'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: tudu_tg_l.jpg
+  caption: 'Male. Note: long tuft, and black back contrasting with pure, white flanks'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: tudu_f_gt_l.jpg
+  caption: 'Female. Note: small tuft, dark back, and minimal white at base of bill.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: tudu_ffl_tg_l.jpg
+  caption: Female
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: tufduc
+  current_common_name: Tufted Duck
+  current_scientific_name: Aythya fuligula
+  clements_sort: 687
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/tufted_duck
+  archived: '2026-09-12'

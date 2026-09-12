@@ -1,0 +1,63 @@
+slug: orchard_oriole
+common_name: Orchard Oriole
+scientific_name: Icterus spurius
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Icteridae
+  slug: icteridae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    With its black head, throat, and back, and chestnut underparts, the adult male is unmistakable. Adult females and first-winter birds are quite plain, however: olive-green above, lighter greenish-yellow below, with two white wingbars. The bill is thin, sharply pointed, and slightly downcurved, which helps distinguish this small oriole from warblers. Birds other than adult males may easily be confused with comparable plumages of Hooded Oriole, which has a longer tail and a longer bill. Consult field guides for other subtle distinctions.
+
+    The Orchard Oriole is a common breeder in open woods and edge habitats south of the boreal forest zone, across the United States from the Great Plains to the Atlantic Seabord and southward to the central plateau of Mexico. It winters from Mexico to northwestern South America and is a casual to accidental vagrant in the Pacific Northwest. British Columbia has a single record (Saltspring Island in May) and Idaho has none. Two of the three records so far accepted for Washington are from the Westside in fall and early winter; the other is from the Eastside in June. Oregon’s seven accepted records occurred on both sides of the Cascades and in all seasons except summer.
+
+    *Revised November 2007*
+photos:
+- file: oror_gl_l.jpg
+  caption: 'Male. Note: dark rufous body.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: oror_f_gl_l.jpg
+  caption: 'Female. Note: white wing bars and greenish body.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: oror_jm_gl_l.jpg
+  caption: '1st year male. Note: black throat and lores.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: orormap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: orcori
+  current_common_name: Orchard Oriole
+  current_scientific_name: Icterus spurius
+  clements_sort: 33679
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/orchard_oriole
+  archived: '2026-09-12'

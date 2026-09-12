@@ -1,0 +1,79 @@
+slug: house_sparrow
+common_name: House Sparrow
+scientific_name: Passer domesticus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Passeridae
+  slug: passeridae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: The familiar House Sparrow is a chunky sparrow with a large head and short tail. It was introduced to this country from Europe and is in a different family from our native sparrows. Males in breeding plumage have streaked chestnut backs, chestnut heads, and gray crowns. They have black throats and breasts and light gray cheeks and underparts. Males in non-breeding plumage look similar, but lack the black throat and breast, have less distinct markings on their heads, and have yellowish rather than black bills. Females have drab, grayish-brown, unstreaked breasts, with mottled buff and brown upperparts and light eye-stripes.
+  habitat: House Sparrows are closely tied to areas of human habitation, in either urban or rural settings. They can survive on city sidewalks or in farmlands, but avoid extensive woodlands, native grasslands, and deserts away from human development.
+  behavior: House Sparrows form large flocks throughout the state, but tend to gather in larger flocks in the eastern part of Washington. They forage while hopping on the ground, at feeders, or by perching on weed stalks. These sparrows are opportunistic and eat whatever is available. While they are not highly territorial with their own species, they are aggressive toward other species and may drive native birds out of their nests.
+  diet: House Sparrows are primarily seedeaters but also eat insects, especially during the breeding season. In agricultural areas, waste grain is an important diet component. Urban House Sparrows live off crumbs and rubbish left by humans.
+  nesting: House Sparrows are monogamous and typically breed in cavities. They will use crevices in buildings, nest boxes, or other birds' nests, but if they are in an area with no available cavities, they nest in trees or shrubs, often in small colonies. Both sexes help build the nest, which is a globular nest of twigs, grass, and weeds, often lined with feathers. If the nest is in a cavity, the nesting material generally fills the volume of the cavity. Both parents help incubate 3 to 6 eggs for 10 to 14 days, and both feed the young. The young leave the nest after about two weeks. They stay nearby for 7 to 10 days and then flock with other juvenile birds. The pair raises 2 to 3 broods each year.
+  migration_status: House Sparrows are permanent residents throughout North America.
+  conservation_status: House Sparrows are one of the most abundant and widespread songbirds in the world. They were originally introduced in this country to control caterpillars. They were first released in New York in 1851, and again in 1852. They were also released in San Francisco in 1871'1872, and in Salt Lake City in 1873'1874. House Sparrows were first noted in Spokane in 1895, made it to Seattle by 1897, and to the coast at La Push by 1916. In urban areas, they inhabit a niche not used by native birds, but in agricultural areas they compete with native birds for limited nesting cavities and may affect local populations.
+  when_where_wa: House Sparrows are abundant year round in human-inhabited areas throughout Washington.
+photos:
+- file: hosp_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: hosp_gl_l.jpg
+  caption: Male
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: hosp_f_tg_l.jpg
+  caption: 'Female. Note: stout orangish bill and plain crown and face.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: hosp_w_gt_l.jpg
+  caption: Male winter plumage
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: hosp_j_gl_l.jpg
+  caption: Juvenile
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: hosp1.mp3
+  credit: null
+maps:
+  wa: pado.jpg
+  north_america: hospmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [C, C, C, C, C, C, C, C, C, C, C, C]
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: houspa
+  current_common_name: House Sparrow
+  current_scientific_name: Passer domesticus
+  clements_sort: 31534
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/house_sparrow
+  archived: '2026-09-12'

@@ -1,0 +1,79 @@
+slug: house_finch
+common_name: House Finch
+scientific_name: Carpodacus mexicanus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Fringillidae
+  slug: fringillidae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: The House Finch is closely related to the Cassin's Finch and the Purple Finch, and in fact, there are places in Washington where all three species can be found. All three species are streaked, and the males of all three have red plumage. The House Finch, the most common and widespread of the three, typically has a red head, breast, and rump, but does not have red coloring on its brown back or wings. This helps to differentiate it from the other two. Female House Finches have blurrier streaks and grayer undersides than the other two species. The breast streaks do not converge in a central spot as on many sparrows. They lack clear white stripes on their heads. House Finches have longer tails and appear more slender overall, and also have slightly curved bills, in contrast to the straight bills found in the other two species. Like most finches, they have notched tails. There is considerable color variation among males, from pale yellow, to orange with bright red, this being the most common. Many but not all males reach mature plumage in their first year. The variation in color is related to diet.
+  habitat: House Finches are native to open and desert habitats, but have expanded their range, naturally and through introductions, and now can be found in almost any kind of human-altered habitat. They prefer edge habitat and are absent from dense coniferous forests.
+  behavior: Flocks of House Finches are common at bird feeders during the non-breeding season. Some flocks may stay together through the breeding season as well, and birds will use bird feeders year round. They often forage on the ground, but also perch on weeds, shrubs, or trees. Both males and females may sing during the breeding season, and males sing year round.
+  diet: The vast majority of the House Finch's diet is vegetable matter--seeds, buds, berries, and nectar. They feed their young regurgitated seeds. They eat a few small insects, especially aphids, but are primarily seed- and fruit-eaters at all times of the year.
+  nesting: House Finches are monogamous, and pairs tend to form while the birds are in their winter flocks. Some pairs may stay together year round. They choose a wide variety of nesting sites, and will nest in man-made objects such as window ledges and holes in buildings. Ivy growing on buildings or trees creates many nesting sites. Nests may also be located in conifer trees, hanging planters, and old nests of other birds. The first requirement is a solid base with some overhanging material. The female builds most of the nest, which is an open cup of grass, weeds, twigs, leaves, and rootlets, lined with feathers and other fine material. The female incubates 4 to 5 eggs for 13 to 14 days while the male brings her food. The female broods the young for the first few days after they hatch, and the male continues to bring food. The female then joins the male in bringing food to the young. The young leave the nest after 12 to 15 days and may be fed by the male for about two more weeks, while the female starts a second clutch. Pairs may raise three or more broods each season.
+  migration_status: Throughout their range, many House Finch populations migrate, either short distances latitudinally or altitudinally. Before 1945, populations of House Finches in the Okanogan Valley migrated south, but since 1945, House Finches in this area have been resident.
+  conservation_status: House Finches are native to the southwestern United States and Mexico, but through natural and artificial range expansion, they are now abundant throughout North America. House Finches first expanded into the Columbia Basin from points south in 1885. They were introduced in the eastern United States when illegal caged birds were released in New York in 1940. Facilitated by dam construction and the conversion of steppe habitat to irrigated agriculture, they slowly expanded their range in Washington through the early 20th Century. They first arrived in western Washington in the 1950s, and are now common throughout the state, with significant yearly increases recorded by the Breeding Bird Survey since 1966. In human-altered settings, this finch outcompetes its close relatives, the Cassin's Finch and the Purple Finch. Its presence has been considered to be a major cause of the Purple Finch's decline in western Washington.
+  when_where_wa: House Finches are common year round in human-altered areas throughout Washington. They are typically absent from montane forests and open, non-agricultural range. Their distribution is strongly correlated with the presence of bird feeders.
+photos:
+- file: hofi_ad2_gth_l.jpg
+  caption: Adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: hofi_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: hofi_gl_l.jpg
+  caption: 'Male. Note: stubby bill and streaked flanks.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: hofi_f_gl_l.jpg
+  caption: 'Female. Note: blurry streaks on breast and plain head pattern.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: hofi_yellow_gl_l.jpg
+  caption: Male yellow variant.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: HOFI01.mp3
+  credit: null
+maps:
+  wa: carme.jpg
+  north_america: hofimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [C, C, C, C, C, C, C, C, C, C, C, C]
+  blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: houfin
+  current_common_name: House Finch
+  current_scientific_name: Haemorhous mexicanus
+  clements_sort: 32310
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/house_finch
+  archived: '2026-09-12'

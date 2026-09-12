@@ -1,0 +1,69 @@
+slug: black-bellied_plover
+common_name: Black-bellied Plover
+scientific_name: Pluvialis squatarola
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Charadriidae
+  slug: charadriidae
+status: Common winter west. Uncommon migrant east.
+species_of_concern: false
+sections:
+  general_description: The Black-bellied Plover is Washington's largest plover. The breeding adult male is solid black from chin to belly. The upperparts are white or white mottled with black. The female is more brownish than black. Juveniles and birds in non-breeding plumage are speckled gray-brown above with a gray-brown breast and white belly. A white rump is visible in all plumages. The breast and sides are heavily streaked in the juvenile. In flight, black axillaries contrast with white under-wing coverts.
+  habitat: Black-bellied Plovers winter on sandy beaches and estuarine mud flats around the world. They are also found in wet, plowed fields and grassy meadows near the coast and on inland marine waters. They nest on dry arctic tundra.
+  behavior: Black-bellied Plovers often roost and fly in flocks, but spread out when foraging. In winter, they commonly feed in association with Dunlin. Like other plovers, Black-bellied plovers are visual feeders, but they may also probe for hidden prey.
+  diet: On their wintering grounds, Black-bellied Plovers feed on polychaete worms, bivalves, and crustaceans. On their breeding grounds, they primarily eat insects.
+  nesting: The Black-bellied Plover nests on dry tundra, often on a raised area with good visibility. The male begins a scrape nest, and the female lines it with pebbles and bits of vegetation. Females typically lay four eggs, and both parents incubate. The young may forage within 12 hours, but tend to stay in the nest longer than other shorebirds. Both parents care for the young and have one brood per season.
+  migration_status: Although Black-bellied Plovers occur year round on the outer coast of Washington, they are especially common during migration (April to May and July to October) and in winter. Immatures of both sexes can be seen throughout the summer.
+  conservation_status: Their arctic breeding habitat is at low risk of human occupation and development. Christmas Bird Counts indicate that regional wintering populations are increasing.
+  when_where_wa: |-
+    Black-bellied Plovers can be found year round on outer beaches such as Ocean
+    Shores, Grays Harbor, and Leadbetter Point, but are less common in the summer, when only non-breeders remain. They are uncommon in Puget Sound. Juveniles regularly migrate through the interior, especially from late August to October.
+photos:
+- file: bbpl_w_lb_l.jpg
+  caption: Adult winter plumage
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: bbpl_wfl_lb_l.jpg
+  caption: 'Adult winter plumage in flight. Note: black axillaries (underwing).'
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: bbpl_w_dp_l.jpg
+  caption: Winter plumage
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: bbpl1.mp3
+  credit: null
+maps:
+  wa: plsq.jpg
+  north_america: bbplmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, R, U, C, C, C, C, C]
+  puget_trough: [F, F, F, F, U, R, R, C, C, F, F, F]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', R, R, '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', R, '', '', R, U, U, '', '']
+taxonomy:
+  ebird_code: bkbplo
+  current_common_name: Black-bellied Plover
+  current_scientific_name: Pluvialis squatarola
+  clements_sort: 5811
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black-bellied_plover
+  archived: '2026-09-12'

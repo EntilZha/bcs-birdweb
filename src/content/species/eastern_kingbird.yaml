@@ -1,0 +1,97 @@
+slug: eastern_kingbird
+common_name: Eastern Kingbird
+scientific_name: Tyrannus tyrannus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Tyrannidae
+  slug: tyrannidae
+status: Fairly common summer east. Rare west.
+species_of_concern: false
+sections:
+  general_description: The Eastern Kingbird is gray-black above and white below. Its most distinctive field mark is the white band at the tip of its black tail. Like other flycatchers it maintains an upright posture. It has a small patch of red feathers in its crown that can only be seen when it displays.
+  habitat: In Washington, Eastern Kingbirds forage in habitat similar to that of Western Kingbirds, open shrub-steppe and agricultural areas. Their breeding habitat, however, is quite different. They nest in hardwood stands, almost always on or near rivers, streams, or other wetlands. Because of their different foraging and breeding habitats, they are commonly found at edges where these habitats meet.
+  behavior: During the breeding season, Eastern Kingbirds typically do not flock, but during migration and on the wintering grounds, they gather in large groups. They generally forage in short bursts, flying out from the perch to grab prey in mid-air, and then returning to the same spot. They also glean prey from foliage or pick food items off the ground, especially in cooler weather when many insects don't fly. These aggressive flycatchers can often be seen perched on a fence wire or treetop, or flying with wings fluttering downward.
+  diet: In spring and summer Eastern Kingbirds eat mostly insects. As the summer progresses, they eat more and more fruit. On the wintering grounds they eat primarily berries.
+  nesting: During courtship the male performs elaborate display flights. Monogamous pairs will often re-pair in successive years and reclaim the same territory. The female builds the nest in a low deciduous tree or shrub, on a utility tower, or in a tree growing out of the water. The nest is large and bulky, made of weeds, bark, and twigs, and lined with plant down, hair, and feathers. The female incubates the two to five eggs for 14 to 17 days. Both parents feed the young, which leave the nest and take their first flights at 16 to 18 days. The parents continue to feed the young for another three to five weeks after they fledge.
+  migration_status: As their name implies, Eastern Kingbirds are historically a bird of the eastern part of the US, and their migration patterns trace their westward expansion. Eastern Kingbirds arrive in Washington by late May, from the east, making them one of Washington's latest spring migrants. They begin to leave in August, with the last few remaining until September. They head east over the Rocky Mountains and travel south to South America from there. They travel in flocks and migrate by day as far south as Argentina.
+  conservation_status: Although development and conversion of small farms to more intensive agriculture with fewer shelterbelts have reduced nesting habitat for Eastern Kingbirds, its population in Washington has been stable between 1966 and 2002. Maintaining shelterbelts and forested corridors along streams is necessary to protect Eastern Kingbird habitat in Washington.
+  when_where_wa: Mostly an eastern Washington species, the Eastern Kingbird breeds in a few areas in Western Washington--in Pierce, Snohomish, and Skagit Counties. In eastern Washington they are common throughout the shrub-steppe region near lakes, ponds, marshes, and farmland.
+photos:
+- file: eaki_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: eaki_ad2_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: eaki_ad3_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: eaki_ad4_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: eaki_ad5_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: eaki_gth_l.jpg
+  caption: 'Note: dark head, white throat/breast/belly, and white-tipped tail.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: eaki_gl_l.jpg
+  caption: 'Note: dark gray back, black head, and white throat.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: eaki_fl_gl_l.jpg
+  caption: 'In flight. Note: white-tipped tail.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: EAKI01.mp3
+  credit: null
+maps:
+  wa: tyty.jpg
+  north_america: eakimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', R, R, R, R, '', '', '', '']
+  north_cascades: ['', '', '', '', R, R, R, R, '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', R, U, U, U, R, '', '', '']
+  okanogan: ['', '', '', '', U, C, C, C, U, '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, F, U, '', '', '']
+  blue_mountains: ['', '', '', '', U, U, U, U, '', '', '', '']
+  columbia_plateau: ['', '', '', '', F, C, C, C, R, '', '', '']
+taxonomy:
+  ebird_code: easkin
+  current_common_name: Eastern Kingbird
+  current_scientific_name: Tyrannus tyrannus
+  clements_sort: 17472
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/eastern_kingbird
+  archived: '2026-09-12'

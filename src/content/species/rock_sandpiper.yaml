@@ -1,0 +1,79 @@
+slug: rock_sandpiper
+common_name: Rock Sandpiper
+scientific_name: Calidris ptilocnemis
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Uncommon migrant and winter on coast.
+species_of_concern: true
+sections:
+  general_description: A heavily speckled, cryptic bird, the Rock Sandpiper is well camouflaged. The adult in breeding plumage is reddish above, with gray wings. Its bill is slightly drooped and of medium length. It has a heavily streaked neck and breast, reddish-brown cap, and dark patch on its cheek. It has a dark patch on its belly that does not extend behind its legs (as in the Dunlin). Its legs are gray in the breeding season, but turn to yellow in the non-breeding season. Non-breeding birds are gray with white-edged feathers, giving them a scalloped look overall. The juvenile appears similar to the adult in breeding plumage, but lacks the reddish-brown cap and dark belly. Since adult birds molt on the breeding grounds before migrating south, juveniles should be easily distinguished from adults when they first arrive in Washington in the fall.
+  habitat: During the breeding season, Rock Sandpipers inhabit dry, barren tundra. The rest of the year, they are rarely found away from the habitat from which they earned their name. They usually forage below the tide line of rocky beaches and jetties on the Washington coast.
+  behavior: In Washington, Rock Sandpipers are usually found singly or in small groups, in flocks with Black Turnstones and Surfbirds. They are fairly gregarious, but will sometimes gather in groups separate from the other rock shorebirds. Unlike their counterparts on the rocks, Rock Sandpipers do not chip or pry attached prey from its substrate. They move slowly along and pick up moving prey from the crevices and seaweed among the rocks.
+  diet: Rock Sandpipers are unusual among shorebirds in that they commonly eat vegetable matter, including seeds, berries, moss, and algae. They also eat invertebrates, including mollusks, crustaceans, and marine worms.
+  nesting: The nest of the Rock Sandpiper is located on the ground in the open, dry tundra, often on a raised area of lichen or moss. The male begins a deep scrape, and the female may help by adding lichen, leaves, or grass. Both parents help incubate the four eggs, although the male may provide most of the incubation, which lasts for about 20 days. The chicks leave the nest soon after hatching and feed themselves. The male usually tends the brood, although sometimes both parents or only the female will do so. The young probably begin to fly at about three weeks.
+  migration_status: Adults molt on the breeding grounds before migrating south, so southward migration is late in the fall. Some populations that breed on islands off Alaska are resident. The populations that migrate winter along the Pacific coast to northern California.
+  conservation_status: The Canadian Wildlife Service estimates the global population at 200,000 birds, with 150,000 breeding in North America. The remainder breed on the northeast Asian coast. The Rock Sandpiper has been declining in this state for unknown reasons since the 1970s. This decline is only in the southern end of their winter range and has not been reflected on their breeding grounds. Rock Sandpipers are listed as an at-risk species on the Partners in Flight watch list, and more study is needed to understand the factors contributing to their decline.
+  when_where_wa: The Rock Sandpiper is an uncommon species found on jetties (such as the jetty at Ocean Shores) and the rocky shores of coastal Washington from October to mid-May. Rarely, a few birds are seen at either end of that time period, as early as August, and as late as the end of May. Rarely, birds are seen in protected waters, south into Puget Sound as far as Seattle. They have not been recorded in eastern Washington.
+photos:
+- file: rosa_w_gth1_l.jpg
+  caption: Winter plumage adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rosa_w_gth2_l.jpg
+  caption: Winter plumage adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rosa_w2_gth_l.jpg
+  caption: Winter plumage.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: rosa_w3_gth_l.jpg
+  caption: Winter plumage.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rosa_w_gth_l.jpg
+  caption: Winter plumage. In front of Surfbird.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio:
+  file: rosa.mp3
+  credit: null
+maps:
+  wa: capt.jpg
+  north_america: rosamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, R, '', '', '', '', U, U, U]
+  puget_trough: [R, R, R, R, '', '', '', '', '', R, R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: rocsan
+  current_common_name: Rock Sandpiper
+  current_scientific_name: Calidris ptilocnemis
+  clements_sort: 6209
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/rock_sandpiper
+  archived: '2026-09-12'

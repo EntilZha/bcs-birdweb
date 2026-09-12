@@ -1,0 +1,46 @@
+slug: hudsonian_godwit
+common_name: Hudsonian Godwit
+scientific_name: Limosa haemastica
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: Casual fall migrant. Most records are juveniles from the Pacific Coast, Semiahmoo Bay (Whatcom County), and Columbia Basin, late August to mid-October. Accidental in spring.
+photos:
+- file: hugo_fl_dp_l.jpg
+  caption: 'Breeding plumage in flight. Note: black and white tail and pale gray face.'
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: hugomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: hudgod
+  current_common_name: Hudsonian Godwit
+  current_scientific_name: Limosa haemastica
+  clements_sort: 6048
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/hudsonian_godwit
+  archived: '2026-09-12'

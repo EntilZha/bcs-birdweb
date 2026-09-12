@@ -1,0 +1,31 @@
+slug: potholes_state_park
+name: Potholes State Park
+number: 905
+ecoregions:
+- columbia_plateau
+sections:
+  site: |-
+    Potholes State Park, situated southeast of Moses Lake, is an island of trees bordered on the east by Potholes Reservoir, on the north by Frenchman Hills Wasteway, and on the west by extensive shrub-steppe tracts. A blend of natural and manmade habitats, Potholes State Park is an oasis for passerines (migrating and resident), while Potholes Reservoir provides habitat for a variety of water birds.
+
+    Natural habitats include open lake waters, shrub-steppe, and riparian lakeshore dominated by peach-leaf and water willow thickets. These riparian tracts provide food and cover for both migrants and nesting residents. The shrub-steppe is disturbed and small by shrub-steppe standards. As such, it is utilized primarily by migrants, particularly sparrows. It is possible to locate a few endemic shrub-steppe species here, but this is not the norm.
+
+    Developed portions of the park are atypical for the area, with manicured lawns and mature deciduous and coniferous trees. Russian olive (non-native) thickets offer both food and cover for many species that might not otherwise be found here. The newer section of the park provides yet a different type of habitat consisting of younger (and therefore thicker) softwoods.
+  birds: 'A diversity of species utilizes the reservoir and its shorelines. Wading birds, shorebirds, and a variety of ducks and grebes can be found. Western Grebes are plentiful on the reservoir. Clark''s Grebes are less common, but observed regularly in season. It is often possible in spring to watch their courting display. Both Caspian and Forster''s Terns nest on the reservoir and fish in the shallow waters adjacent to the park. Watch for Long-tailed Duck and both White-winged and Surf Scoters on the reservoir. Several varieties of passerines breed in the park: Western Kingbird, Western Wood-Pewee, Bullock''s Oriole, and American Robin. Great Horned Owl, Black-billed Magpie, and Northern Flicker are present year round. All six of Washington''s swallow species are seen during spring and summer. Wading birds utilize the park as well: Great Blue Heron, Great Egret, and Black-crowned Night-Heron. Thirteen species of shorebirds forage on the reservoir''s shorelines. Black-necked Stilt visit in the spring. During late summer, the low reservoir levels reveal ample mud flats attracting Western, Least, and Pectoral Sandpipers, Long-billed Dowitcher, and - during migration - both species of yellowlegs. During spring and fall migration, the park is used by flycatchers (Olive-sided, Dusky, Hammond''s, and others), warblers (Yellow, Yellow-rumped, Townsend''s, Orange-crowned, Wilson''s, and MacGillivray''s), vireos (Cassin''s and Warbling), and sparrows (White-crowned and Lincoln''s). Other possible sparrows include Harris''s, White-throated, and Golden-crowned. Summer sparrows include Vesper and Savannah and the ever-present Song Sparrow. Sparrows utilize the thickets for cover from the raptors that hunt them. Winter brings a variety of gulls, and it pays to keep an eye out for unusual inland gulls. Glaucous-winged, Thayer''s, and Glaucous are all possible. Bonaparte''s Gull, Sabine''s Gull, and Common Tern are almost annual here. Keep an eye peeled for jaegers that harass the gulls and terns.'
+  directions: |-
+    The months of May and September are optimum times to visit, but any calendar month can produce good birding. This large park can take the better part of a day to explore, particularly in spring and fall.
+    From I-90 at Vantage, take Route 26 east to Route 262. Potholes State Park is just off Route 262. The park requires a state park fee of $5 per day. A season parking permit is available on-line, or fees may be paid at the park. Facilities include campgrounds, restrooms, and showers. Camping usually requires reservations so plan ahead.
+    Insects are a problem in all but the coldest seasons. Ticks are usually present only in spring, but mosquitoes and yellow jackets are warm-weather pests and can be quite thick.
+photos:
+- file: SITE_Potholes_State_Park.JPG
+  caption: ''
+  credit:
+    name: Tim Brennan
+    url: http://www.39counties.blogspot.com
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/potholes_state_park/10
+  archived: '2026-09-12'

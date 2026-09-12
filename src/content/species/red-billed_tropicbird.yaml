@@ -1,0 +1,52 @@
+slug: red-billed_tropicbird
+common_name: Red-billed Tropicbird
+scientific_name: Phaethon aethereus
+order:
+  name: Pelecaniformes
+  slug: pelecaniformes
+family:
+  name: Phaethontidae
+  slug: phaethontidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: One bird collected off Westport (Grays Harbor County) in June 1941.
+photos:
+- file: rbtrdp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+- file: rbtr1.jpg
+  caption: ''
+  credit:
+    name: Seattle Audubon
+    url: http://seattleaudubon.org/sas/
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: rebtro
+  current_common_name: Red-billed Tropicbird
+  current_scientific_name: Phaethon aethereus
+  clements_sort: 6915
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/red-billed_tropicbird
+  archived: '2026-09-12'

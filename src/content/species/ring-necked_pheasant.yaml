@@ -1,0 +1,79 @@
+slug: ring-necked_pheasant
+common_name: Ring-necked Pheasant
+scientific_name: Phasianus colchicus
+order:
+  name: Galliformes
+  slug: galliformes
+family:
+  name: Phasianidae
+  slug: phasianidae
+status: Fairly common resident.
+species_of_concern: false
+sections:
+  general_description: The Ring-necked Pheasant is a large, dramatic bird, approaching nearly 3 feet, with a long, pointed tail. It was introduced from Eurasia for game hunting. The female pheasant is drab and mottled brown. The male is more boldly colored with a darker, mottled body, a white collar, or ring, around his neck, and an iridescent blue-green head with a bold red patch around the eye. The population in North America has many different subspecies, so variation in coloring is common.
+  habitat: Ring-necked Pheasants are found along edges of open fields, brushy hedgerows, and forest edges. They thrive in the vast tracts of wheat fields in eastern Washington. They often inhabit marshy areas and are rarely found in dry areas. Prime habitat in Washington appears to be cattail and willow patches near irrigated farmlands.
+  behavior: In the winter, Ring-necked Pheasants often appear in segregated flocks, males in small groups and females in larger groups. Typically feeding on the ground, they uncover food by scratching with their feet or digging with their bills.
+  diet: Ring-necked Pheasants are omnivores with diet varying by season. In winter, they eat mostly seeds, grains, roots, and berries, while in the summer they take advantage of insects, fresh green shoots, spiders, earthworms, and snails. Breeding hens and young chicks eat a greater proportion of animal matter than the rest of the population. While laying eggs, females eat large quantities of high-calcium snail shells.
+  nesting: The male defends a territory that may house a small harem of females who nest on the ground in the dense cover of alfalfa, wheat, or hay. Females build their nests in a shallow depression in the ground, lining them with grass, leaves, and weeds. Females incubate 10-12 eggs, and the young leave the nest and feed themselves shortly after they hatch.
+  migration_status: Permanent resident. Ring-necked Pheasants in good habitat may spend their entire life in an area less than 700 acres in size.
+  conservation_status: The first successful introduction of Ring-necked Pheasants into the Pacific Northwest took place in the Willamette Valley of Oregon in 1881. Two years later, the first pheasants were introduced in Washington, in the southeastern portion of the state. The conversion of shrub-steppe habitat to agriculture originally benefited pheasants, but the farming practices used since the 1980's include harvesting during the nesting season and the removal of cover that the birds require. Ring-necked Pheasants are the most popular upland game bird in Washington, and there is a statewide program to maintain the population. Habitat protection and enhancement are the long-term goals of the program in Washington, but in the short term, the program releases large numbers of pen-raised birds on public lands to supplement the limits placed by climate and habitat. The Breeding Bird Survey shows a small, not statistically significant decrease in population between 1980 and 2002.
+  when_where_wa: Ring-necked Pheasants are common in open areas at low elevations throughout the state. Releases take place in Yakima, Grant, Adams, Franklin, Walla Walla, Whitman, Asotin, Garfield, Columbia, and Benton counties east of the Cascades, and in Mason, Pacific, Pierce, Skagit, Snohomish, Thurston, and Whatcom counties west of the Cascades. Contact the Washington Department of Fish and Wildlife for release sites.
+photos:
+- file: rinp_f_gth_l.jpg
+  caption: Female.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rinp_m_gth_l.jpg
+  caption: Male.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rnep_tg_l.jpg
+  caption: Male
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: rnep_f_tg_l.jpg
+  caption: Female
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: rhep_j_tg_l.jpg
+  caption: Juvenile
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: rnep.mp3
+  credit: null
+maps:
+  wa: phco.jpg
+  north_america: rphemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, U, U, U, U, U, U, U]
+  puget_trough: [F, F, F, F, F, F, F, F, F, F, F, F]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  east_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  okanogan: [F, F, F, F, F, F, F, F, F, F, F, F]
+  canadian_rockies: [F, F, F, F, F, F, F, F, F, F, F, F]
+  blue_mountains: [R, R, R, R, R, R, R, R, R, R, R, R]
+  columbia_plateau: [F, F, F, F, F, F, F, F, F, F, F, F]
+taxonomy:
+  ebird_code: rinphe1
+  current_common_name: Ring-necked Pheasant
+  current_scientific_name: Phasianus colchicus
+  clements_sort: 1477
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/ring-necked_pheasant
+  archived: '2026-09-12'

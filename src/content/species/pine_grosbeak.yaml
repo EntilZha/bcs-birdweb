@@ -1,0 +1,59 @@
+slug: pine_grosbeak
+common_name: Pine Grosbeak
+scientific_name: Pinicola enucleator
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Fringillidae
+  slug: fringillidae
+status: Uncommon to rare resident.
+species_of_concern: false
+sections:
+  general_description: Pine Grosbeaks are the largest of Washington's finches. Males are mostly red with gray underparts, black wings, and two white wing-bars. Females are mostly gray with some yellow on their heads and backs. Their wings are black with white wing-bars similar to the males. Both sexes have black tails, and their bills are short and conical. First-year males typically have rusty heads and rumps, but are not as red overall as mature males.
+  habitat: Pine Grosbeaks breed in sub-arctic and boreal conifer forests. In Washington, they are typically found in lodgepole pine, mountain hemlock, subalpine fir, whitebark pine, and Engleman spruce. They generally breed in wet areas or other openings near the tree line. Their non-breeding habitat is determined by available food, but often contains mountain ash, ash, maple, and other broadleaved trees.
+  behavior: During the breeding season, Pine Grosbeaks are typically found in pairs, but form larger flocks the rest of the year. They forage on the ground, in trees, shrubs, and in the air. They are attracted to 'Pygmy-Owl tooting,' a common practice of birders used to imitate a Pygmy-Owl and attract birds. They often allow very close approach by humans, but may be missed because they will sit motionless.
+  diet: Seeds, fruit, buds, berries, and some insects make up the majority of the Pine Grosbeak's diet. They feed insects and spiders to their young, but adults eat more than 90% vegetable matter throughout the year.
+  nesting: Pine Grosbeaks are generally monogamous, and form pairs before they arrive on the breeding grounds. The nest is typically located in dense foliage on a horizontal branch near the trunk of a tree, or in a vertical fork. The female builds the nest, which is a bulky, open cup of twigs and rootlets, lined with fine grass, moss, rootlets, and lichen. She incubates 3 to 4 eggs for 13 to 14 days. The male brings food to the female on the nest. Both members of the pair feed the young, which leave the nest after about 15 days. The young can fly well within a few days of hatching, but continue to beg for food from their parents for some time after fledging. Pairs generally raise one brood each season.
+  migration_status: Pine Grosbeaks are permanent residents in many areas. In eastern parts of their range, they can be irruptive, traveling long distances to areas well beyond their regular breeding grounds. Irruptive movements in the western portion of their range are less common, and Pine Grosbeaks in Washington are usually not found far from their breeding areas. If they do migrate, it is generally into nearby lowlands.
+  conservation_status: There are two subspecies of Pine Grosbeaks in Washington--those that breed in the Cascades and eastern Washington, and those that breed on the Olympic Peninsula. Their conservation status in Washington and throughout their range is not well known. There is some evidence that northeastern populations are not as abundant as they once were, but more information is needed.
+  when_where_wa: Pine Grosbeaks are uncommon to rare year round in the mountains of Washington, and rare in the lowlands on both sides of the Cascades in winter. They breed locally along the length of the Cascades, in the Olympics, the Blue Mountains, and in northeastern Washington, typically over 3,000-4,000 feet. They become more common as you go east in Washington, with the exception of the Blue Mountains, where they are quite uncommon.
+photos:
+- file: pigr_f_gt_l.jpg
+  caption: 'Female. Note: short curved bill.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: pigr_gt_l.jpg
+  caption: Male
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio: null
+maps:
+  wa: pien.jpg
+  north_america: pigrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, R, R, R, R, R, R, R, R, R]
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  west_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  east_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: [U, U, U, U, U, U, U, U, U, U, U, U]
+  blue_mountains: [R, '', '', '', '', '', '', '', '', '', R, R]
+  columbia_plateau: [R, R, '', '', '', '', '', '', '', R, R, R]
+taxonomy:
+  ebird_code: pingro
+  current_common_name: Pine Grosbeak
+  current_scientific_name: Pinicola enucleator
+  clements_sort: 32221
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/pine_grosbeak
+  archived: '2026-09-12'

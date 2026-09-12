@@ -1,0 +1,52 @@
+slug: ashy_storm-petrel
+common_name: Ashy Storm-Petrel
+scientific_name: Oceanodroma homochroa
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Hydrobatidae
+  slug: hydrobatidae
+status: ''
+species_of_concern: true
+sections:
+  general_description: The first state record occurred on a pelagic trip off Westport on 24 June 2006.
+photos:
+- file: assp2_gt_l.jpg
+  caption: ''
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: assp_gt_l.jpg
+  caption: ''
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: asspet
+  current_common_name: Ashy Storm-Petrel
+  current_scientific_name: Hydrobates homochroa
+  clements_sort: 7063
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/ashy_storm-petrel
+  archived: '2026-09-12'

@@ -1,0 +1,60 @@
+---
+import { getCollection } from "astro:content";
+import { getImage } from "astro:assets";
+import KioskLayout from "../../layouts/KioskLayout.astro";
+import KioskApp, { type KioskSpecies } from "../../components/kiosk/KioskApp.tsx";
+import { ECOREGION_SLUGS } from "../../config/ecoregions";
+import { heroImage } from "../../lib/images";
+import { displayName, historicName, scientificName } from "../../lib/species";
+
+const base = import.meta.env.BASE_URL;
+// Absolute origin for the QR codes. A relative URL in a QR is useless on a phone.
+const buildOrigin = Astro.site ? new URL(base, Astro.site).origin : "";
+
+const species = await getCollection("species");
+
+const compact: KioskSpecies[] = await Promise.all(
+  species.map(async (entry) => {
+    const hero = heroImage(entry.id, entry.data.photos);
+    const historic = historicName(entry.data);
+    return {
+      slug: entry.id,
+      name: displayName(entry.data),
+      latin: scientificName(entry.data),
+      family: entry.data.family.name,
+      status: entry.data.status,
+      aliases: [historic, entry.data.common_name, entry.data.family.name].filter(
+        (v): v is string => Boolean(v),
+      ),
+      a: ECOREGION_SLUGS.map((slug) =>
+        (entry.data.abundance[slug] ?? []).map((c) => c || " ").join(""),
+      ),
+      thumb: hero
+        ? (await getImage({ src: hero.image, width: 320, height: 320, fit: "cover", format: "webp" })).src
+        : null,
+      large: hero
+        ? (await getImage({ src: hero.image, width: 900, format: "webp" })).src
+        : null,
+      // First two sentences of the account: enough to talk from, short enough to read
+      // across a room without scrolling.
+      blurb: (entry.data.sections.general_description ?? "")
+        .split(/(?<=\.)\s+/)
+        .slice(0, 2)
+        .join(" "),
+    };
+  }),
+);
+compact.sort((a, b) => a.name.localeCompare(b.name));
+
+const initialMonth = new Date().getMonth();
+---
+
+<KioskLayout>
+  <KioskApp
+    species={compact}
+    base={base}
+    buildOrigin={buildOrigin}
+    initialMonth={initialMonth}
+    client:load
+  />
+</KioskLayout>

@@ -1,0 +1,73 @@
+slug: cliff_swallow
+common_name: Cliff Swallow
+scientific_name: Petrochelidon pyrrhonota
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Hirundinidae
+  slug: hirundinidae
+status: Common summer resident.
+species_of_concern: false
+sections:
+  general_description: The Cliff Swallow is somewhat similar in appearance to the Barn Swallow. The back, wings, and crown of the adult is a deep blue like the Barn Swallow, but the Cliff Swallow has a light belly, chestnut-colored face, dark throat, and pale gray nape. Three field marks especially useful in distinguishing the Cliff Swallow from the Barn Swallow are the white forehead, buff rump, and short, squared-off tail. The Cliff Swallow also has two white streaks down its back. Juveniles are brown above, buff below, and have varying numbers of small white spots on their foreheads and throats.
+  habitat: Cliff Swallows originally inhabited open canyons and river valleys with rocky cliffs for nesting. Many still nest in these habitats, but others have adapted to nesting on man-made structures, especially under bridges and freeways. Cliff Swallows can be seen in farmland, wetlands, prairies, residential areas, road cuts and over open water. They require a source of mud for their nests, and they apparently have specific nesting requirements that are as yet unknown, as their distribution is patchy, and there are many areas that appear to be suitable habitat that host no Cliff Swallows.
+  behavior: Cliff Swallows forage high in the air, soaring in circles, but they are less agile in flight than other Washington swallows. This is one of the most social land-birds of North America, generally nesting in large colonies (of up to 3,500 nests!) During nesting season Cliff Swallows gather at mud puddles to collect mud that they carry to their nests in their bills. While at these puddles, both males and females flutter their wings up high, which appears to prevent attempts at forced copulation. Extra-pair copulations are common, as is brood parasitism. Females will lay eggs in other females' nests and will also carry eggs in their beaks from their own nests to the nests of others.
+  diet: Cliff Swallows feed almost entirely on flying insects.
+  nesting: Cliff Swallows have tidy, well-constructed nests, formed from balls of mud that they collect in their beaks. These nests are built on vertical walls, natural or man-made, frequently with some sort of sheltering overhang. Barns, bridges, and large buildings are regularly used. Birds of both sexes begin by dabbing a circle of mud onto a wall and then adding mud-balls from the bottom of the rim up and out, eventually forming a jug-shaped nest. Unlike Barn Swallows, they do not add sticks or straw to the mud structure, but they do line the nest with grass and feathers. Both members of the pair incubate the four to five eggs for 14 to 16 days. Both feed the young, which leave the nest 21 to 23 days after hatching. The parents continue to feed the young for three to five days after they leave the nest. The young of a colony assemble in large crèches, and Cliff Swallow parents use a sophisticated vocal communication system to locate their own chicks within the crèche.
+  migration_status: Cliff Swallows migrate to and from southern South America in large flocks, over a considerable period of time. Most return in early April, appearing at natural nesting sites earlier than they appear at man-made sites. The famous swallows of Capistrano are Cliff Swallows, and, contrary to legend, they return to Capistrano in late February, considerably earlier than the fabled March 19. The date of fall departure varies from year to year, although fall migration typically begins by early August, soon after the young become independent.
+  conservation_status: By taking advantage of man-made nesting sites, Cliff Swallows have expanded their range considerably, exploiting many new areas. Though they are difficult to survey, the general trend appears to be toward increased numbers and more widespread distribution throughout North America except in the Northeast, where numbers have declined significantly. In general, Cliff Swallows seem to have benefited from development in Washington. They traditionally nested only in the cliffs on the Columbia Plateau, but now are found nesting under bridges and the eaves of buildings. They are extremely tolerant of disturbance and rarely abandon nests for this reason, but their large colonies often carry heavy loads of parasites, and they sometimes abandon sites temporarily when infestations are too great.
+  when_where_wa: Cliff Swallows arrive in Washington from early April on and remain common in the state until early August. They can be found throughout the state in a variety of habitats, mostly in the lowlands. There is a large colony on the Columbia River at Priest Rapids on the cliffs just below the dam. Look for them flying low over the river below the dam early in the morning and in bad weather.
+photos:
+- file: clsw_fl_gt_l.jpg
+  caption: 'Adult in flight. Note: pale rump.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: clsw_gl_l.jpg
+  caption: 'Adult at nest. Note: buffy forecrown.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: clsw_fl_gl_l.jpg
+  caption: 'Adult in flight. Note: buffy forecrown.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: clsw_j_tg_l.jpg
+  caption: 'Juvenile. Note: yellow gap and lack of buffy forecrown.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: clsw1.mp3
+  credit: null
+maps:
+  wa: hipy.jpg
+  north_america: clswmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', R, F, F, F, F, U, '', '', '', '']
+  puget_trough: ['', '', R, U, C, C, C, C, R, '', '', '']
+  north_cascades: ['', '', '', R, C, C, F, U, '', '', '', '']
+  west_cascades: ['', '', R, U, C, C, C, F, R, '', '', '']
+  east_cascades: ['', '', '', F, C, C, C, F, R, '', '', '']
+  okanogan: ['', '', '', C, C, C, C, U, '', '', '', '']
+  canadian_rockies: ['', '', R, F, C, C, C, F, R, '', '', '']
+  blue_mountains: ['', '', '', '', R, U, U, U, R, '', '', '']
+  columbia_plateau: ['', '', U, C, C, C, C, F, R, '', '', '']
+taxonomy:
+  ebird_code: cliswa
+  current_common_name: Cliff Swallow
+  current_scientific_name: Petrochelidon pyrrhonota
+  clements_sort: 24281
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/cliff_swallow
+  archived: '2026-09-12'

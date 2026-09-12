@@ -1,0 +1,73 @@
+slug: long-billed_curlew
+common_name: Long-billed Curlew
+scientific_name: Numenius americanus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Uncommon summer east. Uncommon winter west.
+species_of_concern: true
+sections:
+  general_description: The Long-billed Curlew is the largest North American shorebird. It has a very long, decurved bill, which is longer on adult females than on males and juveniles. It is mottled brown overall, with cinnamon underwings. Sometimes a striped head pattern is evident, but it is far less pronounced than the head stripes on the Whimbrel. It is similar in size, shape, and color to the Marbled Godwit, but the curlew's decurved bill distinguishes it from the upturned bill of the Marbled Godwit.
+  habitat: Dry grasslands and shrub savannahs are the traditional breeding habitats of Long-billed Curlews. They also nest in grain fields and pastures. During migration and winter, they can be found on coastal mudflats and marshes, and less commonly in fields and grasslands.
+  behavior: These birds often gather in small flocks and forage by walking quickly along with their long bills extended forward, probing for food.
+  diet: In summer, earthworms and other invertebrates are common prey. Berries may also be important food at certain times of the year. Birds in coastal areas eat crabs and other aquatic creatures.
+  nesting: Males attract females and defend their territories with undulating flight displays, fluttering and gliding while calling. The nest is on the ground in the open, but is often located next to an object such a rock, a shrub, or even a pile of cow manure. The nest itself is a shallow scrape, usually sparsely lined with vegetation, sometimes with a rim built up around the edge. Both parents help incubate the four eggs for 27-30 days. The young leave the nest shortly after hatching and feed themselves, although both parents tend them and lead them to a marshy or damp area to find food. The young begin to fly at 32-45 days.
+  migration_status: This short-distance migrant is one of the earliest breeding shorebirds, returning from wintering grounds from California to Mexico in mid-March, before their nesting grounds dry out. The adults leave by mid-July, with the young of the year leaving in mid-August.
+  conservation_status: Once abundant, Long-billed Curlews declined as a result of hunting in the 1800s. Protection has helped the birds rebound, and now habitat destruction is their biggest threat. As more and more native grassland is converted to agriculture, the amount of potential Long-billed Curlew nesting habitat is shrinking. The Canadian Wildlife Service estimates the current population at about 20,000 birds.
+  when_where_wa: Long-billed Curlews breed in eastern Washington in the central Columbia Basin and up through the Okanogan Valley. They are uncommon throughout the state during migration. They generally winter south of Washington, but a flock winters around Tokeland at Willapa Bay (Pacific County) every winter. Bill's Spit at Ocean Shores is another place to look for them.
+photos:
+- file: lbcu_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: lbcu_fl_gth_l.jpg
+  caption: Adult calling in flight.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: lbcu_fl2_gth_l.jpg
+  caption: Adult calling in flight.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: lbcu_a_dp_l.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: lbcu1.mp3
+  credit: null
+maps:
+  wa: nuam.jpg
+  north_america: lbcumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, R, R, '', U, U, U, U, U, U]
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', R, U, U, U, U, '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', U, U, U, U, U, R, '', '', '', '']
+taxonomy:
+  ebird_code: lobcur
+  current_common_name: Long-billed Curlew
+  current_scientific_name: Numenius americanus
+  clements_sort: 6021
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/long-billed_curlew
+  archived: '2026-09-12'

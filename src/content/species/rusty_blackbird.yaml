@@ -1,0 +1,53 @@
+slug: rusty_blackbird
+common_name: Rusty Blackbird
+scientific_name: Euphagus carolinus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Icteridae
+  slug: icteridae
+status: Rare winter resident.
+species_of_concern: false
+sections:
+  general_description: Rusty Blackbirds are rare winter visitors to Washington. We are most likely to see these birds in non-breeding season, in the plumage that gives them their name. Non-breeding males are black with rusty edges on their feathers. Females are lighter brown all over, with buff-colored mottling and gray rumps. Rusty Blackbirds are fairly slender birds with long wings and tails. Both sexes have yellow eyes in all plumages. During breeding season, males are black with slightly iridescent purple-green plumage, and females are dull brown. Male Brewer's Blackbirds look similar, but lack the rusty edging on their feathers, are glossier during the breeding season, and have longer tails.
+  habitat: Rusty Blackbirds nest in spruce bogs and other wet, forested areas throughout Canada and Alaska. They often nest in small clear-cuts or openings caused by natural disturbances. During migration and winter, they inhabit wooded swamps, but forage in open areas and cattle feedlots. They typically prefer wooded areas more than do other blackbird species.
+  behavior: In Washington, Rusty Blackbirds may be mixed in with flocks of Brewer's or Red-winged Blackbirds. They walk along the ground while foraging, often turning leaves over to expose food, and will feed at pond or wetland edges, sticking their heads underwater to take food from the bottom.
+  diet: Rusty Blackbirds eat many aquatic insects and other small invertebrates. They also eat seeds and waste grain, especially during winter.
+  nesting: Sometimes Rusty Blackbirds breed in small, loose colonies, but isolated, monogamous pairs are the norm. Nests are usually close to or directly above the water, in dense trees or shrubs. The female builds a bulky open cup with a lichen foundation, a body of grass, twigs, and decaying plant material, and a fine grass lining. She incubates 3 to 5 eggs for about two weeks and then broods the young after they hatch. Both sexes feed the young, which leave the nest about 11 days after hatching. They cannot fly when they leave the nest, but learn within a few days.
+  migration_status: Rusty Blackbirds travel between their northern breeding grounds and southern US wintering grounds during the late fall and early spring.
+  conservation_status: Rusty Blackbirds are the least well known of the North American blackbirds. While most of their breeding range is remote from human disturbance, their wintering grounds are more vulnerable, and more study is needed to ascertain their status.
+  when_where_wa: Rusty Blackbirds are rare but regular fall and winter visitors throughout lowland Washington. Birds have been seen in Whatcom, Snohomish, Clark, Thurston, King, and Okanogan Counties, and are found annually in the Walla Walla area. They breed as far south as southern British Columbia, but are more common breeders in the central interior part of that province.
+photos:
+- file: rubl_gl_l.jpg
+  caption: Winter plumage
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio: null
+maps:
+  wa: euca.jpg
+  north_america: rublmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: [R, R, '', '', '', '', '', '', '', R, R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: rusbla
+  current_common_name: Rusty Blackbird
+  current_scientific_name: Euphagus carolinus
+  clements_sort: 33848
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/rusty_blackbird
+  archived: '2026-09-12'

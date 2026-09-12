@@ -1,0 +1,28 @@
+slug: ocean_shores
+name: Ocean Shores
+number: 104
+ecoregions:
+- pacific_northwest_coast
+sections:
+  site: Ocean Shores is a six-mile thin peninsula along the Washington coast, with a variety of habitats and a wide assortment of birds (over 300 species). Habitats include the open salt water, ocean beaches, tidal salt marshes, rock jetty, extensive mudflats, freshwater ponds, deciduous and coniferous woods, and open fields. Nowhere else in Washington do all these habitats coexist together. Its coastal location makes it an ideal location for shorebirds, pelagic species, and an amazing assortment of rare birds. Birding at Ocean Shores is good any time of year but fall (late July to early October) can be particularly interesting when migrating shorebirds pass through.
+  birds: |-
+    The Point Brown Jetty hosts Black Turnstone, Surfbird, Wandering Tattler, and Rock Sandpiper (in season). Views from the jetty may produce cormorants, alcids, passing loons, Sooty Shearwaters (fall), and the occasional pelagic species.
+
+    The Game Range is a good place to search for shorebirds including Pacific and American Golden-Plover, Marbled Godwit, Whimbrel, dowitchers, Baird's, and Pectoral Sandpiper in the Salicornia marsh.
+
+    Damon Point's expansive open areas should be checked for Horned Lark, American Pipit, and Lapland Longspur (fall). Buff-breasted Sandpiper may be in the areas surrounding the Damon Point Pond (fall). The marina at the base of Damon Point hosts grebe, cormorant, and loon. The nearby Scot's broom has been a reliable place for wintering Palm Warbler.
+  directions: 'From I-5, exit at #104 and take Route 101 west to Route 8. Stay on Route 8 to Route 12 (west), following signs to Aberdeen and Hoquiam. Join Route 101 in Aberdeen and drive west to Hoquiam. Pick up Route 109 and then Route 115 to Ocean Shores. In Ocean Shores, go west to Ocean Shores Boulevard, and then south to the parking area at the jetty. Continue east, and park near the sewage treatment plant. Walk around the plant fence to gain access to the Game Range. Return to the two-lane Ocean Shores Boulevard at the jetty. Go north toward the town of Ocean Shores. At Marine View Drive, turn right and follow it to a parking area at the base of Damon Point. Return to the town of Ocean Shores on Point Brown Avenue. A good idea is to stop at a local real estate office and ask for a map of the area. You''ll find it helpful to maneuver the confusing array of streets.'
+photos:
+- file: SITE_Ocean_Shores.jpg
+  caption: ''
+  credit:
+    name: Charlotte Byers
+    url: null
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/ocean_shores/2
+  archived: '2026-09-12'

@@ -1,0 +1,65 @@
+slug: lesser_goldfinch
+common_name: Lesser Goldfinch
+scientific_name: Carduelis psaltria
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Fringillidae
+  slug: fringillidae
+status: Uncommon and local resident east.
+species_of_concern: true
+sections:
+  general_description: Lesser Goldfinches are small finches with bright yellow undersides. Males have greenish-brown backs, black caps and wings with two white wing-bars, and a white patch on each wing. Their tails are black with white patches on either side, and their undertail coverts are yellow (contrasting with the white undertail coverts of American Goldfinches). Females lack the black cap and wing-bars of the males, are not as brightly colored, and lack the white on the tail; they do have white patches on each wing.
+  habitat: Lesser Goldfinches are typically found in dry, open woodlands. In Washington, they are closely associated with Garry oak, especially at the brushy edges of Garry oak stands. They are usually found in pastures, steppe, forest openings, and streamsides.
+  behavior: Lesser Goldfinches are active foragers and form flocks outside of the breeding season. They often mimic short bits of other birds' songs, and like American Goldfinches, they often call in flight.
+  diet: Lesser Goldfinches are primarily seedeaters and eat mostly small weed seeds, especially thistle. They eat some small insects in the summer, particularly aphids, which they regurgitate for their young.
+  nesting: Lesser Goldfinches nest in loose, colonial groups of monogamous pairs. Nests are usually located in a vertical fork or branch of a tree, surrounded by dense foliage. The female builds the nest, which is a compact, open cup made of grass, plant fibers, and bark strips, with a lining of plant down. The female incubates 3 to 5 eggs for 12 to 13 days. The male brings her food while she incubates, and while she broods the young for the first few days after they hatch. After that, both parents bring food to the young. The young leave the nest after about two weeks, and the parents continue to feed the young for at least another week.
+  migration_status: Throughout much of their range, Lesser Goldfinches are permanent residents. In the coldest parts of their breeding range, they may migrate short distances southward, or from higher elevations into lowlands. The winter range of those that do migrate is not well understood.
+  conservation_status: Throughout most of their range, Lesser Goldfinches are widespread and fairly common, and numbers are most likely stable. This range has expanded in recent decades, and Washington is at its northern edge. The first breeding record of Lesser Goldfinches in Washington was in 1975. Lesser Goldfinches have adapted to a wide variety of foods and habitats, including those provided and modified by humans. This adaptability has probably helped the population remain stable.
+  when_where_wa: The range of the Lesser Goldfinch just barely reaches across the Columbia River into Washington. These finches are permanent residents in Washington, and are, for the most part, restricted to Klickitat County, where they are uncommon and local. They can be found in the Lyle area from the Klickitat River west to Catherine Creek, at Maryhill State Park, and along the eastern edge of the Columbia River Gorge.
+photos:
+- file: lego_tg_l.jpg
+  caption: 'Male. Note: black cap.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: lego_f_gl_l.jpg
+  caption: 'Female. Note: large dark bill and darb narrow wing bars.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: lego_fpale_gt_l.jpg
+  caption: Pale female
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio: null
+maps:
+  wa: caps.jpg
+  north_america: legomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
+taxonomy:
+  ebird_code: lesgol
+  current_common_name: Lesser Goldfinch
+  current_scientific_name: Spinus psaltria
+  clements_sort: 32609
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/lesser_goldfinch
+  archived: '2026-09-12'

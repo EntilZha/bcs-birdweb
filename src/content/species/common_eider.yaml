@@ -1,0 +1,57 @@
+slug: common_eider
+common_name: Common Eider
+scientific_name: Somateria mollissima
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    The largest duck in the northern hemisphere, the Common Eider is distributed around the Arctic and sub-Arctic in the Old World as well as the New World in several races or subspecies that show considerable geographic variation. The bulky form, elongated head, and long, sloping bill are distinctive of all races. The race that inhabits eastern Siberia, Alaska, and western Canada *(S.m. v-nigrum)* is the largest of all and has sometimes been described as a separate species, the Pacific Eider. Males are basically black-and-white with an orange bill; in breeding plumage they are more extensively white and show a greenish wash on the cheek and nape. Females are plain brown and finely barred, with gray bills. The bills of both sexes are feathered at the base.
+
+    The Pacific Eider retreats southward only minimally in winter; hence it is rarely seen south of the Gulf of Alaska. Washington has two accepted records, both quite recent: Port Angeles (Clallam County) in August 2004, and Tatoosh Island (Clallam County) in April 2005. British Columbia has four records. Oregon has none so far, while the first (and only) California record occurred in July 2004.
+
+    *Revised June 2007*
+photos:
+- file: coei_gt_l.jpg
+  caption: Male
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: coei_f_gt_l.jpg
+  caption: Female
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: comeid
+  current_common_name: Common Eider
+  current_scientific_name: Somateria mollissima
+  clements_sort: 715
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/common_eider
+  archived: '2026-09-12'

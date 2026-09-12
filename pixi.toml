@@ -1,0 +1,102 @@
+[workspace]
+name = "bcs-birdweb"
+description = "BirdWeb — Birds Connect Seattle's guide to the birds of Washington: the Astro site, the local content editor, and the archive/extraction pipeline"
+channels = ["conda-forge"]
+platforms = ["osx-arm64"]
+
+# Node is provided here so the Astro site and the tools/birdweb-editor app run against a
+# pinned runtime; JS packages themselves are still managed by npm via each package.json.
+# Python powers scripts/ — the one-time mirror of the legacy birdweb.org site, the offline
+# extraction into src/content/, and the image pipeline.
+[dependencies]
+python = "3.12.*"
+nodejs = ">=22.12"
+httpx = ">=0.27"
+selectolax = ">=0.3"
+pyyaml = ">=6"
+pillow = ">=10"
+typer = ">=0.9"
+rich = ">=13"
+zstandard = ">=0.22"
+
+# --- Archive pipeline (Phase 1) ---------------------------------------------
+# These hit the live legacy site. `mirror` is meant to run once: it pulls raw bytes into
+# archive/ and records a checksum manifest. Everything downstream parses that mirror
+# offline, so the fragile unattended IIS box is touched as little as possible.
+
+[tasks.mirror]
+cmd = "python scripts/mirror_birdweb.py"
+description = "Crawl the legacy birdweb.org into archive/ (network; ~1-2 hours)"
+
+[tasks.verify-archive]
+cmd = "python scripts/mirror_birdweb.py verify"
+description = "Re-hash every archived file against manifest.jsonl and report coverage"
+
+[tasks.archive-pack]
+cmd = "python scripts/pack_archive.py"
+description = "Pack archive/ into a dated .tar.zst + SHA256SUMS for the BCS Google Drive"
+
+# --- Content pipeline (Phases 2-4) ------------------------------------------
+# All offline: these read archive/ and write src/content/ and src/assets/.
+
+[tasks.extract]
+cmd = "python scripts/extract_birdweb.py"
+description = "Parse archive/ into src/content/ YAML (offline)"
+
+[tasks.verify]
+cmd = "python scripts/verify_extract.py"
+description = "Hard QA gate over the extracted content; non-zero exit on any gap"
+
+[tasks.taxonomy]
+cmd = "python scripts/map_taxonomy.py"
+description = "Map species onto the eBird/Clements checklist, adding the taxonomy layer"
+
+[tasks.images]
+cmd = "python scripts/build_images.py"
+description = "Convert archived photos and maps into WebP under src/assets/birds/"
+
+[tasks.geocode]
+cmd = "python scripts/geocode_sites.py"
+description = "Propose coordinates for the 69 birding sites (candidates, not answers)"
+
+# --- Site ---------------------------------------------------------------------
+
+[tasks.dev]
+cmd = "npm run dev"
+description = "Run the Astro dev server"
+
+[tasks.build]
+cmd = "npm run build"
+description = "Build the static site to dist/"
+
+[tasks.preview]
+cmd = "npm run preview"
+description = "Preview the production build"
+
+[tasks.check]
+cmd = "npm run check"
+description = "Type-check the site with astro check"
+
+[tasks.test]
+cmd = "npm run test"
+description = "Run the Vitest suite over src/lib/"
+
+[tasks.install-site]
+cmd = "npm install"
+description = "Install the site's npm dependencies"
+
+# --- Local content editor (Phase 7) -------------------------------------------
+
+[tasks.editor]
+cmd = "npm run dev"
+cwd = "tools/birdweb-editor"
+description = "Run the local BirdWeb content editor"
+
+[tasks.install-editor]
+cmd = "npm install"
+cwd = "tools/birdweb-editor"
+description = "Install the editor's npm dependencies"
+
+[tasks.install-js]
+depends-on = ["install-site", "install-editor"]
+description = "Install npm dependencies for every JS project in the workspace"

@@ -1,0 +1,79 @@
+slug: gray-crowned_rosy-finch
+common_name: Gray-crowned Rosy-Finch
+scientific_name: Leucosticte tephrocotis
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Fringillidae
+  slug: fringillidae
+status: Uncommon resident.
+species_of_concern: false
+sections:
+  general_description: Gray-crowned Rosy-Finches are medium-to-large finches with long wings and tails. In the Cascades subspecies most commonly found in Washington, heads are almost entirely gray with black forecrowns, and bodies are dark brown with a rose-colored wash, especially on the wings. Flight feathers appear pale from below, and this 'frosted' appearance of the underwings helps identify Rosy-Finches as they fly about mountain cliffs. Juveniles look quite different from adults, with light gray to gray brown bodies, no black forecrowns, and no rosy wash. Juveniles also have creamy-buff wing-bars and patches.
+  habitat: Gray-crowned Rosy-Finches may breed at the highest altitude of any breeding bird in North America. Their typical breeding habitat is rocky talus and snowfields near sedge and grassy areas. They often breed near moist seeps, and are always associated with rocks. In winter they inhabit open lowland areas, including canyons, wheat fields, and grasslands.
+  behavior: Outside of the breeding season, Gray-crowned Rosy-Finches form large flocks, sometimes with with Snow Buntings, Lapland Longspurs, and/or Horned Larks. They are ground-feeders that walk along the ground or snow, especially the edges of melting snow, looking for food. They are typically quite unafraid of humans. During the winter they sometimes roost in old Cliff Swallow nests at night.
+  diet: In summer, Gray-crowned Rosy-Finches eat insects, especially cutworms and other insects that get caught in updrafts and then are deposited on snow, where they freeze. During winter, these finches eat seeds, especially Russian thistle, wild grass, mustard, and sunflower seeds. In the breeding season, Gray-crowned Rosy-Finches develop throat pouches that allow them to carry food back to their young at the nest.
+  nesting: Gray-crowned Rosy-Finches are monogamous. They nest in rock crevices, along cliff ledges, and under overhanging rocks. Typically, the nest is totally hidden from view. Although both sexes collect nesting material, only the female builds the nest, a bulky cup of grass, rootlets, lichen, moss, and sedge, lined with fine grass, hair, and feathers. The female typically incubates 3 to 5 eggs for about 14 days. Both parents feed the young, which leave the nest after 15 to 22 days and follow their parents to forage. The young are fed by their parents for two to three weeks after fledging.
+  migration_status: In autumn, when the snow cover gets deep, Gray-crowned Rosy-Finches migrate in flocks to the lowlands. In early spring, even when their breeding grounds are still deeply covered with snow, they leave the lowlands and return to their alpine breeding grounds.
+  conservation_status: Two subspecies of Gray-crowned Rosy-Finch are found in Washington. One both breeds and winters in Washington, and the other, which has less gray on its head, breeds in Alaska and probably the Canadian Rockies, then moves into Washington in winter. Although Gray-crowned Rosy-Finches are not often seen, they are widespread. The population appears relatively stable, and much of their breeding range is very remote and thus protected from human disturbance.
+  when_where_wa: Because their habitat is largely inaccessible, Gray-crowned Rosy-Finches are hard to find in the breeding season. They occur from mid-April to mid-October above 6,500 feet in the Olympics and above 6,000 feet in the Cascades. In the Olympics they are limited to the highest peaks, including Mount Olympus, Mount Carrie, The Needles, Mount Deception, and Mount Anderson. In the Cascades, they are most common north of Snoqualmie Pass, although they also breed on Mount Rainier, Mount Adams, and in the Goat Rocks Wilderness Area. Before the 1980 eruption they also bred on Mount St. Helens. From late October to mid-May, they are most often found east of the Cascades, especially at Grand Coulee and Moses Coulee. They are sometimes seen on gravel along roadsides. Their numbers can vary considerably from year to year, but they are always considered uncommon or rare. During migration they may be found along the barren ridges of the shrub-steppe zone, or gathering into pre-migration flocks in mountainous areas. Look for them during this time at Sunrise on Mount Rainier. They are also occasionally found in the lowlands of western Washington during migration and in winter.
+photos:
+- file: gcrf_lb_l.jpg
+  caption: Interior race.
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: gcrf_w_jh_l.jpg
+  caption: 'Winter plumage. Note: yellow bill.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: gcrf_jh_l.jpg
+  caption: Both interior (top left) and Hepburn's (top right) races at a feeder.
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: gcrf_graycheek_jh_l.jpg
+  caption: Gray-cheeked race (Hepburn's)
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: gcrf_graycrowned_jh_l.jpg
+  caption: Gray-crowned race (interior)
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: gcrf.mp3
+  credit: null
+maps:
+  wa: leuar.jpg
+  north_america: gcrfmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', R, R, R, R, R, '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', R, U, U, U, U, R, '', '']
+  west_cascades: ['', '', '', '', U, U, U, U, U, U, '', '']
+  east_cascades: [R, R, R, R, R, U, U, U, R, R, R, R]
+  okanogan: [R, R, R, R, R, R, R, R, R, U, R, R]
+  canadian_rockies: [U, U, U, '', '', '', '', '', '', U, U, U]
+  blue_mountains: ['', '', '', '', '', '', '', '', '', R, R, R]
+  columbia_plateau: [U, U, R, R, '', '', '', '', '', R, U, U]
+taxonomy:
+  ebird_code: gcrfin
+  current_common_name: Gray-crowned Rosy-Finch
+  current_scientific_name: Leucosticte tephrocotis
+  clements_sort: 32296
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/gray-crowned_rosy-finch
+  archived: '2026-09-12'

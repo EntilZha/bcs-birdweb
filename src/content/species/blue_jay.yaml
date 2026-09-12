@@ -1,0 +1,59 @@
+slug: blue_jay
+common_name: Blue Jay
+scientific_name: Cyanocitta cristata
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Corvidae
+  slug: corvidae
+status: Rare winter resident.
+species_of_concern: false
+sections:
+  general_description: Blue Jays are expanding their range into Washington. These birds have bright, colorful, contrasting plumage. The back is mostly blue, and the underside is mostly white or light gray. The Blue Jay has a white face and throat, with a black necklace extending up to the base of its blue crest. Its blue wings are barred with black. It has one white wing-bar on each wing and white tips on the inner trailing edges of its wings. The Blue Jay also has a white edge at the end of its tail. Juveniles look similar to adults.
+  habitat: Blue Jays are most often found in deciduous or mixed woods in suburban and park-like areas. They tend to avoid pure conifer stands and deep forest, preferring edge habitats.
+  behavior: Blue Jays live in loosely organized flocks and defend only the nest site, not traditional territories. When they are raising young or robbing nests, they are very quiet and inconspicuous. These intelligent and opportunistic birds are quick to take advantage of new food sources including bird feeders, where they may become aggressive and exclude other birds. They cache extra acorns in holes in the ground, and pound on hard nuts with their bills to break them open. They forage at various heights, from the ground into the trees. Blue Jays are highly vocal outside of the nesting season. They have a wide repertoire of musical vocalizations and can mimic Red-tailed Hawks well.
+  diet: Omnivores, Blue Jays will eat almost anything. Nuts, seeds, and other vegetable matter make up the majority of their diet, but they also eat eggs and nestlings, invertebrates, small rodents, frogs, and carrion.
+  nesting: Blue Jays form monogamous pairs and stay together year round. They typically nest in a horizontal fork or vertical crotch of a tree. Both members of the pair help build the nest. The nest is a bulky cup made of twigs torn from live trees, grass, moss, bark, lichen, and leaves, sometimes held together with mud. The nest is usually lined with rootlets and other fine debris, and is often decorated on the outside with paper, string, or other light-colored material. The female typically incubates 4-6 eggs for 17-18 days. Both members of the pair feed the young, which leave the nest at 17-21 days and spend their first few days out of the nest in nearby branches before fledging.
+  migration_status: Blue Jays are year-round residents across most of their range, but some northern birds do migrate south in the fall. Their migration pattern is not well understood.
+  conservation_status: Blue Jays are well adapted to living with humans and take advantage of the increasing edge habitat created by suburban development. These jays are common throughout their range (which has not included Washington until recently), and they are expanding into the Northwest. This expansion has been attributed to urbanization, feeding stations, and population increases to the northeast, in Canada. Blue Jays have become more and more regular in Washington within the past 20 years, including some invasion years with multiple birds sighted.
+  when_where_wa: Blue Jays are rare fall and winter visitors in Washington. A few birds have reached the western Washington lowlands, and even the outer coast, but they are most often seen in eastern Washington. Sightings are now annual in the Walla Walla and Spokane areas.
+photos:
+- file: blja_gt_l.jpg
+  caption: ''
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: blja_fl_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: cycr.jpg
+  north_america: bljamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', I, I, '', '']
+  columbia_plateau: [R, R, '', '', '', '', '', '', '', R, R, R]
+taxonomy:
+  ebird_code: blujay
+  current_common_name: Blue Jay
+  current_scientific_name: Cyanocitta cristata
+  clements_sort: 21294
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/blue_jay
+  archived: '2026-09-12'

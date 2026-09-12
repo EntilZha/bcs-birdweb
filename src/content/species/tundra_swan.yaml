@@ -1,0 +1,79 @@
+slug: tundra_swan
+common_name: Tundra Swan
+scientific_name: Cygnus columbianus
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common winter west. Fairly common east.
+species_of_concern: false
+sections:
+  general_description: Known by many in North America as the Whistling Swan, the Tundra Swan is a large, white bird, with a long neck held straight up. It has a black bill with yellow patches in front of its eyes, although the yellow is not always present. The juvenile is gray with a pink bill and black legs, but it becomes whiter through the winter because of continuous molting. Males and females look alike.
+  habitat: Tundra Swans nest in the wet Arctic tundra and are generally found near the coast. During migration and through the winter, they inhabit shallow lakes, slow-moving rivers, flooded fields, and coastal estuaries. When Trumpeter Swans first reappeared in Washington, there was a habitat separation between the two swans, with the Trumpeters on fresh water and Tundras on salt water. This separation is no longer seen, and mixed flocks are common.
+  behavior: During the breeding season, Tundra Swans forage mostly on the water, using their long necks to reach as much as three feet below the water's surface. During migration and in winter, much of their feeding is on land in fields. A long-lived species, they form long-term pair bonds.
+  diet: Historically Tundra Swans ate invertebrates and submerged, aquatic vegetation, but severe declines in this food at migratory stopover and wintering areas have led the swans to shift to a winter diet of mostly grains and cultivated tubers left in agricultural fields through the winter. In summer, their diet consists of new shoots, tubers, and seeds.
+  nesting: Nests are located near a lake or other open water, in an area with good visibility. Both parents help build the nest, which is a large, low mound of plant material with a depression in the center. The pair may reuse the nest from year to year. The female incubates the 4 to 5 eggs for about a month, with the male assisting. After the eggs hatch, both parents tend the young, leading them to sources of food where the young feed themselves. They first fly at 2 to 3 months, but stay with the parents at least through the first winter.
+  migration_status: Tundra Swans migrate long distances in family groups. They leave the nesting area in late summer and stage in nearby estuaries before heading to the wintering grounds in mid-fall. In the spring, the birds make shorter flights with more stopovers than in the fall.
+  conservation_status: The most numerous and widespread of the North American swans, the Tundra Swan is less affected by human settlement than the larger Trumpeter Swan. Destruction of wetlands in the winter range has reduced former food sources, but the Tundra Swan has adapted by shifting its winter habitat to agricultural fields. Lead poisoning has long been a problem for this species, because ingesting only a few lead pellets can kill a swan. This usually affects only a few birds, but large die-offs have occurred. The population appears stable. Limited hunting occurs in some western states, but not Washington.
+  when_where_wa: Tundra Swans are common in fresh- and saltwater habitats throughout the lowlands of northwestern Washington from November to April. Almost 2,000 winter in Skagit County. In eastern Washington, wintering swans are present, but less common, from mid-November to mid-March, and are more common during migration (mid-March to mid-April, and mid-October to mid-November). Small flocks come through the Turnbull National Wildlife Refuge (Spokane County), and about a thousand winter at the Ridgefield National Wildlife Refuge (Clark County) along the Columbia River.
+photos:
+- file: tusw_a_dp_l.jpg
+  caption: 'Adult. Note: narrow black in front of eye and yellow patch.'
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+- file: tusw_fl_dp_l.jpg
+  caption: Juvenile in flight
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+- file: tusw_tg_l.jpg
+  caption: 'Adult . Note: yellow at base of bill, and narrow black area between bill and eye'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: tusw2_tg_l.jpg
+  caption: ''
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: tusw_j_tg_l.jpg
+  caption: 'Juvenile. Note: pink bill'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: tusw.mp3
+  credit: null
+maps:
+  wa: cyco.jpg
+  north_america: tuswmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, R, R, '', '', '', '', R, U, U]
+  puget_trough: [C, C, C, U, '', '', '', '', '', U, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [C, C, C, U, '', '', '', '', '', F, C, C]
+  east_cascades: ['', '', R, R, R, '', '', '', '', R, R, '']
+  okanogan: ['', U, F, U, '', '', '', '', '', F, U, '']
+  canadian_rockies: [F, F, F, F, '', '', '', '', '', U, F, F]
+  blue_mountains: ['', '', R, R, '', '', '', '', '', R, R, '']
+  columbia_plateau: [U, F, F, R, '', '', '', '', '', F, F, U]
+taxonomy:
+  ebird_code: tunswa
+  current_common_name: Tundra Swan
+  current_scientific_name: Cygnus columbianus
+  clements_sort: 384
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/tundra_swan
+  archived: '2026-09-12'

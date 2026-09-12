@@ -1,0 +1,55 @@
+slug: solitary_sandpiper
+common_name: Solitary Sandpiper
+scientific_name: Tringa solitaria
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Uncommon migrant.
+species_of_concern: false
+sections:
+  general_description: The Solitary Sandpiper is shaped like the Greater and Lesser Yellowlegs, but is smaller than both and has shorter, greenish legs. The bill is straight, thin, and of medium length. The dark back is covered in light spots, and the head is streaked gray. The head is dark enough that the white eye-ring is fairly distinct. The tail pattern, seen in flight, is distinctive. The outer edges are white, barred with black, with a dark center. The wings are entirely dark underneath, sharply contrasting with the white belly.
+  habitat: During the breeding season, Solitary Sandpipers inhabit muskeg bogs surrounded by spruce. During migration, they are usually found along the banks of wooded streams, in narrow marsh channels, and sometimes along the edges of open mudflats. They can also be found in places not usually frequented by shorebirds, such as drainage ditches and mud puddles. This is predominantly a freshwater species and generally avoids tidal flats and salt marshes. Solitary Sandpipers winter in swamps and along river-banks.
+  behavior: Solitary Sandpipers do not gather in flocks. They are extremely alert and one of the first species to give alarm calls in response to a perceived threat. These sandpipers usually forage in shallow water, picking up food items from the surface or probing into the water and mud. They may also use their feet to stir up small creatures from the bottom. Solitary Sandpipers bob the front half of their bodies up and down, a characteristic behavior of this genus. When alarmed, they often fly straight up in the air to escape, a flight pattern that is perhaps an adaptation to the closed wooded areas they inhabit. The Solitary Sandpiper's call sounds like high-pitched whistles.
+  diet: Aquatic and terrestrial invertebrates are the most common food of the Solitary Sandpiper. These include insects and insect larvae, spiders, worms, and tadpoles.
+  nesting: The nesting biology of this species is not well known. Unlike most shorebirds, Solitary Sandpipers do not nest on the ground, but find an old, abandoned, songbird nest in a tree. (The nest is usually one that was built by an American Robin, Rusty Blackbird, Eastern Kingbird, Gray Jay or one of the waxwings--all of which build sturdy nests that are likely to survive a winter.) The male finds the nest, which the female reworks until it is suitable to her needs. She does not add any nest material, but may rearrange the lining. This nest is usually in a spruce or other conifer and may be 4'40 feet up. Both parents help incubate the 4 eggs for 23-24 days. The nestling state is not well known, but the parents are not known to feed the young, so they probably jump from the nest at an early age and start to find their own food. Fledging age is not known. A pair raises a single brood each season.
+  migration_status: Long-distance migrants, Solitary Sandpipers breed in far northern areas of Canada and Alaska and winter in Central and South America.
+  conservation_status: Solitary Sandpipers are dispersed at all seasons, and thus difficult to count. Most of their breeding habitat remains intact, although logging in boreal forests is an increasing threat. The Canadian Wildlife Service estimates the population to number 25,000 birds in North America.
+  when_where_wa: Breeding Solitary Sandpipers are found regularly in southern British Columbia, and there are a few confirmed breeding records in Oregon. There are no known breeding records in Washington, but it is possible that they have nested here. Solitary Sandpipers are uncommon migrants in Washington on both sides of the Cascades, though they are more common in eastern Washington. They are rare along the coast from mid-April through May and July through October, with the most numbers in late April and late August. In eastern Washington, their occurrence is similar to that on the coast, with some arriving earlier in April, and the bulge in numbers starting in the beginning of August. Adults typically migrate through first, with juveniles coming later in the summer and into the fall. Eastern Washington has fewer adults than does coastal Washington in the spring, but more juveniles in the fall. In western Washington, the most reliable locales seem to be small, wet areas in Skagit, Snohomish, and Thurston Counties. In Seattle, Solitary Sandpipers can sometimes be seen at the Union Bay Natural Area (King County). The ponds in Reardan (Lincoln County), west of Spokane, are also good spots to look for migrating Solitary Sandpipers.
+photos:
+- file: sosa_br_dp_l.jpg
+  caption: Note white speckled back, yellow legs, white belly, and white eyering.
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+audio:
+  file: sosa.mp3
+  credit: null
+maps:
+  wa: trso.jpg
+  north_america: sosamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', R, R, '', '', R, R, '', '', '']
+  puget_trough: ['', '', '', U, U, '', R, U, U, '', '', '']
+  north_cascades: ['', '', '', R, R, '', R, R, R, '', '', '']
+  west_cascades: ['', '', '', '', R, '', '', R, R, '', '', '']
+  east_cascades: ['', '', '', R, '', '', '', R, R, '', '', '']
+  okanogan: ['', '', '', R, U, '', U, F, U, '', '', '']
+  canadian_rockies: ['', '', '', '', R, '', U, U, U, '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', R, '', '', '', '']
+  columbia_plateau: ['', '', '', R, R, '', R, U, U, '', '', '']
+taxonomy:
+  ebird_code: solsan
+  current_common_name: Solitary Sandpiper
+  current_scientific_name: Tringa solitaria
+  clements_sort: 6129
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/solitary_sandpiper
+  archived: '2026-09-12'

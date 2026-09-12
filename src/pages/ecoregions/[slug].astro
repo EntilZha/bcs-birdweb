@@ -1,0 +1,105 @@
+---
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import Layout from "../../layouts/Layout.astro";
+import Prose from "../../components/Prose.astro";
+import { ecoregionImage } from "../../lib/images";
+import { ecoregionsPresent, peakInEcoregion } from "../../lib/abundance";
+import { ABUNDANCE } from "../../config/abundance";
+import { displayName } from "../../lib/species";
+
+export async function getStaticPaths() {
+  const ecoregions = await getCollection("ecoregions");
+  const sites = await getCollection("sites");
+  const species = await getCollection("species");
+  return ecoregions.map((entry) => ({
+    params: { slug: entry.id },
+    props: {
+      entry,
+      sites: sites
+        .filter((s) => s.data.ecoregions.includes(entry.id as any))
+        .sort((a, b) => (a.data.number ?? 999) - (b.data.number ?? 999)),
+      speciesCount: species.filter((s) => ecoregionsPresent(s.data.abundance).includes(entry.id as any)).length,
+      common: species
+        .filter((s) => peakInEcoregion(s.data.abundance, entry.id as any) === "C")
+        .sort((a, b) => displayName(a.data).localeCompare(displayName(b.data))),
+    },
+  }));
+}
+
+const { entry, sites, speciesCount, common } = Astro.props;
+const data = entry.data;
+const base = import.meta.env.BASE_URL;
+const map = ecoregionImage(data.map);
+
+// The legacy pages used free-form headings; render them in a stable, readable order.
+const ORDER = ["location", "climate", "vegetation_zones", "conservation", "birds", "sites"];
+const sectionKeys = Object.keys(data.sections).sort((a, b) => {
+  const ai = ORDER.indexOf(a), bi = ORDER.indexOf(b);
+  return (ai === -1 ? 99 : ai) - (bi === -1 ? 99 : bi);
+});
+const label = (key: string) => key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+---
+
+<Layout title={`${data.name} ecoregion — BirdWeb`} description={`The ${data.name} ecoregion of Washington: its landscape, its birds, and ${sites.length} birding sites.`}>
+  <nav class="text-xs text-black/55 mb-4">
+    <a href={`${base}ecoregions/`} class="hover:text-brand hover:underline">Ecoregions</a>
+  </nav>
+
+  <div class="grid gap-6 lg:grid-cols-[minmax(0,1.4fr)_minmax(0,1fr)] lg:items-start">
+    <div>
+      <h1 class="text-3xl sm:text-4xl font-bold text-brand">{data.name}</h1>
+      <p class="mt-1 text-black/65">
+        {speciesCount} species recorded · {sites.length} birding site{sites.length === 1 ? "" : "s"}
+      </p>
+      <div class="mt-5 space-y-6 max-w-2xl">
+        {sectionKeys.map((key) => (
+          <section>
+            <h2 class="text-lg font-bold text-brand mb-2">{label(key)}</h2>
+            <Prose text={data.sections[key]} />
+          </section>
+        ))}
+      </div>
+    </div>
+    {map && (
+      <figure class="rounded-2xl bg-white shadow-sm ring-1 ring-black/5 p-3">
+        <Image src={map} alt={`Map of the ${data.name} ecoregion`} widths={[300, 600]} sizes="(min-width: 1024px) 24rem, 90vw" class="w-full rounded-lg" loading="lazy" />
+        <figcaption class="mt-2 text-xs text-black/55">Birding sites in the {data.name}</figcaption>
+      </figure>
+    )}
+  </div>
+
+  {sites.length > 0 && (
+    <section class="mt-10">
+      <h2 class="text-xl font-bold text-brand mb-4">Birding sites</h2>
+      <ul class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3 p-0 list-none">
+        {sites.map((site) => (
+          <li>
+            <a href={`${base}sites/${site.id}/`} class="flex items-center gap-3 h-full rounded-xl bg-white ring-1 ring-black/5 px-4 py-3 shadow-sm transition hover:shadow-md active:scale-[0.99] min-h-11">
+              {site.data.number && <span class="text-xs font-semibold text-black/35 tabular-nums">{site.data.number}</span>}
+              <span class="font-semibold text-brand">{site.data.name}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+
+  {common.length > 0 && (
+    <section class="mt-10">
+      <h2 class="text-xl font-bold text-brand mb-1">Common birds here</h2>
+      <p class="text-sm text-black/60 mb-3">
+        {common.length} species reach “{ABUNDANCE.C.label}” in the {data.name} at some point in the year.
+      </p>
+      <ul class="flex flex-wrap gap-2 p-0 list-none">
+        {common.map((s) => (
+          <li>
+            <a href={`${base}birds/${s.id}/`} class="inline-block rounded-full bg-white ring-1 ring-black/5 px-3 py-1.5 text-sm text-brand hover:bg-pop transition">
+              {displayName(s.data)}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+</Layout>

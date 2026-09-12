@@ -1,0 +1,46 @@
+slug: brown_thrasher
+common_name: Brown Thrasher
+scientific_name: Toxostoma rufum
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Mimidae
+  slug: mimidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Accidental spring and fall migrant on both sides of Cascades, one winter record from Spokane County.
+photos:
+- file: brth_gl_l.jpg
+  caption: 'Note: streaked breast and belly.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: brthmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: brnthr
+  current_common_name: Brown Thrasher
+  current_scientific_name: Toxostoma rufum
+  clements_sort: 28037
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/brown_thrasher
+  archived: '2026-09-12'

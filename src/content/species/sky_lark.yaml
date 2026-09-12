@@ -1,0 +1,59 @@
+slug: sky_lark
+common_name: Sky Lark
+scientific_name: Alauda arvensis
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Alaudidae
+  slug: alaudidae
+status: Rare visitor west.
+species_of_concern: false
+sections:
+  general_description: The Sky Lark is a small, cryptically colored songbird. Adults have brown upperparts and buff-white underparts with a brownish breast band of short streaks. Juveniles have spotted and speckled upperparts. Sky Larks have a short crest that is often raised. In flight, a white trailing edge is visible on the inner wing.
+  habitat: The Sky Lark is native to Eurasia and was introduced to Vancouver Island in the early 1900s. It has since spread to San Juan Island where it occupies dry, open habitats, especially fields of short to moderately tall grass.
+  behavior: Flocks form in late July and early August and last until early spring. Sky Larks walk rather than hop, and forage as they walk. They are monogamous, and residents maintain pair bonds throughout the winter. The Sky Lark is famous for its spectacular aerial display songs, used to attract mates and defend nesting territories. Singing males fly in a steep spiral as high as 150-300 feet, circle for several minutes as they sing, and then spiral slowly back to the ground. The Sky Lark's song is a long trill, a series of high, liquid rolling notes that may include mimicry of other species.
+  diet: Adults mainly feed on the seeds of grasses, weeds, and grain. The young are raised on beetles and other insects.
+  nesting: Pair formation begins in January when males establish territories with aerial displays. The male also performs a courtship display on the ground when a female lands in his territory to feed. The female deepens a natural hollow and lines it with grass to form a nest. The female usually lays 3-5 eggs, and incubates the eggs by herself. Both parents feed the young. The young leave the nest before they are able to fly. Sky Larks may have two broods per year.
+  migration_status: The Sky Lark has become a permanent resident on southern Vancouver Island, British Columbia, and San Juan Island, Washington. It is also a naturally occurring, but rare, vagrant to western Alaska from Asian populations.
+  conservation_status: Sky Larks are widespread and abundant in their native Eurasian range, and are introduced and common in Hawaii. Introduced populations in mainland North America are gradually declining. Urbanization of agricultural lands has reduced suitable habitat on Vancouver Island. Since reaching an all-time high of over 1000 birds in 1965, the population on Vancouver Island declined to around 200 birds by the mid-1990s and is now restricted to four locations. On San Juan Island, Sky Lark habitat is protected as a national park, but without a source population on nearby Vancouver Island, predation from introduced foxes and feral cats has extirpated the breeding population.
+  when_where_wa: Sky Larks were formerly found in open grasslands on San Juan Island and rarely on Lopez Island (San Juan County). A few are still reported from time to time, although they are most likely no longer nesting there. A Sky Lark was recorded in Sequim (Clallam County) a few winters ago. This bird may have been a visitor from Victoria, or a vagrant from the population in eastern Asia.
+photos:
+- file: skla2.jpg
+  caption: ''
+  credit:
+    name: Ruth Sullivan
+    url: http://www.pbase.com/godwit/root
+  hero: true
+- file: skla.jpg
+  caption: ''
+  credit:
+    name: Ruth Sullivan
+    url: http://www.pbase.com/godwit/root
+  hero: false
+audio: null
+maps:
+  wa: alar.jpg
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: skylar
+  current_common_name: Eurasian Skylark
+  current_scientific_name: Alauda arvensis
+  clements_sort: 22615.0
+  historic_common_name: Sky Lark
+  display_historic: false
+  note: Published on BirdWeb as Sky Lark, now called Eurasian Skylark. Washington's population, in the San Juan Islands, descends from birds introduced to Vancouver Island.
+source:
+  url: https://birdweb.org/birdweb/bird/sky_lark
+  archived: '2026-09-12'

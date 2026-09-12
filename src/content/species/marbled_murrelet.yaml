@@ -1,0 +1,61 @@
+slug: marbled_murrelet
+common_name: Marbled Murrelet
+scientific_name: Brachyramphus marmoratus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Alcidae
+  slug: alcidae
+status: Fairly common resident coast.
+species_of_concern: true
+sections:
+  general_description: Marbled Murrelets (and Kittlitz's Murrelets) are unusual among the alcids in that they molt to cryptic-brown plumage during the breeding season. In the non-breeding season, they are gray and black mixed with white above with white bellies. The top of the head is dark gray, and the bill is slender. A white throat, chin, and collar mark the face, and white extends up the sides of the rump. A dark band down the shoulders contrasts with the white collar in flight, and the bird has narrow, pointed wings. Juveniles appear similar to adults in non-breeding plumage but with a brownish-tan coloring.
+  habitat: In Washington, Marbled Murrelets inhabit calm, shallow, coastal waters and bays, but breed inland, up to 45 miles from shore, in mature, wet forest.
+  behavior: Often seen in pairs or small groups, Marbled Murrelets will fly low over the water with quick wing-beats when approached. They forage by swimming underwater, typically in water less than 100 feet deep, not far from shore.
+  diet: Small, schooling fish make up most of the diet, which also includes a variety of other small sea creatures.
+  nesting: Where Marbled Murrelets nest was one of the last great ornithological mysteries of North America. The first Marbled Murrelet nest found by ornithologists was in Asia in 1961; a North American nest was not found until 1974. Our knowledge of their nesting practices is still limited, and only about 160 nests have been found. Marbled Murrelets appear to establish long-term pair bonds, which are initiated at sea in the early spring, and seem to be maintained throughout the year. In March and April, Marbled Murrelet pairs appear in breeding areas, and most eggs are laid between April and July. The female lays a single egg high in a tree, or infrequently, in a nest on the ground. Of the known nests, 90% were in trees, and only 10% on the ground. Tree nests are located on the branch of a mature conifer, up to 150 feet off the ground. Nest trees are found in dense, mossy, old-growth stands, and the nest itself is typically located on a mat of moss and lichen. The nest is a depression in the moss, and the droppings of the young accumulate to form a rim. The parents take turns incubating the egg, changing places every morning at dawn. For about four weeks, one incubates while the other one forages at sea. Once the chick hatches, both parents feed it for another four weeks. After this, the chick leaves the nest during the night and moves into the sea.
+  migration_status: Although Marbled Murrelets forage in similar areas year round, they appear to be more dispersed and farther offshore in winter, although the highest densities of birds can still be found in protected water.
+  conservation_status: Although we have little data on the historical status of the Marbled Murrelet, disturbance to nesting birds and destruction of habitat through coastal development and old-growth logging has no doubt had an impact on the population. Threats in the form of gill-nets and oil spills affect this species as well. The Marbled Murrelet was listed by the US Fish and Wildlife Service as threatened in 1992, and was listed as threatened by the Washington State Department of Fish and Wildlife in 1993. Certain habitats have been designated as critical for Marbled Murrelets. These areas are individual trees with nesting branches suitable for nests, and forested areas within half a mile of these trees when the height of the surrounding canopy is at least half as high as the nesting tree. After many years of looking for nests, ornithologists have only found nine in Washington, although the breeding population in the state is estimated at 1,800 birds. More study is needed to understand the current status of the population and the habitat requirements of this elusive species.
+  when_where_wa: Marbled Murrelet are found year round in coastal areas throughout Washington. Areas of winter concentration are the southern and eastern end of the Strait of Juan de Fuca, Sequim (Clallam County), Discovery and Chuckanut Bays (Whatcom County), the San Juan Islands (San Juan County) and Puget Sound. The southern Washington coast is also considered an important wintering area. When seen offshore, Marbled Murrelets are typically found in pairs and within a mile of shore. During the breeding season, they are present along almost all of Washington's marine shoreline, concentrated in areas with abundant food and nearby nesting habitat. These areas of concentration are Tongue Point and Voice of America on the Olympic Peninsula, the south shore of Lopez Island, the southwest shore of Lummi Island, and Obstruction and Peavine Passes between Orcas and Blakely Islands in the San Juan Islands.
+photos:
+- file: mamu_b_gt_l.jpg
+  caption: Breeding adult
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: mamu_w_gt_l.jpg
+  caption: Nonbreeding adult
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: mamu1.mp3
+  credit: null
+maps:
+  wa: brma.jpg
+  north_america: mamumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, U, U, U, U, U, U, U]
+  puget_trough: [F, F, F, F, F, F, F, F, F, F, F, F]
+  north_cascades: ['', '', '', U, U, U, U, '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: marmur
+  current_common_name: Marbled Murrelet
+  current_scientific_name: Brachyramphus marmoratus
+  clements_sort: 6395
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/marbled_murrelet
+  archived: '2026-09-12'

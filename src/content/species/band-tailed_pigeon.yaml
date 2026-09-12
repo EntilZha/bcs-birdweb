@@ -1,0 +1,67 @@
+slug: band-tailed_pigeon
+common_name: Band-tailed Pigeon
+scientific_name: Patagioenas fasciata
+order:
+  name: Columbiformes
+  slug: columbiformes
+family:
+  name: Columbidae
+  slug: columbidae
+status: Fairly common west. Rare east.
+species_of_concern: true
+sections:
+  general_description: Washington's native pigeon, the Band-tailed, is soft gray like the Rock Dove, but longer and sleeker. The largest of Washington's pigeons and doves, it is all gray, with a lighter gray, banded tail. The bill and feet are yellow, and the eye is black with a thin, red, fleshy eye ring. Adults have a white collar at the nape of the neck with an iridescent green patch beneath it. Breasts and bellies are washed in a pinkish-mauve. Adult males and females look alike; juveniles are an overall gray.
+  habitat: Living along much of the Pacific Coast, Band-tailed Pigeons are found in low- and mid-elevation forests. Conifer and mixed coniferous/deciduous habitats are both used, as long as there are some large conifers. Band-tailed Pigeons prefer forest edges--open sites bordered by tall conifers, a habitat type often found in city parks and suburban developments. In the early breeding season, mineral springs and tidal flats become important. Towards the end of the breeding season, many birds migrate to higher elevations to feed on ripening fruits
+  behavior: Band-tailed Pigeons roost in thick conifers. They are sociable, foraging in flocks most seasons, and nesting in small colonies. Most foraging takes place in trees, in which they climb around with ease, although they also feed on the ground.
+  diet: Berries, acorns, and other seeds and nuts make up most of the Band-tailed Pigeon's diet. In June, and again in the late summer, they congregate at mineral springs where they ingest salts. In late summer, they also feed more heavily on fruit.
+  nesting: Loose colonies with several pairs nesting together are common. Nests are usually located in trees, 15-40 feet off the ground. Nests are typically placed in a fork on a horizontal branch, or at the base of a branch against the trunk. The nest is a loose, bulky platform of twigs that the male collects and the female puts in place. The female lays one or two eggs, and both parents help incubate for 18-20 days. Both parents feed the young pigeon milk, a protein- and fat-rich liquid produced in their crops. The young stay in the nest for about 4 weeks and are tended by their parents for some time after leaving the nest. In warm climates, Band-tailed Pigeons may raise 2-3 broods per year.
+  migration_status: Band-tailed Pigeons migrate to take advantage of changing food supplies. In colder climates many migrate south, but in western Washington they are permanent residents.
+  conservation_status: The Band-tailed Pigeon is fairly common. It is expanding its range and becoming more common as a winter resident in many areas. After protection from over-hunting, Band-tailed Pigeons made a good comeback from low numbers earlier in the 20th century, although numbers have begun to drop again in recent decades, perhaps once again due to hunting pressure.
+  when_where_wa: Band-tailed Pigeons are commonly found year round in western Washington lowlands, city parks, and residential areas with large conifers. They are also found in old growth in the mountains of western Washington or where forests have been opened. On the Olympic Peninsula, they can be found in small clearcuts with nearby forest patches. In the southern Cascades, they occur up to the Cascade Crest and, very rarely, over the crest in streamside forests on the eastern slopes. In winter, birds are often sustained by food provided by humans. Those that migrate start returning in late February.
+photos:
+- file: btpi_jh_l.jpg
+  caption: ''
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: btpi_fl_jh_l.jpg
+  caption: 'Adult. Note: pale tail tip.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: btpi_j_gt_l.jpg
+  caption: Juvenile
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: btpi1.mp3
+  credit: null
+maps:
+  wa: cofa.jpg
+  north_america: btpimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, C, C, C, C, C, U, U, U, U]
+  puget_trough: [U, U, F, F, F, F, F, F, F, U, U, U]
+  north_cascades: ['', '', '', U, F, F, F, U, R, R, '', '']
+  west_cascades: [R, U, F, F, F, F, F, F, F, U, R, R]
+  east_cascades: ['', '', '', '', R, R, '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: batpig1
+  current_common_name: Band-tailed Pigeon
+  current_scientific_name: Patagioenas fasciata
+  clements_sort: 1966
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/band-tailed_pigeon
+  archived: '2026-09-12'

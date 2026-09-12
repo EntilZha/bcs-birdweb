@@ -1,0 +1,59 @@
+slug: willet
+common_name: Willet
+scientific_name: Tringa semipalmata
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Uncommon and local winter on coast. Rare migrant east.
+species_of_concern: true
+sections:
+  general_description: The Willet is a large, chunky shorebird with drab plumage. It is similar in height to a Greater Yellowlegs, but heavier and with a shorter neck. Its bill is long and fairly thick for a shorebird, and its legs are gray. It is mottled gray all over, with heavier barring in breeding plumage than in winter. The rump is white, and most of the tail is barred gray. The wing-linings are dark, resulting in a bold black-and-white wing pattern.
+  habitat: Willets in the eastern United States breed in coastal salt marshes, but the Midwestern population breeds in lakes and ponds, shallow marshes, wet meadows, and native grasslands. During migration and in winter, Willets are found near the ocean shore, in salt marshes, mudflats, sandy beaches, rocky areas, or wet meadows.
+  behavior: In Washington, Willets are generally found alone or in small groups. Populations farther south often feed in large flocks. The Willet forages by walking on the shore, in a marsh or in open water. It will pick food from the water, but spends more time probing the mud with its bill in search of food. Willets are strongly territorial throughout the year, and in the breeding season will vigorously defend their nesting territories and their young.
+  diet: Inland Willets eat many aquatic insects and other invertebrates. In coastal areas, crabs, mollusks, and small fish are also part of the diet.
+  nesting: Willets often nest in colonies, especially along the Atlantic Coast. The nest is usually near water, but can be several hundred yards away. The nest is located on the ground, usually in dense grass. The grass is bent over to form the nest foundation, and then lined with finer grass. Both parents help incubate the 4 eggs for 22 to 29 days. The young leave the nest within a day of hatching and find their own food. Both parents defend and tend the young, but the female leaves after 2 to 3 weeks. The male remains with the young until they are independent at about 4 weeks.
+  migration_status: Willets are strongly migratory. Wintering grounds include the West Coast of the United States to the north coast of South America and the West Indies. The birds wintering in Washington breed in the northern Great Plains, usually beginning by late April. Many adults depart the breeding grounds in June and July, with juveniles following soon after.
+  conservation_status: Washington is at the edge of the Willet's range, and the bird is not abundant in this state. Range-wide, the Canadian Wildlife Service estimates the population at 250,000 birds in North America. Eastern populations were heavily hunted in the late 19th Century, but have made a good comeback with protection.
+  when_where_wa: Small numbers of Willets winter every year in Willapa Bay (Pacific County) and on the mudflats at Tokeland, and may feed near the Raymond airport. Willets have not been known to breed in Washington, although they do breed in southern Oregon and Idaho. During migration they are rare along the coast (from mid-April to late May and from early July to mid-October) and in eastern Washington (from mid-April to late May and from mid-August to late September).
+photos:
+- file: will_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: will_br_gth_l.jpg
+  caption: Molting out of breeding plumage.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio: null
+maps:
+  wa: case.jpg
+  north_america: willmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, R, '', '', R, U, U, U, U, U]
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: willet1
+  current_common_name: Willet
+  current_scientific_name: Tringa semipalmata
+  clements_sort: 6147
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/willet
+  archived: '2026-09-12'

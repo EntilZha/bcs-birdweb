@@ -1,0 +1,55 @@
+slug: yellow-breasted_chat
+common_name: Yellow-breasted Chat
+scientific_name: Icteria virens
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: Fairly common summer resident east.
+species_of_concern: true
+sections:
+  general_description: The Yellow-breasted Chat is the largest wood-warbler. While it is generally regarded as a warbler, it has many non-warbler characteristics. It has a large, heavy bill, unlike many warblers; males and females look alike; and its unusual song has similarities to that of a thrasher or an oriole. The Yellow-breasted Chat does have typical warbler coloring, however, and is plain olive above with a yellow throat and breast and a white belly. It has a white line between its yellow throat and its olive-gray head. A white eye-ring that extends forward gives it a spectacled look.
+  habitat: Yellow-breasted Chats are closely tied to willow thickets, brushy tangles, and other dense, understory habitats. In Washington, they are found in the arid parts of the state, usually at low to medium elevations around streams where this dense, low vegetation grows. They are often found at the ecotone between the forest and steppe zones.
+  behavior: Yellow-breasted Chats do not typically form feeding flocks. When foraging, the Yellow-breasted Chat takes food from the foliage and holds the food with its foot while eating, a behavior not observed in any other warbler species. One of the best chances to see a Yellow-breasted Chat is during its flight display, when the male bursts out of the brush and flies around in the open, with its legs dangling and wings beating in a slow, butterfly-like flight. His song is very loud and distinctive, and he may sing all night long during the height of the breeding season. The song can sound like hoots and whistles, in a repeating pattern similar to that of a mockingbird or thrasher.
+  diet: Like most warblers, Yellow-breasted Chats eat insects. They also eat fruit, which can make up over half of their diet at certain times of the year.
+  nesting: Yellow-breasted Chats occasionally nest in loose colonies. Their nests are well concealed, and are usually from 1 to 8 feet off the ground. The female builds a large, open cup, with a base of leaves, straw, and weeds. The inner nest is a tightly woven cup of bark, stems, and grass. The female incubates 3 to 4 eggs for about 11 days. Both members of the pair feed the young. The young fledge about 8 days after hatching, and most pairs raise two broods each season.
+  migration_status: Yellow-breasted Chats winter in Mexico and Central America, although they are recorded on the East Coast of the United States in most winters as far north as New England. They do not appear to remain on the Northwest coast in the winter, as there are only three confirmed Northwest winter records, all from southwestern Oregon.
+  conservation_status: Although Yellow-breasted Chats host parasitic Brown-headed Cowbirds, their current population is considered stable. In Washington, Breeding Bird Survey data show a non-significant decline since 1980. They historically bred in small numbers in the western Washington lowlands and may still do so on occasion.
+  when_where_wa: These elusive warblers are quite secretive and can be difficult to see. Yellow-breasted Chats have been recorded during migration in Western Washington. It is possible that the Yellow-breasted Chat is a very rare breeder in the western half of the state, but it is primarily a bird of arid eastern Washington, where it is common from May to the end of July, sometimes into mid-September. Look for Yellow-breasted Chats in the Columbia Basin in riparian areas and in the Yakima River Canyon.
+photos:
+- file: ybch_gl_l.jpg
+  caption: 'Note: white spectacles, dark lores, and bright yellow breast.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio:
+  file: YBCH01.mp3
+  credit: null
+maps:
+  wa: icvi.jpg
+  north_america: ybchmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', R, R, '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', R, R, R, '', '', '', '', '']
+  east_cascades: ['', '', '', '', U, U, U, U, R, '', '', '']
+  okanogan: ['', '', '', '', U, U, U, U, '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', F, F, F, F, U, '', '', '']
+  columbia_plateau: ['', '', '', '', F, F, F, F, R, '', '', '']
+taxonomy:
+  ebird_code: yebcha
+  current_common_name: Yellow-breasted Chat
+  current_scientific_name: Icteria virens
+  clements_sort: 33559
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/yellow-breasted_chat
+  archived: '2026-09-12'

@@ -1,0 +1,57 @@
+slug: mourning_warbler
+common_name: Mourning Warbler
+scientific_name: Oporornis philadelphia
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    Mourning Warbler is the eastern counterpart of MacGillivray’s Warbler. The two look almost identical and the songs are also very similar. Both have olive backs, gray hoods (the lower edge is black in the adult male), and the remainder of the underparts bright yellow. The main difference is MacGillivray’s white crescents above and below the eye, present in all plumages. Mourning has a much weaker broken eye-ring in some plumages, but this is absent in most adult males. Separating these two species in the field, especially in fall, is a perilous exercise. Even experts frequently cannot agree. For this reason state bird records committees in the West reject more reports of Mourning Warbler than they accept. So far only one record has passed scrutiny from the Washington Bird Records Committee: a female seen on 26 May 2001 at Lyons Ferry Park (Franklin County); six other reports have been turned down. Mourning Warbler breeds in northeastern British Columbia and is considered to be a casual visitor elsewhere in the province. Oregon’s committee has accepted five records. There are none for Idaho.
+
+    Mourning Warbler nests across the boreal forest belt of Canada from southeast Yukon to Labrador, south to the Great Lakes states and New England and down the Appalachians to West Virginia; winters from Nicaragua to Ecuador; and migrates through Mexico rather than overflying the Gulf.
+
+    *Revised November 2007*
+photos:
+- file: mowa_gl_l.jpg
+  caption: 'Male. Note: lack of eye arcs, gray hood, dark breast band, and pale pink bill.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: mowa_jf_gl_l.jpg
+  caption: 'Juvenile. Note: thin broken eye ring and yellowish throat.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: mowamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: mouwar
+  current_common_name: Mourning Warbler
+  current_scientific_name: Geothlypis philadelphia
+  clements_sort: 34006
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/mourning_warbler
+  archived: '2026-09-12'

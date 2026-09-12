@@ -1,0 +1,55 @@
+slug: warbling_vireo
+common_name: Warbling Vireo
+scientific_name: Vireo gilvus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Vireonidae
+  slug: vireonidae
+status: Common summer resident.
+species_of_concern: false
+sections:
+  general_description: The Warbling Vireo is a small bird, greenish-gray above, whitish below in spring, lightly washed with yellow below in fall. It has no wing-bars. It has a prominent white line above the eye and a faint grayish line below it.
+  habitat: The Warbling Vireo's typical habitat is open deciduous or shrubby mixed woodlands, especially where large trees are present. Warbling Vireos are often found in willow or cottonwood stands along rivers. They are not found in large, unbroken tracts of woods, but prefer smaller patches and edges, including logged areas, rural woodlots, and parks. They do not breed in conifer stands, but can be found in small patches of hardwood trees or shrubs within conifer forests. During migration they can be seen in a variety of lowland habitats, especially in red-osier dogwood.
+  behavior: Warbling Vireos forage mostly high in the treetops, where they move along twigs and branches, looking for food among the leaves.
+  diet: Insects make up 95% of the diet. Spiders and small berries make up the remaining 5%, with most berry-eating confined to the late summer and fall.
+  nesting: Warbling Vireos are monogamous. Nests are located in the periphery of deciduous trees and shrubs. Birds of the western subspecies place their nest within 30 feet of the ground, lower than those of the eastern subspecies. Both members of the pair build the nest, which is suspended from a horizontally forked branch. The nest is made of bark strips, grass, leaves, plant fibers, hair, and lichen. Both parents incubate the four eggs for 12 to 14 days. Both feed and tend the young for the 13 to 14 days they are in the nest and for up to two weeks after they leave it. Some pairs raise a second brood.
+  migration_status: This highly migratory species winters in western Mexico and northern Central America, sometimes in shade-grown coffee plantations. Warbling Vireos begin arriving in Washington in late April and continue to arrive throughout May. They start to leave in early August, with the last few remaining until mid-September.
+  conservation_status: Despite being a major host for Brown-headed Cowbirds, Warbling Vireos have increased in Washington since 1966. Forest clearing for logging and development has dramatically increased the amount of Warbling Vireo habitat in Washington, and Warbling Vireos are probably more common today than they were before European settlement.
+  when_where_wa: Most Warbling Vireos arrive by late April and can be found in appropriate habitat until the end of August. During spring and fall migration, they are frequently seen in the lowlands. Look for Warbling Vireos feeding on red-osier dogwood berries in late August and early September as they fatten up prior to migration. This is one of the most common species in streamside deciduous forests in the Cascades. Warbling Vireos are also common in the shrubby hillsides east of the Cascades and in old higher-elevation clear-cuts (at least 3,000 feet) that have grown up to mid-successional size.
+photos:
+- file: wavi_gl_l.jpg
+  caption: 'Note: weak eye-stripes, yellow flanks and dark gray crown.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio:
+  file: WAVI01.mp3
+  credit: null
+maps:
+  wa: vigi.jpg
+  north_america: wavimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', R, F, F, F, U, U, '', '', '']
+  puget_trough: ['', '', '', U, C, C, C, C, F, '', '', '']
+  north_cascades: ['', '', '', R, C, C, C, F, U, '', '', '']
+  west_cascades: ['', '', '', R, C, C, C, C, F, R, '', '']
+  east_cascades: ['', '', '', '', C, C, C, C, R, '', '', '']
+  okanogan: ['', '', '', U, C, C, C, C, U, '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, F, F, '', '', '']
+  blue_mountains: ['', '', '', R, F, F, F, F, U, '', '', '']
+  columbia_plateau: ['', '', '', '', F, U, U, F, F, '', '', '']
+taxonomy:
+  ebird_code: wewvir2
+  current_common_name: Western Warbling Vireo
+  current_scientific_name: Vireo swainsoni
+  clements_sort: 19247.0
+  historic_common_name: Warbling Vireo
+  display_historic: false
+  note: Published on BirdWeb as Warbling Vireo. The species was split into Eastern and Western Warbling Vireos; Washington's breeding birds are the Western.
+source:
+  url: https://birdweb.org/birdweb/bird/warbling_vireo
+  archived: '2026-09-12'

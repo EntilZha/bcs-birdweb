@@ -1,0 +1,67 @@
+slug: surf_scoter
+common_name: Surf Scoter
+scientific_name: Melanitta perspicillata
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common winter on coast. Uncommon inland and coast summer.
+species_of_concern: false
+sections:
+  general_description: Scoters are large, mostly black or dark gray sea ducks. The male Surf Scoter has a solid black body and black head with white patches at the back of the head and on the forehead above the eyes. This distinctive pattern has earned this bird the nickname 'skunk-head coot.' The bill of the adult male is large, swollen at the base, and yellow-orange with a white and yellow splotch on each side and a black spot on the splotch. The female is mostly dark gray. Her bill is shaped like that of the male, although slightly smaller and mostly gray in color. The female has white patches at the base of her bill and white smudging at her ears and back of her head. Both sexes have white eyes. Juveniles are similar to females but have black eyes.
+  habitat: Surf Scoters nest on freshwater lakes and wetlands in the Arctic, in sparsely forested and semi-open regions. They winter in open coastal environments, favoring shallow bays and estuaries with rocky substrates.
+  behavior: Scoters spend the non-breeding part of the year in large rafts on the ocean or in open bays and inlets. They forage almost exclusively by diving, taking prey from the ocean floor and also taking mussels from man-made structures. They are strong flyers but must get a running start along the water to get airborne. Males actively defend their mates, keeping other birds at bay.
+  diet: During winter, mollusks and crustaceans are the most common food items. During the breeding season, aquatic insect larvae become a predominant part of the diet. Surf Scoters also eat other aquatic invertebrates and pondweeds.
+  nesting: Surf Scoters probably form pair bonds on the wintering grounds in their second or third year. Nests are built on the ground, hidden by dense brush or low tree branches. They are usually located close to water, but can be some distance away. The nest is a well-concealed, shallow depression on the ground, lined with vegetation and down. The female typically lays 5 to 9 eggs (usually 7) and incubates them for about 28 to 30 days, although the incubation period is not well known. The pair bond dissolves, and the male leaves soon after incubation begins. The young leave the nest shortly after hatching and can feed themselves, although the female tends them and leads them to food-rich areas. In dense breeding areas, mixing of broods may occur. The female abandons the chicks before they can fly (at about 55 days), and multiple broods often join to form crèches.
+  migration_status: Complete, medium-distance migrants, most Surf Scoters arrive on wintering grounds in Washington in October and November. In the spring, they leave in March and April, often gathering off Saltspring Island in British Columbia to take advantage of the large Pacific herring smolt before heading to breeding areas. The post-breeding molt migration is well developed in Surf Scoters. After the females begin incubation, the males gather along the coast of British Columbia and Alaska, and in the Bering and Beaufort Seas before they head to their wintering areas. Females and the young of the year may join the males at these molting sites or may take other migration routes.
+  conservation_status: Continent-wide, Surf Scoters may have gone through a serious decline early in the 20th Century, but now appear to be numerous with a stable population. There is evidence of a long-term decline in the West, and large die-offs were observed in the early 1990s at coastal reefs in southeastern Alaska. The cause of these die-offs is unknown, but pesticides or other contaminants are the suspected cause. The population is vulnerable to oil spills on the wintering grounds and disturbance and habitat destruction as a result of oil drilling on breeding grounds.
+  when_where_wa: The most common scoter in the region, Surf Scoters are seen in large flocks from July through mid-May along the entire coast of Washington, in large estuaries, and in Puget Sound. During migration, Surf Scoters are found rarely in freshwater lakes inland and on the Columbia River. Flocks of non-breeders can also be seen in coastal areas in the summer in some of the more heavily used winter locations such as Penn Cove off Whidbey Island and Drayton Harbor in Whatcom County.
+photos:
+- file: susc_tg_l.jpg
+  caption: 'Male. Note: colorful bill.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: susc_jp_l.jpg
+  caption: 'Male. Note: white patch on back of head.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: susc_f_tg_l.jpg
+  caption: 'Female. Note: unfeathered large bill and vertical white loral patch.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: susc.mp3
+  credit: null
+maps:
+  wa: mepe.jpg
+  north_america: suscmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, U, U, F, C, C, C, C]
+  puget_trough: [C, C, C, C, C, F, F, F, F, C, C, C]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [R, R, '', '', '', '', '', '', '', R, R, R]
+  east_cascades: ['', '', '', '', '', '', '', '', '', R, R, '']
+  okanogan: ['', '', '', '', '', '', '', '', R, R, R, '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', R, R, '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', R, R, '']
+taxonomy:
+  ebird_code: sursco
+  current_common_name: Surf Scoter
+  current_scientific_name: Melanitta perspicillata
+  clements_sort: 728
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/surf_scoter
+  archived: '2026-09-12'

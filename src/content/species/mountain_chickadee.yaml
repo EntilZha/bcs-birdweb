@@ -1,0 +1,55 @@
+slug: mountain_chickadee
+common_name: Mountain Chickadee
+scientific_name: Poecile gambeli
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Paridae
+  slug: paridae
+status: Common resident east, uncommon west.
+species_of_concern: false
+sections:
+  general_description: Mountain Chickadees look similar to Black-capped Chickadees, with black caps, white cheeks, and black throats. They are gray above with light gray to buff sides and underparts. However, they have distinctive white lines above each eye, slightly longer bills, and are grayer underneath than Black-capped Chickadees. Males, females, and juveniles share the same plumage.
+  habitat: Mountain Chickadees are typically found in dry coniferous forests, especially Ponderosa and lodgepole pines. During the summer they can also be found in high-elevation aspen forests. In winter, they sometimes inhabit juniper stands and river bottoms.
+  behavior: During the breeding season Mountain Chickadees are territorial, but will join mixed-species flocks in winter, and tend to form pair bonds within the winter flocks. Chickadees forage by hopping on outer twigs and branches and gleaning the surfaces or probing into crevices for food. They often hang upside-down to get at the undersides of branches, cones, and needles. They will occasionally hover and will come to seed and suet feeders. They store food in the fall and retrieve it later in winter.
+  diet: Insects, spiders, the eggs of both, conifer seeds, and berries make up the majority of these omnivores' diets. During fall and winter, they rely heavily on conifer seeds. During the breeding season, insects, especially caterpillars, become more important.
+  nesting: Mountain Chickadees are monogamous and form long-term pair bonds. They are cavity-nesters and use existing cavities, including nest boxes and old woodpecker holes or other natural cavities. The female builds a foundation of moss, lichen, and grass, and then adds a lining of soft hair. The female incubates 6 to 7 eggs for about 14 days. The male brings food while the female incubates, and for the first few days after the young hatch, as the female broods the young almost continuously. As the young grow, the female joins the male in providing food. The young leave the nest at about 21 days, but stay on the breeding territory for another 2 to 3 weeks before heading off on their own.
+  migration_status: Mountain Chickadees are mostly permanent residents, although food shortages may induce some (especially juveniles) to move to lower elevations in winter.
+  conservation_status: There are two subspecies of Mountain Chickadee represented in Washington. One population inhabits the eastern Cascades and one population inhabits the Blue Mountains and northeast corner of the state. Data on trends in Washington and throughout the Mountain Chickadee's range are conflicting. According to Christmas Bird Count data, there has been an increase in winter numbers in the Northwest as a whole, but a decline in Washington. Breeding Bird Survey data show a slight, but non-significant increase in Washington during the breeding season, although the same survey has reported a survey-wide negative trend since 1980. More study is needed to understand the conservation status of the Mountain Chickadee in Washington, but habitat loss and fragmentation certainly may affect the population by eliminating corridors for dispersal and reducing food abundance.
+  when_where_wa: Mountain Chickadees are common year round in dry forested habitats from the Cascade Crest east down to the edge of the shrub-steppe zone. West of the Cascades, they are common on the east slopes of Mt. Rainier, and they are occasionally seen in winter, but otherwise sightings in the western part of the state are rare.
+photos:
+- file: moch_gl_l.jpg
+  caption: 'Note: thin, white eyebrow above black eye-stripe.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio:
+  file: MOCH01.mp3
+  credit: null
+maps:
+  wa: paga.jpg
+  north_america: mochmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [C, C, C, C, C, C, C, C, C, C, C, C]
+  blue_mountains: [C, C, C, C, C, C, C, C, C, C, C, C]
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: mouchi
+  current_common_name: Mountain Chickadee
+  current_scientific_name: Poecile gambeli
+  clements_sort: 22077
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/mountain_chickadee
+  archived: '2026-09-12'

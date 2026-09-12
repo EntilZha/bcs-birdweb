@@ -1,0 +1,58 @@
+slug: thick-billed_murre
+common_name: Thick-billed Murre
+scientific_name: Uria lomvia
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Alcidae
+  slug: alcidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Casual fall and winter visitor on outer coast and pelagic waters, accidental in Straits of Juan de Fuca and Georgia.
+photos:
+- file: tbmu_w_mh_l.jpg
+  caption: 'Winter plumage adult. Note: mostly dark head with white throat and clean white flanks.'
+  credit:
+    name: Mark Hoffman
+    url: http://www.pbase.com/wcbirding
+  hero: false
+- file: tbmu_gt_l.jpg
+  caption: 'Breeding plumage. Note: short bill with white gape line.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: tbmu_fl_gt_l.jpg
+  caption: 'Breeding plumage. Note: short bill with white gape line.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: tbmumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: thbmur
+  current_common_name: Thick-billed Murre
+  current_scientific_name: Uria lomvia
+  clements_sort: 6419
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/thick-billed_murre
+  archived: '2026-09-12'

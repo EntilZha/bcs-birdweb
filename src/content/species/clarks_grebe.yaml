@@ -1,0 +1,73 @@
+slug: clarks_grebe
+common_name: Clark's Grebe
+scientific_name: Aechmophorus clarkii
+order:
+  name: Podicipediformes
+  slug: podicipediformes
+family:
+  name: Podicipedidae
+  slug: podicipedidae
+status: Uncommon breeder east. Rare winter west.
+species_of_concern: true
+sections:
+  general_description: Clark's Grebes are large and slender with long necks and long, thin bills. Their plumage is dark gray above and white below, with a clear color division. The top of the face is black and the bottom white. In Clark's Grebe, the black does not extend below the eye. In the closely related and similar-appearing Western Grebe, the black ends below the eye. The bill of Clark's Grebe is bright yellow to orange-yellow.
+  habitat: In winter Clark's Grebes are found mostly on saltwater bays. During the breeding season they prefer freshwater wetlands with a mix of open water and emergent vegetation. Breeding areas are located in the central arid steppe and Big Sage/Fescue zones that stretch from California north and east to south-central Canada. Clark's Grebes tend to forage farther from shore and in deeper water than Western Grebes. They are commonly found in mixed flocks with Western Grebes, but even in these flocks they tend to associate preferentially with other Clark's Grebes.
+  behavior: Clark's Grebes are highly gregarious in all seasons, wintering in large flocks and nesting in colonies. The neck structure of the Clark's Grebe allows it to thrust its beak forward, like a spear, which it does to catch prey. As a family, grebes are known for their elaborate courtship displays. Clark's Grebes and the closely related Western Grebes perform the most spectacular displays of the family, and arguably the most complex known for any birds. The rituals of Western and Clark's Grebes are almost identical; the only difference is that one of many calls differs in the number of notes.
+  diet: In all seasons and habitats, the primary food of the Clark's Grebe is fish.
+  nesting: Both the male and female build a floating nest made from a heap of plant material anchored to emergent vegetation in a shallow area of a marsh. The female lays three to four eggs, and both parents incubate. Once hatched, the young leave the nest almost immediately and ride on the backs of the parents. Both parents feed the young. Young are plain gray and white, not striped like the young of other grebes.
+  migration_status: Birds from the northern part of the population migrate at night to the Pacific Ocean. Others, mainly in the central California valleys, are year-round residents.
+  conservation_status: Tens of thousands of Western and Clark's Grebes were killed at the turn of the 20th Century for their feathers. With protection, they have recovered and can now be found breeding in new areas not occupied historically. However, fluctuating water levels, oil spills, gill nets, and poisons such as rotenone (used to kill carp) may have negative effects on the population. When approached by humans, Clark's Grebes will leave their nest, leaving eggs vulnerable to predation and the elements. For this reason, areas frequently disturbed by humans may have low productivity. Even though they are extremely similar and closely related, Western and Clark's Grebes are separate species. Although they breed side by side in the same area, hybrids are surprisingly rare. Clark's Grebes are far less common in Washington than Westerns.
+  when_where_wa: Clark's Grebes are found on both small and large bodies of water in and around Grant County, including Potholes Reservoir, Moses Lake, Banks Lake, and on ponds within the Columbia and Saddle Mountain National Wildlife Refuges. Very rarely, Clark's Grebes are also found on lakes in western Washington in winter.
+photos:
+- file: clgr_ad_gth_l.jpg
+  caption: 'Breeding adult. Note: white above eye, yellow bill and pale flanks.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: clgr_b_jh_l.jpg
+  caption: 'Breeding adult. Note: white above eye, yellow bill and pale flanks.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: clgr_ne_gth_l.jpg
+  caption: Breeding adult on nest made of floating vegetation.
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: wegrandclgr_gt_l.jpg
+  caption: 'Western Grebe (left) with Clark''s Grebe. Note: different bill colors (which do not change seasonally). Darker feathers around eye and darker flanks also indicative but seasonally variable.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: clgr.mp3
+  credit: null
+maps:
+  wa: aecl.jpg
+  north_america: clgrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: [R, R, R, R, '', '', '', '', '', R, R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [R, R, R, '', '', '', '', '', '', R, R, R]
+  east_cascades: ['', '', '', '', '', '', '', R, R, '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', R, F, F, F, F, F, U, R, '', '']
+taxonomy:
+  ebird_code: clagre
+  current_common_name: Clark's Grebe
+  current_scientific_name: Aechmophorus clarkii
+  clements_sort: 6891
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/clarks_grebe
+  archived: '2026-09-12'

@@ -1,0 +1,55 @@
+slug: flammulated_owl
+common_name: Flammulated Owl
+scientific_name: Otus flammeolus
+order:
+  name: Strigiformes
+  slug: strigiformes
+family:
+  name: Strigidae
+  slug: strigidae
+status: Uncommon summer resident east.
+species_of_concern: true
+sections:
+  general_description: Flammulated Owls are small owls with short ear-tufts that can be held erect or flush to the head. Their plumage is of varying dark and light shades of gray, with some mottling and striping of rufous. They can be distinguished from Western Screech-Owls by their dark eyes - they are the only small forest owls in Washington with dark eyes.
+  habitat: During breeding season, Flammulated Owls inhabit mid-elevation, open, coniferous forests. In Washington, they are generally found in mature Ponderosa pine, Douglas fir, or mixed coniferous forests with a thick understory. During migration they are at times found at lower elevations in dense thickets, but they are rarely are seen out of their breeding habitat. Their winter habitat is not well known, but is believed to be similar to their breeding habitat. They do not winter in Washington State.
+  behavior: Although Flammulated Owls are difficult to see, their low-pitched calls are often heard in the Ponderosa pine belt in late spring and early summer. These calls sound as if they must come from much larger owls, and many can often be heard calling from one spot. Flammulated Owls are most active just after dark and just before dawn.
+  diet: Flammulated Owls mostly eat large insects, especially moths and beetles. They most often take their prey from foliage, but they also catch prey in mid-air and on the ground. They only rarely take vertebrate prey.
+  nesting: Males arrive on the breeding grounds before females. They call to establish territories and to attract arriving females. Birds pair with their mates of the previous year, but if one does not return, they often pair with a bird from a neighboring territory. The male shows the female potential sites from which she selects the one that will be used, usually an old Pileated Woodpecker or Northern Flicker hole, sometimes an artificial nest box. Flammulated Owls do not add nest material to the cavity. The female incubates 2-4 eggs for 20-26 days while the male brings her food. Once the young hatch, she broods them for about 12 days. During that time the male brings food for the female and the owlets. After brooding ends, the female also hunts for the growing brood. The young leave the nest around after about 25 days but stay nearby. Sometimes the brood divides, with each parent taking one or two of the young. Adults and young stay together for another month before the young disperse.
+  migration_status: Flammulated Owls can be found in Washington only during their relatively short breeding period. They are highly migratory, leaving Washington to winter in southern Mexico and Central America. They migrate at night, moving through the mountains on their way south but through the lowlands in early spring. This migration route most likely reflects the availability of their insect food.
+  conservation_status: Until recently, Flammulated Owls were overlooked in many areas, but they are now believed to be more widespread and common than had been thought. In general, they inhabit forests that are commercially valuable, which puts them at risk from logging. The effect of timber management practices on Flammulated Owls is not well understood, although they undoubtedly benefit from the retention of snags and other trees with cavities. In Washington, Flammulated Owls are absent from many areas that appear to be suitable habitat. Perhaps the population is not large enough to occupy the entire available habitat, or it may simply be that we do not fully understand their habitat requirements. Population trends are difficult to determine, as there are no reliable baseline data. Most of the winter requirements of Flammulated Owls are also unknown. Flammulated Owls have relatively low reproductive rates, and thus the use of pesticides and any loss of breeding and wintering habitats could have serious impacts on the population. Flammulated Owls are candidates for inclusion on the Washington Department of Fish and Wildlife endangered species list and are considered a species-at-risk by the Washington Gap Analysis and Audubon-Washington.
+  when_where_wa: Flammulated Owls are uncommon breeders east of the Cascades in the Ponderosa pine belt from late May to August. There have been occasional records from western Washington, but they are essentially an east side species. Locations where they may sometimes be found include Blewett Pass (straddling Chelan and Kittitas Counties), Colockum Pass area (Kittitas County), and Satus Pass (Klickitat County.)
+photos:
+- file: flam.jpg
+  caption: ''
+  credit:
+    name: Seattle Audubon
+    url: http://seattleaudubon.org/sas/
+  hero: true
+audio:
+  file: flow1.mp3
+  credit: null
+maps:
+  wa: otfl.jpg
+  north_america: flowmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', U, U, U, R, '', '', '', '']
+  okanogan: ['', '', '', '', U, U, U, U, '', '', '', '']
+  canadian_rockies: ['', '', '', '', R, R, R, R, '', '', '', '']
+  blue_mountains: ['', '', '', '', U, U, U, U, U, '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: flaowl
+  current_common_name: Flammulated Owl
+  current_scientific_name: Psiloscops flammeolus
+  clements_sort: 8795
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/flammulated_owl
+  archived: '2026-09-12'

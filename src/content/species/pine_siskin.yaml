@@ -1,0 +1,88 @@
+slug: pine_siskin
+common_name: Pine Siskin
+scientific_name: Carduelis pinus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Fringillidae
+  slug: fringillidae
+status: Common resident. Uncommon winter east.
+species_of_concern: false
+sections:
+  general_description: |-
+    Pine Siskins are small, streaked, yellow-tinged finches. Their bills are slimmer than those of most finches. Males often have yellow wing-stripes and tails, although the yellow is highly variable. Like other finches, they have notched tails. Their wings are relatively long.
+
+    Sick siskin at your feeder? [Learn more here](http://www.seattleaudubon.org/sas/LearnAboutBirds/SeasonalFacts/BirdDiseases/Salmonellosis.aspx).
+  habitat: Throughout their range, Pine Siskins typically breed in coniferous forests, although they are often found in mixed forests in the Puget Trough. During migration and winter, they can be found in many types of semi-open areas, including forest edges and weedy fields.
+  behavior: Pine Siskins form flocks year round, and winter flocks may be quite large. They can be very common at bird feeders in urban areas. (Unfortunately, such dense concentrations may spread salmonella, especially when feeders are not properly cleaned.) Pine Siskins are active foragers and climb about nimbly when foraging in forest canopies and hedgerows, often hanging upside-down. They also occasionally forage on larger branches, much like a nuthatch. Like many finches, they have an undulating flight and often make aerial contact calls.
+  diet: Small seeds, especially thistle, red alder, birch, and spruce seeds, make up the majority of the Pine Siskin's diet. In summer, they will eat insects, especially aphids, which they feed to the young, but seeds dominate their diet.
+  nesting: Pine Siskins are monogamous, and pairs form within winter flocks. They may nest in loose colonies or in isolated pairs, and their breeding activity is more closely tied to the abundance of food than to season. Nests are well hidden, on a horizontal branch well out from the trunk of a conifer tree. The female builds a large, shallow cup of twigs, grass, bark strips, rootlets, leaves, and lichen, lined with moss, plant down, hair, and feathers. The female incubates 3 to 4 eggs for about 13 days. The male brings her food while she incubates, and while she broods the young for the first few days after they hatch. After that, both parents bring food. The young leave the nest after 13 to 17 days, and the parents continue to feed the young for about three more weeks.
+  migration_status: Pine Siskins are generally considered resident, but they can be irruptive and nomadic, especially in winter. Their movements are closely tied to the distribution and abundance of seeds. When northern cone crops are small, which appears to occur about every other year, many Pine Siskins winter in Washington along the west slope of the Cascades.
+  conservation_status: Although considered Washington's most common finch, the Pine Siskin has suffered a significant annual decline in population since 1966, according to the Breeding Bird Survey. Due to the irruptive nature of this species, populations vary widely from year to year, and trends can be difficult to interpret. Parasitism by Brown-headed Cowbirds can have a significant impact on Pine Siskin productivity, and forest fragmentation has increased their contact with cowbirds. Maintaining large tracts of coniferous forest will help keep this bird common.
+  when_where_wa: Pine Siskins are common and widespread, permanent residents in appropriate habitat throughout Washington's lowlands. Numbers vary from year to year, but they are generally more common west of the Cascades than east, and flocks numbering over 2,000 birds have been seen in winter along the outer coast. In winter, they are most readily observed feeding in trees with catkins, such as birch and alder.
+photos:
+- file: pisi_rom1_l.jpg
+  caption: ''
+  credit:
+    name: Ramona Delerme
+    url: http://flickr.com/photos/11339106@N03/
+  hero: false
+- file: pisi_rom2_l.jpg
+  caption: ''
+  credit:
+    name: Ramona Delerme
+    url: http://flickr.com/photos/11339106@N03/
+  hero: false
+- file: pisi_rom3_l.jpg
+  caption: ''
+  credit:
+    name: Ramona Delerme
+    url: http://flickr.com/photos/11339106@N03/
+  hero: false
+- file: pisi_lb_l.jpg
+  caption: ''
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: pisi_f_jh_l.jpg
+  caption: 'Female. Note: white wing bars.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: pisi_jh_l.jpg
+  caption: 'Male. Note: yellow in wings and sender pointed bill.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: PISI01.mp3
+  credit: null
+maps:
+  wa: capi.jpg
+  north_america: pisimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [U, U, F, C, C, C, C, C, F, F, U, U]
+  okanogan: [U, U, F, C, C, C, C, C, C, C, U, U]
+  canadian_rockies: [F, F, F, F, F, F, F, F, F, F, F, F]
+  blue_mountains: [U, U, U, F, F, F, F, F, F, F, F, U]
+  columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
+taxonomy:
+  ebird_code: pinsis
+  current_common_name: Pine Siskin
+  current_scientific_name: Spinus pinus
+  clements_sort: 32595
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/pine_siskin
+  archived: '2026-09-12'

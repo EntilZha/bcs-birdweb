@@ -1,0 +1,61 @@
+slug: cassins_auklet
+common_name: Cassin's Auklet
+scientific_name: Ptychoramphus aleuticus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Alcidae
+  slug: alcidae
+status: Fairly common pelagic. Breeder.
+species_of_concern: true
+sections:
+  general_description: A small, chunky bird with a big head and a short tail, the Cassin's Auklet is grayish-colored overall, darker above than below. A white spot above each eye is a distinctive field mark.
+  habitat: Cassin's Auklet is one of the most widespread alcids in the northern Pacific. During the breeding season, they come inland and nest on islands, although during this time many are still found far offshore. In the non-breeding season, they are found in the open ocean, at the outer edge of the continental shelf. They use any kind of island for nesting, as long as mammalian predators are absent. In Washington, they prefer islands with shrubby habitat and cliffs.
+  behavior: Sociable in all seasons, Cassin's Auklets feed in flocks and nest in large colonies. They are nocturnal at the colonies, entering and leaving their nesting burrows at night. They feed by day and by night, and forage by swimming underwater, using their wings for propulsion. They can dive more than 120 feet below the surface.
+  diet: Small fish and small ocean-going crustaceans (krill) make up most of the Cassin's Auklet's diet. During the breeding season, they develop a pouch in their throats that is used to store food for the young.
+  nesting: Nest burrows are located in island colonies. When there is sufficient soil cover, Cassin's Auklets dig burrows in the ground. When there is not enough soil, they construct burrows in rock crevices, piles of debris, cracks under buildings, caves, and even under trees. Both members of a pair build the burrow, to which little or no nest material is added. A pair uses the same burrow year after year. The female lays one egg, and both parents incubate for about 5-1/2 weeks (can be up to 8 weeks). Both parents care for the chick until it fledges, 6-7 weeks after hatching. When the chick fledges, it goes straight to the water, able to swim and dive immediately.
+  migration_status: Cassin's Auklets are non-migratory.
+  conservation_status: Cassin's Auklets can be found from Alaska to Mexico. They are abundant in many parts of their range, but in others they have experienced significant declines. With an estimated total of over 88,000 birds, the Cassin's Auklet is the most numerous breeding seabird (aside from the gulls) in Washington. They make up 34% of all breeding seabirds in the state, yet they breed on only six islands. Numbers fluctuate considerably from year to year, in response to changes in food supply and to climatic events such as El Niño. Although they are abundant, on their nesting colonies Cassin's Auklets are vulnerable to disturbance from humans and introduced predators. Oil contamination is another potential threat on the breeding colonies and on feeding grounds at sea. Since nesting colonies in Washington are protected as wildlife refuges, human disturbance is minimized. However with colonies concentrated on a small number of islands, habitat destruction or degradation on even one of those islands could significantly affect the population in Washington.
+  when_where_wa: There are eight known nesting locations in Washington State (on Mid-Bodelteh Island, East Bodelteh Island, Carroll Island, Jagged Island, Alexander Island, and Dhuoyautzachtahl, all in Clallam and Jefferson Counties), but there probably are some additional nesting sites. The largest colony in Washington is on Alexander Island, where approximately 55,000 Cassin's Auklets nest. Feeding far offshore and visiting their colonies at night, Cassin's Auklets are seldom seen near shore. They are fairly common year round offshore, and thus are best seen by boat. A few sometimes venture into Puget Sound where they can be seen from shore.
+photos:
+- file: caau_b_gt_l.jpg
+  caption: 'Adult plumage. Note: white crescent above eye, upcurved lower mandible (with pale patch near base).'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: caau_fl_gt_l.jpg
+  caption: Tend to
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: caau.mp3
+  credit: null
+maps:
+  wa: ptal.jpg
+  north_america: caaumap.gif
+abundance:
+  oceanic: [F, F, F, F, F, F, F, F, F, F, F, F]
+  pacific_northwest_coast: [F, F, F, F, F, F, F, F, F, F, F, F]
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: casauk
+  current_common_name: Cassin's Auklet
+  current_scientific_name: Ptychoramphus aleuticus
+  clements_sort: 6385
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/cassins_auklet
+  archived: '2026-09-12'

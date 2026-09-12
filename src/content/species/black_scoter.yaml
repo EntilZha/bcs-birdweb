@@ -1,0 +1,65 @@
+slug: black_scoter
+common_name: Black Scoter
+scientific_name: Melanitta nigra
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Fairly common winter coast.
+species_of_concern: false
+sections:
+  general_description: Black Scoters are large, mostly black or dark gray sea ducks. Formerly called the Common Scoter, the Black Scoter is the least common of the three scoters. Adult males are solid black with a bulbous yellow knob on an otherwise black bill. Females and juveniles are dark gray, lighter on the cheek with a dark cap. Their bills are dark and lack the knob found in adult males.
+  habitat: The breeding range of the Black Scoter is at the edge of the northern forest or in the treeless tundra, where they breed on small, shallow lakes, ponds, sloughs, and river banks with tall grasses to conceal nests. In winter, they can be found on coastal bays and along coastlines, usually in shallow water within a mile of shore.
+  behavior: Scoters spend the non-breeding part of the year in large flocks on the ocean. Black Scoters forage by diving and swimming under water, propelled by their feet. They usually feed in areas of open water, avoiding dense submergent or emergent vegetation. They swallow their prey under water, unless it is large or bulky. They are strong fliers, but must get a running start on the water to get airborne.
+  diet: At sea, mollusks are the most common prey item of the Black Scoter, although crustaceans and other aquatic invertebrates are also part of the diet. On fresh water, aquatic insects, fish eggs, mollusks, small fish, and some plant matter are eaten.
+  nesting: Most females probably start breeding at the age of two. Pairs form in late fall and winter. The female builds the nest on the ground, usually near the water on a hummock or ridge, well concealed by vegetation. The nest is a shallow depression lined with plant material and down. The female lays 8 to 9 eggs and incubates them for 27 to 31 days. The pair bond dissolves, and the male departs for the molting grounds soon after the female begins incubation. It is not known whether pairs re-form in the fall, or if new pairs are formed. Shortly after hatching, the young leave the nest and head to the water. The female tends the young and continues to brood them at night, but they can swim and feed themselves. Most females abandon their broods after one to three weeks. Multiple broods gather together on lakes until they can fly, at 6 to 7 weeks.
+  migration_status: Black Scoters migrate north from March through May and south from late September through November. The fall migration is preceded by a molt migration where birds molt in large groups at northern coastal sites before heading south in fresh plumage.
+  conservation_status: Although the Black Scoter is by some accounts the least numerous of the scoters in North America, numbers appear to be stable. Other sources document a long-term trend of decline. Many surveys of scoters do not differentiate between the three species, and it is difficult to determine the population trends of each species independently. The two most significant potential threats to Black Scoters in Washington are oil spills and heavy-metal contamination (which accumulates in prey items such as mussels).
+  when_where_wa: Some of the major wintering areas of Black Scoters in the West include the coastal waters off Washington, where they are widespread but not common from mid-November to mid-May. Limited numbers can also be found in the Strait of Juan de Fuca and Puget Sound. They are regularly seen at Budd Inlet in the Olympia Harbor (Thurston County) and in Penn Cove on Whidbey Island (Island County).
+photos:
+- file: blsc_f_gt_l.jpg
+  caption: 'Female. Note: thin bill, white cheek patch contrasting with dark cap.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: blsc_mf_dp_l.jpg
+  caption: Male (front) and female.
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+- file: blsc2.jpg
+  caption: ''
+  credit:
+    name: Seattle Audubon
+    url: http://seattleaudubon.org/sas/
+  hero: true
+audio: null
+maps:
+  wa: meni.jpg
+  north_america: blscmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, U, U, '', '', R, U, U, U, U]
+  puget_trough: [U, U, U, U, U, '', R, R, U, U, U, U]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: blksco2
+  current_common_name: Black Scoter
+  current_scientific_name: Melanitta americana
+  clements_sort: 737
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black_scoter
+  archived: '2026-09-12'

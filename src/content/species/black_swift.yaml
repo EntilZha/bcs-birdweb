@@ -1,0 +1,61 @@
+slug: black_swift
+common_name: Black Swift
+scientific_name: Cypseloides niger
+order:
+  name: Apodiformes
+  slug: apodiformes
+family:
+  name: Apodidae
+  slug: apodidae
+status: Fairly common summer resident.
+species_of_concern: true
+sections:
+  general_description: The Black Swift is the largest of Washington's swifts. It has a streamlined body with long, narrow wings. Compared to Vaux's Swift, the Black Swift has a longer and broader tail, often held in a fan, and its wing beats are much slower. Adults are solid black with slightly lighter under-wings. Males have a notch in their tails. Juveniles have white scaling on their bellies.
+  habitat: Black Swifts require a specialized habitat for nesting, in forested areas near rivers. Nests are often located behind waterfalls or on damp cliffs, where the environment is dark, wet, steep, and inaccessible to predators, and which provides the swifts with an unobstructed flyway to approach the nest. This highly specialized nesting habitat results in patchy distribution of Black Swifts. Like other swifts, they are far more general in their foraging habitats than in their nesting habitat, and while foraging, they are seen in the open sky over mountainous areas and on coastal cliffs.
+  behavior: Black Swifts forage exclusively in the air, flying fast and high, singly or in flocks. During courtship, pairs perform long aerial chases and mate in mid-air.
+  diet: Black Swifts eat flying insects.
+  nesting: One of the latest of Washington's breeding birds, Black Swifts may nest singly or in small colonies. A sheltered ledge or crevice on a cliff or behind a waterfall is chosen as a nest site. The inaccessible-to-humans nest is a small saucer made of mud, moss, and ferns, fastened to the edge of the crevice. Nests may be reused from year to year, with more material added each year. Nests behind waterfalls are continuously damp from spray. The female lays a single egg, and both parents incubate for 3½ to 4 weeks. Both parents feed and care for the single young, which remains in the nest until it is ready to fly at about 45-49 days old. The nesting period coincides with the emergence of flying ants--a brief, but abundant source of nutritious food--in late August or early September.
+  migration_status: A summer resident in Washington, the Black Swift arrives in late spring and departs in early fall. The winter range is not well known.
+  conservation_status: Black Swifts are fairly common but patchily distributed, with apparently stable numbers. Because of the difficulty in locating and observing nests, this species' ecology is not well known.
+  when_where_wa: The Black Swift is an uncommon breeder in forested habitats at moderate elevations in the northern Cascades (both east and west sides north of Snoqualmie Pass) and possibly along the rocky coastline from Point Grenville (Grays Harbor County) to Cape Flattery (Clallam County). It may well breed in the other mountain ranges in the state, although this is undocumented. The long distances Black Swifts travel to forage and the obscurity of their nests make it difficult to ascertain where they are nesting. During the breeding season, Black Swifts have been sighted as far south as Mount Adams and into the Puget Sound lowlands, including the San Juan Islands, and east as far as Ferry County. Look for them around lowland fresh water in June on overcast mornings, when they are driven from the clouded-in mountains.
+photos:
+- file: blsw_jfl_gt_l.jpg
+  caption: 'Juvenile. Note: light barring on belly.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: blsw_fl_gt_l.jpg
+  caption: Adults flying in front of waterfall.
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: blsw.mp3
+  credit: null
+maps:
+  wa: cyni.jpg
+  north_america: blswmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', R, R, R, R, R, '', '', '']
+  puget_trough: ['', '', '', '', U, U, U, U, U, '', '', '']
+  north_cascades: ['', '', '', '', R, U, U, U, R, '', '', '']
+  west_cascades: ['', '', '', '', U, U, U, U, U, '', '', '']
+  east_cascades: ['', '', '', '', U, F, F, U, R, '', '', '']
+  okanogan: ['', '', '', '', U, U, U, U, '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', R, R, R, R, '', '', '', '']
+taxonomy:
+  ebird_code: blkswi
+  current_common_name: Black Swift
+  current_scientific_name: Cypseloides niger
+  clements_sort: 3826
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/black_swift
+  archived: '2026-09-12'

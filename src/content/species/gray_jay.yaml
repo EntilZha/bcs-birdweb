@@ -1,0 +1,73 @@
+slug: gray_jay
+common_name: Gray Jay
+scientific_name: Perisoreus canadensis
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Corvidae
+  slug: corvidae
+status: Fairly common resident.
+species_of_concern: false
+sections:
+  general_description: Gray Jays are medium-sized, gray birds with lighter bellies. There are three populations of Gray Jay in Washington, although the two western populations look quite similar. The population in western Washington and the one in the Cascades both have black from above the eyes to the nape, a white face and forehead, and a white belly. Their gray backs have a brownish cast with fine, white streaks. The Gray Jay in the Blue Mountains and the northeastern corner of Washington has a solid gray back with no brown or streaks, and a black nape. The face, forehead, and neck are white, with a little gray at the top of the head. The belly is gray. Juveniles are dark gray with light gray mustaches. Eastern Washington juveniles have darker caps and lighter throats than western Washington juveniles.
+  habitat: Gray Jays are found primarily in mature, humid, sub-alpine, spruce forests. They do not generally breed below 2,000 feet, and are most often found from 3,000 feet and above to the tree line, although some are found nesting locally in lowland habitats.
+  behavior: Gray Jays are gregarious and are often found in family groups. They can be very bold and will beg from campers, follow hikers, and go inside cabins to steal food. These jays forage from perches and fly from tree to tree, scanning for food. They cache food during the summer and fall, using sticky saliva to paste it in bark crevices and other hidden spots, and they eat this stored food through the winter. Gray Jays often carry food with their feet in flight, which is unusual for songbirds.
+  diet: Omnivores, Gray Jays eat a varied diet made up of seeds, berries, insects, and other invertebrates, fungi, small rodents, eggs and nestlings of other birds, carrion, and campground handouts.
+  nesting: Gray Jays are monogamous, and pairs stay together on their territories year round. They begin nesting in late winter; relying on the food they have cached to raise their young. They typically nest in a dense conifer tree, close to the trunk, usually within 15 feet of the ground. Both members of the pair help build the nest, which is a bulky cup of twigs, lichen, bark strips, and caterpillar webbing, lined with hair and feathers. The male brings food to the nest while the female incubates 2 to 5 eggs for about 18 days. The female broods the young for about four days, and then joins the male in feeding the young. The young leave the nest at 22 to 24 days, but stay with their parents for another 4 to 6 weeks. Recent studies have shown there to be a third, unrelated bird on the territory, helping throughout the nesting season.
+  migration_status: Gray Jays do not undertake a regular migration, but sometimes move down-slope during winter.
+  conservation_status: Because Gray Jays live in fairly remote areas, their population status is not well known. They prefer unaltered forest, and populations generally decline after forests have been clear-cut. Caching food for the winter allows these birds to remain at high altitudes and in northern climates year round and allows them to begin their breeding season early.
+  when_where_wa: Gray Jays can be found year round at high altitudes (above 3,000 feet) throughout Washington. They can be found locally down to sea level on the outer coast of the Olympic Peninsula and rarely at other spots in western Washington, such as Lewis and Clark State Park, southeast of Chehalis (Lewis County) and the Willapa Hills (Pacific County). They are very uncommon at Fort Lewis (Pierce County).
+photos:
+- file: graj_ad_gth_l.jpg
+  caption: Adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: graj_ad2_gth_l.jpg
+  caption: Adult
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: graj_jh_l.jpg
+  caption: Adult
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: graj_j_gt_l.jpg
+  caption: 'Juvenile. Note: complete charcoal gray coloration.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: grja1.mp3
+  credit: null
+maps:
+  wa: peca.jpg
+  north_america: grajmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, F, F, F, F, F, F, F, F, F]
+  puget_trough: [U, U, U, U, U, U, U, U, U, U, U, U]
+  north_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: [C, C, C, C, C, C, C, C, C, C, C, C]
+  canadian_rockies: [F, F, F, F, F, F, F, F, F, F, F, F]
+  blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: gryjay
+  current_common_name: Canada Jay
+  current_scientific_name: Perisoreus canadensis
+  clements_sort: 21181.0
+  historic_common_name: Gray Jay
+  display_historic: false
+  note: Published on BirdWeb as Gray Jay. The American Ornithological Society restored the name Canada Jay in 2018; it is the same bird.
+source:
+  url: https://birdweb.org/birdweb/bird/gray_jay
+  archived: '2026-09-12'

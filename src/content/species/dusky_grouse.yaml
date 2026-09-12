@@ -1,0 +1,65 @@
+slug: dusky_grouse
+common_name: Dusky Grouse
+scientific_name: Dendragapus obscurus
+order:
+  name: Galliformes
+  slug: galliformes
+family:
+  name: Phasianidae
+  slug: phasianidae
+status: Fairly common resident.
+species_of_concern: false
+sections:
+  general_description: 'Dusky Grouse are larger than Ruffed or Spruce Grouse, and have relatively long necks and tails. They are grayish or gray-brown in color with cryptic patterning. The female’s plumage is overall mottled brownish. The male is similar but usually darker, with solid blue-gray feathering on the underparts, orange-yellow combs over the eyes, and all-dark tail feathers. In display, purplish-red fleshy patches can be seen at the neck. In 2006, the former Blue Grouse was split into two species by the American Ornithologists’ Union: Dusky Grouse and Sooty Grouse. Washington is the only state in the United States where the ranges of these two very similar species meet. Please also see the Sooty Grouse account in BirdWeb for further details.'
+  habitat: In the breeding season Dusky Grouse inhabit open, relatively dry mixed and conifer forest from the ponderosa pine zone to the subalpine fir zone, and adjacent shrub-steppe, grassland, aspen groves, and alpine meadows. In lodgepole pine and Engelmann spruce forests at elevations above 5,000 feet, they may be largely, but not entirely, replaced by Spruce Grouse. They winter in dense conifer stands, often at a higher elevation than their breeding habitat.
+  behavior: Dusky Grouse are usually found singly, not in flocks (except for hens with young), and are generally fairly wary. Males sing from the ground or from a low perch such as a stump. The usual song is a series of five soft, very low-pitched hoots that can rarely be heard beyond 100 feet. To attract females, males also strut with tails raised and fanned, and neck feathers spread, revealing patches of bright skin.
+  diet: In summer, Dusky Grouse feed on the ground on leaves, flowers, buds, berries, conifer needles, and insects. In winter, they forage in trees for needles of pines, firs, and other conifers. In many parts of their Washington range larch and pine needles are the predominant food source. Young birds eat mostly insects, especially in the first 10 days of life.
+  nesting: Females provide all parental care. Nests are a shallow scrape in the ground, sometimes with little or no cover, sparsely lined with dead twigs, needles, leaves, and feathers. Females lay and incubate 1–12 buffy, lightly speckled eggs (normally 4–9). The young leave the nest within a day after hatching. Females tend the young, but do not feed them.
+  migration_status: During late summer and early autumn, Dusky Grouse move from open breeding areas to dense conifer forests at higher elevations; this altitudinal migration is typically a short distance, but can be as much as 30 miles, much of which is undertaken on foot. Most grouse leave their breeding grounds by October and return by early April.
+  conservation_status: The Dusky Grouse still occupies all or nearly all of its original range in Washington. Although it is vulnerable to habitat loss from activities such as grazing and logging, most of its range is in rugged mountains or other territory sparsely settled by humans. It is popular as a game bird, but its fall migration into dense forest reduces hunting mortality.
+  when_where_wa: Dusky Grouse is a bird of the Rocky Mountains and the Intermountain West. In Washington, it is found in three distinct areas separated by the vast expanse of the largely unforested Columbia Plateau and Okanogan River valley—the east slopes of the north Cascades in Okanogan, Chelan, and northern Kittitas counties; the Okanogan Highlands and Selkirk Mountains of the northeast; and the Blue Mountains of the southeast. Dusky Grouse is locally fairly common in all three of these areas in suitable habitat, mostly at middle elevations but extending up to tree line in the subalpine zone in some localities. The ranges of Dusky Grouse and Sooty Grouse meet and overlap on the east slope of the Cascades, creating a zone of confusion between the two species. Most birds in the wetter, higher-elevation forests are Sooty Grouse, while most of those farther downslope in drier, more open forest, grassland, and shrub-steppe are Dusky Grouse. However, many birds in this ill-defined transition zone show hybrid characteristics.
+photos:
+- file: dugr_tm_l.jpg
+  caption: ''
+  credit:
+    name: Tom Munson
+    url: http://www.pbase.com/clinton62
+  hero: false
+- file: dugr_ms_l.jpg
+  caption: ''
+  credit:
+    name: Mike Schroeder
+    url: null
+  hero: false
+- file: dugr_jh_l.jpg
+  caption: Male
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+audio: null
+maps:
+  wa: deob.jpg
+  north_america: dugrmap.jpg
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: [F, F, F, F, F, F, F, F, F, F, F, F]
+  canadian_rockies: [F, F, F, F, F, F, F, F, F, F, F, F]
+  blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: dusgro
+  current_common_name: Dusky Grouse
+  current_scientific_name: Dendragapus obscurus
+  clements_sort: 1315
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/dusky_grouse
+  archived: '2026-09-12'

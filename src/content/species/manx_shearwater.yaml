@@ -1,0 +1,52 @@
+slug: manx_shearwater
+common_name: Manx Shearwater
+scientific_name: Puffinus puffinus
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Procellariidae
+  slug: procellariidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: First records at Westport and Ocean Shores (Grays Harbor County), September'October of 1990 and 1992. Increasingly reported since then from March to October, mostly well offshore in Pacific Ocean but also near outer coastline, in Strait of Juan de Fuca, and even in Puget Sound.
+photos:
+- file: mash2dp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+- file: mashdp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: mashmap.gif
+abundance:
+  oceanic: ['', '', '', R, R, R, R, R, R, R, '', '']
+  pacific_northwest_coast: ['', '', '', R, R, R, R, R, R, R, '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: manshe
+  current_common_name: Manx Shearwater
+  current_scientific_name: Puffinus puffinus
+  clements_sort: 7220
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/manx_shearwater
+  archived: '2026-09-12'

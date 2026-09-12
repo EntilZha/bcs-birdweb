@@ -1,0 +1,57 @@
+slug: smew
+common_name: Smew
+scientific_name: Mergellus albellus
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    The male Smew in breeding plumage is dazzling white with black markings on the head, back, and breast, a white crest lined with black, and pale-gray flanks and belly. Other plumages lack the crest and are mostly gray-and-black with white chin and throat and some chestnut on the head. This petite, small-billed diving duck is a close relative of the mergansers as well as of the Bufflehead and the goldeneyes. It nests in tree cavities—mostly old woodpecker holes—across the taiga belt of northern Eurasia, wintering south into temperate zones, where it prefers freshwater sites.
+
+    Smews visit the Aleutians annually in small numbers, but they are extremely rare winter visitors to the rest of North America outside Alaska. Washington’s first record was found in Skamania County in two successive winters (December 1989 and January–February 1991). This bird was also observed on the other side of the Columbia River in Oregon. The second Washington record was at McKenna (Pierce County) in March 1993. A second Oregon record occurred in 2001. California has about three records and British Columbia about five.
+
+    *Revised June 2007*
+photos:
+- file: smew_m_lb_l.jpg
+  caption: Male
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: smew_gt_l.jpg
+  caption: Male
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: smew
+  current_common_name: Smew
+  current_scientific_name: Mergellus albellus
+  clements_sort: 752
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/smew
+  archived: '2026-09-12'

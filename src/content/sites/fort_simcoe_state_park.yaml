@@ -1,0 +1,31 @@
+slug: fort_simcoe_state_park
+name: Fort Simcoe State Park
+number: 505
+ecoregions:
+- east_cascades
+sections:
+  site: Fort Simcoe State Park, located at the head of the valley west of Toppenish, is the site of a fort established in 1856 during the conflicts between Native Americans and the newly arrived white settlers. It had served as a military post for only three years when, in 1859, it was turned over to the Bureau of Indian Affairs. Five original buildings have been restored, and five have been reconstructed to give visitors a trip back into history. The fort became a state park in 1953.
+  birds: |-
+    Fort Simcoe is the Lewis's Woodpecker Capital of Washington. The Garry oaks that are the predominant tree at the park are the big draw for the woodpeckers. The nesting population of Lewis's Woodpeckers has diminished in recent years due to competition from European Starlings. During the winter months, the numbers of this colorful woodpecker increase, especially in years with good acorn crops.
+
+    The parade ground in the center of the park is a great place to watch the woodpeckers sally forth, fly-catching. The oaks on the south and west side of the park have nest cavities for them and also have California Quail, Northern Flickers, two species of nuthatches, and Steller's Jays, depending on the season. At least five Western Scrub-Jays moved into the park in September 2002 and stayed through the winter. A Blue Jay showed up in January 2005, giving the park a sweep of the blue jays that can be found in Washington. Ash-throated Flycatchers can also be found in the park in spring, usually in the brushy area on the south side of the park or in the oaks.
+
+    A riparian area on the north end of the park, with a stream flowing from Mool Mool Spring, attracts many species.
+  directions: |-
+    To reach the Fort Simcoe State Park, drive west from Toppenish on Fort Road (Route 220) 19.1 miles to Signal Peak Road. Turn left here, drive two miles, and take a right onto Fort Simcoe Road. You will find the fort on the left in five miles.
+
+    The park provides four sheltered and 45 unsheltered picnic tables. Restrooms, running water, and ample parking are available, with no fees. Tables are available on a first-come, first-served basis.
+photos:
+- file: site_fort_simcoe.jpg
+  caption: ''
+  credit:
+    name: Denny Granstrand
+    url: http://granstrand.net/gallery/
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/fort_simcoe_state_park/6
+  archived: '2026-09-12'

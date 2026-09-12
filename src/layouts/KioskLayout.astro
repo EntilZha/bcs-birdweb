@@ -1,0 +1,28 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+}
+const { title = "BirdWeb — Birds of Washington" } = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+
+<!doctype html>
+<html lang="en" class="h-dvh overflow-hidden">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- Zoom locked, and only here. A shared wall screen that a visitor has pinch-zoomed
+         and walked away from is broken until staff notice; the public pages that phones
+         actually land on keep normal zoom. -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+    />
+    <link rel="icon" type="image/png" href={`${base}bcs-favicon.png`} />
+    <title>{title}</title>
+  </head>
+  <body class="kiosk h-dvh overflow-hidden flex flex-col antialiased">
+    <slot />
+  </body>
+</html>

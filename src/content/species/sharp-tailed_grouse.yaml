@@ -1,0 +1,67 @@
+slug: sharp-tailed_grouse
+common_name: Sharp-tailed Grouse
+scientific_name: Tympanuchus phasianellus
+order:
+  name: Galliformes
+  slug: galliformes
+family:
+  name: Phasianidae
+  slug: phasianidae
+status: Rare resident east.
+species_of_concern: true
+sections:
+  general_description: The Sharp-tailed Grouse is a large grouse with a sharply pointed tail, held straight up when displaying. It is brown with white and dark spots, arranged in cryptic patterns. The bird has light-colored undersides and a slight crest on its head. Yellowish eyebrows and pinkish-purple air sacs at the sides of its neck are visible on the male when he displays.
+  habitat: Sharp-tailed Grouse live in grassy areas with patches of trees in the northern Columbia Basin. Their primary habitat is the grass and shrub savanna in the three-tip sage and central arid steppe zones. They are also found in grassy openings in the lowest edges of the Ponderosa pine zone. In summer they spend most of their time in more open grasslands, while in the winter they make use of trees and shrubs for cover.
+  behavior: Males gather on a communal breeding ground, or lek, to display for females. When displaying, males point their tails up, spread their wings, hold their heads low, and stamp their feet. While doing this, they inflate and deflate the air sacs in their breasts, creating a booming sound.
+  diet: In the spring, Sharp-tailed Grouse forage mostly for leaves, green shoots, and flowers. In the summer, they forage on the ground, with blades of grass making up over 50% of their diet. Flower parts make up another 25% of the breeding-season diet. Insects, especially grasshoppers, are also an important food item at this time of year, particularly among the young. In the fall, the diet becomes more varied and is made up of seeds, berries, leaves, and waste grains. In the winter, Sharp-tailed Grouse forage in trees and shrubs for buds.
+  nesting: The female selects a male at the lek, mates with him, and then leaves to find a nesting spot. Nests are typically a shallow depression located on the ground under a shrub or thick clump of grass, often sparsely lined with grass, leaves, or ferns. She lays an average of 12 eggs (ranging from 5-17). Shortly after hatching, the young leave the nest. The female continues to tend the young and lead them to feeding areas, although they feed themselves.
+  migration_status: There is no major migration, although they may move several miles between seasons to reach optimal habitats for summer and winter.
+  conservation_status: Sharp-tailed Grouse have undergone major declines throughout North America. There are six subspecies recognized, and the Columbian Sharp-tailed Grouse, the subspecies found in Washington, is now the rarest. Historically plentiful throughout the Columbia Basin, Sharp-tailed Grouse were heavily hunted until harvest levels were reduced in 1920. By this time, however, much of their grassland habitat had been converted to agriculture, and Sharp-tailed Grouse were already gone from most of their historic range in Washington. Continued conversion of shrub-steppe habitat to irrigated agriculture, increased settlement, and intensive livestock grazing on remaining patches of habitat contributed to further declines. By the 1950s, Sharp-tailed Grouse had disappeared from at least six counties where they were formerly abundant. In 1970 the population was estimated to be 7,430 birds. In 1997 it was estimated at between 700-1000 birds. There are currently eight isolated subpopulations in Washington, with the Sharp-tailed Grouse occupying a mere 20% of its former range in this state. All the subpopulations are small, and four are highly threatened, with fewer than 25 birds in each group. Two of the remaining populations are made up of fewer than 100 individuals, with two fairly stable populations on protected land. Sharp-tailed Grouse are currently listed by Washington State as "threatened" species and by the Federal Government as "species of special concern." The Conservation Reserve Program helps private landowners set aside habitat for Sharp-tailed Grouse. The Washington Department of Fish and Wildlife is currently researching habitat requirements of Sharp-tailed Grouse in order to know how best to protect them in the future.
+  when_where_wa: The Columbian subspecies historically ranged from southern British Columbia, along the eastern slope of the Cascades south to California, and east to Colorado and Utah. In Washington, they currently remain in only eight isolated populations in Douglas, Lincoln, and Okanogan Counties. The areas with the largest subpopulations are Dyer Hill in Douglas County, Swanson Lakes in Lincoln County, Tunk Valley, and Nespelem in Okanogan County.
+photos:
+- file: stgr_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+- file: stgr_f_jh_l.jpg
+  caption: Female (right) and displaying male.
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: stgr_jh_l.jpg
+  caption: Lekking males.
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: stgr1.mp3
+  credit: null
+maps:
+  wa: typh.jpg
+  north_america: stgrmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: [R, R, R, R, R, R, R, R, R, R, R, R]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [R, R, R, R, R, R, R, R, R, R, R, R]
+taxonomy:
+  ebird_code: shtgro
+  current_common_name: Sharp-tailed Grouse
+  current_scientific_name: Tympanuchus phasianellus
+  clements_sort: 1327
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/sharp-tailed_grouse
+  archived: '2026-09-12'

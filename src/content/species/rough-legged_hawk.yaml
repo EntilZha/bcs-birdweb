@@ -1,0 +1,73 @@
+slug: rough-legged_hawk
+common_name: Rough-legged Hawk
+scientific_name: Buteo lagopus
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Accipitridae
+  slug: accipitridae
+status: Fairly common winter resident.
+species_of_concern: false
+sections:
+  general_description: This winter visitor is a large, soaring hawk named for the feathers that extend down its legs, an adaptation to its northern habitat. Rough-legged Hawks are variable in plumage, with light and dark color phases and variations in between. Dark phases account for only ten percent of western Rough-legged Hawks. Adults are generally mottled light-and-dark underneath, with dark patches at the wrists. Seen from below, the tails of both phases appear light with a dark terminal band. Seen from above, both phases appear mostly dark, but the light phase shows a light tail with a dark terminal band, and the tail of the dark phase appears dark all over. The adult male can have several dark bands at the tip of its tail as compared to the female, which only has one band. The light phase has a distinctive light-colored head, in contrast to its dark upperside. The Rough-legged Hawk's bill and feet are relatively small.
+  habitat: Rough-legged Hawks nest in the Arctic, both in the Old and the New World, mostly in tundra. They also use the northern edge of boreal forest. In winter, they inhabit open fields, plains, marshes, and farmland.
+  behavior: They are usually found singly or in pairs; only rarely are they seen in large groups. They hunt by watching from a perch. Because of their small feet, they are able to stand on a thin perch. They patrol low over the ground, or hover high over a field, watching for movement, then swooping down, talons first, to grab prey.
+  diet: On the breeding grounds of the Rough-legged Hawk, lemmings are an important food source. Voles, mice, ground squirrels, and other small mammals are part of the diet at other times of the year. They have also been known to eat carrion, especially in the winter.
+  nesting: Nests are built on cliffs, slopes, atop large rocks, or on the ground, or, when there are trees nearby, in a tree. The bulky nest is made of sticks, bones, and other debris, lined with twigs, grass, and other fine material. The female incubates the 3 to 5 eggs for 31 days while the male brings her food. The female broods the young, and the male continues to provide them all with food. After a few weeks, the female joins in the hunting. The young first begin to fly at 5 to 6 weeks of age, but remain with the adults for another 3 to 5 weeks.
+  migration_status: Birds leave their Arctic breeding grounds in late fall, with only a few migrating farther south than the central United States. Migrants come to Washington from points north, usually from early October throughout November. The birds return to the Arctic early in spring.
+  conservation_status: Rough-legged Hawk populations vary considerably from year to year, following the population cycles of their lemming prey. These fluctuations make it difficult to assess trends, but Christmas Bird Count data reflect an increase throughout the Northwest over the past 30 years, and the population appears to be healthy.
+  when_where_wa: Every winter Rough-legged Hawks move into eastern and western Washington, and can be found in many large, open habitats. During migration, they can also be seen in the mountains. A few southbound birds are seen as early as mid-August, but they are not common until mid-October. By mid-April they are uncommon, and are not generally seen in Washington after the end of April. Numbers vary greatly from year to year due to prey availability.
+photos:
+- file: rlha_jh_l.jpg
+  caption: 'Adult (light morph). Note: pale head and breast with dark belly, and tailtips that reach end of tail.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+- file: rlha_tg_l.jpg
+  caption: 'Adult (light morph). Note: pale head and breast with dark belly, and tailtips that reach end of tail.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: rlha_gth_l.jpg
+  caption: 'Adult (dark morph). Note: long primary projection (to tip of tail), and dark terminal band to tail.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: rlha_ffl_jh_l.jpg
+  caption: 'Adult (light morph). Note: dark'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: RLHA01.mp3
+  credit: null
+maps:
+  wa: bula.jpg
+  north_america: rlhamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [U, U, U, R, '', '', '', '', '', R, U, U]
+  puget_trough: [F, F, F, U, '', '', '', '', R, U, F, F]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [U, U, U, '', '', '', '', '', '', R, U, U]
+  east_cascades: [R, R, R, R, '', '', '', '', '', R, R, R]
+  okanogan: [F, F, F, U, R, '', '', '', R, F, F, F]
+  canadian_rockies: [F, F, F, U, '', '', '', '', '', U, F, F]
+  blue_mountains: [U, U, R, '', '', '', '', '', '', '', U, U]
+  columbia_plateau: [F, F, F, F, R, '', '', '', R, F, F, F]
+taxonomy:
+  ebird_code: rolhaw
+  current_common_name: Rough-legged Hawk
+  current_scientific_name: Buteo lagopus
+  clements_sort: 8528
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/rough-legged_hawk
+  archived: '2026-09-12'

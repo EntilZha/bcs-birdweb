@@ -1,0 +1,13 @@
+{
+  "extends": "astro/tsconfigs/strict",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "react",
+    "types": ["vitest/globals"]
+  },
+  "include": [".astro/types.d.ts", "**/*"],
+  // tools/ is excluded wholesale: birdweb-editor is a separate npm project with its own
+  // tsconfig and its own Vite, and type-checking it from here collides the two Vite
+  // versions. It is checked by `pixi run editor`'s own build.
+  "exclude": ["dist", "archive", "tools"]
+}

@@ -1,0 +1,73 @@
+slug: common_goldeneye
+common_name: Common Goldeneye
+scientific_name: Bucephala clangula
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common winter. Rare breeder east.
+species_of_concern: false
+sections:
+  general_description: Often found in large rafts outside the breeding season, Common Goldeneyes are frequent winter residents in Puget Sound and on large Washington rivers. The male Common Goldeneye has a dark iridescent-green head that looks black when not in the sun. He also has a prominent round or oval white spot on each side of his face at the base of his black bill. His belly and flanks are white, and his rump is black. His back is mostly white with black bars. The female Common Goldeneye has a gray body, brown head, and yellow eyes. This bird can be very difficult to distinguish from a female Barrow's Goldeneye. The bill of the Common Goldeneye is mostly black with a yellow tip, while that of the Barrow's is mostly yellow. Juveniles are gray with brownish heads, similar to females but with less differentiation between the head and body colors. Consult a field guide or an experienced observer, consider range and habitat, and study nearby males for clues about which female and juvenile goldeneyes might be present.
+  habitat: Common Goldeneyes breed worldwide in northern boreal forests. They prefer clear water in small lakes and ponds that are not overwhelmed with submergent and emergent vegetation and which do not support populations of fish. Goldeneyes are cavity-nesting ducks and generally require forested habitat with mature trees (deciduous or coniferous) that offer suitable nesting cavities. During migration, goldeneyes stop on large lakes and rivers to feed while they move between breeding and wintering habitats. They winter primarily in marine areas, in shallow protected bays, estuaries, and large lakes with a sandy, gravel, or rocky substrate. They are occasionally found on sewage lagoons, and non-breeding birds sometimes summer in these areas.
+  behavior: Common Goldeneyes are diving ducks and forage mostly under water. Often a whole group of goldeneyes will dive at the same time. Goldeneyes are aggressive and territorial, and the male performs spectacular and complex courtship displays. The female commonly lays eggs in the nests of other Common Goldeneyes and other ducks, especially other cavity-nesting ducks.
+  diet: On the breeding grounds, aquatic insects make up the bulk of the diet, and in fact, goldeneyes prefer ponds that lack insect-eating fish which compete for prey. On wintering grounds, mollusks, crustaceans, and fish are the main foods.
+  nesting: Female Common Goldeneyes do not usually start breeding until the age of two years, but yearlings may prospect for future nest sites. Females typically return to the areas where they hatched (philopatry), and once they breed, often return to the same nesting site year after year. Pairs form in late winter or early spring. Nests are located in cavities in large trees, 5 to 60 feet above the ground. Cavities are often old Pileated Woodpecker holes, natural cavities made from torn branches, or artificial nest boxes. The nest itself is a depression in existing material (wood chips, leaves, or material from a previous nest) lined with down. The female typically lays 7 to 10 eggs and incubates them for 28 to 32 days. After one or two weeks of incubation, the pair bond dissolves, and the male begins his molt migration. It is not known whether these pair bonds re-form in the fall, but other sea ducks, including Barrow's Goldeneyes, do re-pair, so it is quite possible that Common Goldeneyes do as well. The young leave the nest one to two days after hatching, and the female leads them to areas with abundant food where they feed themselves. Broods will sometimes join other broods in a large crèche. This most often occurs if the female has abandoned a brood early, or if broods are mixed up during territorial disputes between females. Females abandon the young before they can fly, usually at 5 to 6 weeks of age, but occasionally earlier. The young fledge at 8 to 9 weeks of age.
+  migration_status: After incubation begins, the males undergo a molt migration, which is usually a short distance and often in a northerly direction to larger lakes, bays, and rivers. Then, late in the fall, they migrate medium distances from these staging areas to the wintering grounds, often not arriving until late October or early November. Males winter farther north than females, often as far north as there is open water. Goldeneyes leave for the breeding areas in late February.
+  conservation_status: Common Goldeneyes are more numerous and widespread than Barrow's Goldeneyes. The population appears stable, and numbers have increased in some areas where nest boxes have been provided. Common Goldeneyes have recently begun to take advantage of northern areas with industrial effluent discharge, which keeps the water free of ice in areas that are typically frozen in the winter. The concentration of birds at these sites is of concern since contamination from the effluent is highly possible. Another characteristic of Common Goldeneyes is their tendency to prefer acidified water. Many acid-tolerant insects provide plentiful prey, and most fish cannot live in these highly acid environments, thus reducing competition. Common Goldeneyes' use of these disturbed environments is of concern because of the possible short- and long-term effects of toxins that may also be found in these areas. The cavity-nesting nature of this species makes it vulnerable to logging and other habitat destruction that eliminate natural cavities. Their productivity is relatively low for waterfowl, and their strong fidelity to natal sites makes them slow to colonize new areas, resulting in a population that may be slow to rebound from decreases.
+  when_where_wa: Common Goldeneyes are among the least common breeding ducks in Washington, found nesting only in the northeastern portion of the state, with most birds nesting in north-central and northeastern Canada. From November to April, however, Common Goldeneyes are fairly common on both fresh water and calm salt water in both the eastern and western lowlands. It is one of the most common wintering diving ducks throughout much of Puget Sound, and can be found in large concentrations in the sound and along the Columbia and Snake Rivers.
+photos:
+- file: cogo_jm_dp_l.jpg
+  caption: Male
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+- file: cogo_tg_l.jpg
+  caption: 'Male. Note: round white patch on face and clear white sides.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: cogo_f_tg_l.jpg
+  caption: 'Female. Note: large, darker bill and relatively sloping forehead.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: cogo_fl_gt_l.jpg
+  caption: ''
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: cogo.mp3
+  credit: null
+maps:
+  wa: bucl.jpg
+  north_america: cogomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, F, F, U, R, R, R, R, F, C, C]
+  puget_trough: [C, C, C, F, U, '', '', R, R, U, C, C]
+  north_cascades: [C, C, C, F, R, '', '', '', '', R, C, C]
+  west_cascades: [C, C, C, F, U, '', '', '', U, F, C, C]
+  east_cascades: [C, C, C, U, R, '', '', '', U, F, C, C]
+  okanogan: [U, C, C, C, U, R, R, R, R, C, C, C]
+  canadian_rockies: [C, C, F, F, U, R, R, R, R, F, C, C]
+  blue_mountains: ['', '', '', R, '', '', '', '', '', R, R, R]
+  columbia_plateau: [C, C, C, F, U, R, R, R, R, U, C, C]
+taxonomy:
+  ebird_code: comgol
+  current_common_name: Common Goldeneye
+  current_scientific_name: Bucephala clangula
+  clements_sort: 743
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/common_goldeneye
+  archived: '2026-09-12'

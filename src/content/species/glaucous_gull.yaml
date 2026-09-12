@@ -1,0 +1,73 @@
+slug: glaucous_gull
+common_name: Glaucous Gull
+scientific_name: Larus hyperboreus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Rare winter resident.
+species_of_concern: false
+sections:
+  general_description: An inhabitant of the far north, the Glaucous Gull is a large, pale gull with a large bill. The adult appears very white. Its back and wings are light gray, and the wingtips are white, with no black on the wing. The tail is white. The legs are pink, and the eyes are yellow. The bill is yellow with a red spot. In the non-breeding season, the adult's head is streaked with brown. Birds in breeding plumage have pure white heads and fleshy yellow eye-rings. The Glaucous Gull may be confused with the Glaucous-winged Gull, with which it hybridizes. Like most of the large gulls, this is a '4-year gull,' meaning that it takes 4 years to reach adult plumage, with a different sub-adult plumage each year. Juveniles are mostly white with buff markings. The first-year plumage is distinguished from that of a Glaucous-winged Gull by the distinctly bi-colored bill with a dark tip and a flesh-pink base. This plumage is the one most commonly seen in Washington.
+  habitat: The Glaucous Gull is the only large gull common in the high Arctic. It inhabits cold, coastal bays, estuaries, and offshore areas. In winter, Glaucous Gulls have been found on large inland lakes. Nesting habitat is mainly cliff ledges, islands, and beaches. Foraging habitat includes garbage dumps, fish-processing plants, harbors, mud flats, sewage lagoons, flooded fields, and fish-spawning areas.
+  behavior: The Glaucous Gull usually associates with flocks of other roosting and feeding gulls such as Glaucous-winged and Herring Gulls. A predator and a scavenger, the Glaucous Gull will steal food from other birds. It forages while flying, walking, or swimming. In flight, it picks items off the surface of the water and may catch smaller birds.
+  diet: Glaucous Gulls eat fish and other aquatic creatures, as well as insects, birds, eggs, berries, carrion, and garbage.
+  nesting: Pairs nest in colonies or alone on cliff tops, flat, rocky ground, ice, or snow. Both adults help build the nest, which is a mound of vegetation and miscellaneous debris, depressed in the center. Both incubate the 3 eggs for about 4 weeks. Both parents feed the downy chicks for close to 2 months. The young leave the nest on foot a few days after hatching, and they stay close to the nest until their first flight at 45-50 days, soon after which they become independent.
+  migration_status: Some, mostly younger, birds leave the Arctic and move south for the winter, heading down either coast of North America, or to the Great Lakes. Many remain as far north as there is open water through the winter.
+  conservation_status: Glaucous Gulls are widespread and common in the far north where they are protected from human activities due to the remoteness. High Arctic habitats are slow to rebound from degradation, and these areas should be protected to maintain the population at its current healthy level. Populations in the eastern Bering Sea hybridize with Glaucous-winged Gulls.
+  when_where_wa: The Glaucous Gull is a rare winter visitor in all lowland regions of Washington, found in both fresh and salt water and along sandy and rocky shorelines. West of the Cascades, you can see Glaucous Gulls from mid-November to mid-May. The Elwha River (Clallam County) and the Nisqually Delta (Pierce County) are areas with large congregations of gulls. Look carefully for Glaucous Gulls in the flocks. Between mid-November and March, they can be found east of the Cascades on Banks Lake in Grand Coulee (Grant County). Usually, single birds are found with large flocks of other gulls, and most are first- or second-year birds.
+photos:
+- file: glgu_fl_jp_l.jpg
+  caption: Adult nonbreeding
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: true
+- file: glgu_jp_l.jpg
+  caption: 'Adult nonbreeding (note: primary tips paler than mantle) with Herring Gull on the right.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: glgu_j_jp_l.jpg
+  caption: 'Immature. Note: heavy pink bill with black tip'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: glgu_jfl_gt_l.jpg
+  caption: 'Immature in flight. Note: pale complexion, heavy pink bill with black tip.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: glgu.mp3
+  credit: null
+maps:
+  wa: lahy.jpg
+  north_america: glgumap.gif
+abundance:
+  oceanic: [R, R, R, R, '', '', '', '', '', R, R, R]
+  pacific_northwest_coast: [R, R, R, R, '', '', '', R, R, R, R, R]
+  puget_trough: [R, R, R, '', '', '', '', '', '', '', R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [R, R, R, '', '', '', '', '', '', '', '', R]
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [R, R, R, '', '', '', '', '', '', '', '', R]
+taxonomy:
+  ebird_code: glagul
+  current_common_name: Glaucous Gull
+  current_scientific_name: Larus hyperboreus
+  clements_sort: 6566
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/glaucous_gull
+  archived: '2026-09-12'

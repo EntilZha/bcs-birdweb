@@ -1,0 +1,46 @@
+slug: mottled_petrel
+common_name: Mottled Petrel
+scientific_name: Pterodroma inexpectata
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Procellariidae
+  slug: procellariidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Probably regular far offshore in winter, though seldom seen by birders. Four on Westport (Grays Harbor County) pelagic trip in February 1997; numerous individuals brought within sight of Ocean Shores (Grays Harbor County) jetty during storm in late November 2000. Several records of birds found dead on Pacific beaches, February to July.
+photos:
+- file: mope_sh_l.jpg
+  caption: ''
+  credit:
+    name: Scott Hein
+    url: http://www.heinphoto.com/new_zealand/southern_ocean/D2A_4848-Mottled%20Petrel.htm
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: motpet
+  current_common_name: Mottled Petrel
+  current_scientific_name: Pterodroma inexpectata
+  clements_sort: 7128
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/mottled_petrel
+  archived: '2026-09-12'

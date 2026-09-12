@@ -1,0 +1,67 @@
+slug: golden_eagle
+common_name: Golden Eagle
+scientific_name: Aquila chrysaetos
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Accipitridae
+  slug: accipitridae
+status: Fairly common resident, mostly east.
+species_of_concern: true
+sections:
+  general_description: Golden Eagles are solid brown as adults, with golden highlights on their heads, the leading edges of their wings, and their legs. The juvenile has a white patch on each wing and white at the base of its tail. Both the juvenile and the adult have golden plumage at the napes of their necks. Golden Eagles are similar in size to Bald Eagles, but with smaller heads and bills. They have feathers down their legs to their toes.
+  habitat: During the nesting season, Golden Eagles require open areas with large, rocky cliffs or large trees, such as Ponderosa pines. They are often found in alpine parkland and mid-elevation clear-cuts, as well as in shrub-steppe areas and open forests.
+  behavior: Golden Eagles typically soar at high altitudes; they may also be seen perched on poles or cliff edges. They drop down on prey and capture it in their talons. Pairs will sometimes hunt together. They make dramatic, acrobatic display flights to solidify the pair bond and to defend their territories. Golden Eagles require large territories.
+  diet: Golden Eagles eat mostly mid-sized mammals, especially marmots, rabbits, and ground squirrels. They also prey on birds, including the Rock Doves that inhabit their nesting area. Although they scavenge less often than Bald Eagles, they will eat carrion of deer and elk, especially in winter. In early spring, they often consume the afterbirth of cows and sheep.
+  nesting: Golden Eagles are monogamous, and long-term pair bonds are typical. A pair may reuse its nest, adding more material each year. Both sexes help build the nest on a cliff ledge or in a large tree. Pairs may have two or more nest sites and alternate between sites from year to year. The nest is a bulky platform of sticks, lined with weeds, moss, and other fine material. Both members of the pair incubate the two eggs for 41 to 45 days. The female spends the first few weeks brooding the young, while the male brings food. Later, both adults bring food. The young fledge at 60 to 70 days.
+  migration_status: Northern birds are migratory, but throughout the western US and southwest Canada, only the juveniles may migrate south while the adults remain permanent residents. During periods of heavy snow, many of Washington's Golden Eagles move down into valleys or out of Washington altogether, but return in early spring. Southbound movements also occur along the Cascade Crest in September, through habitats with plentiful marmots, or along the high ridges of the shrub-steppe zone, where black-tailed jackrabbits and ground squirrels are common.
+  conservation_status: The Golden Eagle has declined across North America due to harassment by humans and habitat destruction, mainly shrub-steppe decline and degradation. Cheat grass invasion and the conversion of wild land to agricultural use have reduced their prey base considerably, especially the jackrabbit, a major source of food for this species. Historically, Golden Eagles have been perceived as threats to range animals, and were frequently killed by ranchers. Current populations are considered stable range-wide. In Washington, the Golden Eagle is a candidate for the state endangered species list. Christmas Bird Count data suggest that these eagles are declining in the Northwest, although the causes are unknown.
+  when_where_wa: Golden Eagles can be seen more or less year round in Washington. They are permanent residents in many areas of eastern Washington where they are common in appropriate habitat along the eastern Cascades. They are uncommon in the northeastern portion of the state and in southeastern Washington along the Snake and Grande Ronde Rivers. Yakima Canyon and the Yakima Training Center support high densities of prey and a few Golden Eagles. During February and March, northbound migrants concentrate along Rattlesnake Ridge (Yakima County). In western Washington, although rare in the winter, the Golden Eagle can be found in the dry rain-shadow to the east of the Olympic Mountains, (San Juan and Orcas Islands in San Juan County) and the large volcanoes. They are very rare in the remainder of western Washington.
+photos:
+- file: goea_fl_tg_l.jpg
+  caption: ''
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: goea_fl_gth_l.jpg
+  caption: 'Juvenile in flight. Note: white wing patches and white base of tail.'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: goea.jpg
+  caption: ''
+  credit:
+    name: Seattle Audubon
+    url: http://seattleaudubon.org/sas/
+  hero: true
+audio:
+  file: GOEA01.mp3
+  credit: null
+maps:
+  wa: aqch.jpg
+  north_america: goeamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, R, R, R, R, R, R, R, R, R]
+  puget_trough: [R, R, R, R, R, R, R, R, R, R, R, R]
+  north_cascades: [R, R, R, R, U, U, U, U, U, R, R, R]
+  west_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  east_cascades: [U, U, U, U, U, U, U, U, U, U, U, U]
+  okanogan: [U, U, F, F, U, U, U, U, U, F, F, U]
+  canadian_rockies: [U, U, U, U, U, U, U, U, U, U, U, U]
+  blue_mountains: [U, U, U, U, U, U, U, U, U, U, U, U]
+  columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
+taxonomy:
+  ebird_code: goleag
+  current_common_name: Golden Eagle
+  current_scientific_name: Aquila chrysaetos
+  clements_sort: 8064
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/golden_eagle
+  archived: '2026-09-12'

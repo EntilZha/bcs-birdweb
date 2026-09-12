@@ -1,0 +1,59 @@
+slug: brewers_blackbird
+common_name: Brewer's Blackbird
+scientific_name: Euphagus cyanocephalus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Icteridae
+  slug: icteridae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: Adult male Brewer's Blackbirds are black with iridescent, purple-green plumage during the breeding season. Non-breeding and first-year males are brownish-black, with less iridescence than mature males in breeding season. Males in all plumages have yellow eyes. Females are dull gray-brown and have brown eyes. They are fairly slender birds, with long wings and tails.
+  habitat: Brewer's Blackbirds are most often associated with agricultural fields that have brushy edges. They can be found in other open areas as well, including parks, campgrounds, parking lots, wetlands, and suburban and urban settings. In Washington, they are also seen in shrub-steppe habitats, especially around grazing areas.
+  behavior: Brewer's Blackbirds form flocks outside of the breeding season, and may winter in mixed flocks with other blackbirds. They typically forage on the ground and often follow farm machinery, taking advantage of food turned up by plows.
+  diet: Insects, seeds, berries, and waste grain make up the Brewer's Blackbird's diet.
+  nesting: Brewer's Blackbirds are monogamous and sometimes nest in small, loose colonies. They usually nest in trees, but may nest on the ground, in shrubs, or in tall grass. The female builds a bulky, open cup-nest of twigs, grass, weeds, and needles, lined with grass, rootlets, and hair. Mud or manure often holds the base together. The female incubates 4 to 6 eggs for 12 to 14 days, and both male and female feed the young. The young leave the nest 13 to 14 days after hatching. Each pair raises one or two broods a year.
+  migration_status: Some Brewer's Blackbirds are year-round residents, and some (generally those that breed at higher altitudes or in more northern areas) migrate into milder areas. The birds that migrate move to the more moderate lowlands of the state including western interior valleys, Puget Sound, and the Columbia lowlands, or they travel farther south to areas across the southern United States and Mexico.
+  conservation_status: Brewer's Blackbirds have benefited from the conversion of eastern Washington shrub-steppe habitat into farmland. Other human development has also been beneficial for this widespread and abundant species, as it does well in human-altered habitats. Christmas Bird Count data suggest that the wintering population of Brewer's Blackbirds in Washington may be in decline. However, this may be a reflection of Christmas Bird Counts that have been added within the past thirty years in areas where Brewer's Blackbirds are not common. The Breeding Bird Survey shows a small, not statistically significant increase in population between 1980 and 2002.
+  when_where_wa: Brewer's Blackbirds are permanent residents throughout much of Washington. Large groups gather in the fall at feedlots. They can be abundant in the Puget Trough and Columbia Basin (to the Tri-Cities area) in winter. As breeders, they are more common in eastern Washington (where they are common throughout) than in western Washington. In western Washington, they commonly breed throughout lowlands in the Puget Trough, from the San Juan Islands, west to Sequim (Clallam County), south to Vancouver (Clark County), and west to Grays Harbor (Grays Harbor County).
+photos:
+- file: brbl_gt_l.jpg
+  caption: Male
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: brbl_f_gt_l.jpg
+  caption: 'Female. Note: dark eye, thin dark bill, and drab gray-brown overall.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio: null
+maps:
+  wa: eucy.jpg
+  north_america: brblmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, F, F, F, F, F, F, F, F, F]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [U, U, F, F, F, F, F, F, F, F, F, U]
+  west_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  east_cascades: [U, U, U, U, F, F, F, F, U, U, U, U]
+  okanogan: [U, U, U, C, C, C, C, C, U, U, U, U]
+  canadian_rockies: ['', '', '', F, F, F, F, C, C, F, '', '']
+  blue_mountains: ['', '', R, U, F, F, F, F, U, '', '', '']
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: brebla
+  current_common_name: Brewer's Blackbird
+  current_scientific_name: Euphagus cyanocephalus
+  clements_sort: 33851
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/brewers_blackbird
+  archived: '2026-09-12'

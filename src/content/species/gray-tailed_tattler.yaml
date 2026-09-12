@@ -1,0 +1,46 @@
+slug: gray-tailed_tattler
+common_name: Gray-tailed Tattler
+scientific_name: Tringa brevipes
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One record, in October at Leadbetter Point (Pacific County).
+photos:
+- file: gtta_re_l.jpg
+  caption: Leadbetter Point, WA; 13 Octobert 1975
+  credit:
+    name: Robert M. Evans
+    url: null
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: gttamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: gyttat1
+  current_common_name: Gray-tailed Tattler
+  current_scientific_name: Tringa brevipes
+  clements_sort: 6133
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/gray-tailed_tattler
+  archived: '2026-09-12'

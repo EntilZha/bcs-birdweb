@@ -1,0 +1,67 @@
+slug: california_gull
+common_name: California Gull
+scientific_name: Larus californicus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Common resident.
+species_of_concern: false
+sections:
+  general_description: A medium-sized gull, the California Gull has the typical 'gull-like' appearance'slate-gray back and wings, white head and body, and black wingtips with white spots. The black on the wingtips is more extensive than that of other gulls. The California Gull's eye is dark, and its legs are greenish-yellow. The beak is yellow with red and black marks. Juveniles are, to varying degrees, mottled brown and white, mixed with the adult plumage, with pink legs and beak. It takes four years for California Gulls to mature. This gull is intermediate in size between the smaller Ring-billed Gull and the larger Herring Gull, both of which it resembles.
+  habitat: The California Gull is an inland breeding bird but may be seen at any season in marine habitats. It is common far from land in late summer and fall. As a breeder, it can survive in habitats that are too harsh for Herring and Ring-billed Gulls. During the breeding season, California Gulls inhabit lakes, farms, and marshes. They typically nest on gravel islands in large rivers or lakes. In winter, they spend time in nearly every habitat found along the Pacific Coast.
+  behavior: California Gulls use a variety of foraging strategies, feeding while walking, wading, swimming, or flying. They are often seen on farms or in fields, following behind the plows and picking up insects uncovered by the machinery. They have also been reported to lie in wait for rodents to be flooded out of their holes when fields are irrigated.
+  diet: In Washington, California Gulls feed in agricultural lands, cities, and wetlands near their nesting areas. In agricultural areas in this state, they feed primarily on small rodents. Insects, fish, eggs, and garbage are also part of the diet of this opportunistic feeder.
+  nesting: California Gulls begin breeding at the age of four. They are colony nesters, sometimes in mixed colonies with Ring-billed or Herring Gulls, although they don't typically hybridize with either of those species. The colonies are usually large and are often on an island. Nests are located on the ground, and may be quite close together. The birds form monogamous pair bonds for the duration of the breeding season and may re-pair in succeeding seasons. However, they often pair with different birds, even when both members of a former pair are still alive. Both help build the nest, a shallow scrape in the ground lined with weeds, bones, feathers, and other debris. Clutches are usually 2-3 eggs, and nests with more than 3 eggs are attributed to multiple females. Both parents help incubate the eggs for about 3½ weeks. The young leave the nest after a few days, but stay nearby, fed regurgitated food by their parents until they can fly at the age of about 6½ weeks.
+  migration_status: Most California Gulls breed in the interior and migrate to the Pacific Coast. Some birds winter inland, and others, especially younger birds, remain in coastal areas throughout the summer.
+  conservation_status: Known as the gull that rid the early Mormon settlers in Utah of plagues of grasshoppers, the California Gull is still considered a beneficial species throughout its range, although it has been associated with some crop damage. It is similar in its requirements to the Ring-billed Gull, but its population is smaller and its range more limited. The creation of many dams in eastern Washington has increased nesting habitat there, resulting in significant population increases in the past 50 years. Garbage dumps serve as a source of winter food, helping to sustain the population throughout the year. In 1996 there were 2,000 pairs of California Gulls nesting in Benton County, 4,000 in Walla Walla County, and 1,000 in Klickitat County.
+  when_where_wa: In winter, California Gulls can be found all along the coastline, and also well offshore. It is the only Pacific gull that follows offshore ships in the summer and fall. Small numbers can also be seen on water throughout the Puget Trough in the winter. (It is common from the end of March to early November in Washington.) Breeders can be found in the Columbia Basin and along the Columbia River in Klickitat County. In Grant County, there is a nesting colony by Dry Falls Dam. During summer, small numbers of non-breeders are seen throughout the Puget Trough and along the outer coast, especially at the mouth of the Columbia River. During migration, it is common in offshore, coastal, and western Washington regions. Migrants have also been reported at high elevations throughout the Cascades.
+photos:
+- file: cagu_jp_l.jpg
+  caption: 'Adult breeding. Note: relatively dark mantle, red and black on tip of the bill and yellow legs'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: true
+- file: cagu_wfl_jp_l.jpg
+  caption: 'Adult nonbreeding. Note: dark brown streaking on back of head/neck.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: cagu_j_jp_l.jpg
+  caption: '1st year. Note: pale face and bicolored bill.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+audio:
+  file: cagu.mp3
+  credit: null
+maps:
+  wa: lacal.jpg
+  north_america: cagumap.gif
+abundance:
+  oceanic: [R, R, R, R, U, F, C, C, C, C, R, R]
+  pacific_northwest_coast: [R, R, R, F, F, U, C, C, C, C, R, R]
+  puget_trough: [R, R, R, U, U, F, C, C, C, C, F, R]
+  north_cascades: [R, R, R, R, R, '', R, R, R, R, R, R]
+  west_cascades: [U, U, F, C, C, C, C, C, C, F, U, U]
+  east_cascades: [U, U, F, C, C, C, C, C, F, F, U, U]
+  okanogan: [F, F, F, C, C, C, C, C, C, C, F, F]
+  canadian_rockies: ['', '', '', '', U, U, R, '', '', '', '', '']
+  blue_mountains: ['', '', '', '', R, R, R, R, '', '', '', '']
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: calgul
+  current_common_name: California Gull
+  current_scientific_name: Larus californicus
+  clements_sort: 6591
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/california_gull
+  archived: '2026-09-12'

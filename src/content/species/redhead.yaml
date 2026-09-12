@@ -1,0 +1,73 @@
+slug: redhead
+common_name: Redhead
+scientific_name: Aythya americana
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Common resident east. Rare west.
+species_of_concern: true
+sections:
+  general_description: Female and juvenile Redheads are brownish-gray overall, with gray legs, black eyes and a gray bill with a black tip. Males in breeding plumage have a gray body, black rump and breast, and a bright rufous head with a yellow eye and a light blue bill with a black tip. The male in non-breeding plumage (from July to September) is overall dark brown, but still has a dull reddish head. Redheads are a little smaller than the similar looking Canvasbacks, with a rounder head, a lighter back, and a more typically duck-shaped bill.
+  habitat: Redheads nest on marshy freshwater lakes, ponds, slow moving rivers and other wetlands in prairie zones. During migration they gather on large lakes and they spend the winter on sheltered saltwater bays and estuaries and some inland lakes.
+  behavior: Redheads usually gather in small flocks, often mixed with other diving duck species. But in the winter they congregate in very large flocks, made up of tens of thousands of birds. Although they are considered divers, they often feed by dabbling. A notable behavior of the Redhead is their tendency to parasitize, or lay eggs in other duck's nests. Many ducks will lay eggs in each others nests, but the Redhead takes this practice to another level. Female Redheads regularly parasitize each other, and at least ten other species of duck, and some non-duck species as well. Most females parasitize in addition to raising their own brood, but some females may be entirely parasitic, not raising their own brood at all. Sometimes, dump nests occur that are untended and never incubated, but may have up to 87 eggs in them.
+  diet: The leaves, stems, seeds and roots of aquatic plants make up the majority of the diet. Many aquatic invertebrates are also eaten, especially in the summer.
+  nesting: Nests are located close together in dense marshes, especially areas with dense bulrush, above shallow water or on dry land. The female builds a bulky bowl out of vegetation and, if it is in water, anchors it to some emergent vegetation. The nest is then lined with down. Actual clutch size is difficult to determine due to the Redhead's parasitism, but clutch size usually ranges between 6-14 eggs. The female incubates for about 23-29 days, during which time, the male leaves. About a day after hatching, the female leads the young away from the nest to water, where they feed themselves. The young are capable of flight after 60-65 days.
+  migration_status: After pair bonds dissolve the males may fly hundreds of miles north to gather on large lakes and go through a flightless stage. The main migration is fairly early in the fall, peaking in August and September. Spring migration usually lasts from February to May. The Redhead is the only duck that winters in greater numbers in the interior rather than on the coast, and in Washington numbers during migration are heavier in the eastern half of the state than the west.
+  conservation_status: Although still a common duck, the total population of Redheads is far below historic levels and they have experienced a sharper decline than most ducks in recent years. Loss of nesting habitat is their greatest threat. Distribution patterns of Redheads changed dramatically during the 20th century and they are now common in some areas where they used to be scarce.
+  when_where_wa: The Redhead is one of the most common ducks east of the Columbia River during the breeding season, although it is less common in much of the southern Columbia Basin. Many spend the winter in eastern Washington, but they are much less common during this season than the breeding season. In western Washington, Redheads are a rare breeder, with two confirmed nesting records west of the Cascades. During fall migration they are uncommon in the west (mid-October to mid-November) and uncommon to rare through the winter (until the end of April).
+photos:
+- file: redh_m_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: redh_gl_l.jpg
+  caption: 'Male. Note: short blue bill and gray body.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: redh_f_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: redh_f_jh_l.jpg
+  caption: 'Female. Note: rounded head and dull pale bill.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: false
+audio:
+  file: redh.mp3
+  credit: null
+maps:
+  wa: ayam.jpg
+  north_america: redhmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [R, R, R, R, R, '', '', '', R, R, R, R]
+  puget_trough: [R, R, R, R, R, R, R, R, R, R, R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [R, R, R, R, '', '', '', '', '', R, R, R]
+  east_cascades: [U, U, U, U, R, '', '', R, R, U, U, U]
+  okanogan: [U, F, C, C, C, C, C, C, C, C, C, U]
+  canadian_rockies: [F, F, F, F, U, U, U, U, F, F, F, F]
+  blue_mountains: ['', '', '', R, R, '', '', '', R, R, R, '']
+  columbia_plateau: [C, C, C, C, C, C, C, C, C, C, C, C]
+taxonomy:
+  ebird_code: redhea
+  current_common_name: Redhead
+  current_scientific_name: Aythya americana
+  clements_sort: 667
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/redhead
+  archived: '2026-09-12'

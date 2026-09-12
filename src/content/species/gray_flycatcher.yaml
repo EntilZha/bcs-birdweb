@@ -1,0 +1,67 @@
+slug: gray_flycatcher
+common_name: Gray Flycatcher
+scientific_name: Empidonax wrightii
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Tyrannidae
+  slug: tyrannidae
+status: Fairly common summer resident east.
+species_of_concern: true
+sections:
+  general_description: The Gray Flycatcher is pale grayish overall, and its underparts are paler than those of the other Empidonax flycatchers. It has two white wing-bars and an uneven white eye-ring.
+  habitat: Across much of its range, the Gray Flycatcher prefers sagebrush and juniper. In Washington, however, it is primarily a bird of open Ponderosa pine forests with grassy understories. It does extend into sagebrush in some parts of Washington, but mostly sticks to park-like Ponderosa pine stands lacking a shrub-layer. Most of these stands have been logged or thinned, some multiple times.
+  behavior: One of the best ways to distinguish between Gray and other Empidonax flycatchers is through behavior. While most Empids flick their tails in a rapid up-down motion, Gray Flycatchers flick their tails much more slowly. The pattern is down, then up; the others flick the tail up, then down. When foraging, they watch from an exposed perch, flying out to catch prey in mid-air, on the ground, or in the foliage. When they overlap with Dusky Flycatchers, they will defend territories from Duskies.
+  diet: Gray Flycatchers eat insects.
+  nesting: This monogamous species sometimes occurs in loose colonies when habitat is favorable. In Ponderosa pine habitat, nests are typically placed on a large, horizontal branch, against the trunk. The female builds the nest, although the male sometimes helps. The nest is a bulky cup of loose grass, needles, bark, and other material, lined with plant down, feathers, and hair. The female incubates three to four eggs for 14 to 15 days. Both parents feed the young, which leave the nest at about 16 days. The parents continue to feed the young for another 14 days. Over much of their breeding range, they lay a second clutch after the first clutch fledges.
+  migration_status: Gray Flycatchers migrate shorter distances than many of their relatives, wintering in southern Arizona, Baja California, and Mexico. They arrive in Washington at the end of April and leave in August.
+  conservation_status: Gray Flycatchers were first recorded in Washington in 1970, and first found breeding here in 1972. Since then, they have expanded their range considerably, reaching southern British Columbia in 1986. This rapid expansion may have been due to forest management practices that cleared understory and thinned stands of Ponderosa pine forests, creating the park-like habitat that Gray Flycatchers prefer.
+  when_where_wa: Gray Flycatchers are very rare in western Washington, and are more likely to be seen in Eastern Washington Ponderosa pine forests and shrub-steppe. They are seldom spotted in Washington during migration.
+photos:
+- file: grfl_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: grfl_ad2_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: grfl_gl_l.jpg
+  caption: 'Note: pale gray overall, short primary projection, longer bill, and pale lower mandible with dark tip.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio:
+  file: GRFL01.mp3
+  credit: null
+maps:
+  wa: emwr.jpg
+  north_america: grflmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', U, U, U, U, R, '', '', '']
+  okanogan: ['', '', '', U, F, F, F, F, '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', R, R, R, R, '', '', '', '']
+  columbia_plateau: ['', '', '', '', U, U, U, U, U, '', '', '']
+taxonomy:
+  ebird_code: gryfly
+  current_common_name: Gray Flycatcher
+  current_scientific_name: Empidonax wrightii
+  clements_sort: 16965
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/gray_flycatcher
+  archived: '2026-09-12'

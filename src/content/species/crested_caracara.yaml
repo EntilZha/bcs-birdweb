@@ -1,0 +1,52 @@
+slug: crested_caracara
+common_name: Crested Caracara
+scientific_name: Caracara cheriway
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Falconidae
+  slug: falconidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: 'Sightings of Crested Caracara in the Pacific Coast states were long considered suspect due to the possibility that they represented birds escaped from captivity. However, a recent upsurge of records has led to a reconsideration. The Washington Bird Records Committee has now accepted three records as "wild" birds: Ocean Shores (Grays Harbor County) in August 1983, Neah Bay (Clallam County) in January 1998, and Oakville (Grays Harbor County) in May 2006.'
+photos:
+- file: crca1_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: crca2_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: y00678
+  current_common_name: Crested Caracara
+  current_scientific_name: Caracara plancus
+  clements_sort: 11962
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/crested_caracara
+  archived: '2026-09-12'

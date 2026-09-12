@@ -1,0 +1,64 @@
+slug: eurasian_hobby
+common_name: Eurasian Hobby
+scientific_name: Falco subbuteo
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Falconidae
+  slug: falconidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One record, from Discovery Park, Seattle (King County), in October 2001.
+photos:
+- file: euhopc.jpg
+  caption: ''
+  credit:
+    name: Paul Cozens
+    url: null
+  hero: false
+- file: euho_a_do_l.jpg
+  caption: Adult
+  credit:
+    name: Daniele Occhiato
+    url: http://www.pbase.com/dophoto
+  hero: true
+- file: euho_fl_do_l.jpg
+  caption: Adult in flight
+  credit:
+    name: Daniele Occhiato
+    url: http://www.pbase.com/dophoto
+  hero: false
+- file: euho_jfl_do_l.jpg
+  caption: Juvenile in flight
+  credit:
+    name: Daniele Occhiato
+    url: http://www.pbase.com/dophoto
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: eurhob
+  current_common_name: Eurasian Hobby
+  current_scientific_name: Falco subbuteo
+  clements_sort: 12073
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/eurasian_hobby
+  archived: '2026-09-12'

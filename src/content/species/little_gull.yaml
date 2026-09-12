@@ -1,0 +1,59 @@
+slug: little_gull
+common_name: Little Gull
+scientific_name: Larus minutus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Rare migrant and winter west.
+species_of_concern: false
+sections:
+  general_description: The smallest of the gulls, the Little Gull has a short, narrow bill, red legs, and a short tail. In breeding plumage, the adult has a dark hood with a black eye and bill. Non-breeding plumage is similar, but the head is white, smudged with black, with a black ear-spot behind the eye. The body coloration is typical of gull plumage from above, but both breeding and non-breeding adults have dark underwings with pale wingtips, which are distinctive in flight. Juveniles are mottled dark brown, mixed with varying degrees of adult plumage characteristics. In flight, juveniles have a dark 'W' across the underwing.
+  habitat: Breeding habitat is mostly inland around low-lying marshy areas near lakes. Winter habitat is along coasts in protected shallow estuaries, mudflats, and beaches, and nearby fresh water lakes.
+  behavior: Lone Little Gulls are often found amidst flocks of Bonaparte's Gulls and terns. They often forage in flight, flying slowly low over the water and dropping down to pluck items from the surface. They also land on the water and feed from a swimming or wading position.
+  diet: In the summer, small insects make up the majority of the diet. Small crustaceans, mollusks, small fish, and other aquatic creatures round out the diet the rest of the year.
+  nesting: A primarily Eurasian species, where they breed in colonies, Little Gulls in North America usually nest in small colonies or isolated pairs. Nests are on the ground, near water. Both sexes help build a nest of grass, weeds, and leaves with a shallow depression in the middle. Both help incubate the 2 to 3 eggs for about 3½ weeks. Both parents help tend the young, which leave the nest shortly after hatching, but stay close by. Three to four weeks later, they fledge.
+  migration_status: Migratory movements in North America are not well known.
+  conservation_status: How the Little Gull ended up in North America is unknown. Some argue that it has always occurred here in small numbers. Others claim that it colonized by way of the Bering Sea. A third theory is that Little Gulls came across the Atlantic. The first known record of a Little Gull in North America is from 1820, and the first nesting record is from 1962. As of 1999, there had been only 67 confirmed or probable nesting reports documented in North America. Most of these were in wetlands in the Great Lakes and St. Lawrence River regions. The first appearance in Washington was in the fall of 1974. It has now been recorded up and down the West Coast throughout the year. The nesting population in North America may not be self-sustaining, and is supplemented by an influx of European vagrants.
+  when_where_wa: In Washington, sightings of the Little Gull are rare and occur primarily in the fall (September-November) in coastal and western Washington regions in aquatic habitats. Look for them in mixed flocks with Bonaparte's Gulls. American Lake near Fort Lewis (Pierce County) and Point No Point (Kitsap County) are traditional sites for this species.
+photos:
+- file: ligu_j_gt_l.jpg
+  caption: 'Immature (1st winter) in front of 1st winter Bonaparte''s Gull. Note: bright red legs, dark carpal bar on wing and dark cap.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+- file: ligu_jfl_gt_l.jpg
+  caption: 'Immature (1st winter) in flight. Note: dark carpal bar on top of wing and dark cap.'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+audio: null
+maps:
+  wa: lami.jpg
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: [R, '', R, R, '', '', '', '', '', R, R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: litgul
+  current_common_name: Little Gull
+  current_scientific_name: Hydrocoloeus minutus
+  clements_sort: 6447
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/little_gull
+  archived: '2026-09-12'

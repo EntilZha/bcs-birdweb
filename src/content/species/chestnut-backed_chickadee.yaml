@@ -1,0 +1,55 @@
+slug: chestnut-backed_chickadee
+common_name: Chestnut-backed Chickadee
+scientific_name: Poecile rufescens
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Paridae
+  slug: paridae
+status: Common resident west. Fairly common east.
+species_of_concern: false
+sections:
+  general_description: With their white cheeks and dark caps and throats,Chestnut-backed Chickadees look much like Black-capped Chickadees. However the caps of Chestnut-backs are brown rather than black, and their backs, shoulders, and sides are a deep chestnut color. They are also slightly smaller than Black-capped Chickadees. Males, females, and juveniles share similar plumage.
+  habitat: Chestnut-backed Chickadees favor dense, moist, coniferous forests. They can be found from the lowlands up to the tree line, wherever there is a wet, closed-canopy forest.
+  behavior: During the breeding season Chestnut-backed Chickadees are territorial, but they join mixed-species flocks in winter. They forage by hopping along twigs and branches and gleaning their surfaces or by probing into bark crevices for food. They often hang upside-down to get at the undersides of branches and needles. They readily come to seed and suet feeders. Chestnut-backed Chickadees store food in the fall and retrieve it in winter.
+  diet: Insects, spiders, conifer seeds, and berries make up most of these omnivores' diets. They also readily eat suet and birdseed supplied by humans.
+  nesting: Much of the nesting biology of Chestnut-backed Chickadees is not well known. They are monogamous, and pairs may excavate their own nest cavity (in soft rotten wood) or may use an old woodpecker hole or other cavity, including artificial nest boxes. The female builds a foundation of moss, lichen, and other material within the nest cavity, and then adds a lining of soft hair. She incubates 6 to 7 eggs. Incubation length is not well known, but incubation times for most chickadee species are about two weeks. Both members of the pair tend the young, but details of nestling time and time to independence are not well known.
+  migration_status: During some winters Chestnut-backed Chickadees in colder climates may wander short distances, mostly as a result of food shortages. For the most part, however, they are permanent residents.
+  conservation_status: When Northwest coniferous forests are clear-cut, hardwoods are often the first trees to grow in their place. Thus, clear-cutting favors Black-capped Chickadees, which prefer deciduous vegetation, over the conifer-specialized Chestnut-backeds. Although the Breeding Bird Survey has not detected significant trends in Washington, and Christmas Bird Count data reflect an increase throughout the Northwest, Chestnut-backed Chickadees have declined in the Seattle urban area. Audubon-Washington includes this species on its list of species-at-risk.
+  when_where_wa: Chestnut-backed Chickadees are permanent residents in wet coniferous forests throughout the state. The majority of these habitats are in western Washington, where this bird is abundant, but some areas of eastern Washington provide suitable habitat as well. Chestnut-backeds are probably the most abundant chickadee species west of the Puget Trough and are the only chickadee just to the north on Vancouver Island, BC.
+photos:
+- file: cbch_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+audio:
+  file: cbch2.mp3
+  credit: null
+maps:
+  wa: paru.jpg
+  north_america: cbchmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [C, C, C, C, C, C, C, C, C, C, C, C]
+  puget_trough: [C, C, C, C, C, C, C, C, C, C, C, C]
+  north_cascades: [C, C, C, C, C, C, C, C, C, C, C, C]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: [U, U, U, U, U, U, U, U, U, U, U, U]
+  canadian_rockies: [F, F, F, F, F, F, F, F, F, F, F, F]
+  blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: chbchi
+  current_common_name: Chestnut-backed Chickadee
+  current_scientific_name: Poecile rufescens
+  clements_sort: 22094
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/chestnut-backed_chickadee
+  archived: '2026-09-12'

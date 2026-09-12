@@ -1,0 +1,64 @@
+slug: wilsons_phalarope
+common_name: Wilson's Phalarope
+scientific_name: Phalaropus tricolor
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Scolopacidae
+  slug: scolopacidae
+status: Fairly common summer east. Rare west.
+species_of_concern: true
+sections:
+  general_description: Of the three phalaropes in Washington, the Wilson's Phalarope has the longest bill and legs. The female in breeding plumage has a gray back with chestnut and black on the wings. She has a bold, black stripe running from her bill across her eye and down the side of her neck. Her head is gray above the dark stripe and white below. The front of her neck is salmon-colored. Her rump and undersides are solid white. Males vary in brightness, but are gray above and white below, with a white throat and face. The back of the male's neck is brownish, and his face is white, bisected by a dark eye-line. In breeding plumage, adults of both sexes have black legs. During the non-breeding season, both sexes look similar--gray above and white below, with yellow legs. Their faces are white, and their throats are gray. In flight, they are solid white below. Their wings are solid gray, with no white stripe. They have white rumps and light gray tails. Juveniles look similar but are mottled gray-brown above. They keep this plumage for a very short period of time, so juvenile plumage is not often observed in Washington.
+  habitat: Wilson's Phalaropes are found mostly on fresh water, but during migration they can also be found in small numbers on salt water. They breed in shallow, prairie wetlands in the northern US and southern Canada. During migration, they inhabit shallow ponds, flooded fields, and sometimes mudflats. Wilson's Phalaropes winter on large, shallow ponds and saline lakes in southern South America.
+  behavior: These active birds pick small bits of food from the water's surface. When swimming, they spin in tight circles and create upwellings of food, although Wilson's Phalaropes do this less than the other two phalaropes. In comparison to Red and Red-necked Phalaropes, Wilson's Phalaropes forage more often in shallow water or on shore. They regularly occur with American Avocets and Black-necked Stilts, but they forage in denser habitat and run about more actively than other shoreline-foragers.
+  diet: Wilson's Phalaropes eat aquatic insects and small crustaceans. When they are on saline lakes, they eat brine shrimp and brine flies.
+  nesting: Females arrive on the breeding grounds before males. When the males arrive, the females compete for mates. Some females attract multiple males, but monogamy is more common. The male builds the nest, which is a scrape lined with grass, concealed in dense, tall grass or sedge near the water. After laying four eggs, the female leaves the male to provide all parental care. He incubates the eggs for around 23 days and tends the brood after they hatch. The young leave the nest within a day of hatching and find their own food.
+  migration_status: Female Wilson's Phalaropes leave the breeding grounds after they finish laying eggs. Males follow as soon as the young are independent. They migrate to staging areas on large western lakes (Summer Lake and Malheur Lake in Oregon, and Mono Lake in California) where they molt before their long journey to South America.
+  conservation_status: The Canadian Wildlife Service estimates the population of Wilson's Phalaropes at 1,500,000 birds. They are listed on the Audubon~Washington watch list as a species-at-risk. Much of their prairie breeding habitat has been lost due to the destruction and draining of marshes. Concentrating in a few major staging areas during migration also puts them at risk. They do shift and adapt their breeding range to take advantage of new habitat. While they no longer breed in some areas (Nisqually National Wildlife Refuge in Pierce County is one example), they have expanded into many new areas across the West. This adaptability will help the Wilson's Phalarope fit into the changing landscape. These birds do not seem to be as flexible about staging areas, and the protection of these lakes is important to maintain the species at its current numbers.
+  when_where_wa: |-
+    Wilson's Phalaropes are most easily found in eastern Washington, where they are fairly common breeders in appropriate habitat--mostly east of the Columbia and Okanogan Rivers, especially in the Potholes area (Grant County) and the Okanogan Valley (Okanogan County). Breeding Wilson's phalaropes have also been found in some years in the Ridgefield and Nisqually National Wildlife Refuges and in the Everett area.
+
+    Wilson's Phalaropes are rare visitors to Washington's coast from late April to early October. These migrants are seen more commonly in western Washington in spring than in fall. In eastern Washington, a few start to arrive in early April, and numbers build throughout the month. By late April, they are common. They stay through July, but numbers drop in August, and they are rare by September when the last migrants leave for the winter.
+photos:
+- file: wiph_fbr_dp_l.jpg
+  caption: Breeding plumage female.
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: true
+- file: wiph_w_dp_l.jpg
+  caption: Winter plumage.
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+audio:
+  file: wiph.mp3
+  credit: null
+maps:
+  wa: phtr.jpg
+  north_america: wiphmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', R, R, R, R, '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', R, R, R, R, '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', U, U, U, U, '', '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, '', '', '', '', '']
+  blue_mountains: ['', '', '', '', R, '', '', R, '', '', '', '']
+  columbia_plateau: ['', '', '', R, C, C, C, C, U, '', '', '']
+taxonomy:
+  ebird_code: wilpha
+  current_common_name: Wilson's Phalarope
+  current_scientific_name: Phalaropus tricolor
+  clements_sort: 6119
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/wilsons_phalarope
+  archived: '2026-09-12'

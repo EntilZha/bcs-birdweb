@@ -1,0 +1,79 @@
+slug: willow_flycatcher
+common_name: Willow Flycatcher
+scientific_name: Empidonax traillii
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Tyrannidae
+  slug: tyrannidae
+status: Common summer resident.
+species_of_concern: true
+sections:
+  general_description: The Willow Flycatcher is one of the largest flycatchers in the genus Empidonax, with a relatively flat forehead and distinct peak on the rear of its crown. It is gray in color, with buffy or light-gray wing-bars and an almost invisible white eye-ring. The lack of visible eye-ring helps distinguish it from the other Empidonax flycatchers. It has a pale breast and white throat, and the base of the lower mandible is yellow. Its bill is broad with a pale lower mandible and a long, broad, straight-sided tail.
+  habitat: This aptly named bird is found in willow thickets and other brushy areas near streams, marshes, or other wetlands, and in clear-cuts and other open areas with nearby trees or brush.
+  behavior: Willow Flycatchers typically forage in the shrub layer, or in low trees. They watch from a perch, fly out to grasp prey in quick darts, and return to the perch. They also glean prey from twigs and branches as they hover in the foliage.
+  diet: Insects, especially flying insects, are the most common prey.
+  nesting: The male sings to defend his territory, although the female has been known to sing as well. The female builds a low nest in a willow, bracken fern, or rose. The nest is usually an open cup of grass and bark, lined with soft plant down and other material. Sometimes strips of plant material hang from the bottom of the nest. The female incubates three eggs for 13 to 14 days, and both parents help feed the young. The young take their first flights at 13 to 15 days, but often remain near the nest for three or four more days, and continue to follow their parents around the territory until they are 24 to 25 days old. The short breeding season allows for only one clutch a year.
+  migration_status: Willow Flycatchers winter in the Amazon Basin and are one of the latest birds to arrive in Washington in the spring. It is often the end of May before they are back on their breeding grounds. They head south in early fall, leaving Washington in late August or early September.
+  conservation_status: This species has declined in some areas due to loss of streamside habitat, and the US Fish and Wildlife Service lists the southwestern population as a subspecies-of-concern. Willow Flycatchers in Washington experienced significant declines from 1966 to 1979, according to the Breeding Bird Survey. During the period between 1980 and 2000, the species still suffered a decline, but to a lesser degree, indicating that there may be a reversal of the trend, or at least stabilization, in the years to come. Despite their decline, Willow Flycatchers are still very common in western Washington. They are less common and more locally distributed east of the Cascades. River-corridor channelization, overgrazing, dam construction, and urbanization all degrade Willow Flycatcher habitat. With the listing of many Northwest salmon populations under the Endangered Species Act, many rivers are undergoing restoration to improve the habitat for salmon, which should also improve habitat for Willow Flycatchers and other riparian species.
+  when_where_wa: Willow Flycatchers are common in appropriate habitats such as clear-cuts, to elevations of at least 3,000 feet on both sides of the Cascades. They are rare along the outer coast and uncommon on the western side of the Olympic Peninsula. Migrants and non-breeders are sometimes seen in the Columbia Basin.
+photos:
+- file: wifl_ad1_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: wifl_ad2_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: wifl_ad3_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: wifl_jh_l.jpg
+  caption: 'Note: little/no eye ring, contrasting white throat, and all pale lower mandible.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: wifl_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: WIFL01.mp3
+  credit: null
+maps:
+  wa: emtr.jpg
+  north_america: wiflmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', U, U, U, U, U, '', '', '']
+  puget_trough: ['', '', '', '', U, C, C, C, U, '', '', '']
+  north_cascades: ['', '', '', '', U, C, C, F, R, '', '', '']
+  west_cascades: ['', '', '', '', R, C, C, C, F, '', '', '']
+  east_cascades: ['', '', '', '', R, U, U, U, U, '', '', '']
+  okanogan: ['', '', '', '', R, C, C, C, R, '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, F, '', '', '', '']
+  blue_mountains: ['', '', '', '', U, F, F, F, U, '', '', '']
+  columbia_plateau: ['', '', '', '', U, F, F, F, F, '', '', '']
+taxonomy:
+  ebird_code: wilfly
+  current_common_name: Willow Flycatcher
+  current_scientific_name: Empidonax traillii
+  clements_sort: 16952
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/willow_flycatcher
+  archived: '2026-09-12'

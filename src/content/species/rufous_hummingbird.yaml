@@ -1,0 +1,73 @@
+slug: rufous_hummingbird
+common_name: Rufous Hummingbird
+scientific_name: Selasphorus rufus
+order:
+  name: Apodiformes
+  slug: apodiformes
+family:
+  name: Trochilidae
+  slug: trochilidae
+status: Common summer resident.
+species_of_concern: true
+sections:
+  general_description: Rufous Hummingbirds are small and compact. Except for their white chests and short green wings, males are rufous all over, the only rufous-backed North American hummingbird. Females are green above, with rufous flanks and rufous at the base of the tail, visible when spread. Their throats have a reddish central spot which is not always visible.
+  habitat: Typically found at edges and in open areas within coniferous forests, Rufous Hummingbirds are also found in sub-alpine shrubby habitats and in residential areas. In damp western Washington, they are found in many habitats. On the dry side of the Cascades they are limited to higher elevations and other locations where rainfall is greater.
+  behavior: In courtship, the male attracts the female with an aerial display. He dives close to a female, his feathers making a loud whining sound near the bottom of an oval trajectory. Rufous Hummingbirds are highly territorial, defending feeding territories not only while breeding but also during migration. Rufous Hummingbirds do not sing but make warning chips in response to perceived threats. Their wings make a whine much like the sound of a cicada.
+  diet: Rufous Hummingbirds feed on insects and on nectar from flowers. In Washington, they feed heavily on red flowering currant, salmonberry, honeysuckle, and on sugar-water at hummingbird feeders.
+  nesting: The female Rufous Hummingbird commonly builds her nest over the previous year's nest, which is typically 2 to 10 feet from the ground in a coniferous tree. In the Puget Sound area, nests are often built among huckleberry bushes, alders, blackberries, or drooping conifer branches. In western Washington, protection from rain and other weather is a major factor in nest location. Nests built early in the breeding season are situated low in conifers, protecting them from the rain and cold. Nests built later in the summer are found high in deciduous trees where they are less likely to overheat. The nest is built with moss, lined with plant down, covered on the outside with lichen and bark, and held together with spider webbing. The female lays two eggs and incubates them for 15-17 days. She feeds and cares for the young by herself until they become independent at about 21 days.
+  migration_status: Rufous Hummingbirds winter in Mexico and south Texas. In recent years, they have been wintering more frequently in the gulf states and have attempted to winter in the northeast. In the spring, they migrate up the Pacific Coast, reaching as far north as south-central Alaska, and they are thus the northernmost breeding hummingbird. Because of their coastal migration, they arrive on the Washington coast before they are seen inland. They arrive in Washington from late February to early March and their arrival typically coincides with the bloom of red flowering currant and salmonberry. In June and July, males leave the breeding grounds for higher elevations, from which they will later migrate south. Females and juveniles leave the state from late July through September, with most migrating in August.
+  conservation_status: Rufous Hummingbirds are common throughout their range, although the Breeding Bird Survey shows a significant decline from 1982-1991. They are listed on both the Audubon-Washington and Partners in Flight lists of species-at-risk.
+  when_where_wa: Most common in western Washington, Rufous Hummingbirds are also found in the eastern Cascades, the northeastern corner of the state, and the Blue Mountains. In eastern Washington, they are normally found above the lower part of the Ponderosa pine zone. In the Columbia Basin, they can be found breeding in residential areas. Look for them in salmonberry patches in the spring and at hummingbird feeders.
+photos:
+- file: ruhu_f_gth_l.jpg
+  caption: Female/immature visiting sapsucker wells
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: ruhu_tg_l.jpg
+  caption: Male
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: true
+- file: ruhu_f_gl_l.jpg
+  caption: 'Female. Note: rufous flanks and small spot on gorget.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: ruhu_fl_gt_l.jpg
+  caption: Male
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: false
+audio:
+  file: ruhu1.mp3
+  credit: null
+maps:
+  wa: seruf.jpg
+  north_america: ruhumap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', F, C, C, C, C, F, U, '', '', '']
+  puget_trough: ['', R, U, C, C, C, C, F, F, '', '', '']
+  north_cascades: ['', '', U, C, C, C, C, C, U, '', '', '']
+  west_cascades: ['', '', R, U, C, C, C, C, U, R, '', '']
+  east_cascades: ['', '', '', F, F, F, F, F, '', '', '', '']
+  okanogan: ['', '', '', U, F, F, F, F, F, '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, F, '', '', '', '']
+  blue_mountains: ['', '', '', U, F, F, F, F, R, '', '', '']
+  columbia_plateau: ['', '', '', U, U, R, U, U, R, '', '', '']
+taxonomy:
+  ebird_code: rufhum
+  current_common_name: Rufous Hummingbird
+  current_scientific_name: Selasphorus rufus
+  clements_sort: 4826
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/rufous_hummingbird
+  archived: '2026-09-12'

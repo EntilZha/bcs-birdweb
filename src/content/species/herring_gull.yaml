@@ -1,0 +1,73 @@
+slug: herring_gull
+common_name: Herring Gull
+scientific_name: Larus argentatus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: Fairly common winter resident.
+species_of_concern: false
+sections:
+  general_description: The Herring Gull is a large gull that can easily be confused with almost any of the other large gull species. The adult wears the typical gull-like plumage of slate-gray back and wings, a white body and head, and black wingtips spotted with white. The legs of the Herring Gull are pink, and the eyes are yellow. The beak is yellow with a red spot on the lower mandible, as in most large gulls. In breeding plumage, the eye has a narrow, fleshy, red ring. Juvenile plumage has a varying degree of mottled brown and white. Herring Gulls reach maturity when they are four years old.
+  habitat: Herring Gulls use a wide variety of habitats near water. They are common on beaches, mudflats, plowed fields, marshes, docks, commercial fishing areas, and garbage dumps. In the breeding season, they nest on islands. In winter, they are more strongly associated with salt water or open fresh water and are widely distributed along the coasts.
+  behavior: An opportunistic species, the Herring Gull forages while walking, swimming, and flying. It may steal food from other birds, and will drop shellfish from high in the air onto rocks or pavement to break the shells.
+  diet: Herring Gulls feed mostly on natural prey such as marine fish and invertebrates, although the diet varies considerably with season and location. In addition to marine life, Herring Gulls also eat other birds, eggs, garbage, and carrion.
+  nesting: Relatively long-lived birds, Herring Gulls don't typically breed until they are four or five years old. They generally nest in colonies, often with other gull species, and they also nest outside of colonies. Both members of a pair help build the nest, which is typically located on the ground in a sheltered location to protect it from the wind. The nest is a shallow scrape lined with grass, feathers, and other debris. The typical clutch size is 3 eggs, which both parents incubate for about 4 weeks. A day or two after hatching, the young leave the nest, although they stay nearby. The young first fly at the age of about six weeks. The parents continue to feed the young by regurgitation for approximately another month after they begin to fly.
+  migration_status: On the West Coast, dispersal from breeding colonies in British Columbia begins in late July. Migrants heading south start showing up along the Washington coastline in August, and numbers increase throughout the fall. Herring Gulls can be found year round as far north as Alaska, although young birds are typically found farther south in the winter than adults, and it appears that only non-breeders are migratory. Spring migration occurs in Washington between late March and mid-May.
+  conservation_status: The Herring Gull is currently the most widespread large gull. It experienced a sharp decline during the 19th Century, mostly due to feather- and egg-hunting. The dramatic recovery and range expansion of the Herring Gull during the 20th Century is due to a number of factors, including protection from feather-hunting and egg-harvesting. Increased commercial fishing has reduced populations of large predatory fish, allowing an increase in numbers of small and medium-sized fish. A reduction of marine mammal populations has also helped to ease pressure on the small and medium fish. Increased numbers of garbage dumps following the spread of human populations along coastlines may aid in juvenile survival. Populations in the historic range have recovered, and new areas have been colonized as Herring Gulls expand their range down the Atlantic Coast. A concurrent range expansion has not been seen on the West Coast. In the mid-1970s and 1980s, numbers leveled off, perhaps due to closure and modification of garbage dumps, as well as the reduction of even the small and medium fish stocks. On the West Coast, the status of the Herring Gull is confused by its hybridization with the Glaucous-winged Gull in Alaska, and by the fact that the Thayer's Gull was considered a subspecies of Herring Gull from 1956-1972. The numbers of Herring Gulls breeding in British Columbia appear to be increasing.
+  when_where_wa: In winter, Herring Gulls can commonly be seen in small numbers roosting with other large gulls in all regions of the state, except for the mountains, in marine and fresh water habitats. In eastern Washington, they are common in these waters from October to April, and absent the rest of the year. In western Washington, they are common during migration from February to mid-April, and again in October. The greatest concentration of Herring Gulls in Washington is the lower Columbia River near Vancouver WA (Clark County), especially in March during the smelt run. In eastern Washington, they can be seen on Banks Lake (Grant County) in winter.
+photos:
+- file: herg_w_jp_l.jpg
+  caption: 'Adult nonbreeding. Note: yellow iris and pink legs.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: true
+- file: herg_wfl_jp_l.jpg
+  caption: 'Adult nonbreeding in flight. Note: pale eye and dark underprimary tips.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+- file: herg_jfl_gl_l.jpg
+  caption: Juvenile.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: herg_j_jp_l.jpg
+  caption: '2nd winter. Note: pink bill with black tip, pale eye'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+audio:
+  file: herg.mp3
+  credit: null
+maps:
+  wa: laar.jpg
+  north_america: hergmap.gif
+abundance:
+  oceanic: [C, C, C, C, U, '', '', '', R, U, C, C]
+  pacific_northwest_coast: [U, U, C, U, U, '', '', R, U, U, U, U]
+  puget_trough: [U, U, U, U, R, '', '', R, U, U, U, U]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [U, F, F, U, '', '', '', '', R, U, U, U]
+  east_cascades: [U, U, U, U, R, '', '', '', R, U, U, U]
+  okanogan: [F, F, F, '', '', '', '', '', '', F, F, F]
+  canadian_rockies: [U, U, U, '', '', '', '', '', '', U, U, U]
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: [F, F, F, R, R, '', '', R, R, F, F, F]
+taxonomy:
+  ebird_code: amhgul1
+  current_common_name: American Herring Gull
+  current_scientific_name: Larus smithsonianus
+  clements_sort: 6539.0
+  historic_common_name: Herring Gull
+  display_historic: false
+  note: Published on BirdWeb as Herring Gull (Larus argentatus). The Herring Gull complex was split; Washington's breeding and wintering birds are American Herring Gull, while Larus argentatus is now the European Herring Gull.
+source:
+  url: https://birdweb.org/birdweb/bird/herring_gull
+  archived: '2026-09-12'

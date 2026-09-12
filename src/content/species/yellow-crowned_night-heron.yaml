@@ -1,0 +1,64 @@
+slug: yellow-crowned_night-heron
+common_name: Yellow-crowned Night-Heron
+scientific_name: Nyctanassa violacea
+order:
+  name: Ciconiiformes
+  slug: ciconiiformes
+family:
+  name: Ardeidae
+  slug: ardeidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Two records, Walla Walla (Walla Walla County) in May-June 1993 and Wenatchee (Chelan County) in September 2001.
+photos:
+- file: ycnh_lb2_l.jpg
+  caption: Adult
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: ycnh_lb_l.jpg
+  caption: Adult breeding plumage.
+  credit:
+    name: Lee Barnes
+    url: null
+  hero: false
+- file: ycnh_fl_gl_l.jpg
+  caption: 'Adult. Note: boldly marked head and plain gray back.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: ycnh_j_gl_l.jpg
+  caption: 'Juvenile. Note: long neck and dark thick bill.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: ycnhmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: ycnher
+  current_common_name: Yellow-crowned Night Heron
+  current_scientific_name: Nyctanassa violacea
+  clements_sort: 7591
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/yellow-crowned_night-heron
+  archived: '2026-09-12'

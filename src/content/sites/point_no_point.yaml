@@ -1,0 +1,25 @@
+slug: point_no_point
+name: Point No Point
+number: 207
+ecoregions:
+- puget_trough
+sections:
+  site: Although the name of this site, "Point No Point," expresses its discoverer's disappointment in finding it an undramatic "point," the birdwatcher will experience no such letdown. Point No Point has one of the largest birdlists of any site in Washington. The point is owned jointly by the US Coast Guard (leased to Kitsap County) and a private landowner who is knowledgeable and sympathetic to birders. The marine climate ensures plenty of precipitation in winter and mild temperatures in summer. There are many productive habitats. The spit itself has sandy beaches with logjams, as well as some man-made structures for boating. Behind the beaches is a large mixed freshwater/saltwater marsh with a substantial shrub component. The waters surrounding the point react to swiftly running tides, attracting many marine bird species. And there is a somewhat sheltered bay as well.
+  birds: 'Point No Point is best known for its water-related species: gulls, cormorants, loons, terns, jaegers, ducks, grebes, mergansers, scoters, Brant, and alcids. When the tide is running, there are flocks of Bonaparte''s Gulls and seabirds, often a veritable feeding frenzy. Jaegers are often seen flying through the gull and (in fall) tern flocks. Ancient Murrelets can be seen offshore in November - one of the best sites in Washington for this species. Along the sandy beaches, shorebirds can be seen. The marsh attracts a variety of passerines, particularly in migration. Point No Point has produced many notable rarities, both in the offshore waters and in the marsh.'
+  directions: |-
+    Although excellent in any season, birding here in the late fall will be particularly productive. At this time, the wintering ducks and seabirds will be arriving. Be sure to check tides, since the waters off the point attract large numbers of feeding birds when the tides are running.
+    To reach Point No Point, take the Kingston Ferry from Edmonds, just north of Seattle. (See References below for ferry information.) After leaving the ferry dock, drive two+ miles on Route 104 to a major intersection. Go right on Hansville Road NE for about seven miles. Just before reaching the water, bear right on Point No Point Road to the lighthouse, passing homes, a boat rental business, and trailer park en route. Parking is available at the lighthouse, and there are well-maintained port-a-potties near the parking lot. Be sure to respect private homes.
+photos:
+- file: site_PointNoPoint_as.jpg
+  caption: ''
+  credit:
+    name: Adam Sedgley
+    url: null
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/point_no_point/3
+  archived: '2026-09-12'

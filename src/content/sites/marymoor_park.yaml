@@ -1,0 +1,40 @@
+slug: marymoor_park
+name: Marymoor Park
+number: 204
+ecoregions:
+- puget_trough
+sections:
+  site: |-
+    Marymoor Park is situated on 640 acres at the north end of Lake Sammamish where the lake drains into the Sammamish River. The elevation is just 42 feet, and the park is essentially flat. The portion of the river that flows through the park is the most natural of the entire river, with healthy riparian vegetation on both sides for much of the stretch. (However, the river flow is impeded by a weir, or sunken dam, constructed by the Corps of Engineers to maintain water levels in the lake.)
+
+    The dominant trees are willows (five species), black cottonwood, alder, and Oregon ash. The understory in the riparian area consists mostly of salmonberry, indian plum, and hardhack (spirea), except where Himalayan blackberry has taken over. Evergreens are not present except in planted stands. Much of the middle of the park consists of meadows, most of which are dominated by reed canary-grass, but one of which, the “East Meadow,” has bunchgrasses and forbs. Much of the park suffers from invasive plants: purple and garden loosestrife, English ivy, Scot's broom, Himalayan blackberry, European hawthorn, and other non-natives.
+  birds: |-
+    By virtue of its size and location within the heavily developed Greater Seattle area, Marymoor acts as an attractive refuge for migrating birds. Its large stands of black cottonwood represent a declining habitat in the Puget Sound region, and the East Meadow's bunchgrass and forbs are also very unusual for the area.
+
+    More than 30 species are year-round residents in the park. More than 40 species have been documented as breeding in the park, including Pied-billed Grebe, Green Heron, Osprey, Bald Eagle, Barn and Great Horned Owl, Rufous Hummingbird, Red-breasted Sapsucker, Willow Flycatcher, Western Wood-Pewee, Warbling and Red-eyed Vireo, Tree Swallow, Brown Creeper, Swainson's Thrush, Cedar Waxwing, Yellow Warbler, Savannah Sparrow, and Black-headed Grosbeak.
+
+    Many species winter in the park, including Cackling Goose, a wide variety of ducks, Mew and other Gulls, Wilson's Snipe, Sharp-shinned and Cooper's Hawks, Northern Shrike, and Fox, Lincoln's, White-throated, and Golden-crowned Sparrow.
+
+    Regular spring migrants include American Kestrel, Mourning Dove, Pacific-slope Flycatcher, Orange-crowned and Wilson's Warblers, and Western Tanager. Fall migrants include American Pipit and Black-throated Gray Warbler.
+
+    Marymoor is known for attracting unusual birds for King County, especially those more commonly seen in Eastern Washington. These have included Black Tern, Say's Phoebe, Western and Eastern Kingbirds, Horned Lark, Mountain Bluebird, Townsend's Solitaire, Sage Thrasher, Nashville and MacGillivray's Warblers, Chipping, Brewer's, and Vesper Sparrows, Snow and Lazuli Buntings, Western Meadowlark, and Yellow-headed Blackbird. A Blue-gray Gnatcatcher was seen in October, 1999.
+
+    Marymoor is one of the best places in King County to find breeding Green Heron, Willow Flycatcher, Red-eyed Vireo (in the cottonwoods), Swainson's Thrush, Savannah Sparrow, and Black-headed Grosbeak. It is also fairly reliable for Black Swift on days with heavy overcast in June and July, when these birds come down from the mountains to forage under the clouds over the lake.
+  directions: |-
+    The main entrance to Marymoor Park is located one block south of SR-520 off West Lake Sammamish Parkway in Redmond. Parking is $1. Due to heavy usage, early morning visits, especially on weekdays, are preferred.
+
+    Inside the park, follow signs to the South Lot (the main dog area lot). Just west of this lot is the trail along the Sammamish River. Follow this trail south (upstream). At the south end of the dog area, continue through the gate on the interpretive trail to the boardwalk and lake platform. After viewing the lake, continue on the boardwalk as it bends to the northeast. The large meadow to the east, after you come out of the forested area, is the East Meadow. At the end of the trail, turn left and follow the edge of the grass sports fields back to the South Lot. A loop through the mansion area, north of the South Lot, will yield additional species (Red-breasted Sapsucker, Chestnut-backed Chickadee, Red-breasted Nuthatch, Brown Creeper, Golden-crowned Kinglet, and Townsend's Warbler). Great Horned Owls nested northeast of the mansion in 2004, and Barn Owls are resident inside the windmill.
+photos:
+- file: site_marymoor_onto_lake_sammamish.jpg
+  caption: ''
+  credit:
+    name: Mike Hamilton
+    url: http://home1.gte.net/mikeham
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/marymoor_park/3
+  archived: '2026-09-12'

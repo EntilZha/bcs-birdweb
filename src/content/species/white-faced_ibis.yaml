@@ -1,0 +1,64 @@
+slug: white-faced_ibis
+common_name: White-faced Ibis
+scientific_name: Plegadis chihi
+order:
+  name: Ciconiiformes
+  slug: ciconiiformes
+family:
+  name: Threskiornithidae
+  slug: threskiornithidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: Rare and probably increasing visitor on both sides of Cascades, mostly May'July. Sometimes appears in large flocks.
+photos:
+- file: wfib_gl_l.jpg
+  caption: Breeding adult
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: wfib_w_gl_l.jpg
+  caption: Nonbreeding adult
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: wfib_j_gl_l.jpg
+  caption: Juvenile
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: wfib_fl_gl_l.jpg
+  caption: Breeding adult
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: wfibmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', R, R, '', '', '', '', '', '']
+taxonomy:
+  ebird_code: whfibi
+  current_common_name: White-faced Ibis
+  current_scientific_name: Plegadis chihi
+  clements_sort: 7468
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/white-faced_ibis
+  archived: '2026-09-12'

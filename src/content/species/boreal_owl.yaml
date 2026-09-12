@@ -1,0 +1,55 @@
+slug: boreal_owl
+common_name: Boreal Owl
+scientific_name: Aegolius funereus
+order:
+  name: Strigiformes
+  slug: strigiformes
+family:
+  name: Strigidae
+  slug: strigidae
+status: Rare resident.
+species_of_concern: true
+sections:
+  general_description: Boreal Owls, known in Eurasia as Tengmalm's Owls, are small owls of the north. They have yellow eyes and facial disks that are mostly white, edged with broken black rings. Their heads, which do not have ear-tufts, are dark and tightly dotted with light spots. Their backs are covered with spots larger and farther apart than those on the head. Breasts are brown, with white spotting and streaking. Fledglings are uniformly brown, with white eyebrows and throats.
+  habitat: Boreal Owls inhabit mature boreal and sub-alpine conifer and mixed forests in the far north and at high elevations. For the most part they are found in the same habitat year-round, although in early spring they may frequent clear cuts and agricultural fields. During nomadic winter movements they are most often found in conifer groves but may be found in unusual habitats, even cities.
+  behavior: These strictly nocturnal birds (except in areas where there is no summer darkness) can be very difficult to find, and are considered a much prized sighting by Washington birdwatchers. When hunting, they move silently from perch to perch, watching for prey. When they locate prey, they swoop down and take it with their talons. Keen hearing allows them to locate prey under a covering of snow. Courtship takes place in late winter and early spring, which is the time when one is most likely to hear their low whistled vocalizations.
+  diet: Boreal Owls prey on small mammals, including voles, mice, and small squirrels. They also take small birds and large insects, especially crickets.
+  nesting: Boreal Owls form monogamous pairs. Males defend territories and attract females by calling, then show the females potential nest sites. Boreal Owls are cavity-nesters, and the female chooses the cavity for the nest, often an old Northern Flicker or Pileated Woodpecker hole, a natural cavity, or a man-made nest box. Boreal Owls do not add nesting material to the site. They will not use a nest box that has been used by a Boreal Owl the previous year unless it has been cleaned out. The female typically incubates 3-4 eggs for 26-32 days. After the young hatch, she broods the owlets for about three weeks. The male brings food to the nest, and the female feeds it to the young. Once brooding is finished, both adults hunt. The young leave the nest after 28-36 days but are still tended by their parents. They become independent and disperse about 3-6 weeks after their first flight.
+  migration_status: While Boreal Owls do not undertake a regular migration, winter invasions south of the breeding range are not uncommon. These invasions, which are most likely in response to the reduced availability of prey, may bring Boreal Owls to unusual lower-elevation locations.
+  conservation_status: An inaccessible breeding range, secretive habits, population fluctuations resulting from the cyclic abundance of prey, and nomadic movements make it difficult to determine long-term population trends. Populations in northern North America are probably at little risk because of the remoteness of Boreal Owl habitat. The first confirmed nest south of Canada was found in 1978, and the population in the mountains of the western United States is now thought to be larger than was originally believed. This population, however, may be at risk. Timber harvest often reduces prey populations, destroys the forest structure needed for effective foraging, and eliminates nest cavities. While Boreal Owls readily use nest boxes, most effects of timber harvest are difficult to remedy.
+  when_where_wa: Boreal Owls are uncommon to rare year-round residents of mountainous areas in northeast Washington, the Blue Mountains, and the Cascades. They are rarely found below 4,000 feet. Access to their breeding range is limited by snow for much of the year, making sightings rare.
+photos:
+- file: boow_a_gr_l.jpg
+  caption: Adult
+  credit:
+    name: Gerald Romanchuk
+    url: http://www.pbase.com/gerald_r
+  hero: true
+audio:
+  file: boow.mp3
+  credit: null
+maps:
+  wa: aefu.jpg
+  north_america: boowmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  east_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  okanogan: [R, R, R, R, R, R, R, R, R, R, R, R]
+  canadian_rockies: [U, U, U, U, U, U, U, U, U, U, U, U]
+  blue_mountains: [R, R, R, R, R, R, R, R, R, R, R, R]
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: borowl
+  current_common_name: Boreal Owl
+  current_scientific_name: Aegolius funereus
+  clements_sort: 9296
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/boreal_owl
+  archived: '2026-09-12'

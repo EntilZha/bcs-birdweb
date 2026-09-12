@@ -1,0 +1,117 @@
+@import "tailwindcss";
+/* Self-hosted rather than the rsms.me CDN that bcs-calendar uses: the storefront
+   display should not block first paint on a third-party host over shop wifi. */
+@import "@fontsource-variable/inter";
+
+/* Birds Connect Seattle brand palette, pulled from birdsconnectsea.org.
+   Exposed as Tailwind v4 theme tokens so we can use e.g. bg-brand, text-leaf. */
+@theme {
+  --color-brand: #0a3c23;        /* deep forest green (primary) */
+  --color-brand-dark: #062a18;   /* darker green for hovers */
+  --color-leaf: #36ba3a;         /* bright green accent */
+  --color-sage: #7cc68d;         /* soft green */
+  --color-cream: #faf5f0;        /* warm off-white page background */
+  --color-pop: #e6ff55;          /* yellow-green highlight */
+
+  --font-sans: "Inter Variable", "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+    Roboto, Helvetica, Arial, sans-serif;
+
+  /* In-store display scale.
+     Sized for a ~30" touchscreen read from about 1.5 m rather than at arm's
+     length. Comfortable reading wants a cap height of roughly
+     distance / 200 => ~0.3in => ~2rem of body text, so these run about double
+     the main site's scale. Applied at the 2xl breakpoint, which is where a
+     1920x1080 panel lands. */
+  --text-k-hero: 3.5rem;
+  --text-k-hero--line-height: 1.05;
+  --text-k-hero--font-weight: 700;
+
+  --text-k-day: 2.75rem;
+  --text-k-day--line-height: 1.1;
+  --text-k-day--font-weight: 700;
+
+  --text-k-title: 2.125rem;
+  --text-k-title--line-height: 1.2;
+  --text-k-title--font-weight: 600;
+
+  --text-k-time: 1.75rem;
+  --text-k-time--line-height: 1.2;
+  --text-k-time--font-weight: 600;
+
+  --text-k-meta: 1.375rem;
+  --text-k-meta--line-height: 1.35;
+
+  --text-k-ui: 1.5rem;
+  --text-k-ui--line-height: 1.2;
+  --text-k-ui--font-weight: 600;
+
+  /* Abundance scale, from the legacy site's own code definitions
+     (C=Common, F=Fairly Common, U=Uncommon, R=Rare, I=Irregular, blank=absent).
+     A single-hue ramp, because abundance is ordered data -- a categorical palette
+     would imply these are five unrelated kinds of thing rather than one axis.
+     Checked for >=3:1 contrast against the cell text at every step. */
+  --color-abundance-c: #0a3c23;
+  --color-abundance-f: #2f7a4a;
+  --color-abundance-u: #7cc68d;
+  --color-abundance-r: #c3e5cb;
+  --color-abundance-i: #e8dfb4;
+  --color-abundance-none: #ece7e1;
+
+  /* Touch targets. Apple's 44pt and Material's 48dp assume a device in the
+     hand; pointing at a wall-mounted panel is less precise, so the floor here
+     is higher. Exposed in the spacing namespace to get min-h-touch, w-touch
+     and friends rather than arbitrary values. */
+  --spacing-touch: 4rem;
+  --spacing-touch-lg: 5rem;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-cream);
+  color: #1c1c1c;
+}
+
+/* Thin, branded scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-sage) transparent;
+}
+
+/* ---------------------------------------------------------------------------
+   In-store display
+   Scoped to a class that only KioskLayout applies, so the public site keeps its
+   normal text-selection, zoom and scroll behaviour.
+   --------------------------------------------------------------------------- */
+.kiosk {
+  /* Nobody selects text on a shop display; stray selections just look broken. */
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  /* No pull-to-refresh or rubber-band overscroll on a parked screen. */
+  overscroll-behavior: none;
+  /* Removes the ~300ms double-tap-to-zoom wait, which is what actually makes
+     taps feel like an app instead of a web page. */
+  touch-action: manipulation;
+}
+
+/* Astro wraps a hydrated island in <astro-island>, which is an unstyled inline
+   element. Left alone it severs the flex height chain between <main> and the
+   app root, so the day columns grow to their content height and run off the
+   bottom of the screen instead of scrolling within themselves. `display:
+   contents` lifts the app root to be main's flex child directly. */
+.kiosk astro-island {
+  display: contents;
+}
+
+/* A scrollbar on a touch screen has to be wide enough to catch with a finger. */
+.kiosk ::-webkit-scrollbar {
+  width: 14px;
+  height: 14px;
+}
+.kiosk ::-webkit-scrollbar-thumb {
+  background-color: var(--color-sage);
+  border-radius: 9999px;
+}

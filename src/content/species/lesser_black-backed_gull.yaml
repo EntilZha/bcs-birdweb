@@ -1,0 +1,63 @@
+slug: lesser_black-backed_gull
+common_name: Lesser Black-backed Gull
+scientific_name: Larus fuscus
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    The Lesser Black-backed Gull is about the size of a California Gull but slimmer looking. In adult plumage, attained in four years, it is like no other gull in Washington: dark gray mantle (darker than our local race of Western Gull), yellow legs, yellow eye, white head in breeding plumage streaked brown in winter. Immature plumages are more complicated and better covered in field guides than is possible here.
+
+    This European native has been an increasingly common visitor to North America since the 1970s, mostly along the Atlantic and Gulf Coasts but also in lesser numbers in the interior of the continent and on the West Coast. The first record from the Pacific Northwest occurred at Revelstoke, British Columbia, in October 1989; the province now has about 10 records, all but one of them from the interior. The first Washington record was from Walla Walla (Walla Walla County) in February 2000. Idaho’s first record came at Boise in November 1999 and is the only one accepted so far, although numerous other reports are under review by the state’s bird records committee. Oregon has a single accepted record, and California has more than 20. Washington’s 10 accepted records range from early September through mid-April. Nine of them are from the Columbia Basin, and the other is from Port Angeles (Clallam County).
+
+    *Revised June 2007*
+photos:
+- file: lbbg_fl_gl_l.jpg
+  caption: Adult breeding
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: lbbg_w_gl_l.jpg
+  caption: 'Adult nonbreeding. Note: dark gray mantle and yellow legs'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: lbbg_j_jp_l.jpg
+  caption: '1st summer. Note: dark primaries and upper wings and pale head.'
+  credit:
+    name: Jeff Poklen
+    url: http://www.pbase.com/jpkln
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: null
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: lbbgul
+  current_common_name: Lesser Black-backed Gull
+  current_scientific_name: Larus fuscus
+  clements_sort: 6576
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/lesser_black-backed_gull
+  archived: '2026-09-12'

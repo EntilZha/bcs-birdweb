@@ -1,0 +1,65 @@
+slug: least_tern
+common_name: Least Tern
+scientific_name: Sternula antillarum
+order:
+  name: Charadriiformes
+  slug: charadriiformes
+family:
+  name: Laridae
+  slug: laridae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    This highly migratory New World tern frequents estuaries, coastal lagoons, river sandbars, and sandy beaches, where it attracts attention by its tiny size and buoyant flight. The adult has a black cap, white forehead, gray mantle, white underparts, yellow legs, and black on the outer primaries. The tail is short and forked. In breeding plumage, the black-tipped yellow bill is a diagnostic field mark. Identification of terns in other plumages is less straightforward: consult a good field guide.
+
+    Least Tern has three breeding populations that have been described as distinct subspecies: along the Atlantic and Gulf Coasts from New England south through the Caribbean *(S.a. antillarum)*; along rivers in the central United States *(S.a. athalassos)*; and on the Pacific Coast from San Francisco Bay to western Mexico *(S.a. browni)*. The first two populations winter from the Caribbean to Brazil, while the Pacific population winters along the coast in Mexico and Central America. The breeding populations of Least Tern in California and the interior U.S. are listed as Endangered under the federal Endangered Species Act. Least Tern nests on the ground, where it is vulnerable to predators and to human activity such as beach recreation. The California population had shrunk to 600 pairs by 1973. Protection of its nesting sites—thanks, especially, to an active management program on military installations—led to a population rebound, with 2,750 pairs recorded by 1994.
+
+    Least Terns occur very rarely in the Pacific Northwest as spring migration “overshoots,” non-breeding vagrants, or post-breeding dispersants. Oregon has about 11 records, mostly coastal, between March and mid-August. Washington’s three records are all from coastal Grays Harbor County: Ocean Shores in August 1978 and May 2005 (two birds), and Westport in May 2004. Idaho’s one accepted record is from Sandpoint in March 1988. The single record from British Columbia came at Osoyoos in June 1998.
+
+    *Revised June 2007*
+photos:
+- file: lete_fl_gl_l.jpg
+  caption: 'Adult breeding in flight. Note: white forehead, yellow bill with black tip and two black primaries.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: lete_gl_l.jpg
+  caption: 'Adult breeding. Note: white forehead and yellow bill with black tip.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: lete_jfl_gl_l.jpg
+  caption: Juvenile
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: letemap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: leater1
+  current_common_name: Least Tern
+  current_scientific_name: Sternula antillarum
+  clements_sort: 6699
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/least_tern
+  archived: '2026-09-12'

@@ -1,0 +1,61 @@
+slug: downy_woodpecker
+common_name: Downy Woodpecker
+scientific_name: Picoides pubescens
+order:
+  name: Piciformes
+  slug: piciformes
+family:
+  name: Picidae
+  slug: picidae
+status: Fairly common resident.
+species_of_concern: false
+sections:
+  general_description: The Downy Woodpecker is the smallest of Washington's woodpeckers. Its plumage is a mix of black and white (but see below.) Its wings, lower back, and tail are black with white spots; its upper back and outer tail feathers are white. Its underside is white, and its head is marked with wide alternating black and white stripes. Males have a red spot at the backs of their heads which females lack. Downy Woodpeckers closely resemble the larger Hairy Woodpeckers, but Downys have relatively smaller bills, which give their heads a rounder, 'cuter' shape. Downy Woodpeckers found in western Washington are considerably darker than their eastern Washington counterparts, with most of the areas described above as 'white' actually a dingy tan. Juveniles look like adults but may have red on their foreheads.
+  habitat: Downy Woodpeckers typically inhabit broadleaved and mixed forests, especially those with black cottonwood and willow. They are also often found in residential areas, along rivers and streams, and in orchards, city parks, and even agricultural areas as long as there are sufficient trees nearby. They are sometimes found in conifer forests after the breeding season and especially in burned areas. However, Downy Woodpeckers generally prefer deciduous environments in contrast to Hairy Woodpeckers, which may often be found in coniferous forests.
+  behavior: Downy Woodpeckers maintain feeding territories year round but often join winter flocks of chickadees and nuthatches. They are acrobatic foragers that can hang upside-down and reach the outermost tips of branches. Males tend to forage farther out than females, which stay closer to the trunk. Downy Woodpeckers will also forage on mullein stalks and other herbaceous vegetation, but generally they feed by exploring bark crevices.
+  diet: Insects, especially beetles and ants, are the main food of Downy Woodpeckers. They also feed on berries, seeds, and suet.
+  nesting: Downy Woodpeckers form monogamous breeding pairs in late winter. Both members of the pair excavate nesting and roosting holes in soft or rotten wood. They often situate their cavity entrance in a spot surrounded by lichen or fungus, which helps to camouflage the hole. Both parents incubate the 4 to 5 eggs for about 12 days, and both feed the young. The young leave the nest after 20 to 25 days but follow the parents around for a few weeks thereafter. Each pair typically raises one brood a year.
+  migration_status: Downy Woodpeckers are permanent residents in most areas, but the northernmost populations may move some distance south or to lower elevations in the winter. During winter, they may be found in orchards and other wooded areas where they do not breed, indicating some seasonal movement.
+  conservation_status: 'Downy Woodpeckers are common and widespread throughout their range and seem to have adapted to human-inhabited areas. They can take advantage of second-growth and ornamental plantings, which has resulted in greater numbers of Downy than Hairy Woodpeckers in the Puget Trough. There are three recognized subspecies in Washington: those found in the far eastern portions of the state, those found along the eastern slopes of the Cascades, and those found in western Washington.'
+  when_where_wa: Downy Woodpeckers are common year round in hardwood forests at low to moderate elevations throughout most of Washington. They occur but are relatively uncommon in the Palouse area, where they are generally restricted to streamsides, and in the Columbia Basin east of the Potholes reservoir, although they are fairly common around the Tri-cities.
+photos:
+- file: dowo_jh_l.jpg
+  caption: 'Short bill, black marks on white outer tail feathers. Male. Note: red on hindcrown.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: dowo_f_gl_l.jpg
+  caption: 'Female. Note: lacks red nape of male.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: dowo1.mp3
+  credit: null
+maps:
+  wa: pipu.jpg
+  north_america: dowomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: [F, F, F, F, F, F, F, F, F, F, F, F]
+  puget_trough: [F, F, F, F, F, F, F, F, F, F, F, F]
+  north_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  west_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  east_cascades: [F, F, F, F, F, F, F, F, F, F, F, F]
+  okanogan: [F, F, F, F, F, F, F, F, F, F, F, F]
+  canadian_rockies: [F, F, F, F, F, F, F, F, F, F, F, F]
+  blue_mountains: [F, F, F, F, F, F, F, F, F, F, F, F]
+  columbia_plateau: [F, F, F, F, F, F, F, F, F, F, F, F]
+taxonomy:
+  ebird_code: dowwoo
+  current_common_name: Downy Woodpecker
+  current_scientific_name: Dryobates pubescens
+  clements_sort: 11400
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/downy_woodpecker
+  archived: '2026-09-12'

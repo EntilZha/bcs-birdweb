@@ -1,0 +1,67 @@
+slug: mountain_bluebird
+common_name: Mountain Bluebird
+scientific_name: Sialia currucoides
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Turdidae
+  slug: turdidae
+status: Fairly common summer resident, mostly east.
+species_of_concern: false
+sections:
+  general_description: Mountain Bluebirds are characterized by an overall blue wash. They lack the bold rufous coloring of Western Bluebirds. Males are a striking sky-blue color. Females are predominantly gray with a bluish tint, especially on the wings and tail. Females have a white eye-ring, which males lack, and some females may have some light rufous on their throats and breasts.
+  habitat: Mountain Bluebirds occur in varied, open terrain, more open than the habitat of Western Bluebirds. They are found in alpine parklands, and also at lower elevations in steppe areas, open woodlands with Ponderosa pine, forests openings, clearings, and logged areas where a few snags have been left.
+  behavior: Mountain Bluebirds hover low over the grass in open fields, and drop to the ground to pounce on prey. They also catch food in mid-air, by darting out from a perch.
+  diet: The Mountain Bluebird's diet consists of a combination of insects and berries Insects make up a larger percentage of their diet than is the case with other thrushes.
+  nesting: Cavity-nesters, they rely on natural holes in trees, old woodpecker holes, and man-made cavities for nesting spots. If a traditional cavity can't be located, they will nest in cliff holes, dirt banks, or old swallow nests. The female selects the cavity, and both build a loose cup-nest with stems, grass, and twigs, lined with softer materials. The female lays and incubates 5 to 6 eggs. Both parents feed the young, which fledge within 2½ to 3 weeks of hatching. The parents continue to tend the young for another 3 to 4 weeks, after which they lay a second brood.
+  migration_status: The most migratory of the bluebirds, most Mountain Bluebirds leave the nesting grounds in September or October for their wintering grounds in the southwestern United States and Mexico, returning to the nesting grounds in March. They migrate short distances, sometimes forming large flocks in the winter at low elevations in Ponderosa pine and juniper forest. The few birds that stay in Washington are found east of the Cascades, where they sometimes join groups of robins and solitaires.
+  conservation_status: Since much of their nesting habitat is remote, Mountain Bluebirds have been less affected than other species by nest site competition with starlings and other invasive species. Artificial nest boxes have helped keep overall population numbers healthy. In Washington, nest boxes have allowed for range expansion into new habitats where they previously had no place to nest. In the past century, they did experience a decline in western Washington, and they are no longer breeding in the Olympic Peninsula.
+  when_where_wa: Mountain Bluebirds can be found in alpine parklands in the Cascades, the Blue Mountains, and the northeast corner of Washington. They are absent as breeders from the Olympic Mountains. In western Washington, they can be found locally near Mount Rainier and Mount St. Helens. In eastern Washington they can be found along Umtanum Ridge (Yakima County), Elk Heights (Kittitas County), in the foothills of the Blue Mountains, and at mid-elevations on the east slope of the Cascades in meadows and logged areas. There is a significant population in Klickitat County around Bickleton where an intensive nest box program has provided many nesting opportunities. The Mountain Bluebird is the only bluebird that nests in alpine parkland and high elevation open areas. In the winter they can be found in flocks in similar habitat and more open, treeless terrain, but they are very uncommon.
+photos:
+- file: mobl_jh_l.jpg
+  caption: 'Male. Note: blue overall and thin dark bill.'
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+- file: mobl_f_tg_l.jpg
+  caption: 'Female. Note: gray overall with blue tail.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+- file: mobl_j_tg_l.jpg
+  caption: 'Juvenile (left, with male on right). Note: white speckled breast/flanks.'
+  credit:
+    name: Tom Grey
+    url: http://www.pbase.com/tgrey
+  hero: false
+audio:
+  file: mobl1.mp3
+  credit: null
+maps:
+  wa: secu.jpg
+  north_america: moblmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', R, U, U, U, U, U, '', '', '', '']
+  west_cascades: ['', U, F, F, F, F, F, F, U, R, '', '']
+  east_cascades: [R, R, U, F, F, F, F, F, U, R, R, R]
+  okanogan: ['', '', C, C, C, C, C, C, C, C, '', '']
+  canadian_rockies: ['', U, F, F, F, F, F, F, F, U, '', '']
+  blue_mountains: ['', '', '', U, F, C, C, C, C, U, R, '']
+  columbia_plateau: [R, R, F, F, F, F, F, F, F, U, R, R]
+taxonomy:
+  ebird_code: moublu
+  current_common_name: Mountain Bluebird
+  current_scientific_name: Sialia currucoides
+  clements_sort: 28144
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/mountain_bluebird
+  archived: '2026-09-12'

@@ -1,0 +1,57 @@
+slug: fulvous_whistling-duck
+common_name: Fulvous Whistling-Duck
+scientific_name: Dendrocygna bicolor
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Accidental visitor. Washington Bird Records Committee review list species.
+species_of_concern: false
+sections:
+  general_description: |-
+    Sometimes called tree-ducks, the whistling-ducks compose a unique group of eight species of worldwide distribution, mostly in the tropics. They are distinctive for their long-legged, long-necked, rather chunky appearance. Of the two species that reach the United States only one, the Fulvous Whistling-Duck, has been recorded in Washington. Its rich, tawny-colored underparts contrast with a darker back; all-dark wings and a broad white band across the rump stand out in flight.
+
+    This species typically favors open, shallow freshwater habitats such as marshes, reed-fringed ponds, and flooded fields, roosting by day and foraging at night. It breeds along the Gulf Coast of Louisiana and Texas, in southern Florida, and in the Imperial Valley of southern California, south through the West Indies, Mexico, and Central America to Argentina. It is also resident in sub-Saharan Africa and South Asia. Birds regularly wander northward in North America, predominantly east of the Rockies and often in small parties. Washington’s only confirmed record was of one bird shot from a flock of 10 at Grays Harbor (Grays Harbor County) in October 1905. In September of that year five birds were shot from a flock of 11 at Port Alberni on Vancouver Island, British Columbia, providing what is still the province’s only convincing record. Oregon, too, has a single well-documented record, of a flock of 11 birds at Coos Bay in February 1970.
+
+    *Revised June 2007*
+photos:
+- file: fuwd_fl_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: fuwd_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: fuwdmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: fuwduc
+  current_common_name: Fulvous Whistling-Duck
+  current_scientific_name: Dendrocygna bicolor
+  clements_sort: 249
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/fulvous_whistling-duck
+  archived: '2026-09-12'

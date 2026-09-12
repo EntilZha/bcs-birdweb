@@ -1,0 +1,73 @@
+slug: red-eyed_vireo
+common_name: Red-eyed Vireo
+scientific_name: Vireo olivaceus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Vireonidae
+  slug: vireonidae
+status: Fairly common but local summer resident.
+species_of_concern: false
+sections:
+  general_description: 'The Red-eyed Vireo is a small bird, olive-green above and pale yellow and white below. It has no wing-bars. It has a rather flat head with a blue-gray crown, bordered below by three stripes: black, white, and black, with the lowest stripe passing through the eye. Although adults have bright red eyes, the color of the eyes is often difficult to detect in the field. The eyes of juveniles are brown, a color that may persist through the first winter.'
+  habitat: Throughout the eastern United States, Red-eyed Vireos are common in deciduous woodlands. However in Washington they are largely confined to stream and lakeside woodlands and cottonwood stands.
+  behavior: Red-eyed Vireos can be difficult to see because they forage high in the canopy, where they pick food from the undersides of foliage, hopping about or hovering in the leaves. During courtship and nesting seasons, their prominent, repeated calls readily reveal their presence.
+  diet: In summer, Red-eyed Vireos feed mostly on adult insects and larvae, especially caterpillars. In late summer and on their wintering grounds, they also eat berries.
+  nesting: Like other vireos, Red-eyed Vireos are monogamous. Unlike other Washington vireos, female Red-eyed Vireos build their nests and incubate without assistance from the males. The nest is made of bark, grass, needles, and twigs, lined with soft plant fiber and other material. It is covered on the outside with wasp nest paper and spider webbing. It is a typical vireo nest, suspended by its rim from a horizontally forked twig or the corner of a tree trunk and two radiating branches. Clutch size is typically three to four eggs, and incubation lasts for 11 to 14 days. Both the male and female feed the young for the 10 to 12 days they are in the nest. The female, and perhaps the male, continue to feed the young for up to two weeks after they leave the nest.
+  migration_status: Red-eyed Vireos have expanded into Washington from the East, a route they retrace during migration. They arrive from points east late in spring, at the end of May or the beginning of June. When they leave the state, usually by the end of August, they head east before turning south for wintering grounds in the Amazon Basin.
+  conservation_status: Brown-headed Cowbirds frequently lay their eggs in the nests of Red-eyed Vireos. The clearing of eastern forests and those on their wintering grounds in South America has most likely caused some population decline, but the current number in North America appears stable. In Washington, according to the Breeding Bird Survey, Red-eyed Vireos have experienced a significant decline between 1966 and 2000. This decline has most likely resulted from both Brown-headed Cowbird parasitism and the degradation and loss of streamside habitat.
+  when_where_wa: Red-eyed Vireos can be found along streams and in other areas with large cottonwood trees from late May to mid-August. They are more common in eastern Washington, but can be found in western Washington at Fort Lewis (Pierce County), along such rivers as the Nooksack and Nisqually, and along the Columbia River in Clark, Skamania, and Klickitat Counties. They also breed most years at Marymoor Park (King County). The highest densities in western Washington occur along the Snoqualmie and Skagit Rivers. In eastern Washington, they can be seen along rivers in the northeast and southeast, especially in the northeast corner of the state.
+photos:
+- file: revi_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: revi_ad1_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: revi_ad2_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: revi_ad3_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+audio:
+  file: REVI01.mp3
+  credit: null
+maps:
+  wa: viol.jpg
+  north_america: revimap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', R, R, R, R, '', '', '', '']
+  puget_trough: ['', '', '', '', R, F, F, U, U, '', '', '']
+  north_cascades: ['', '', '', '', R, F, F, U, R, '', '', '']
+  west_cascades: ['', '', '', '', U, F, F, U, U, '', '', '']
+  east_cascades: ['', '', '', '', R, U, U, U, '', '', '', '']
+  okanogan: ['', '', '', '', U, C, C, C, U, '', '', '']
+  canadian_rockies: ['', '', '', '', F, C, F, '', '', '', '', '']
+  blue_mountains: ['', '', '', '', F, F, F, F, R, '', '', '']
+  columbia_plateau: ['', '', '', '', R, R, '', '', R, '', '', '']
+taxonomy:
+  ebird_code: reevir1
+  current_common_name: Red-eyed Vireo
+  current_scientific_name: Vireo olivaceus
+  clements_sort: 19267
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/red-eyed_vireo
+  archived: '2026-09-12'

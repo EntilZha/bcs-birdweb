@@ -1,0 +1,61 @@
+slug: rosss_goose
+common_name: Ross's Goose
+scientific_name: Chen rossii
+order:
+  name: Anseriformes
+  slug: anseriformes
+family:
+  name: Anatidae
+  slug: anatidae
+status: Rare migrant, winter resident.
+species_of_concern: false
+sections:
+  general_description: The Ross' Goose is a small goose, similar in appearance to the Snow Goose. Like the Snow Goose, the Ross' Goose has a light and dark morph, although the dark-morph Ross' Goose is extremely rare. The light morph is white, and the dark morph is gray with a white head. Both morphs have black primaries. The bill is small and lacks the 'grin-patch' seen on the Snow Goose. Juveniles are mostly gray.
+  habitat: The Arctic nesting grounds of the Ross' Goose, not discovered until 1938, consist of tundra, marshes, and ponds. In winter and during migration, these geese can be found in shallow lakes, fresh-water marshes, flooded fields, and other agricultural lands.
+  behavior: Ross' Geese are usually in flocks, often mixed with Snow Geese. Their tendency to roost in tight flocks and be easily attracted to decoys may have made them vulnerable to market hunters, who had a significant impact on the population. These geese typically forage on the ground, wading or swimming in shallow water.
+  diet: Almost exclusively plant-eaters, Ross' Geese eat grasses, sedges, and grain. In the fall, they eat more seeds and grains than grasses.
+  nesting: Ross' Geese breed in colonies, starting in their second or third year. The nest is on an island or the shore of a tundra lake, often situated at the edge of a low thicket. The nest, built by the female after she lays her first egg, is a bulky pile of leaves, grass, and moss, depressed in the middle and lined with down. The female lays a total of 4 eggs and incubates them for about 3 weeks. The young leave the nest shortly after hatching. The parents lead the young to water and food, and the goslings feed themselves. The male stands guard and actively defends the young against predators. The young fledge at 40 to 45 days.
+  migration_status: The vast majority of the population nests in the Queen Maud Gulf Migratory Bird Sanctuary in the central Canadian Arctic. They migrate to California's Central Valley, often in mixed flocks with other geese.
+  conservation_status: The population of Ross' Geese was estimated at only 2,000 to 3,000 individuals in 1931. Protection from hunting has helped the Ross' Goose population recover to a 1988 total of 188,000 breeding birds, although it is still listed as a species-of-concern on the Partners in Flight watch list. Still on the increase, populations are now thought to be expanding their range greatly--birds have been found farther east and west in recent years during migration. Most nesting occurs within a refuge, and hunting is still prohibited, but loss of migration stopover and wintering habitat continues to threaten the Ross' Goose.
+  when_where_wa: The Ross' Goose is a rare species, but is becoming more common in Washington. You may occasionally find it mixed in with Snow Geese or other mixed-species flocks in the winter in the lowlands on both sides of the Cascades, in both fresh- and saltwater habitats. Flocks of up to 30 Ross' Geese have become fairly regular in the spring and fall in far-eastern Washington.
+photos:
+- file: rogo_gt_l.jpg
+  caption: 'Note: round head and short bill (with smaller'
+  credit:
+    name: Glen Tepke
+    url: http://www.pbase.com/gtepke
+  hero: true
+- file: rogo_fl_gl_l.jpg
+  caption: Ross's Goose on left, Snow Goose on right.
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: rogo.mp3
+  credit: null
+maps:
+  wa: chro.jpg
+  north_america: rogomap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: [R, R, R, R, '', '', '', '', '', '', R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', R, R, R, '', '', '', '', '', R, '']
+  canadian_rockies: ['', '', R, R, '', '', '', '', '', R, R, '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', R, R, R, '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: rosgoo
+  current_common_name: Ross's Goose
+  current_scientific_name: Anser rossii
+  clements_sort: 272
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/rosss_goose
+  archived: '2026-09-12'

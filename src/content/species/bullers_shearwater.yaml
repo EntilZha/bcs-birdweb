@@ -1,0 +1,59 @@
+slug: bullers_shearwater
+common_name: Buller's Shearwater
+scientific_name: Puffinus bulleri
+order:
+  name: Procellariiformes
+  slug: procellariiformes
+family:
+  name: Procellariidae
+  slug: procellariidae
+status: Fairly common fall pelagic.
+species_of_concern: false
+sections:
+  general_description: Other than the Pink-footed Shearwater, the Buller's Shearwater is the only large, white-bellied shearwater found off the Pacific Coast. Its undersides are entirely white, cleanly edged in dark gray. Its upperparts are slate-gray with bold, black accents. On the water, its clean, white flanks, white throat and chin, and gray bill are visible. The head is divided cleanly into a gray-black upper half and a white lower half, divided at the eye. In flight, the Buller's Shearwater is more graceful than other shearwaters, flapping less and gliding more.
+  habitat: The Buller's Shearwater is found in open ocean, concentrated at areas of upwellings where warm and cool water currents meet, and deep-ocean water, rich with nutrients, is brought to the surface. The Buller's Shearwater rarely comes close to the shore. Its nesting habitat is on islands with soil suitable for burrowing or crevices among rocky cliffs.
+  behavior: When taking off from the nesting colony, the Buller's Shearwater may climb into trees to take flight more easily. Unlike other species of shearwaters, the Buller's Shearwater is seldom seen feeding on offal from fishing vessels.
+  diet: The diet of the Buller's Shearwater is not well known, but most likely includes crustaceans, fish, and squid. Food is taken at or just below the water's surface. When foraging in flight, the shearwater drops down, and plunges into the water from just above the surface. It swims with its head submerged, sometimes up-ended much like a dabbling duck. The Buller's Shearwater rarely dives under water.
+  nesting: Buller's Shearwaters nest only on the Poor Knights Islands, located off North Island, New Zealand. Adults arrive at the island in September and nest in dense colonies, which are active mostly at night. The nest is built in a burrow under a tree root or rock, in a cave, or in a rock crevice. Both parents help build the burrow and nest chamber, which is lined with leaves, twigs, and pebbles. Some have been known to nest in burial caves and may use human bones as nest material. The female lays one egg in late November, and both parents incubate for over 7 weeks. Both parents regurgitate food for the chick. About 14 weeks after hatching, generally in May, the young shearwater leaves the colony and heads to sea.
+  migration_status: Trans-equatorial migrants, Buller's Shearwaters head north to sub-arctic waters in April and May. They can be seen off the Pacific Coast of North America from June through November, although they are most common in September.
+  conservation_status: Colonies on some islands were nearly wiped out by feral pigs near the beginning of the 20th Century. The pigs were eradicated in 1936, and since then the population has rebounded to a total population of more than two million. This population growth has resulted in a range expansion into the northern Pacific. The first record of a Buller's Shearwater in southeastern Alaska was in 1974, and they have been regular fall visitors off the Washington coast since the 1970s.
+  when_where_wa: As with the other shearwaters in Washington, the Buller's Shearwater is most easily seen on boat trips. It rarely comes close to shore, and is most common in September. They are known to concentrate at an area of upwelling off the Olympic Peninsula.
+photos:
+- file: bulsmd.jpg
+  caption: ''
+  credit:
+    name: Michael Donahue
+    url: null
+  hero: true
+- file: blsh2dp.jpg
+  caption: ''
+  credit:
+    name: Dennis Paulson
+    url: http://www.pugetsound.edu/academics/academic-resources/slater-museum/
+  hero: false
+audio: null
+maps:
+  wa: pubu.jpg
+  north_america: bulsmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', R, U, C, C, U, '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: bulshe
+  current_common_name: Buller's Shearwater
+  current_scientific_name: Ardenna bulleri
+  clements_sort: 7212
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/bullers_shearwater
+  archived: '2026-09-12'

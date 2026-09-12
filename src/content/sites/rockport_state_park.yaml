@@ -1,0 +1,23 @@
+slug: rockport_state_park
+name: Rockport State Park
+number: 305
+ecoregions:
+- north_cascades
+sections:
+  site: Rockport State Park (RSP) is located in northern Washington beside a stretch of the upper Skagit River. It is situated in the transition zone between the steep slopes of the North Cascades and the flatlands of the Skagit River valley. This area once was home to an impressive lowland conifer forest - now mostly successional forest. But here at RSP is a remnant of the majestic Douglas fir stands that once were common. Western red cedar and western hemlock also occur in the park. Along the river corridor, there is deciduous riparian vegetation that changes as the Skagit periodically floods its banks.
+  birds: 'It is no surprise that four of Washington''s woodpeckers are found in RSP. Red-breasted Sapsucker, Pileated Woodpecker, Hairy Woodpecker, and Northern Flicker can be seen, and the first three are known to nest in the park. Two owl species also occur: Barred and Northern Pygmy-Owl. RSP is a good place to see Ruffed Grouse - watch for them in the edge habitats. Bald Eagles and Osprey have nested here. In all seasons, one can find Varied Thrush, Chestnut-backed Chickadee, Winter Wren, Brown Creeper, Golden-crowned Kinglet, Red Crossbill, and Steller''s Jay. Less regular visitors are Pine Siskin and Hutton''s Vireo. Summer brings migrants north to nest: Western Tanager, Swainson''s Thrush, American Robin, MacGillivray''s Warbler, and American Robin. If visiting in winter, continue on Route 20, stopping along the Skagit River at the Nature Conservancy''s Bald Eagle Natural Area. It is an unforgettable sight: perhaps more than a hundred Bald Eagles feasting on the carcasses of chum salmon!'
+  directions: 'From I-5, take Exit #230 (Route 20) and go east for 37 miles to milepost 96. Turn left into the park. There is a campground with restrooms open in summer. Rockport State Park is closed in winter, but there are places to pull off and explore. When the park is open, there is a $5 state parks parking fee.'
+photos:
+- file: site_rockport_eagles.jpg
+  caption: ''
+  credit:
+    name: Mike Hamilton
+    url: http://home1.gte.net/mikeham
+  hero: true
+lat: null
+lon: null
+county: null
+geocode_source: null
+source:
+  url: https://birdweb.org/birdweb/site/rockport_state_park/4
+  archived: '2026-09-12'

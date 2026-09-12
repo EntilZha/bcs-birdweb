@@ -1,0 +1,73 @@
+slug: prairie_falcon
+common_name: Prairie Falcon
+scientific_name: Falco mexicanus
+order:
+  name: Falconiformes
+  slug: falconiformes
+family:
+  name: Falconidae
+  slug: falconidae
+status: Uncommon resident east. Rare west.
+species_of_concern: true
+sections:
+  general_description: Prairie Falcons are similar in size and markings to Peregrine Falcons, but Prairie Falcons are lighter brown in color, and their breasts are more spotted than barred. Prairie Falcons also have white behind their eyes. In flight, they can be distinguished from the Peregrine Falcon by their more rounded wingtips and dark axillaries and coverts, which make for distinctive field marks from below.
+  habitat: During the breeding season, Prairie Falcons inhabit dry, open areas with cliffs and bluffs for nesting. In late summer, many move to alpine and sub-alpine meadows. During winter, they can often be found in agricultural areas.
+  behavior: Prairie Falcons usually catch prey by flying low over the ground. They are very vocal during courtship and are often heard before they are seen.
+  diet: Mammals, especially ground squirrels and rabbits, and ground-dwelling birds such as California Quails and Chukars, make up the majority of the Prairie Falcon's diet. In winter, Horned Larks and Western Meadowlarks become a significant source of prey.
+  nesting: Prairie Falcons generally do not breed until their second year. The breeding cycle of the Prairie Falcon coincides with the most productive period of the shrub-steppe season, when prey species are flourishing. Courtship lasts from late February to April, and they nest on basalt cliffs in recessed or otherwise protected spots. They sometimes use an old hawk or raven nest, but do not nest in trees and do not build their own nests. Instead, they position the 3 to 5 eggs in debris scraped from the nest ledge. The female performs most of the incubation, which lasts about 31 days. During the time the female is incubating the eggs, and for the first week or so after the chicks hatch, the male provides food. When the young are over a week old, the female broods them less than half the time, and helps to bring food. The young leave the nest at about 38 days, and the parents continue to feed them for 30 to 35 days after they fledge. Most birds have left the breeding grounds by late June.
+  migration_status: Prairie Falcons shift habitats periodically throughout the year, and some may migrate long distances. In late summer, ground squirrels move underground to escape the dry, hot environment. Prairie Falcons, losing their major source of prey, leave the nesting grounds at this time and head to higher elevations, where snowmelt prolongs the growing season. In late fall, some birds return to the shrub-steppe, and many spend the winter in open fields and agricultural areas, taking advantage of the flocking birds that winter there. Some also move short distances south and east during the winter.
+  conservation_status: Habitat loss has limited both nest sites and foraging habitat throughout the range of the Prairie Falcon. The availability of cliffs for nesting, with adequate surrounding habitat, is a limiting factor for Prairie Falcons in Washington, and habitat loss is their most significant threat. Large-scale agricultural development, while it provides wintering habitat, reduces the suitability of the area for nesting. However, although numbers have declined in some developed areas, it appears that the current population is stable overall. Unfortunately, the shrub-steppe, where many Prairie Falcons nest, is one of the most endangered habitats in Washington, and this puts Prairie Falcons at risk. They are listed on both the Audubon~Washington watch list and the Washington Gap Analysis at-risk list.
+  when_where_wa: Prairie Falcons are uncommon breeders in the shrub-steppe zone of eastern Washington, rarely moving up into the Okanogan and Methow Valleys. Look for them where there are basalt coulees with cliff faces for nesting. In summer, alpine meadows are a good place to find them. In winter, they are also uncommon in these areas, and are rare in western Washington farmlands.
+photos:
+- file: prfa_ad_gth_l.jpg
+  caption: 'Adult. Note: yellow cere (around beak)'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: prfa_ad2_gth_l.jpg
+  caption: 'Adult. Note: yellow cere (around beak)'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: prfa_j_gth_l.jpg
+  caption: 'Juvenile. Note: lack of yellow cere (around beak)'
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: false
+- file: prfa_jh_l.jpg
+  caption: Adult
+  credit:
+    name: Joseph V. Higbee
+    url: http://www.pbase.com/jvhigbee/e_bonw
+  hero: true
+audio:
+  file: PRFA01.mp3
+  credit: null
+maps:
+  wa: fame.jpg
+  north_america: prfamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: [R, R, R, '', '', '', '', '', '', '', R, R]
+  north_cascades: ['', '', '', '', '', '', '', '', R, '', '', '']
+  west_cascades: ['', '', '', '', R, R, R, R, R, R, '', '']
+  east_cascades: [R, R, R, R, R, R, R, R, R, R, R, R]
+  okanogan: [U, U, U, R, R, R, R, R, U, U, U, U]
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', R, R, R, R, R, R, R, R, R, R, '']
+  columbia_plateau: [U, U, U, U, U, U, U, U, U, U, U, U]
+taxonomy:
+  ebird_code: prafal
+  current_common_name: Prairie Falcon
+  current_scientific_name: Falco mexicanus
+  clements_sort: 12136
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/prairie_falcon
+  archived: '2026-09-12'

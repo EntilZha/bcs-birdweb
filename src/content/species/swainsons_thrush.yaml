@@ -1,0 +1,73 @@
+slug: swainsons_thrush
+common_name: Swainson's Thrush
+scientific_name: Catharus ustulatus
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Turdidae
+  slug: turdidae
+status: Common summer resident.
+species_of_concern: false
+sections:
+  general_description: There are three species of spot-breasted thrushes found in Washington. All three - the Swainson's Thrush, the Veery, and the Hermit Thrush - have solid brownish upperparts (back, wings, and tail), light-colored bellies, whitish eye-rings, and varying degrees of spotting on their breasts. All are similar in shape to a robin, but smaller. Males and females appear similar in most species. The spots on the Swainson's Thrush appear more faded than those of the Hermit Thrush, but more distinct than those of the Veery. Swainson's Thrushes also have distinct buff-colored eye-rings.
+  habitat: The Swainson's Thrush occupies forested habitat at low to mid-elevations, overlapping with the Veery below and the Hermit Thrush above. Although it is found mostly in dense hardwood and mixed forests, young conifer forests, and forest openings, the Swainson's Thrush does not require as dense an understory as does the Veery. They are attracted to salmonberry stands as nesting sites.
+  behavior: Although the Swainson's Thrush does much of its feeding on the ground, it spends more time foraging in trees than do the other spot-breasted thrushes in Washington. They hover while gleaning insects from foliage, and also catch flying insects. In spring and summer, when they feed predominantly on insects and other invertebrates, they forage mostly on the ground. As the season progresses and they eat more berries, they forage farther off the ground. The song and call of the Swainson's Thrush are quite distinctive, and may help a birder to locate this thrush that usually stays under cover.
+  diet: The diet of the Swainson's Thrush changes seasonally from insects to berries. Berries are important year round, making up over one third of the summer diet.
+  nesting: The male establishes a territory and attracts a mate by singing. The female builds the nest on a horizontal branch of a deciduous tree or shrub 2-10 feet above the ground. The nest is a bulky, open cup of twigs, bark strips, moss, grass, leaves, and mud. It is lined with fine, soft materials including animal hair and lichen. The female lays 3 to 4 eggs, which she incubates by herself. Both parents feed the young, which leave the nest 10 to 13 days after hatching.
+  migration_status: Swainson's Thrushes are highly migratory, and none winter in Washington. They arrive late in spring, and migration is spread out, with spring migrants appearing in late May in eastern Washington. Fall migration takes place during August and September. Migration is mostly at night. The birds migrate to tropical forests for the winter.
+  conservation_status: Two subspecies of Swainson's Thrush occur in Washington, the russet-backed form in western Washington and the southeast Cascades, and the olive-backed form found in eastern Washington and the northeast Cascades. Swainson's Thrushes appear to benefit from the extensive logging of low-elevation west-side forests because logging leaves brushy, early-successional habitat. They are currently the most abundant and widely distributed spot-breasted thrush in Washington. They are, however, still vulnerable to loss of habitat on breeding and wintering grounds. The Breeding Bird Survey shows a small, not statistically significant decline in the Washington population between 1980 and 2002.
+  when_where_wa: Swainson's Thrushes are common in forested regions throughout the state, especially at low to moderate elevations in western Washington. They are abundant in early-successional shrub habitats and in salmonberry thickets. East of the Cascades, they are found at higher elevations than in the west, because eastern forests are more open, and have more understory, than the dense, west-side forests. Spring migrants appear in late May in eastern Washington.
+photos:
+- file: swth_gl_l.jpg
+  caption: 'Note: tail nearly the same color as back, buffy spectacles, and rufous-olive flanks.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: swthrush_3_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: swthrush_1_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+- file: swthrush_2_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio:
+  file: SwainsonsThrush.mp3
+  credit: null
+maps:
+  wa: caus.jpg
+  north_america: swthmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', R, C, C, C, U, R, '', '', '']
+  puget_trough: ['', '', '', '', F, C, C, C, F, R, '', '']
+  north_cascades: ['', '', '', '', C, C, C, C, U, '', '', '']
+  west_cascades: ['', '', '', '', F, C, C, C, U, '', '', '']
+  east_cascades: ['', '', '', '', F, C, C, C, F, '', '', '']
+  okanogan: ['', '', '', '', F, C, C, C, U, '', '', '']
+  canadian_rockies: ['', '', '', '', F, F, F, U, '', '', '', '']
+  blue_mountains: ['', '', '', '', U, F, F, F, U, '', '', '']
+  columbia_plateau: ['', '', '', '', R, '', '', '', R, '', '', '']
+taxonomy:
+  ebird_code: swathr
+  current_common_name: Swainson's Thrush
+  current_scientific_name: Catharus ustulatus
+  clements_sort: 28324
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/swainsons_thrush
+  archived: '2026-09-12'

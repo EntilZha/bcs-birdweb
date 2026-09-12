@@ -1,0 +1,61 @@
+slug: sage_sparrow
+common_name: Sage Sparrow
+scientific_name: Amphispiza belli
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: Fairly common summer resident east.
+species_of_concern: true
+sections:
+  general_description: The adult Sage Sparrow has a dark spot in the middle of its clear, white breast and streaked, buff sides. The upperparts are gray-brown; there are no streaks on the back and only light streaks on the wings. The Sage Sparrow's tail is long, narrow, and black, with thin white edges. The head is gray, with a white cheek stripe and black throat stripe below. The eye has a white eye-ring and a white spot above and in front of the eye. Juveniles are overall streaked brown and buff.
+  habitat: Restricted to open shrub lands and grasslands, Washington's Sage Sparrows are found in hot, dry areas of eastern Washington with mature big sagebrush stands. These sparrows seem to prefer sites with sparse shrub cover, arranged in patches, with bare ground in between. During migration they are rarely seen, but can be found in almost all sagebrush habitat, including degraded sage, in eastern Washington.
+  behavior: They can be found foraging in small flocks starting in late June. Most of their foraging takes place on the ground. While foraging, they hop or walk, but run across open spaces. The Sage Sparrow is often seen running along the ground with its tail cocked up. When perched on shrubs, it often pumps its tail up and down like a phoebe.
+  diet: Seeds and insects make up the majority of the Sage Sparrow's diet year round. Seasonal variations are similar to that of most sparrows, with insects more commonly a part of the diet in the breeding season. The young are fed insects.
+  nesting: The male returns to the same nesting site each year and defends a territory by singing from a high perch. The male returns from the wintering grounds usually already paired with a female, and the pair bond is monogamous through the breeding season. Early nests are usually on the ground, but later in the season, nests are placed in the shrub canopy, in the densest areas, usually within four feet of the ground. Nest shrubs are generally higher than most of the surrounding shrubs. The female builds a bulky cup with an outer shell made of coarse grasses and twigs. The initial lining is made of fine grasses and bark, and then a second lining of feathers, wool, or other animal hair is added. The female incubates the 3 to 4 eggs (usually 3) for 10 to 16 days. Both parents help feed the young, which leave the nest at 9 to 10 days. Fledglings cannot fly when they leave the nest, and the parents continue to provide food for the young. Pairs will typically raise two broods, but have been known to raise as many as three broods in a season.
+  migration_status: Sage Sparrows in Washington are migratory, spending the winter in southern deserts. They are one of our earliest migrants; many arrive before March. They are typically gone by mid-September.
+  conservation_status: Washington breeders are the northern subspecies of Sage Sparrow, which may be split into multiple species at a future time. This is a disjunct population, that is, it is geographically isolated from the majority of the population that is found in the Great Basin. Increased development and destruction of shrub-steppe habitat have contributed to a range-wide decline in the Sage Sparrow population. Less than 20% of the existing steppe area in eastern Washington is considered preferred Sage Sparrow habitat, and much of that is patchily distributed. Over half of their former habitat has been converted to agriculture, and fires in these areas also contribute to habitat loss. Sage Sparrows abandon habitat that has been taken over by cheatgrass--an exotic grass that has invaded much of Washington's shrub-steppe habitat and continues to invade recently burned areas. The Breeding Bird Survey has shown a decline in Washington over the past 25 years that should be of concern, and the Washington Department of Fish and Wildlife has identified the Sage Sparrow as a candidate for state endangered species protection. Audubon~Washington, Partners in Flight, and the Washington GAP Analysis project all include the Sage Sparrow on their lists of at-risk species.
+  when_where_wa: Sage Sparrows are common to uncommon breeders in sagebrush landscapes of the Columbia Basin. They are rare breeders in the Okanogan Valley, and possible breeders in the Methow Valley. Not much is known about this species' exact habitat requirements, and large areas of sagebrush that appear to be suitable habitat are often lacking Sage Sparrows. Some areas where they can be found relatively commonly from March through July, and to a lesser extent to mid-August, are the Quilomene Wildlife Area (Kittitas County), the Yakama Indian Reservation, from Dry Creek along the Horse Heaven Hills to Mabton, the southern end of the Yakima Training Center (Yakima County), the Wahluke Slope (Franklin County), and Sagebrush Flats (Douglas County).
+photos:
+- file: sasp.jpg
+  caption: ''
+  credit:
+    name: Joseph V Higbee
+    url: http://www.pbase.com/jvhigbee
+  hero: false
+- file: sags_ad_gth_l.jpg
+  caption: ''
+  credit:
+    name: Gregg Thompson
+    url: null
+  hero: true
+audio:
+  file: SAGS01.mp3
+  credit: null
+maps:
+  wa: ambe.jpg
+  north_america: sagsmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', R, R, R, R, R, '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', U, F, F, F, F, F, U, U, '', '', '']
+taxonomy:
+  ebird_code: sagspa1
+  current_common_name: Sagebrush Sparrow
+  current_scientific_name: Artemisiospiza nevadensis
+  clements_sort: 33207.0
+  historic_common_name: Sage Sparrow
+  display_historic: false
+  note: Published on BirdWeb as Sage Sparrow. That species was split into Sagebrush Sparrow and Bell's Sparrow; the bird breeding in Washington's shrub-steppe is the Sagebrush Sparrow.
+source:
+  url: https://birdweb.org/birdweb/bird/sage_sparrow
+  archived: '2026-09-12'

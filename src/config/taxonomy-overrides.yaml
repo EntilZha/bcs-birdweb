@@ -1,0 +1,231 @@
+# Taxonomy decisions that cannot be made mechanically.
+#
+# Each species here either (a) matched the current taxonomy on its 2005 binomial but not on
+# its name -- the signature of a split where the old binomial stayed with the Old World
+# daughter species -- or (b) was lumped into another species, or (c) is not in the current
+# eBird taxonomy at all.
+#
+# scripts/map_taxonomy.py never resolves these itself: matching "Barn Owl (Tyto alba)" on
+# the binomial alone would relabel a Washington account as Western Barn Owl, a Eurasian
+# bird. Deciding which daughter species occurs in Washington is a factual call that needs a
+# person, so it is made here, in version control, with the reasoning written down.
+#
+# `note` is shown to readers on the species page. Write it for them: say what the bird was
+# called on BirdWeb and what happened to the name.
+#
+# Leaving an entry unresolved is safe and is the default: the site then shows the name the
+# account itself uses, which is never wrong -- only out of date.
+#
+# STATUS: resolved from the eBird taxonomy on 2026-09-11 against which daughter species
+# occurs in Washington. Flagged for review by the BCS Science Committee, who own this call.
+
+species:
+  # --- Splits: the 2005 binomial stayed with a species that does not occur here ---------
+
+  barn_owl:
+    ebird_code: brnowl
+    current_common_name: American Barn Owl
+    current_scientific_name: Tyto furcata
+    clements_sort: 8633.0
+    note: >-
+      Published on BirdWeb as Barn Owl (Tyto alba). The Barn Owl was later split; the
+      New World bird, including Washington's, is now American Barn Owl, while Tyto alba
+      refers to the Western Barn Owl of Europe and Africa.
+
+  herring_gull:
+    ebird_code: amhgul1
+    current_common_name: American Herring Gull
+    current_scientific_name: Larus smithsonianus
+    clements_sort: 6539.0
+    note: >-
+      Published on BirdWeb as Herring Gull (Larus argentatus). The Herring Gull complex was
+      split; Washington's breeding and wintering birds are American Herring Gull, while
+      Larus argentatus is now the European Herring Gull.
+
+  house_wren:
+    ebird_code: houwre
+    current_common_name: Northern House Wren
+    current_scientific_name: Troglodytes aedon
+    clements_sort: 27191.0
+    note: >-
+      Published on BirdWeb as House Wren. The species was split into Northern and Southern
+      House Wrens; Washington's bird is the Northern.
+
+  warbling_vireo:
+    ebird_code: wewvir2
+    current_common_name: Western Warbling Vireo
+    current_scientific_name: Vireo swainsoni
+    clements_sort: 19247.0
+    note: >-
+      Published on BirdWeb as Warbling Vireo. The species was split into Eastern and
+      Western Warbling Vireos; Washington's breeding birds are the Western.
+
+  whimbrel:
+    ebird_code: whimbr3
+    current_common_name: Hudsonian Whimbrel
+    current_scientific_name: Numenius hudsonicus
+    clements_sort: 6011.0
+    note: >-
+      Published on BirdWeb as Whimbrel (Numenius phaeopus). The Whimbrel was split;
+      Washington's regular migrant is the Hudsonian Whimbrel, while Numenius phaeopus is
+      now the Eurasian Whimbrel, a rare visitor here.
+
+  xantuss_murrelet:
+    ebird_code: xanmur2
+    current_common_name: Scripps's Murrelet
+    current_scientific_name: Synthliboramphus scrippsi
+    clements_sort: 6437.0
+    note: >-
+      Published on BirdWeb as Xantus's Murrelet. That species was split into Scripps's and
+      Guadalupe Murrelets; Washington's few records are of Scripps's Murrelet.
+
+  sage_sparrow:
+    ebird_code: sagspa1
+    current_common_name: Sagebrush Sparrow
+    current_scientific_name: Artemisiospiza nevadensis
+    clements_sort: 33207.0
+    note: >-
+      Published on BirdWeb as Sage Sparrow. That species was split into Sagebrush Sparrow
+      and Bell's Sparrow; the bird breeding in Washington's shrub-steppe is the Sagebrush
+      Sparrow.
+
+  yellow_warbler:
+    ebird_code: yelwar1
+    current_common_name: Northern Yellow Warbler
+    current_scientific_name: Setophaga aestiva
+    clements_sort: 34087.0
+    note: >-
+      Published on BirdWeb as Yellow Warbler (Dendroica petechia). The genus Dendroica was
+      merged into Setophaga, and the Yellow Warbler was later split; Washington's breeding
+      bird is the Northern Yellow Warbler.
+
+  shy_albatross:
+    ebird_code: whcalb1
+    current_common_name: White-capped Albatross
+    current_scientific_name: Thalassarche cauta
+    clements_sort: 7000.0
+    note: >-
+      Published on BirdWeb as Shy Albatross (Thalassarche cauta), which is now called
+      White-capped Albatross. Records in the Shy/White-capped complex are difficult to
+      assign at sea, and Washington's few reports should be read with that caution.
+
+  # --- Renames: same bird, new accepted name -------------------------------------------
+
+  gray_jay:
+    ebird_code: gryjay
+    current_common_name: Canada Jay
+    current_scientific_name: Perisoreus canadensis
+    clements_sort: 21181.0
+    note: >-
+      Published on BirdWeb as Gray Jay. The American Ornithological Society restored the
+      name Canada Jay in 2018; it is the same bird.
+
+  sky_lark:
+    ebird_code: skylar
+    current_common_name: Eurasian Skylark
+    current_scientific_name: Alauda arvensis
+    clements_sort: 22615.0
+    note: >-
+      Published on BirdWeb as Sky Lark, now called Eurasian Skylark. Washington's
+      population, in the San Juan Islands, descends from birds introduced to Vancouver
+      Island.
+
+  cattle_egret:
+    ebird_code: categr1
+    current_common_name: Western Cattle-Egret
+    current_scientific_name: Ardea ibis
+    clements_sort: 7724.0
+    note: >-
+      Published on BirdWeb as Cattle Egret (Bubulcus ibis). The species was moved to the
+      genus Ardea and split; the bird recorded in Washington is the Western Cattle-Egret.
+
+  greater_shearwater:
+    ebird_code: greshe
+    current_common_name: Great Shearwater
+    current_scientific_name: Ardenna gravis
+    clements_sort: 7207.0
+    note: >-
+      Published on BirdWeb as Greater Shearwater (Puffinus gravis). It is now called Great
+      Shearwater and placed in the genus Ardenna.
+
+  le_contes_sparrow:
+    ebird_code: lecspa
+    current_common_name: LeConte's Sparrow
+    current_scientific_name: Ammospiza leconteii
+    clements_sort: 33221.0
+    note: >-
+      Published on BirdWeb as Le Conte's Sparrow (Ammodramus leconteii). The spelling is
+      now LeConte's and the species has moved to the genus Ammospiza.
+
+  nelsons_sharp-tailed_sparrow:
+    ebird_code: nstspa
+    current_common_name: Nelson's Sparrow
+    current_scientific_name: Ammospiza nelsoni
+    clements_sort: 33232.0
+    note: >-
+      Published on BirdWeb as Nelson's Sharp-tailed Sparrow. That species was split from
+      Saltmarsh Sparrow and shortened to Nelson's Sparrow.
+
+  northern_goshawk:
+    ebird_code: norgos
+    current_common_name: American Goshawk
+    current_scientific_name: Astur atricapillus
+    clements_sort: 8292.0
+    note: >-
+      Published on BirdWeb as Northern Goshawk (Accipiter gentilis). The Northern Goshawk
+      was split in 2023; the North American bird is now American Goshawk, in the genus
+      Astur.
+
+  # --- Lumps: no longer a separate species ----------------------------------------------
+
+  northwestern_crow:
+    # Absorbed into a species that has its own BirdWeb account, so this page keeps its
+    # published name as the title and explains the merge in the note.
+    display_historic: true
+    ebird_code: amecro
+    current_common_name: American Crow
+    current_scientific_name: Corvus brachyrhynchos
+    clements_sort: 21557.0
+    note: >-
+      Published on BirdWeb as Northwestern Crow. Genetic work showed the coastal
+      Northwestern Crow to be part of a continuum with American Crow, and the two were
+      merged in 2020. This account describes the coastal birds of the Puget Sound region.
+
+  thayers_gull:
+    # Absorbed into a species that has its own BirdWeb account, so this page keeps its
+    # published name as the title and explains the merge in the note.
+    display_historic: true
+    ebird_code: y00478
+    current_common_name: Iceland Gull
+    current_scientific_name: Larus glaucoides
+    clements_sort: 6606.0
+    note: >-
+      Published on BirdWeb as Thayer's Gull. It was merged into Iceland Gull in 2017 and is
+      now treated as the subspecies Larus glaucoides thayeri -- the form that winters in
+      Washington.
+
+  common_redpoll:
+    # Absorbed into a species that has its own BirdWeb account, so this page keeps its
+    # published name as the title and explains the merge in the note.
+    display_historic: true
+    ebird_code: redpol1
+    current_common_name: Redpoll
+    current_scientific_name: Acanthis flammea
+    clements_sort: 32483.0
+    note: >-
+      Published on BirdWeb as Common Redpoll. Common, Hoary and Lesser Redpolls were merged
+      into a single species, Redpoll, in 2024. This account describes the form that occurs
+      regularly in Washington.
+
+  hoary_redpoll:
+    # Absorbed into a species that has its own BirdWeb account, so this page keeps its
+    # published name as the title and explains the merge in the note.
+    display_historic: true
+    ebird_code: redpol1
+    current_common_name: Redpoll
+    current_scientific_name: Acanthis flammea
+    clements_sort: 32483.0
+    note: >-
+      Published on BirdWeb as Hoary Redpoll. Common, Hoary and Lesser Redpolls were merged
+      into a single species, Redpoll, in 2024. This account describes the pale northern
+      birds formerly treated as Hoary.

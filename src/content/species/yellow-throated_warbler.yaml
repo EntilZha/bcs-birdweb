@@ -1,0 +1,51 @@
+slug: yellow-throated_warbler
+common_name: Yellow-throated Warbler
+scientific_name: Dendroica dominica
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Parulidae
+  slug: parulidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: |-
+    Long-billed and slender-appearing, the Yellow-throated Warbler commonly forages by moving methodically along branches. All plumages are similar and identification is straightforward. Upperparts are blue-gray, wings blue-gray with two white wingbars. Throat and upper breast are bright yellow, separated from the upperparts by a black border. The rest of the underparts are white with black streaking on the breast sides and flanks. The head has a long white eyebrow, a black eyeline and ear patch, and a white crescent below the eye. A large white spot on the side of the neck is a key field mark.
+
+    The Yellow-throated Warbler nests in lowland forest habitats of the Southeast, lower Midwest, and Middle Atlantic states, and winters in the West Indies, Mexico, and Central America as well as in Florida and along the coast of Georgia and South Carolina. It is one of the less common vagrant “eastern” warblers in the West. British Columbia has a single record, Washington and Idaho each have two, and Oregon has five. Six of these occurred at scattered dates between 24 April and 1 November, while the other four represent long-staying winter birds at feeders: Harrison, Idaho, November 1995–January 1996; Gulf Islands, British Columbia, January 1998; Twisp (Okanogan County), Washington, December 2001–January 2002; and Seaside, Oregon, January–February 2005. Washington’s second record was in rural Asotin County in October 2003.
+
+    *Revised November 2007*
+photos:
+- file: ytwa_gl_l.jpg
+  caption: 'Note: white supercilium, bright yellow throat, and white neck spot.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+audio: null
+maps:
+  wa: null
+  north_america: ytwamap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: yetwar
+  current_common_name: Yellow-throated Warbler
+  current_scientific_name: Setophaga dominica
+  clements_sort: 34171
+  historic_common_name: null
+  display_historic: false
+  note: null
+source:
+  url: https://birdweb.org/birdweb/bird/yellow-throated_warbler
+  archived: '2026-09-12'

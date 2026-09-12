@@ -1,0 +1,52 @@
+slug: nelsons_sharp-tailed_sparrow
+common_name: Nelson's Sharp-tailed Sparrow
+scientific_name: Ammodramus nelsoni
+order:
+  name: Passeriformes
+  slug: passeriformes
+family:
+  name: Emberizidae
+  slug: emberizidae
+status: ''
+species_of_concern: false
+sections:
+  general_description: One record, from Sullivan Lake (Pend Oreille County) in September 1986.
+photos:
+- file: nsts_gl_l.jpg
+  caption: ''
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: true
+- file: nesp_gl_l.jpg
+  caption: 'Note: grayish auriculars, buffy orange supercilium and malar stripe, and gray collar.'
+  credit:
+    name: Greg Lavaty
+    url: http://www.pbase.com/dadas115
+  hero: false
+audio: null
+maps:
+  wa: null
+  north_america: nstsmap.gif
+abundance:
+  oceanic: ['', '', '', '', '', '', '', '', '', '', '', '']
+  pacific_northwest_coast: ['', '', '', '', '', '', '', '', '', '', '', '']
+  puget_trough: ['', '', '', '', '', '', '', '', '', '', '', '']
+  north_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  west_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  east_cascades: ['', '', '', '', '', '', '', '', '', '', '', '']
+  okanogan: ['', '', '', '', '', '', '', '', '', '', '', '']
+  canadian_rockies: ['', '', '', '', '', '', '', '', '', '', '', '']
+  blue_mountains: ['', '', '', '', '', '', '', '', '', '', '', '']
+  columbia_plateau: ['', '', '', '', '', '', '', '', '', '', '', '']
+taxonomy:
+  ebird_code: nstspa
+  current_common_name: Nelson's Sparrow
+  current_scientific_name: Ammospiza nelsoni
+  clements_sort: 33232.0
+  historic_common_name: Nelson's Sharp-tailed Sparrow
+  display_historic: false
+  note: Published on BirdWeb as Nelson's Sharp-tailed Sparrow. That species was split from Saltmarsh Sparrow and shortened to Nelson's Sparrow.
+source:
+  url: https://birdweb.org/birdweb/bird/nelsons_sharp-tailed_sparrow
+  archived: '2026-09-12'
