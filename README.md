@@ -43,6 +43,7 @@ the source is hit exactly once.
 | `pixi run archive-pack` | Pack `archive/` into a dated, checksummed tarball. |
 | `pixi run extract` | Parse `archive/` into `src/content/` YAML. Offline. |
 | `pixi run verify` | Hard QA gate over the extracted content. Non-zero exit on any gap. |
+| `pixi run audit-live` | Re-fetch 10 edge-case species and diff them field-by-field against the live site. |
 | `pixi run taxonomy` | Attach the eBird taxonomy layer to each species. |
 | `pixi run images` | Convert archived photos and maps to WebP under `src/assets/`. |
 | `pixi run geocode` | Propose coordinates for the birding sites (candidates, not answers). |
@@ -140,6 +141,25 @@ idle reset.
 
 Push to `main`. The workflow type-checks, runs the tests, builds, and deploys to GitHub
 Pages. This is a Sapling repository — use `sl`, and never push to `main` without asking.
+
+## How it is verified
+
+Four independent checks, because each catches what the others cannot:
+
+- **`pixi run verify`** — the data's internal shape: counts, required fields, 12×10
+  abundance, every asset reference resolvable, no orphans.
+- **`pixi run test-py`** — the parsers, against fixtures. 35 tests.
+- **`pixi run audit-live`** — 10 edge-case species re-fetched from the live site and
+  compared field by field. Deliberately a *separate* implementation from the extractor
+  (substring matching over raw HTML, not the extractor's selectors), because a check that
+  shares the code it is checking proves nothing. This is what would catch a selector
+  quietly grabbing the wrong element on every page.
+- **`pixi run test`** — the site's pure logic. 55 tests, including that an unconfirmed pin
+  can never reach the map and that no text uses an opacity too light to pass WCAG AA.
+
+The archive has its own: `pixi run verify-archive` re-hashes every file against the
+manifest, and `archive/browsable/` is checked by driving it in a browser with every
+non-`file://` request aborted.
 
 ## What still needs a person
 
