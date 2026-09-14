@@ -56,10 +56,10 @@ const awaiting = sites.length - plotted.length;
     </p>
   ) : (
 <figure class:list={["m-0", className]}>
+  <!-- max-h: at 1440px wide an uncapped map is 82% of the viewport height and pushes the
+       list that people actually use off the screen. -->
   <svg
     viewBox={`0 0 ${VIEW_WIDTH} ${VIEW_HEIGHT}`}
-    /* Capped: at 1440px wide an uncapped map is 82% of the viewport height and pushes the
-       list that people actually use off the screen. */
     class="w-full h-auto max-h-[60vh] rounded-2xl bg-cream ring-1 ring-black/5"
     role="img"
     aria-label={`Map of Washington showing ${plotted.length} birding sites`}
