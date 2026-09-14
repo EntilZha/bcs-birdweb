@@ -286,6 +286,68 @@ test.describe("ecoregion map", () => {
     await expect(page.locator(".leaflet-container")).toHaveCount(0);
   });
 
+  test("the map scrolls under the sticky header, not over it", async ({ page }) => {
+    // Leaflet's panes are z-index 400 and its controls 800-1000, and `.leaflet-container`
+    // opens no stacking context of its own, so those numbers competed with the page's own
+    // and the map painted straight over the z-30 header while scrolling.
+    await openMap(page, "/ecoregions/pacific_northwest_coast/");
+
+    // Scroll so the header band sits halfway down the map — the only window in which the
+    // two can overlap at all. A fixed offset is worthless here: scroll far enough and the
+    // map is above the header, which passes without testing anything.
+    const band = await page.evaluate(() => {
+      const m = document.querySelector(".leaflet-container")!.getBoundingClientRect();
+      const h = document.querySelector("header")!.getBoundingClientRect();
+      return { target: window.scrollY + m.top + m.height / 2 - h.height, headerHeight: h.height };
+    });
+    await page.evaluate((y) => window.scrollTo(0, y), band.target);
+    await page.waitForTimeout(400);
+
+    const overlap = await page.evaluate(() => {
+      const m = document.querySelector(".leaflet-container")!.getBoundingClientRect();
+      const h = document.querySelector("header")!.getBoundingClientRect();
+      const y = h.top + h.height / 2;
+      if (y < m.top || y > m.bottom) return null; // no overlap to test — the test is void
+      const probes: { x: number; covered: boolean }[] = [];
+      for (const f of [0.25, 0.5, 0.75, 0.9]) {
+        const x = m.left + m.width * f;
+        const el = document.elementFromPoint(x, y);
+        probes.push({ x: Math.round(x), covered: !!el?.closest(".leaflet-container") });
+      }
+      return probes;
+    });
+
+    expect(overlap, "the map and header do not overlap — reposition the scroll").not.toBeNull();
+    for (const probe of overlap!) {
+      expect(probe.covered, `the map covers the header at x=${probe.x}`).toBe(false);
+    }
+  });
+
+  test("a region page frames its region, not the whole state", async ({ page }) => {
+    // Fitting every page to Washington left a region's sites as a cluster of dots a
+    // fingernail wide — not a view you can plan a morning from.
+    //
+    // Read the zoom off the tile URLs (.../{z}/{x}/{y}.png). The obvious metric — what
+    // share of the map the region's polygon covers — looks right and is worthless: the
+    // region page's map is a 457px sidebar and the index's is 1120px, so fitting the same
+    // bounds to different aspect ratios changes that share on its own. It passed with the
+    // zoom deliberately reverted.
+    const zoomOf = async (path: string) => {
+      await openMap(page, path);
+      return page.evaluate(() => {
+        const tile = document.querySelector(".leaflet-tile") as HTMLImageElement | null;
+        const m = tile?.src.match(/\/(\d+)\/\d+\/\d+\.png/);
+        return m ? Number(m[1]) : NaN;
+      });
+    };
+    const onIndex = await zoomOf("/ecoregions/");
+    const onOwnPage = await zoomOf("/ecoregions/pacific_northwest_coast/");
+    expect(onIndex).toBeGreaterThan(0);
+    expect(onOwnPage, `region page zoom ${onOwnPage} vs index ${onIndex}`).toBeGreaterThan(
+      onIndex,
+    );
+  });
+
   test("the site list works whether or not the map does", async ({ page }) => {
     await page.goto(BASE + "/sites/");
     await page.waitForLoadState("networkidle");

@@ -104,9 +104,9 @@ local app that reads and writes them.
 | | |
 |---|---|
 | `pixi run verify` | the data's internal shape: counts, required fields, 12×10 abundance, asset references, orphans |
-| `pixi run test-py` | the parsers, against fixtures (35 tests) |
+| `pixi run test-py` | the parsers and the ecoregion map's geometry, against fixtures (40 tests) |
 | `pixi run audit-live` | 10 edge-case species re-fetched from the live site, diffed field by field |
-| `pixi run test` + `test-e2e` | pure logic (56) and browser behaviour (91) |
+| `pixi run test` + `test-e2e` | pure logic (56) and browser behaviour (109, incl. 17 axe-core pages) |
 
 `audit-live` is deliberately a **separate implementation** from the extractor — substring
 matching over raw HTML, not the extractor's selectors — because a check that shares the code
@@ -129,6 +129,22 @@ billing attached; BCS owns this site long-term and a key that lapses breaks the 
 silently. OSM needs neither. It started as inline SVG for exactly that reason, but a plain
 state outline could not show *where* a region is — real streets and terrain do that, and
 the boundaries are approximate enough that the basemap carries the meaning.
+
+**Leaflet needs `isolate` on its container, and the suite must not reuse a server.** Two
+traps that both produce convincing wrong answers:
+
+*Stacking.* Leaflet puts its panes at z-index 400 and its controls at 800–1000, and
+`.leaflet-container` sets `position: relative` with no z-index, so it opens no stacking
+context and those numbers compete with the page's own. The map painted straight over the
+`z-30` sticky header. `isolate` on the holder div contains them.
+
+*Stale builds.* `playwright.config.ts` sets `reuseExistingServer: false` and serves the
+build on **4322**, not Astro's 4321. Both matter. On the shared port a running `pixi run
+dev` was adopted as if it were the build, and the run failed with a dozen `504 Outdated
+Optimize Dep` errors unrelated to the code. With reuse on, a server left up from the
+previous run meant the build step never ran — so the suite tested the *previous* commit,
+and a deliberately reverted fix still reported a pass. If a run now aborts with "already
+used", kill whatever holds 4322; do not turn reuse back on.
 
 **Leaflet must be `client:only="react"`.** It reads `window` at module scope, so Astro
 cannot even import it to prerender the island. The region list in `EcoregionMapPanel.astro`

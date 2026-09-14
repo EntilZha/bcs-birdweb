@@ -78,7 +78,34 @@ export default function EcoregionLeaflet({
       maxBoundsViscosity: 0.85,
     });
     map.current = instance;
-    instance.fitBounds(WA_BOUNDS);
+
+    // A region page frames its own region; the index frames the state. Fitting every page
+    // to Washington left a region's sites as a cluster of dots a fingernail wide, which is
+    // not a view anyone can plan a morning from.
+    //
+    // Sites extend the frame only if they already fall near the region. Extending to all
+    // of them is the obvious version and it is wrong: every pin here is an unconfirmed
+    // geocode, and one bad one — a Blue Mountains site that landed near the Canadian
+    // border — pulled the frame back out to half the state and squeezed the region itself
+    // into a sliver at the bottom edge. A stray pin should sit off-screen until someone
+    // confirms it, not decide what the map shows.
+    const focus = active ? regions.find((r) => r.slug === active) : undefined;
+    if (focus) {
+      const ring = L.latLngBounds(
+        focus.ring.map(([lon, lat]) => [lat, lon] as [number, number]),
+      );
+      const near = ring.pad(0.35);
+      const bounds = L.latLngBounds(ring.getSouthWest(), ring.getNorthEast());
+      for (const site of sites) {
+        if (near.contains([site.lat, site.lon])) bounds.extend([site.lat, site.lon]);
+      }
+      // Padding in pixels, not a fractional bounds pad. Zoom steps are powers of two,
+      // so inflating the bounds even 8% tips a tall region down a whole level: Puget
+      // Trough went to zoom 6 and showed the entire state on its own page.
+      instance.fitBounds(bounds, { padding: [12, 12] });
+    } else {
+      instance.fitBounds(WA_BOUNDS);
+    }
 
     const tiles = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 19,
@@ -163,10 +190,16 @@ export default function EcoregionLeaflet({
 
   return (
     <div>
+      {/* `isolate` is load-bearing. Leaflet puts its panes at z-index 400 and its zoom
+          and attribution controls at 800-1000, and `.leaflet-container` sets `position:
+          relative` without a z-index — so it never opens a stacking context of its own and
+          those numbers compete directly with the rest of the page. The sticky header is
+          z-30, so the map simply painted over it while scrolling. Isolating the container
+          keeps Leaflet's z-indexes inside it, where they only order Leaflet's own layers. */}
       <div
         ref={holder}
         style={{ height }}
-        className="w-full rounded-2xl ring-1 ring-black/5 overflow-hidden bg-cream"
+        className="isolate w-full rounded-2xl ring-1 ring-black/5 overflow-hidden bg-cream"
       />
       {failed && (
         <p className="mt-2 rounded-lg bg-pop/30 px-3 py-2 text-xs text-brand">
