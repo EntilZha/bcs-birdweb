@@ -49,7 +49,7 @@ const blocks = text
   });
 ---
 
-<div class:list={["space-y-3 text-[0.9375rem] leading-relaxed text-ink", className]}>
+<div class:list={["space-y-3 text-[0.9375rem] leading-relaxed text-ink [overflow-wrap:anywhere]", className]}>
   {
     blocks.map((block) =>
       block.kind === "h2" ? (

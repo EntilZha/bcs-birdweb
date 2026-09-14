@@ -37,19 +37,39 @@ const plotted = sites
 const awaiting = sites.length - plotted.length;
 ---
 
+{
+  /* No map when there is nothing to put on it.
+     An empty state outline is not a placeholder, it is a large blank rectangle that reads
+     as a rendering failure -- and it pushed the site list, which does work, below the
+     fold. Better to say plainly that the map is not ready. */
+  plotted.length === 0 ? (
+    <p
+      class:list={[
+        "rounded-2xl bg-white px-4 py-3 text-sm text-ink ring-1 ring-black/5",
+        className,
+      ]}
+    >
+      <strong class="font-semibold text-brand">A map is coming.</strong> The original
+      BirdWeb pages carry no coordinates at all, so all {sites.length} locations are being
+      placed and checked one at a time — a map is only worth having if every pin on it is
+      right. Until then, the sites are listed below.
+    </p>
+  ) : (
 <figure class:list={["m-0", className]}>
   <svg
     viewBox={`0 0 ${VIEW_WIDTH} ${VIEW_HEIGHT}`}
-    class="w-full h-auto rounded-2xl bg-white ring-1 ring-black/5"
+    /* Capped: at 1440px wide an uncapped map is 82% of the viewport height and pushes the
+       list that people actually use off the screen. */
+    class="w-full h-auto max-h-[60vh] rounded-2xl bg-cream ring-1 ring-black/5"
     role="img"
     aria-label={`Map of Washington showing ${plotted.length} birding sites`}
   >
     <title>Birding sites in Washington</title>
     <path
       d={WASHINGTON_PATH}
-      fill="var(--color-cream)"
+      fill="#ffffff"
       stroke="var(--color-sage)"
-      stroke-width="2"
+      stroke-width="2.5"
       stroke-linejoin="round"
     />
     {
@@ -77,19 +97,9 @@ const awaiting = sites.length - plotted.length;
   </svg>
 
   <figcaption class="mt-2 text-xs text-ink-muted">
-    {
-      plotted.length > 0 ? (
-        <>
-          {plotted.length} of {sites.length} birding sites. Tap a marker to open the site.
-          {awaiting > 0 && ` ${awaiting} more are still being placed.`}
-        </>
-      ) : (
-        <>
-          No sites are mapped yet. The original BirdWeb pages carry no coordinates, so all
-          {" "}{sites.length} locations are being placed and checked by hand — a map is only
-          useful if every pin on it is right.
-        </>
-      )
-    }
+    {plotted.length} of {sites.length} birding sites. Tap a marker to open the site.
+    {awaiting > 0 && ` ${awaiting} more are still being placed.`}
   </figcaption>
 </figure>
+  )
+}

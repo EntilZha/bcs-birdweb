@@ -29,10 +29,22 @@ const LAT_SPAN = WA_BOUNDS.north - WA_BOUNDS.south;
 export const VIEW_WIDTH = 1000;
 export const VIEW_HEIGHT = Math.round((LAT_SPAN / LON_SPAN) * VIEW_WIDTH);
 
+/**
+ * Inset, in viewBox units, so the outline is not drawn on the edge of its own box.
+ *
+ * Washington reaches within two units of the eastern bound, so an un-inset projection puts
+ * the border stroke half outside the viewBox and the browser clips it -- the state renders
+ * with a missing right-hand edge. A pin dropped at the far corner of the state would clip
+ * the same way. 14 units is comfortably more than the widest stroke or marker here.
+ */
+const PAD = 14;
+const INNER_WIDTH = VIEW_WIDTH - PAD * 2;
+const INNER_HEIGHT = VIEW_HEIGHT - PAD * 2;
+
 export function project(lon: number, lat: number): { x: number; y: number } {
-  const x = ((lon - WA_BOUNDS.west) * Math.cos(MID_LAT_RAD) * VIEW_WIDTH) / LON_SPAN;
+  const x = PAD + ((lon - WA_BOUNDS.west) * Math.cos(MID_LAT_RAD) * INNER_WIDTH) / LON_SPAN;
   // SVG y grows downward; latitude grows upward.
-  const y = ((WA_BOUNDS.north - lat) * VIEW_HEIGHT) / LAT_SPAN;
+  const y = PAD + ((WA_BOUNDS.north - lat) * INNER_HEIGHT) / LAT_SPAN;
   return { x, y };
 }
 

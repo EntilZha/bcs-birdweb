@@ -21,6 +21,10 @@ __pycache__/
 *.pyc
 .venv/
 
+# Playwright
+test-results/
+playwright-report/
+
 # Misc
 .DS_Store
 .cache/

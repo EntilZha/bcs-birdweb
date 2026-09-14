@@ -86,12 +86,16 @@ description = "Type-check the site with astro check"
 cmd = "npm run test"
 description = "Run the Vitest suite over src/lib/"
 
+[tasks.test-e2e]
+cmd = "npm run test:e2e"
+description = "Run the Playwright browser suite against a production build"
+
 [tasks.test-py]
 cmd = "pytest -q scripts/tests"
 description = "Run the pytest suite over the archive/extract pipeline"
 
 [tasks.test-all]
-depends-on = ["test", "test-py"]
+depends-on = ["test", "test-py", "test-e2e"]
 description = "Run both test suites"
 
 [tasks.install-site]

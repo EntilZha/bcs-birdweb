@@ -57,6 +57,23 @@ jobs:
       - name: Build
         run: npm run build
 
+      # Browser checks last, because they need the built site. These catch the class of
+      # bug the other gates cannot see at all: layout overflow, contrast, hydration
+      # mismatches, and links that only break once a real browser follows them.
+      - name: Install Playwright browser
+        run: npx playwright install --with-deps chromium
+
+      - name: Browser tests
+        run: npx playwright test
+
+      - name: Upload Playwright report on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-report
+          path: playwright-report/
+          retention-days: 7
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
