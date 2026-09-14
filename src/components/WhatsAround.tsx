@@ -6,8 +6,8 @@ import { parseWhatsAroundUrl, whatsAroundQuery } from "../lib/whatsAroundUrl";
 /**
  * One species, flattened for the client. Abundance arrives as ten 12-character strings
  * (one per ecoregion, in canonical order) rather than nested arrays -- at 491 species that
- * is the difference between a ~75KB payload and a ~300KB one, and the page has to stay
- * instant on shop wifi.
+ * is the difference between a ~75KB payload and a ~300KB one, which is worth having on a
+ * phone in the field.
  */
 export interface CompactSpecies {
   slug: string;

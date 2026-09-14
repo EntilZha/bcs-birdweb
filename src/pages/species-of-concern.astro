@@ -3,7 +3,7 @@ import { getCollection, getEntry } from "astro:content";
 import Layout from "../layouts/Layout.astro";
 import Prose from "../components/Prose.astro";
 import SpeciesCard from "../components/SpeciesCard.astro";
-import { taxonomicSort, displayName } from "../lib/species";
+import { taxonomicSort } from "../lib/species";
 
 const page = await getEntry("pages", "species-of-concern");
 const concern = (await getCollection("species"))

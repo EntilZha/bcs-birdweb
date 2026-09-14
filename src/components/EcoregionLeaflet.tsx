@@ -10,8 +10,11 @@ import "leaflet/dist/leaflet.css";
  * breaks the map silently and nobody notices until a visitor mentions it. OSM needs
  * neither, and the editor's pin map already runs on it.
  *
- * Deliberately not used on /kiosk/. The storefront display has to work when shop wifi
- * drops, and a tile map is a grey box the moment it cannot reach the network.
+ * Not used on /kiosk/, but that is a scope decision rather than a technical one: the
+ * storefront screen is a species-lookup tool and a region map is a different task. (An
+ * earlier version of this comment claimed the kiosk needed to survive a wifi drop, which
+ * is nonsense -- the kiosk loads this site over the network, so if wifi is down there is
+ * no page to draw a map on.)
  *
  * The polygons are traced from the legacy site's clickable map, so they are approximate --
  * and on a real basemap that is *more* visible than on a blank outline, because you can

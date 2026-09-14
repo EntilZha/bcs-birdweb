@@ -19,8 +19,14 @@ enough to say which part of the state you are looking at.
 Attribution: the original map was credited "Map courtesy of Cindy Lippincott". These shapes
 derive from it and the credit travels with them.
 
+This is the first of three steps and writes rings only. The traced polygons do not tile
+(the legacy `<area>` hit targets were drawn independently), and they carry no colours, so
+reconcile_ecoregions.py and assign_ecoregion_colours.py run after it and overwrite parts of
+the same file. Running this script alone therefore *undoes* both — use the chained task.
+
 Usage:
-    pixi run ecoregion-shapes
+    pixi run ecoregion-map        # this, then reconcile, then colours
+    pixi run ecoregion-shapes     # just this step
 """
 
 from __future__ import annotations
@@ -131,40 +137,6 @@ def label_point(ring: list[list[float]]) -> list[float]:
     return best
 
 
-def assign_colours(regions: dict[str, list[list[float]]]) -> dict[str, int]:
-    """Give touching regions different fills, using as few as possible.
-
-    A choropleth needs *all-pairs* colour separation -- any two regions can end up side by
-    side -- and under simulated colour blindness only about three hues clear that bar. Ten
-    distinguishable fills does not exist, so the map is coloured the way maps have always
-    been coloured: neighbours differ, and the number printed on each region carries the
-    identity. Three is enough here, which is verified rather than assumed.
-    """
-    import itertools
-
-    def touching(a: list[list[float]], b: list[list[float]], tol: float = 0.18) -> bool:
-        return any(
-            math.dist((x1, y1), (x2, y2)) < tol for x1, y1 in a for x2, y2 in b
-        )
-
-    names = list(regions)
-    adjacent = {n: set() for n in names}
-    for a, b in itertools.combinations(names, 2):
-        if touching(regions[a], regions[b]):
-            adjacent[a].add(b)
-            adjacent[b].add(a)
-
-    colours: dict[str, int] = {}
-    for name in sorted(names, key=lambda n: -len(adjacent[n])):
-        taken = {colours[m] for m in adjacent[name] if m in colours}
-        colours[name] = next(i for i in range(10) if i not in taken)
-
-    for name, neighbours in adjacent.items():
-        for other in neighbours:
-            assert colours[name] != colours[other], f"{name} and {other} share a colour"
-    return colours
-
-
 @app.command()
 def run() -> None:
     """Convert the legacy image map's polygons into lat/lon rings."""
@@ -204,11 +176,6 @@ def run() -> None:
     out["label_points"] = {
         slug: label_point(ring) for slug, ring in out["regions"].items()
     }
-    out["colour_slot"] = assign_colours(out["regions"])
-    out["_colour_note"] = (
-        "Fill slots assigned by graph colouring so no two touching ecoregions share one. "
-        "Identity is carried by the number drawn on each region, not by colour."
-    )
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(out, separators=(",", ":")))
 
@@ -235,6 +202,12 @@ def run() -> None:
     console.print(
         "  [dim]Original map courtesy of Cindy Lippincott; the credit travels with these "
         "shapes.[/dim]"
+    )
+    console.print(
+        "\n[yellow]These are the raw traced rings: neighbours do not meet and nothing is "
+        "coloured yet.[/yellow]\n  Run [bold]pixi run reconcile-ecoregions[/bold] then "
+        "[bold]pixi run ecoregion-colours[/bold] —\n  or just [bold]pixi run ecoregion-map"
+        "[/bold], which does all three in order."
     )
 
 

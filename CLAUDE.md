@@ -58,6 +58,22 @@ invented later cannot arrive claiming more confidence than it has earned. A coor
 outside Washington is dropped whatever its source — that is a transposed sign, not an
 approximation.
 
+**The ecoregion map is coloured on adjacency, not all-pairs.** A choropleth normally needs
+every pair of categories to be distinguishable, and under simulated protanopia and
+deuteranopia only about three hues clear that bar — which is why this map had three fills
+and looked repetitive. A map is not a legend, though: the ten regions have fixed positions,
+so what has to be told apart is regions that share a border.
+`scripts/assign_ecoregion_colours.py` searches assignments to maximise the weakest
+*geographically adjacent* pair (currently ΔE 15.2 against a target of 8), and transcribes
+the same Machado 2009 CVD simulation the dataviz validator uses so the search and the gate
+agree. Non-adjacent regions may resemble each other; that is the trade. Identity never
+rests on colour — every region is numbered on the map and named in a server-rendered legend.
+
+**Rebuild the ecoregion map with `pixi run ecoregion-map`, never `ecoregion-shapes` alone.**
+Three scripts write `src/data/ecoregion-shapes.json` in sequence — trace, reconcile, colour
+— and the first rewrites the file wholesale, so running it by itself throws the other two
+away. The chained task runs all three and reproduces the committed file exactly.
+
 **Don't pick colours by eye.** Secondary text uses `--color-ink`, `--color-ink-muted`,
 `--color-ink-faint`, whose contrast ratios against the cream background were measured. The
 opacities that *look* right fail AA: `black/50` on cream is 3.9:1. A test fails the build
@@ -119,8 +135,15 @@ cannot even import it to prerender the island. The region list in `EcoregionMapP
 is server-rendered on purpose: with the island unrendered, that list is the only thing
 making the regions navigable without JavaScript.
 
-**No tile map on `/kiosk/`.** The storefront display has to work when shop wifi drops, and
-a tile map is a grey box the moment it cannot reach the network. A test enforces this.
+**No tile map on `/kiosk/`** — a scope decision, not a technical one. The storefront screen
+is a species-lookup tool; a region map is a different task, and Leaflet would add ~45KB to
+a page already carrying every species. Don't justify it as offline resilience: the kiosk
+loads this site over the network, so a wifi drop takes the whole screen down regardless.
+
+**The real dependency risk is the tile service, not the network.** `tile.openstreetmap.org`
+is run on donated capacity and its usage policy discourages heavy traffic. If BirdWeb ever
+gets real volume, moving to a proper tile host is the fix — that is independent of whether
+the visitor's connection is up.
 
 **Approximate pins are shown rather than withheld.** The first version refused anything
 unconfirmed, reasoning that a wrong pin sends someone to the wrong place. That is correct

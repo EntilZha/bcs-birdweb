@@ -15,6 +15,7 @@ httpx = ">=0.27"
 selectolax = ">=0.3"
 pyyaml = ">=6"
 pillow = ">=10"
+shapely = ">=2.0"
 typer = ">=0.9"
 rich = ">=13"
 pytest = ">=8"
@@ -62,7 +63,21 @@ description = "Convert archived photos and maps into WebP under src/assets/birds
 
 [tasks.ecoregion-shapes]
 cmd = "python scripts/extract_ecoregion_shapes.py"
-description = "Recover ecoregion boundaries from the legacy site's clickable map"
+description = "Step 1: recover raw ecoregion rings from the legacy clickable map"
+
+[tasks.ecoregion-colours]
+cmd = "python scripts/assign_ecoregion_colours.py"
+description = "Step 3: give each ecoregion its own hue, maximising neighbouring separation"
+
+[tasks.reconcile-ecoregions]
+cmd = "python scripts/reconcile_ecoregions.py"
+description = "Step 2: close gaps and overlaps between the traced ecoregion boundaries"
+
+# The three steps write to one file and step 1 rewrites it wholesale, so running
+# ecoregion-shapes on its own throws away the reconciliation and the colours. Run this.
+[tasks.ecoregion-map]
+depends-on = ["ecoregion-shapes", "reconcile-ecoregions", "ecoregion-colours"]
+description = "Rebuild src/data/ecoregion-shapes.json end to end (rings, then fit, then hues)"
 
 [tasks.geocode]
 cmd = "python scripts/geocode_sites.py"

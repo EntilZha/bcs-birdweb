@@ -3,11 +3,10 @@ import outline from "../data/washington-outline.json";
 /**
  * Projection for the Washington locator map.
  *
- * Deliberately not a tile map. A slippy map would mean a runtime dependency on a third
- * party for every page view -- an API key to manage, a service that can rate-limit the
- * storefront display, and nothing to show when the shop wifi drops. The whole state fits
- * in one small SVG, so the map ships as markup: no JavaScript, no network, no key, and it
- * prints.
+ * Used for the static locator geometry. The interactive map is Leaflet + OpenStreetMap
+ * (see EcoregionLeaflet.tsx); this projection still backs anything that needs to place a
+ * coordinate without a tile layer, and its bounds and inset are what keep a pin at the far
+ * corner of the state from being clipped.
  *
  * Equirectangular with a cos(latitude) correction on x. At Washington's latitude that is
  * within a couple of percent of Mercator over this small a span, and it keeps the maths

@@ -277,8 +277,10 @@ test.describe("ecoregion map", () => {
     await context.close();
   });
 
-  test("the kiosk carries no tile map", async ({ page }) => {
-    // The storefront display has to work when shop wifi drops.
+  test("the kiosk stays a lookup screen, with no tile map", async ({ page }) => {
+    // Scope, not resilience: the storefront screen is for finding a species mid-
+    // conversation, and Leaflet would add ~45KB to a page that already ships every
+    // species. If that trade ever changes, delete this test rather than working around it.
     await page.goto(BASE + "/kiosk/");
     await page.waitForLoadState("networkidle");
     await expect(page.locator(".leaflet-container")).toHaveCount(0);

@@ -12,7 +12,7 @@ const species = await getCollection("species");
 
 // Flatten for the client. Abundance goes over as ten 12-character strings rather than
 // nested arrays: at 491 species that is ~75KB instead of ~300KB, and this page has to feel
-// instant on a phone and on shop wifi.
+// instant on a phone and on a phone in the field.
 const compact: CompactSpecies[] = await Promise.all(
   species.map(async (entry) => {
     const hero = heroImage(entry.id, entry.data.photos);
