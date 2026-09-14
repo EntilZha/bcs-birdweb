@@ -60,6 +60,10 @@ description = "Map species onto the eBird/Clements checklist, adding the taxonom
 cmd = "python scripts/build_images.py"
 description = "Convert archived photos and maps into WebP under src/assets/birds/"
 
+[tasks.ecoregion-shapes]
+cmd = "python scripts/extract_ecoregion_shapes.py"
+description = "Recover ecoregion boundaries from the legacy site's clickable map"
+
 [tasks.geocode]
 cmd = "python scripts/geocode_sites.py"
 description = "Propose coordinates for the 69 birding sites (candidates, not answers)"

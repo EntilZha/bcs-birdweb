@@ -1,7 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
-import SitesMap from "../../components/SitesMap.astro";
+import EcoregionMapPanel from "../../components/EcoregionMapPanel.astro";
 import SiteFilter, { type SiteEntry } from "../../components/SiteFilter.tsx";
 
 const base = import.meta.env.BASE_URL;
@@ -36,7 +36,7 @@ const entries: SiteEntry[] = sites.map((site) => ({
   </p>
 
   <div class="mt-6">
-    <SitesMap sites={sites} />
+    <EcoregionMapPanel sites={sites} />
   </div>
 
   <div class="mt-8">

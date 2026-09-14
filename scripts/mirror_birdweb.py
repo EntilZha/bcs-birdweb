@@ -98,6 +98,12 @@ VARIANT_RE = re.compile(r"^(?P<stem>.+)_(?P<variant>[stl])\.(?P<ext>jpg|jpeg|gif
 VARIANTS = ("s", "t", "l")
 
 # href/src/data-* attributes, plus url() inside the stylesheets.
+# `bigger_image.aspx?id=N&type=M` wraps a full-size image in a scrap of HTML. The maps it
+# points at are referenced nowhere else, so these are followed once each and only the image
+# they name is archived -- the wrapper itself is chrome.
+WRAPPER_RE = re.compile(r"bigger_image\.aspx\?id=(\d+)&(?:amp;)?type=([A-Za-z])", re.I)
+WRAPPED_IMG_RE = re.compile(r"""<img[^>]*src=['"]([^'"]+)['"]""", re.I)
+
 LINK_ATTR_RE = re.compile(
     r"""(?:href|src|data-large_file|data-image_url)\s*=\s*(?P<q>["'])(?P<url>[^"']+)(?P=q)""",
     re.I,
@@ -152,7 +158,11 @@ def canonical(url: str) -> str | None:
         return None
 
     path = unquote(path)
-    # bigger_image.aspx returns an HTML wrapper, not an image. Verified, do not chase it.
+    # bigger_image.aspx is an HTML wrapper, not an image -- but it is the *only* place some
+    # images are named. Photos are recoverable without it (the unsuffixed sibling is the
+    # 500x500 original), but the nine detailed ecoregion maps are not: they live at names
+    # like images/puget_trough_map.jpg that appear nowhere else in the markup. So the
+    # wrapper is resolved rather than skipped; see resolve_wrapper().
     if "bigger_image.aspx" in path.lower():
         return None
     if path.lower().endswith("/searchresults"):
@@ -227,6 +237,32 @@ def extract_links(body: bytes, base_url: str) -> list[str]:
 # --------------------------------------------------------------------------------------
 # Manifest
 # --------------------------------------------------------------------------------------
+
+
+def resolve_wrappers(
+    client: httpx.Client, body: bytes, base_url: str, delay: float
+) -> list[str]:
+    """Follow any bigger_image.aspx wrappers on a page and return the images they name."""
+    text = body.decode("iso-8859-1", errors="replace")
+    out: list[str] = []
+    for match in WRAPPER_RE.finditer(text):
+        # Built from the origin, not urljoin(base_url, ...): the wrapper lives at
+        # /birdweb/bigger_image.aspx, and joining against a page like
+        # /birdweb/ecoregion/puget_trough resolves it into /birdweb/ecoregion/ instead,
+        # which 404s quietly and archives nothing.
+        wrapper = f"{ROOT}bigger_image.aspx?id={match.group(1)}&type={match.group(2)}"
+        try:
+            response = client.get(wrapper)
+            time.sleep(delay)
+        except httpx.HTTPError:
+            continue
+        if response.status_code != 200:
+            continue
+        for src in WRAPPED_IMG_RE.findall(response.text):
+            normalized = canonical(urljoin(wrapper, src))
+            if normalized and url_kind(normalized) == "asset":
+                out.append(normalized)
+    return out
 
 
 def load_manifest() -> dict[str, dict]:
@@ -318,10 +354,16 @@ def crawl(
                 progress.advance(task)
                 # Still need this page's links to reach the rest of the graph.
                 if url_kind(url) == "page" or url.lower().endswith((".css", ".js")):
-                    for link in extract_links(target.read_bytes(), url):
+                    cached = target.read_bytes()
+                    for link in extract_links(cached, url):
                         enqueue(link, url)
                         for sibling in variant_siblings(link):
                             enqueue(sibling, url)
+                    if url_kind(url) == "page" and WRAPPER_RE.search(
+                        cached.decode("iso-8859-1", errors="replace")
+                    ):
+                        for wrapped in resolve_wrappers(client, cached, url, delay):
+                            enqueue(wrapped, url)
                 continue
 
             body, status, content_type, error = fetch(client, url, delay)
@@ -365,6 +407,11 @@ def crawl(
                     enqueue(link, url)
                     for sibling in variant_siblings(link):
                         enqueue(sibling, url)
+                if url_kind(url) == "page" and WRAPPER_RE.search(
+                    body.decode("iso-8859-1", errors="replace")
+                ):
+                    for wrapped in resolve_wrappers(client, body, url, delay):
+                        enqueue(wrapped, url)
 
             progress.advance(task)
             if limit and fetched >= limit:

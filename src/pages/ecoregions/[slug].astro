@@ -4,6 +4,7 @@ import { Image } from "astro:assets";
 import Layout from "../../layouts/Layout.astro";
 import Prose from "../../components/Prose.astro";
 import { ecoregionImage } from "../../lib/images";
+import EcoregionMapPanel from "../../components/EcoregionMapPanel.astro";
 import { ecoregionsPresent, peakInEcoregion } from "../../lib/abundance";
 import { ABUNDANCE } from "../../config/abundance";
 import { displayName } from "../../lib/species";
@@ -61,12 +62,15 @@ const label = (key: string) => key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.
         ))}
       </div>
     </div>
+    <div class="space-y-4">
+      <EcoregionMapPanel sites={sites} active={entry.id as any} />
     {map && (
       <figure class="rounded-2xl bg-white shadow-sm ring-1 ring-black/5 p-3">
         <Image src={map} alt={`Map of the ${data.name} ecoregion`} widths={[300, 600]} sizes="(min-width: 1024px) 24rem, 90vw" class="w-full rounded-lg" loading="lazy" />
         <figcaption class="mt-2 text-xs text-ink-muted">Birding sites in the {data.name}</figcaption>
       </figure>
     )}
+    </div>
   </div>
 
   {sites.length > 0 && (

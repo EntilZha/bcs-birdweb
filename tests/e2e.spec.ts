@@ -61,18 +61,21 @@ test.describe("layout", () => {
           window.scrollTo(500, 0);
           const panned = window.scrollX > 0;
           window.scrollTo(0, 0);
-          // Elements inside a deliberate scroll container are allowed to be wider than the
-          // viewport -- that is what the container is for. Everything else is a bug.
-          const inScroller = (el: Element) => {
+          // Elements inside a deliberate clipping container are allowed to be wider than
+          // the viewport -- that is what the container is for. `hidden` counts as well as
+          // `auto`/`scroll`: a tile map lays its tiles out past its own edges and relies
+          // on overflow:hidden to crop them, and reading only auto/scroll reports every
+          // tile as an overflow bug.
+          const clipped = (el: Element) => {
             for (let e: Element | null = el; e; e = e.parentElement) {
               const o = getComputedStyle(e).overflowX;
-              if (o === "auto" || o === "scroll") return true;
+              if (o === "auto" || o === "scroll" || o === "hidden") return true;
             }
             return false;
           };
           const vw = document.documentElement.clientWidth;
           const over = [...document.querySelectorAll("body *")].filter(
-            (e) => e.getBoundingClientRect().right > vw + 1 && !inScroller(e),
+            (e) => e.getBoundingClientRect().right > vw + 1 && !clipped(e),
           );
           return {
             panned,
@@ -223,43 +226,62 @@ test.describe("abundance grid", () => {
   });
 });
 
-test.describe("sites map", () => {
-  test("draws approximate pins differently from confirmed ones", async ({ page }) => {
-    await page.goto(BASE + "/sites/");
+test.describe("ecoregion map", () => {
+  // The map is a client:only island on a tile basemap, so it needs a scroll and a beat.
+  async function openMap(page: import("@playwright/test").Page, path: string) {
+    await page.goto(BASE + path);
     await page.waitForLoadState("networkidle");
+    await page.evaluate(() => window.scrollTo(0, 300));
+    await page.waitForSelector(".leaflet-container", { timeout: 15000 });
+    await page.waitForTimeout(1500);
+  }
 
-    const map = page.locator("figure svg");
-    const markers = await map.locator("a circle:not([fill=transparent])").count();
-    if (markers === 0) {
-      // No empty outline: it reads as a rendering failure.
-      await expect(page.locator("figure")).toHaveCount(0);
-      await expect(page.getByText("A map is coming")).toBeVisible();
-      return;
-    }
+  test("draws all ten regions with their numbers", async ({ page }) => {
+    await openMap(page, "/ecoregions/");
+    const labels = await page.locator(".leaflet-marker-icon").allTextContents();
+    expect(labels.map((t) => t.trim()).sort()).toEqual(
+      ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"].sort(),
+    );
+  });
 
-    const approximate = await map.locator("a circle[stroke-dasharray]").count();
-    const confirmed = await map.locator("a circle[stroke=white]").count();
-    expect(approximate + confirmed).toBe(markers);
-
-    // An unchecked pin must never be drawn as though someone had checked it.
-    if (approximate > 0) {
-      await expect(page.locator("figcaption")).toContainText(`${approximate} approximate`);
-      await expect(page.locator("figcaption")).toContainText("placed automatically");
-      await expect(map.locator("a[aria-label*='approximate location']").first()).toBeAttached();
-    }
-    if (confirmed > 0) {
-      await expect(page.locator("figcaption")).toContainText(`${confirmed} confirmed`);
+  test("region numbers do not sit on top of each other", async ({ page }) => {
+    // A bounds-centre label falls outside any concave shape; Oceanic's landed on its
+    // neighbour's. Labels come from a precomputed interior point instead.
+    await openMap(page, "/ecoregions/");
+    const boxes = await page.locator(".leaflet-marker-icon").evaluateAll((els) =>
+      els.map((e) => e.getBoundingClientRect()).map((r) => ({ x: r.x, y: r.y })),
+    );
+    for (let i = 0; i < boxes.length; i++) {
+      for (let j = i + 1; j < boxes.length; j++) {
+        const d = Math.hypot(boxes[i].x - boxes[j].x, boxes[i].y - boxes[j].y);
+        expect(d, `labels ${i} and ${j} overlap`).toBeGreaterThan(12);
+      }
     }
   });
 
-  test("a marker opens its site", async ({ page }) => {
-    await page.goto(BASE + "/sites/");
+  test("clicking a region opens it", async ({ page }) => {
+    await openMap(page, "/ecoregions/");
+    await page.locator("path.leaflet-interactive").first().click({ force: true });
+    await page.waitForTimeout(800);
+    expect(page.url()).toMatch(/\/ecoregions\/[a-z_]+\/$/);
+  });
+
+  test("the regions are navigable before the island loads", async ({ browser }) => {
+    // The legend is server-rendered on purpose: the map is client:only, so with
+    // JavaScript off there would otherwise be nothing to click.
+    const context = await browser.newContext({ javaScriptEnabled: false });
+    const page = await context.newPage();
+    await page.goto(BASE + "/ecoregions/");
+    const links = await page.locator("a[href*='/ecoregions/']").count();
+    expect(links).toBeGreaterThanOrEqual(10);
+    await context.close();
+  });
+
+  test("the kiosk carries no tile map", async ({ page }) => {
+    // The storefront display has to work when shop wifi drops.
+    await page.goto(BASE + "/kiosk/");
     await page.waitForLoadState("networkidle");
-    const marker = page.locator("figure svg a").first();
-    if ((await marker.count()) === 0) test.skip();
-    const href = await marker.getAttribute("href");
-    await marker.click();
-    await expect(page).toHaveURL(new RegExp(`${href}$`));
+    await expect(page.locator(".leaflet-container")).toHaveCount(0);
   });
 
   test("the site list works whether or not the map does", async ({ page }) => {

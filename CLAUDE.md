@@ -108,13 +108,19 @@ flattened into a paragraph.
 ended up buried at the bottom of one. Species pages get a jump nav instead. Don't "restore"
 tabs.
 
-**The sites map is inline SVG, not a tile map.** A slippy map means a third-party
-dependency on every page view: a key to manage, a service that can rate-limit the storefront
-display, and a grey box when shop wifi drops. The whole state is one 12KB path — no JS, no
-network, no key, and it prints.
+**The map is Leaflet + OpenStreetMap, never Google.** Google Maps needs an API key with
+billing attached; BCS owns this site long-term and a key that lapses breaks the map
+silently. OSM needs neither. It started as inline SVG for exactly that reason, but a plain
+state outline could not show *where* a region is — real streets and terrain do that, and
+the boundaries are approximate enough that the basemap carries the meaning.
 
-**`/sites/` renders no map when there is nothing to plot.** An empty state outline is not a
-placeholder; it reads as a rendering failure and pushes the list that works below the fold.
+**Leaflet must be `client:only="react"`.** It reads `window` at module scope, so Astro
+cannot even import it to prerender the island. The region list in `EcoregionMapPanel.astro`
+is server-rendered on purpose: with the island unrendered, that list is the only thing
+making the regions navigable without JavaScript.
+
+**No tile map on `/kiosk/`.** The storefront display has to work when shop wifi drops, and
+a tile map is a grey box the moment it cannot reach the network. A test enforces this.
 
 **Approximate pins are shown rather than withheld.** The first version refused anything
 unconfirmed, reasoning that a wrong pin sends someone to the wrong place. That is correct

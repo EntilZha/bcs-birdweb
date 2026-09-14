@@ -47,6 +47,7 @@ the source is hit exactly once.
 | `pixi run taxonomy` | Attach the eBird taxonomy layer to each species. |
 | `pixi run images` | Convert archived photos and maps to WebP under `src/assets/`. |
 | `pixi run geocode` | Propose coordinates for the birding sites (candidates, not answers). |
+| `pixi run ecoregion-shapes` | Recover ecoregion boundaries from the legacy site's clickable map. |
 | `pixi run test` | Vitest over `src/lib/`. |
 | `pixi run test-py` | pytest over the pipeline scripts. |
 | `pixi run test-all` | Both suites. |
