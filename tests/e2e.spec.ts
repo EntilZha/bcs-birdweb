@@ -224,20 +224,42 @@ test.describe("abundance grid", () => {
 });
 
 test.describe("sites map", () => {
-  test("plots only pins a person has confirmed", async ({ page }) => {
+  test("draws approximate pins differently from confirmed ones", async ({ page }) => {
     await page.goto(BASE + "/sites/");
     await page.waitForLoadState("networkidle");
-    const markers = await page.locator("figure svg a circle[r='8']").count();
-    const confirmed = await page.evaluate(() => Number(document.body.dataset.confirmedPins ?? "0"));
-    // The page advertises the count it plots; the two must agree.
-    const caption = await page.locator("figure figcaption").count();
+
+    const map = page.locator("figure svg");
+    const markers = await map.locator("a circle:not([fill=transparent])").count();
     if (markers === 0) {
-      expect(caption).toBe(0); // no empty map: a blank outline reads as a rendering failure
+      // No empty outline: it reads as a rendering failure.
+      await expect(page.locator("figure")).toHaveCount(0);
       await expect(page.getByText("A map is coming")).toBeVisible();
-    } else {
-      await expect(page.locator("figure figcaption")).toContainText(`${markers} of`);
+      return;
     }
-    expect(confirmed).toBeGreaterThanOrEqual(0);
+
+    const approximate = await map.locator("a circle[stroke-dasharray]").count();
+    const confirmed = await map.locator("a circle[stroke=white]").count();
+    expect(approximate + confirmed).toBe(markers);
+
+    // An unchecked pin must never be drawn as though someone had checked it.
+    if (approximate > 0) {
+      await expect(page.locator("figcaption")).toContainText(`${approximate} approximate`);
+      await expect(page.locator("figcaption")).toContainText("placed automatically");
+      await expect(map.locator("a[aria-label*='approximate location']").first()).toBeAttached();
+    }
+    if (confirmed > 0) {
+      await expect(page.locator("figcaption")).toContainText(`${confirmed} confirmed`);
+    }
+  });
+
+  test("a marker opens its site", async ({ page }) => {
+    await page.goto(BASE + "/sites/");
+    await page.waitForLoadState("networkidle");
+    const marker = page.locator("figure svg a").first();
+    if ((await marker.count()) === 0) test.skip();
+    const href = await marker.getAttribute("href");
+    await marker.click();
+    await expect(page).toHaveURL(new RegExp(`${href}$`));
   });
 
   test("the site list works whether or not the map does", async ({ page }) => {

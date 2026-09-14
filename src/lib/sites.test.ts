@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { awaitingPin, mappableSites, type MappableLike } from "./sites";
+import { awaitingPin, countByConfidence, mappableSites, type MappableLike } from "./sites";
 import { project, withinWashington, VIEW_WIDTH, VIEW_HEIGHT } from "./project";
 
 const site = (
@@ -10,44 +10,64 @@ const site = (
 ): MappableLike => ({ id, data: { name: id, lat, lon, geocode_source } });
 
 describe("mappableSites", () => {
-  it("plots a confirmed pin", () => {
-    expect(mappableSites([site("marymoor", 47.6587, -122.111, "confirmed")])).toHaveLength(1);
+  it("plots a confirmed pin as confirmed", () => {
+    const pins = mappableSites([site("marymoor", 47.6587, -122.111, "confirmed")]);
+    expect(pins).toHaveLength(1);
+    expect(pins[0].confidence).toBe("confirmed");
   });
 
-  it("refuses a geocoder proposal", () => {
-    // The geocoder's first version proposed an apartment building for Samish Flats.
-    const sites = [site("samish", 48.7358, -122.468, "nominatim-unconfirmed")];
-    expect(mappableSites(sites)).toHaveLength(0);
+  it("plots a geocoder candidate, but only as approximate", () => {
+    // A state-scale locator marker covers about 8km and the site page carries the real
+    // directions, so a scored candidate is worth drawing -- but never as though someone
+    // had checked it.
+    const pins = mappableSites([site("samish", 48.7358, -122.468, "nominatim-unconfirmed")]);
+    expect(pins[0].confidence).toBe("approximate");
   });
 
-  it("refuses a hand-placed pin that nobody confirmed", () => {
-    expect(mappableSites([site("x", 47, -122, "placed-by-hand")])).toHaveLength(0);
+  it("treats a hand-placed but unconfirmed pin as approximate", () => {
+    expect(mappableSites([site("x", 47, -122, "placed-by-hand")])[0].confidence).toBe(
+      "approximate",
+    );
   });
 
-  it("refuses an unknown future source rather than letting it through by default", () => {
-    // The rule is a positive test for "confirmed", not a blocklist of bad values.
-    expect(mappableSites([site("x", 47, -122, "imported-from-somewhere")])).toHaveLength(0);
+  it("treats an unknown future source as approximate rather than confirmed", () => {
+    // The test is positive for "confirmed", not a blocklist: a value invented later must
+    // not arrive claiming more confidence than it has earned.
+    expect(mappableSites([site("x", 47, -122, "imported-from-somewhere")])[0].confidence).toBe(
+      "approximate",
+    );
   });
 
-  it("refuses a site with no source at all", () => {
-    expect(mappableSites([site("x", 47, -122, null)])).toHaveLength(0);
-  });
-
-  it("refuses a confirmed pin that is missing half its coordinate", () => {
+  it("does not plot a site with no coordinate", () => {
+    expect(mappableSites([site("x", null, null, "confirmed")])).toHaveLength(0);
     expect(mappableSites([site("x", 47, null, "confirmed")])).toHaveLength(0);
     expect(mappableSites([site("x", null, -122, "confirmed")])).toHaveLength(0);
   });
 
-  it("refuses a confirmed pin that is not in Washington", () => {
-    // A transposed sign or a bad paste should not draw a marker in the Pacific.
+  it("drops a coordinate outside Washington whatever its source", () => {
+    // A transposed sign or a bad paste is not an approximation, and a marker in the
+    // Pacific is worse than no marker.
     expect(mappableSites([site("x", 47.6, 122.1, "confirmed")])).toHaveLength(0);
-    expect(mappableSites([site("x", 40.7, -74.0, "confirmed")])).toHaveLength(0);
+    expect(mappableSites([site("x", 40.7, -74.0, "nominatim-unconfirmed")])).toHaveLength(0);
   });
 
   it("treats 0 as a real value, not a missing one", () => {
-    // Guards the null check against being written as a truthiness test.
+    // Guards the null checks against being written as truthiness tests.
     expect(mappableSites([site("x", 0, 0, "confirmed")])).toHaveLength(0); // outside WA
     expect(awaitingPin([site("x", 0, 0, "confirmed")])).toHaveLength(1);
+  });
+});
+
+describe("countByConfidence", () => {
+  it("separates confirmed, approximate and unplaced", () => {
+    const sites = [
+      site("a", 47.6, -122.3, "confirmed"),
+      site("b", 47.6, -122.3, "nominatim-unconfirmed"),
+      site("c", 48.0, -122.0, "placed-by-hand"),
+      site("d", null, null, null),
+      site("e", 40.7, -74.0, "confirmed"), // out of state, so not on the map at all
+    ];
+    expect(countByConfidence(sites)).toEqual({ confirmed: 1, approximate: 2, unplaced: 2 });
   });
 });
 
@@ -58,8 +78,8 @@ describe("awaitingPin", () => {
       site("b", 47.6, -122.3, "nominatim-unconfirmed"),
       site("c", null, null, null),
     ];
-    expect(mappableSites(sites).map((s) => s.id)).toEqual(["a"]);
-    expect(awaitingPin(sites).map((s) => s.id)).toEqual(["b", "c"]);
+    expect(mappableSites(sites).map((p) => p.site.id)).toEqual(["a", "b"]);
+    expect(awaitingPin(sites).map((s) => s.id)).toEqual(["c"]);
   });
 });
 
@@ -69,6 +89,15 @@ describe("project", () => {
     const se = project(-117.0, 45.6);
     expect(nw.x).toBeLessThan(se.x);
     expect(nw.y).toBeLessThan(se.y);
+  });
+
+  it("insets the state so its border stroke is not clipped by the viewBox", () => {
+    // Washington reaches within two units of the eastern bound; without the inset the
+    // border is drawn half outside the box and the state renders with a missing edge.
+    const east = project(-116.92, 47.0);
+    const north = project(-120, 49.0);
+    expect(east.x).toBeLessThan(VIEW_WIDTH - 4);
+    expect(north.y).toBeGreaterThan(4);
   });
 
   it("keeps Washington inside the viewBox", () => {

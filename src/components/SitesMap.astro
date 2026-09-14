@@ -1,13 +1,8 @@
 ---
 import type { CollectionEntry } from "astro:content";
 import { ECOREGION_NAME } from "../config/ecoregions";
-import {
-  VIEW_HEIGHT,
-  VIEW_WIDTH,
-  WASHINGTON_PATH,
-  project,
-  withinWashington,
-} from "../lib/project";
+import { VIEW_HEIGHT, VIEW_WIDTH, WASHINGTON_PATH, project } from "../lib/project";
+import { countByConfidence, mappableSites } from "../lib/sites";
 
 interface Props {
   sites: CollectionEntry<"sites">[];
@@ -17,32 +12,15 @@ interface Props {
 const { sites, class: className = "" } = Astro.props;
 const base = import.meta.env.BASE_URL;
 
-/**
- * Only confirmed pins are ever plotted.
- *
- * This is the enforcement point, not `verify`. A proposed coordinate is a guess made by a
- * geocoder; putting one on a map tells a reader "the bird place is here", and if it is
- * wrong they drive somewhere else. The filter lives next to the rendering so that no
- * future caller can route around it.
- */
-const plotted = sites
-  .filter((site) => site.data.geocode_source === "confirmed")
-  .filter((site) => site.data.lat != null && site.data.lon != null)
-  .filter((site) => withinWashington(site.data.lat!, site.data.lon!))
-  .map((site) => ({
-    site,
-    ...project(site.data.lon!, site.data.lat!),
-  }));
-
-const awaiting = sites.length - plotted.length;
+const pins = mappableSites(sites).map((pin) => ({ ...pin, ...project(pin.lon, pin.lat) }));
+const { confirmed, approximate, unplaced } = countByConfidence(sites);
 ---
 
 {
-  /* No map when there is nothing to put on it.
-     An empty state outline is not a placeholder, it is a large blank rectangle that reads
-     as a rendering failure -- and it pushed the site list, which does work, below the
-     fold. Better to say plainly that the map is not ready. */
-  plotted.length === 0 ? (
+  /* No map when there is nothing to put on it. An empty state outline is not a
+     placeholder -- it reads as a rendering failure and pushes the site list, which does
+     work, below the fold. */
+  pins.length === 0 ? (
     <p
       class:list={[
         "rounded-2xl bg-white px-4 py-3 text-sm text-ink ring-1 ring-black/5",
@@ -51,55 +29,99 @@ const awaiting = sites.length - plotted.length;
     >
       <strong class="font-semibold text-brand">A map is coming.</strong> The original
       BirdWeb pages carry no coordinates at all, so all {sites.length} locations are being
-      placed and checked one at a time — a map is only worth having if every pin on it is
-      right. Until then, the sites are listed below.
+      placed one at a time. Until then, the sites are listed below.
     </p>
   ) : (
-<figure class:list={["m-0", className]}>
-  <!-- max-h: at 1440px wide an uncapped map is 82% of the viewport height and pushes the
-       list that people actually use off the screen. -->
-  <svg
-    viewBox={`0 0 ${VIEW_WIDTH} ${VIEW_HEIGHT}`}
-    class="w-full h-auto max-h-[60vh] rounded-2xl bg-cream ring-1 ring-black/5"
-    role="img"
-    aria-label={`Map of Washington showing ${plotted.length} birding sites`}
-  >
-    <title>Birding sites in Washington</title>
-    <path
-      d={WASHINGTON_PATH}
-      fill="#ffffff"
-      stroke="var(--color-sage)"
-      stroke-width="2.5"
-      stroke-linejoin="round"
-    />
-    {
-      plotted.map(({ site, x, y }) => (
-        <a
-          href={`${base}sites/${site.id}/`}
-          class="group"
-          aria-label={`${site.data.name}, ${site.data.ecoregions.map((e) => ECOREGION_NAME[e]).join(" and ")}`}
-        >
-          {/* A generous transparent disc under the dot: the visible mark is sized for the
-              map, but the tap target has to be sized for a finger. */}
-          <circle cx={x} cy={y} r="22" fill="transparent" />
-          <circle
-            cx={x}
-            cy={y}
-            r="8"
-            class="fill-brand transition-all group-hover:r-[12] group-focus:r-[12]"
-            stroke="white"
-            stroke-width="2.5"
-          />
-          <title>{site.data.name}</title>
-        </a>
-      ))
-    }
-  </svg>
+    <figure class:list={["m-0", className]}>
+      <svg
+        viewBox={`0 0 ${VIEW_WIDTH} ${VIEW_HEIGHT}`}
+        class="w-full h-auto max-h-[60vh] rounded-2xl bg-cream ring-1 ring-black/5"
+        role="img"
+        aria-label={`Map of Washington showing ${pins.length} birding sites`}
+      >
+        <title>Birding sites in Washington</title>
+        <path
+          d={WASHINGTON_PATH}
+          fill="#ffffff"
+          stroke="var(--color-sage)"
+          stroke-width="2.5"
+          stroke-linejoin="round"
+        />
+        {pins.map(({ site, x, y, confidence }) => (
+          <a
+            href={`${base}sites/${site.id}/`}
+            class="group"
+            aria-label={`${site.data.name}, ${site.data.ecoregions
+              .map((e) => ECOREGION_NAME[e])
+              .join(" and ")}${confidence === "approximate" ? " (approximate location)" : ""}`}
+          >
+            {/* A generous transparent disc under the marker: the visible mark is sized for
+                the map, the tap target has to be sized for a finger. */}
+            <circle cx={x} cy={y} r="22" fill="transparent" />
+            {confidence === "confirmed" ? (
+              <circle cx={x} cy={y} r="8" class="fill-brand" stroke="white" stroke-width="2.5" />
+            ) : (
+              /* Hollow and dashed: this pin is a geocoder's best guess that nobody has
+                 checked, and it must not look like one that someone has. */
+              <circle
+                cx={x}
+                cy={y}
+                r="7.5"
+                fill="var(--color-sage)"
+                fill-opacity="0.45"
+                stroke="var(--color-brand)"
+                stroke-width="2.5"
+                stroke-dasharray="4 3"
+              />
+            )}
+            <title>
+              {site.data.name}
+              {confidence === "approximate" ? " — approximate location" : ""}
+            </title>
+          </a>
+        ))}
+      </svg>
 
-  <figcaption class="mt-2 text-xs text-ink-muted">
-    {plotted.length} of {sites.length} birding sites. Tap a marker to open the site.
-    {awaiting > 0 && ` ${awaiting} more are still being placed.`}
-  </figcaption>
-</figure>
+      <figcaption class="mt-2 space-y-1.5 text-xs text-ink-muted">
+        <p>
+          {pins.length} of {sites.length} birding sites. Tap a marker to open the site.
+          {unplaced > 0 && ` ${unplaced} more are still being placed.`}
+        </p>
+        {approximate > 0 && (
+          <p class="flex flex-wrap items-center gap-x-4 gap-y-1">
+            <span class="inline-flex items-center gap-1.5">
+              <svg width="15" height="15" viewBox="0 0 16 16" aria-hidden="true">
+                <circle
+                  cx="8"
+                  cy="8"
+                  r="5.5"
+                  fill="var(--color-sage)"
+                  fill-opacity="0.45"
+                  stroke="var(--color-brand)"
+                  stroke-width="2"
+                  stroke-dasharray="3 2.5"
+                />
+              </svg>
+              {approximate} approximate
+            </span>
+            {confirmed > 0 && (
+              <span class="inline-flex items-center gap-1.5">
+                <svg width="15" height="15" viewBox="0 0 16 16" aria-hidden="true">
+                  <circle cx="8" cy="8" r="5.5" class="fill-brand" stroke="white" stroke-width="2" />
+                </svg>
+                {confirmed} confirmed
+              </span>
+            )}
+          </p>
+        )}
+        {approximate > 0 && (
+          <p>
+            Approximate markers were placed automatically and put a site within a few miles
+            — enough to show which part of the state it is in. Use the directions on the
+            site's own page to get there.
+          </p>
+        )}
+      </figcaption>
+    </figure>
   )
 }

@@ -50,9 +50,13 @@ the first edit to a species reformats the whole file and buries the real change.
 place they disagreed was abundance rows: PyYAML emits them in flow style, js-yaml has no
 per-key style control, so the editor renders that block by hand. Tested both sides.
 
-**Only `geocode_source: "confirmed"` pins are plotted.** Enforced in `src/lib/sites.ts` as
-a positive test, not a blocklist, so a source string invented later cannot leak onto the
-map. Currently 0 of 69 are confirmed, so `/sites/` shows no map by design — see below.
+**Pin confidence is a two-state thing, and the map must show which.** `src/lib/sites.ts`
+plots every in-Washington coordinate but marks anything that is not exactly
+`geocode_source: "confirmed"` as *approximate*, drawn hollow and dashed with a caption that
+says so. The test is positive for `"confirmed"`, not a blocklist, so a source string
+invented later cannot arrive claiming more confidence than it has earned. A coordinate
+outside Washington is dropped whatever its source — that is a transposed sign, not an
+approximation.
 
 **Don't pick colours by eye.** Secondary text uses `--color-ink`, `--color-ink-muted`,
 `--color-ink-faint`, whose contrast ratios against the cream background were measured. The
@@ -86,7 +90,7 @@ local app that reads and writes them.
 | `pixi run verify` | the data's internal shape: counts, required fields, 12×10 abundance, asset references, orphans |
 | `pixi run test-py` | the parsers, against fixtures (35 tests) |
 | `pixi run audit-live` | 10 edge-case species re-fetched from the live site, diffed field by field |
-| `pixi run test` + `test-e2e` | pure logic (55) and browser behaviour (103) |
+| `pixi run test` + `test-e2e` | pure logic (56) and browser behaviour (91) |
 
 `audit-live` is deliberately a **separate implementation** from the extractor — substring
 matching over raw HTML, not the extractor's selectors — because a check that shares the code
@@ -109,8 +113,16 @@ dependency on every page view: a key to manage, a service that can rate-limit th
 display, and a grey box when shop wifi drops. The whole state is one 12KB path — no JS, no
 network, no key, and it prints.
 
-**`/sites/` renders no map while no pin is confirmed.** An empty state outline is not a
+**`/sites/` renders no map when there is nothing to plot.** An empty state outline is not a
 placeholder; it reads as a rendering failure and pushes the list that works below the fold.
+
+**Approximate pins are shown rather than withheld.** The first version refused anything
+unconfirmed, reasoning that a wrong pin sends someone to the wrong place. That is correct
+for a navigation map and wrong for this one: the whole state renders in ~1000 units, so a
+marker covers about 8km and says only "this part of Washington", and every site page
+carries the original directions prose people actually navigate by. Withholding them left
+the map empty for months. Showing them *as though confirmed* would still be wrong, hence
+the two marker styles.
 
 **The geocoder refuses rather than guesses.** Its first version proposed an apartment
 building for Samish Flats, a fire station for Green Lake, a notice board for Naches Peak —
@@ -134,8 +146,8 @@ in `src/config/taxonomy-overrides.yaml` with their reasoning, for the BCS Scienc
 
 ## Open items needing a person
 
-1. **Confirm 69 site pins** in the editor — 41 have a scored proposal, 28 need placing by
-   hand. The only thing blocking the map.
+1. **Confirm 69 site pins** in the editor — 41 are on the map as approximate and need
+   checking, 28 need placing by hand. Confirming promotes a marker from dashed to solid.
 2. **Science Committee review** of `src/config/taxonomy-overrides.yaml`.
 3. **Upload the archive tarball** (`dist-archive/`) to the BCS Google Drive.
 4. **Push to GitHub, enable Pages.** `.github/workflows/deploy.yml` is ready.
