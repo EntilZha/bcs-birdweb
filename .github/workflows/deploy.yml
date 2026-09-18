@@ -40,10 +40,13 @@ jobs:
           uv run --with pyyaml --with selectolax --with typer --with rich \
             python scripts/verify_extract.py
 
+      # Keep this list in step with [dependencies] in pixi.toml — scripts/tests has a
+      # test that fails if they drift, which is how the missing shapely was found (only
+      # after CI went red, because the local pixi env had it all along).
       - name: Pipeline tests
         run: |
           uv run --with pytest --with pyyaml --with selectolax --with typer \
-            --with rich --with httpx --with pillow \
+            --with rich --with httpx --with pillow --with shapely \
             pytest -q scripts/tests
 
       # Gates before the build, so a broken content edit fails loudly rather than

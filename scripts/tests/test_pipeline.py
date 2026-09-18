@@ -331,3 +331,45 @@ class TestEcoregionMap:
         )
         assert overlap < 0.2, f"{overlap:.2f}% of the footprint is double-covered"
         assert gaps < 0.05, f"{gaps:.2f}% of the footprint is uncovered"
+
+
+# ----------------------------------------------------------------------------------------
+# CI and the local environment must agree
+# ----------------------------------------------------------------------------------------
+
+
+class TestCiDependencies:
+    """`pixi.toml` provisions the local toolchain; the deploy workflow reinstalls the same
+    Python packages with `uv run --with`. Two hand-maintained lists of the same thing drift,
+    and when they do the break lands in CI on a push rather than here: shapely was added for
+    the ecoregion reconciliation, the local pixi env had it, and the workflow went red on
+    the first deploy because nobody updated the second list.
+    """
+
+    @staticmethod
+    def _root() -> Path:
+        return Path(__file__).resolve().parent.parent.parent
+
+    def test_every_pixi_python_dep_is_installed_in_ci(self):
+        import re
+
+        pixi = (self._root() / "pixi.toml").read_text()
+        block = re.search(r"^\[dependencies\]\n(.*?)(?=^\[|\Z)", pixi, re.S | re.M)
+        assert block, "no [dependencies] block in pixi.toml"
+
+        # python and nodejs are the runtimes CI sets up itself, not packages to install.
+        runtimes = {"python", "nodejs"}
+        declared = {
+            m.group(1)
+            for line in block.group(1).splitlines()
+            if (m := re.match(r'\s*([A-Za-z0-9_.-]+)\s*=', line))
+        } - runtimes
+
+        workflow = (self._root() / ".github/workflows/deploy.yml").read_text()
+        installed = set(re.findall(r"--with\s+([A-Za-z0-9_.-]+)", workflow))
+
+        missing = declared - installed
+        assert not missing, (
+            f"in pixi.toml but never installed in CI: {sorted(missing)} — add "
+            f"`--with {' --with '.join(sorted(missing))}` to .github/workflows/deploy.yml"
+        )
