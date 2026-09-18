@@ -358,6 +358,34 @@ test.describe("ecoregion map", () => {
   });
 });
 
+test.describe("indexing", () => {
+  // src/config/site.ts gates this. The flag exists so the review-pending state is one line
+  // to reverse; these fail if it is flipped without meaning to, and if the meta tag and
+  // robots.txt ever disagree — which is exactly what a static public/robots.txt would let
+  // happen.
+  test("pages carry noindex while BCS review is pending", async ({ page }) => {
+    for (const path of ["/", "/birds/mallard/", "/ecoregions/", "/kiosk/"]) {
+      await page.goto(BASE + path);
+      const robots = page.locator('meta[name="robots"]');
+      await expect(robots, `no robots meta on ${path}`).toHaveCount(1);
+      await expect(robots).toHaveAttribute("content", /noindex/);
+    }
+  });
+
+  test("robots.txt agrees with the meta tag", async ({ request, page }) => {
+    const res = await request.get(BASE + "/robots.txt");
+    expect(res.status()).toBe(200);
+    const body = await res.text();
+
+    await page.goto(BASE + "/");
+    const noindexed = (await page.locator('meta[name="robots"]').count()) > 0;
+    expect(
+      body.includes("Disallow: /"),
+      `robots.txt says ${JSON.stringify(body.trim())} but the page is ${noindexed ? "" : "not "}noindexed`,
+    ).toBe(noindexed);
+  });
+});
+
 test.describe("kiosk", () => {
   test("search is reachable and opens a species without leaving the screen", async ({ page }) => {
     await page.setViewportSize({ width: 1920, height: 1080 });

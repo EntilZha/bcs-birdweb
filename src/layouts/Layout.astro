@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import { INDEXABLE } from "../config/site";
 
 interface Props {
   title?: string;
@@ -36,6 +37,7 @@ const isActive = (match: string) => path.endsWith(match) || path.includes(`${mat
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
+    {!INDEXABLE && <meta name="robots" content="noindex, nofollow" />}
     <link rel="icon" type="image/png" href={`${base}bcs-favicon.png`} />
     <title>{title}</title>
   </head>
